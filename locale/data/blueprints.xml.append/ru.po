@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-20 17:02+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-26 10:46+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -27,8 +27,8 @@ msgstr "Зарядн. тяжелый"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/desc"
 msgstr ""
-"Этот лазер может выстрелить раньше, чем зарядит все снаряды. Наносит 2 урона"
-" за выстрел."
+"Этот лазер может выстрелить раньше, чем зарядит все снаряды. Наносит 2 урона "
+"за выстрел."
 
 #: src-en/data/blueprints.xml.append:52
 msgid ""
@@ -556,8 +556,8 @@ msgstr "Энергофаз.†"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
-"Энергетическое оружие отключает системы и повреждает корпус. Эта специальная"
-" версия проникает сквозь щиты, нанося ионный урон первому слою щитов при "
+"Энергетическое оружие отключает системы и повреждает корпус. Эта специальная "
+"версия проникает сквозь щиты, нанося ионный урон первому слою щитов при "
 "прохождении через него."
 
 #: src-en/data/blueprints.xml.append:1080
@@ -848,9 +848,12 @@ msgstr "Мутаген. бомба"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
-"Самотелепортирующаяся стимуляторная установка, которая при попадании приводит к мутации экипажа, превращая их в ужасающих мутантов на 15 секунд.\n"
+"Самотелепортирующаяся стимуляторная установка, которая при попадании "
+"приводит к мутации экипажа, превращая их в ужасающих мутантов на 15 секунд.\n"
 "\n"
-"\tМутанты наносят 2.3x урон экипажу в бою, не могут ремонтировать и лечиться, двигаются с половинной скоростью и взрываются при смерти, нанося 15 урон экипажу и 1 урон системе."
+"\tМутанты наносят 2.3x урон экипажу в бою, не могут ремонтировать и "
+"лечиться, двигаются с половинной скоростью и взрываются при смерти, нанося "
+"15 урон экипажу и 1 урон системе."
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
@@ -1023,9 +1026,11 @@ msgstr "Баал"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
-"Минометы быстро заряжаются и выстреливают залпами медленно движущихся снарядов. Также служит эффективным средством создания ловушек для флота.\n"
+"Минометы быстро заряжаются и выстреливают залпами медленно движущихся "
+"снарядов. Также служит эффективным средством создания ловушек для флота.\n"
 "\t\n"
-"\tНа пустых маяках может задержать флот на 2 прыжка за 15 боеголовок, не влияет на дурную славу."
+"\tНа пустых маяках может задержать флот на 2 прыжка за 15 боеголовок, не "
+"влияет на дурную славу."
 
 #: src-en/data/blueprints.xml.append:2183
 msgid ""
@@ -1382,8 +1387,7 @@ msgstr "Получает 0.7x урона от боя и 0.6x от пожаров
 #: src-en/data/blueprints.xml.append:2860
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
-msgstr ""
-"Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
+msgstr "Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
 
 #: src-en/data/blueprints.xml.append:2864
 msgid ""
@@ -1416,8 +1420,7 @@ msgstr "Получает 0.7x урона от боя и 0.6x от пожаров
 #: src-en/data/blueprints.xml.append:2874
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
-msgstr ""
-"Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
+msgstr "Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
 
 #: src-en/data/blueprints.xml.append:2880
 msgid ""
