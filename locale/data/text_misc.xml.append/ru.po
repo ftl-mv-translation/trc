@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 11:21+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -17,16 +17,11 @@ msgstr "Совет: созданные члены экипажа не учиты
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
-msgstr ""
-"Совет: изготовленные дроны временно дают преимущества до истечения срока их "
-"действия."
+msgstr "Совет: изготовленные дроны временно дают преимущества до истечения срока их действия."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
-msgstr ""
-"Совет: противники, пораженные этим оружием, попадают под действие контроля "
-"разума, если он применим. Эффект не наследует бонусы от любой улучшенной "
-"системы Контроля Разума, которая у вас есть."
+msgstr "Совет: противники, пораженные этим оружием, попадают под действие контроля разума, если он применим. Эффект не наследует бонусы от любой улучшенной системы Контроля Разума, которая у вас есть."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
