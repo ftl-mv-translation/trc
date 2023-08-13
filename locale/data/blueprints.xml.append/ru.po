@@ -1,9 +1,15 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 13:05+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -18,9 +24,7 @@ msgstr "Зарядн. тяжелый"
 #: src-en/data/blueprints.xml.append:16
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/desc"
-msgstr ""
-"Этот лазер может выстрелить раньше, чем зарядит все снаряды. Наносит 2 урона"
-" за выстрел."
+msgstr "Этот лазер может выстрелить раньше, чем зарядит все снаряды. Наносит 2 урона за выстрел."
 
 #: src-en/data/blueprints.xml.append:52
 msgid ""
@@ -35,10 +39,7 @@ msgstr "Лазер с усил. [2]"
 #: src-en/data/blueprints.xml.append:55
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/desc"
-msgstr ""
-"[ТЕКУЩАЯ МОЩНОСТЬ: 2] Потенциально сильный лазер, мощность которого может "
-"быть изменена до или во время боя для изменения наносимого им урона. "
-"Увеличение мощности также увеличивает время перезарядки."
+msgstr "[ТЕКУЩАЯ МОЩНОСТЬ: 2] Потенциально сильный лазер, мощность которого может быть изменена до или во время боя для изменения наносимого им урона. Увеличение мощности также увеличивает время перезарядки."
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
@@ -426,10 +427,7 @@ msgstr "Фокон II†"
 #: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
-msgstr ""
-"Этот ужасающий радиационный луч наносит тяжелый урон экипажу и ослабляет "
-"его. Он длиннее и наносит больше урона, чем мод. I, но не проникает сквозь "
-"щиты."
+msgstr "Этот ужасающий радиационный луч наносит тяжелый урон экипажу и ослабляет его. Он длиннее и наносит больше урона, чем мод. I, но не проникает сквозь щиты."
 
 #: src-en/data/blueprints.xml.append:802
 msgid ""
@@ -550,10 +548,7 @@ msgstr "Энергофаз.†"
 #: src-en/data/blueprints.xml.append:1079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
-msgstr ""
-"Энергетическое оружие отключает системы и повреждает корпус. Эта специальная"
-" версия проникает сквозь щиты, нанося ионный урон первому слою щитов при "
-"прохождении через него."
+msgstr "Энергетическое оружие отключает системы и повреждает корпус. Эта специальная версия проникает сквозь щиты, нанося ионный урон первому слою щитов при прохождении через него."
 
 #: src-en/data/blueprints.xml.append:1122
 msgid ""
@@ -602,9 +597,7 @@ msgstr "Кинжал"
 #: src-en/data/blueprints.xml.append:1205
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
-msgstr ""
-"Медленно заряжающийся, но надежный точечный луч. Консервативные орудия не "
-"требуют питания, но при этом нуждаются в другом запитанном орудии."
+msgstr "Медленно заряжающийся, но надежный точечный луч. Консервативные орудия не требуют питания, но при этом нуждаются в другом запитанном орудии."
 
 #: src-en/data/blueprints.xml.append:1239
 msgid ""
@@ -1065,9 +1058,7 @@ msgstr "Морозн. оскол."
 #: src-en/data/blueprints.xml.append:2314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
-msgstr ""
-"Выстреливает 4 переохлажденных снаряда, которые создают ледяной покров и "
-"запирают отсеки на 12 секунд, при этом оглушая экипаж."
+msgstr "Выстреливает 4 переохлажденных снаряда, которые создают ледяной покров и запирают отсеки на 12 секунд, при этом оглушая экипаж."
 
 #: src-en/data/blueprints.xml.append:2370
 msgid ""
@@ -1370,8 +1361,7 @@ msgstr "Получает 0.7x урона от боя и 0.6x от пожаров
 #: src-en/data/blueprints.xml.append:2907
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
-msgstr ""
-"Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
+msgstr "Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
 
 #: src-en/data/blueprints.xml.append:2911
 msgid ""
@@ -1404,8 +1394,7 @@ msgstr "Получает 0.7x урона от боя и 0.6x от пожаров
 #: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
-msgstr ""
-"Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
+msgstr "Нейронный чип позволяет осваивать боевые навыки с невероятной скоростью"
 
 #: src-en/data/blueprints.xml.append:2927
 msgid ""
@@ -1730,9 +1719,7 @@ msgstr "Сплинтер"
 #: src-en/data/blueprints.xml.append:3471
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
-msgstr ""
-"Этим кораблем управляет безумный ученый, решивший превратить в мутантов как "
-"свой, так и вражеский экипаж."
+msgstr "Этим кораблем управляет безумный ученый, решивший превратить в мутантов как свой, так и вражеский экипаж."
 
 #: src-en/data/blueprints.xml.append:3543
 msgid ""
@@ -1888,9 +1875,7 @@ msgstr "Конденсатор потока"
 #: src-en/data/blueprints.xml.append:4176
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
-msgstr ""
-"Терпение чаще всего считается добродетелью. Это, конечно, так, но кто "
-"сказал, что нельзя немного ускорить процесс?"
+msgstr "Терпение чаще всего считается добродетелью. Это, конечно, так, но кто сказал, что нельзя немного ускорить процесс?"
 
 #: src-en/data/blueprints.xml.append:4251
 msgid ""
@@ -1941,10 +1926,7 @@ msgstr "Вулканический"
 #: src-en/data/blueprints.xml.append:4411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
-msgstr ""
-"На борту этого корабля не раз возникали споры о том, чем стреляет его "
-"уникальное оружие - магмой или лавой. Возможно, к ним присоединились бы и "
-"враги, если бы не были мертвы."
+msgstr "На борту этого корабля не раз возникали споры о том, чем стреляет его уникальное оружие - магмой или лавой. Возможно, к ним присоединились бы и враги, если бы не были мертвы."
 
 #: src-en/data/blueprints.xml.append:4486
 msgid ""
@@ -2046,10 +2028,7 @@ msgstr "Хампердинк"
 #: src-en/data/blueprints.xml.append:4876
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
-msgstr ""
-"Это корабль Тииикака, и он не имеет никакого отношения к какому-либо "
-"известному пирату/изгою. Пожалуйста, не путайте его с таковым. Кроме того, "
-"на нем есть куча лазеров."
+msgstr "Это корабль Тииикака, и он не имеет никакого отношения к какому-либо известному пирату/изгою. Пожалуйста, не путайте его с таковым. Кроме того, на нем есть куча лазеров."
 
 #: src-en/data/blueprints.xml.append:4950
 msgid ""
@@ -2064,9 +2043,7 @@ msgstr "Коронныйудар"
 #: src-en/data/blueprints.xml.append:4953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
-msgstr ""
-"Кому в будущем нужны органические друзья? Ваши дроны - единственная "
-"компания, которая вам понадобится."
+msgstr "Кому в будущем нужны органические друзья? Ваши дроны - единственная компания, которая вам понадобится."
 
 #: src-en/data/blueprints.xml.append:5031
 msgid ""
@@ -2116,9 +2093,7 @@ msgstr "Механобогомолы"
 #: src-en/data/blueprints.xml.append:5190
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
-msgstr ""
-"Навстречу будущему! Технократический Улей начинает ассимиляцию с "
-"футуристическими роботами-друзьями!"
+msgstr "Навстречу будущему! Технократический Улей начинает ассимиляцию с футуристическими роботами-друзьями!"
 
 #: src-en/data/blueprints.xml.append:5268
 msgid ""
@@ -2151,11 +2126,7 @@ msgstr "Яхт-клуб"
 #: src-en/data/blueprints.xml.append:5350
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
-msgstr ""
-"Когда избыток ресурсов, получаемых при добыче астероидов, привел к "
-"возникновению общества дефицита, разумным существам родной реальности этого "
-"капитана пришлось искать новые способы растраты избыточных богатств. Почему "
-"бы не превратить его в оружие?"
+msgstr "Когда избыток ресурсов, получаемых при добыче астероидов, привел к возникновению общества дефицита, разумным существам родной реальности этого капитана пришлось искать новые способы растраты избыточных богатств. Почему бы не превратить его в оружие?"
 
 #: src-en/data/blueprints.xml.append:5425
 msgid ""
@@ -2188,9 +2159,7 @@ msgstr "Освобождение"
 #: src-en/data/blueprints.xml.append:5506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
-msgstr ""
-"Экипаж этого пиратского судна, по иронии судьбы, до сих пор хранит наследие "
-"повстанцев. Это придает спасению Вселенной некую желанную остроту."
+msgstr "Экипаж этого пиратского судна, по иронии судьбы, до сих пор хранит наследие повстанцев. Это придает спасению Вселенной некую желанную остроту."
 
 #: src-en/data/blueprints.xml.append:5580
 msgid ""
