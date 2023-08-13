@@ -1,15 +1,19 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 13:05+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/datatext_miscxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
-msgstr ""
-"Совет: созданные члены экипажа не учитываются в вашем лимите экипажа, но "
-"существуют ограниченный период времени. Их также нельзя клонировать."
+msgstr "Совет: созданные члены экипажа не учитываются в вашем лимите экипажа, но существуют ограниченный период времени. Их также нельзя клонировать."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
@@ -26,33 +30,23 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
-msgstr ""
-"Совет: сигнальные ракеты не наносят физического урона вражескому кораблю, но"
-" отвлекают защитных дронов и ослепляют экипаж противника."
+msgstr "Совет: сигнальные ракеты не наносят физического урона вражескому кораблю, но отвлекают защитных дронов и ослепляют экипаж противника."
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
-msgstr ""
-"Совет: концентраторы получают прибавку к своим характеристикам за каждый "
-"накопленный заряд вместо увеличения количества снарядов за выстрел."
+msgstr "Совет: концентраторы получают прибавку к своим характеристикам за каждый накопленный заряд вместо увеличения количества снарядов за выстрел."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
-msgstr ""
-"Совет: каскадное оружие наносит небольшой урон всем соседним отсекам. Оно не"
-" действует на отсеки, находящиеся по диагонали."
+msgstr "Совет: каскадное оружие наносит небольшой урон всем соседним отсекам. Оно не действует на отсеки, находящиеся по диагонали."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
-msgstr ""
-"Совет: системный урон расщепляющих лучей рассчитывается по плиткам, а не по "
-"отсекам. Это означает, что большие отсеки более уязвимы к их воздействию!"
+msgstr "Совет: системный урон расщепляющих лучей рассчитывается по плиткам, а не по отсекам. Это означает, что большие отсеки более уязвимы к их воздействию!"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
-msgstr ""
-"Совет: подавители не наносят физического урона, но отлично сбивают щиты. Они"
-" также могут повреждать энергетические щиты."
+msgstr "Совет: подавители не наносят физического урона, но отлично сбивают щиты. Они также могут повреждать энергетические щиты."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
