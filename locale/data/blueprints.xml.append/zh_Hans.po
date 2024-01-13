@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 11:17+0000\n"
-"Last-Translator: 羽绯 <2488550685@qq.com>\n"
+"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -416,8 +416,7 @@ msgstr "宽斧链束"
 #: src-en/data/blueprints.xml.append:763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
-msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空舱室时对舰体造成沉重打"
-"击。"
+msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空舱室时对舰体造成沉重打击。"
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
@@ -1350,8 +1349,7 @@ msgstr "压制II"
 #: src-en/data/blueprints.xml.append:3028
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
-msgstr "一种专用于持续有效压制护盾层数的无人机，自带隐形系统，能够避免反无人机攻击。I"
-"I型移动速度更低但单次开火能破除3层护盾。"
+msgstr "一种专用于持续有效压制护盾层数的无人机，自带隐形系统，能够避免反无人机攻击。II型移动速度更低但单次开火能破除3层护盾。"
 
 #: src-en/data/blueprints.xml.append:3041
 msgid ""
@@ -1444,8 +1442,7 @@ msgstr "散射防御"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
-"一种怪异的防御无人机，发射慢速移动的破片来防御攻击。防御目标包括你能想到的任"
-"何事物——实体弹、激光、无人机等等。\n"
+"一种怪异的防御无人机，发射慢速移动的破片来防御攻击。防御目标包括你能想到的任何事物——实体弹、激光、无人机等等。\n"
 "\t重新装填：1400 毫秒"
 
 #: src-en/data/blueprints.xml.append:3227
@@ -1657,8 +1654,7 @@ msgstr "众益至上"
 #: src-en/data/blueprints.xml.append:3659
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
-msgstr "这艘星舰是温特沃斯革新社一个失败的市场扩展计划的一部分，"
-"该计划主要围绕电视角色\"石头鱼雷米\"展开。"
+msgstr "这艘星舰是温特沃斯革新社一个失败的市场扩展计划的一部分，该计划主要围绕电视角色\"石头鱼雷米\"展开。"
 
 #: src-en/data/blueprints.xml.append:3734
 msgid ""
