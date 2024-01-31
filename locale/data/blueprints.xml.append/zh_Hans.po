@@ -1,9 +1,15 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 11:29+0000\n"
+"Last-Translator: 羽绯 <2488550685@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -430,8 +436,7 @@ msgstr "钩枪光束"
 #: src-en/data/blueprints.xml.append:837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
-msgstr ""
-"一种充能较慢但自给自足的自适应光束，如果给予其足够长的时间积蓄能量，它的威力就可以无限上升。由于不具备初始系统伤害，它需要更长的时间才能有效地破坏系统。集能武器不使用能量，但需要另一种已供能的武器。"
+msgstr "一种充能较慢但自给自足的自适应光束，如果给予其足够长的时间积蓄能量，它的威力就可以无限上升。由于不具备初始系统伤害，它需要更长的时间才能有效地破坏系统。集能武器不使用能量，但需要另一种已供能的武器。"
 
 #: src-en/data/blueprints.xml.append:876
 msgid ""
@@ -789,8 +794,7 @@ msgstr "光神导弹"
 #: src-en/data/blueprints.xml.append:1717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
-msgstr ""
-"一种极端特化但效果不错的导弹武器。它不会对船员造成伤害，转而为被击中舱室的友方船员提供每秒4点生命值回复效果，持续15秒。回复效果可以叠加。"
+msgstr "一种极端特化但效果不错的导弹武器。它不会对船员造成伤害，转而为被击中舱室的友方船员提供每秒4点生命值回复效果，持续15秒。回复效果可以叠加。"
 
 #: src-en/data/blueprints.xml.append:1767
 msgid ""
