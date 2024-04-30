@@ -13,7 +13,7 @@ msgstr "충전식 중형 레이저"
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/short"
-msgstr "Charge Heavy"
+msgstr "C. Heavy"
 
 #: src-en/data/blueprints.xml.append:16
 msgid ""

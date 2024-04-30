@@ -13,7 +13,7 @@ msgstr "Charge Heavy Laser"
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/short"
-msgstr "Charge Heavy"
+msgstr "C. Heavy"
 
 #: src-en/data/blueprints.xml.append:16
 msgid ""
@@ -142,8 +142,8 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
 msgstr ""
 "Modified particle technology that trades its usual fire starting attributes "
-"to do crew damage and apply debuffs. Has a longer cooldown and larger radius"
-" but fires more bolts."
+"to do crew damage and apply debuffs. This version has increased cooldown and"
+" radius but fires more bolts."
 
 #: src-en/data/blueprints.xml.append:358
 msgid ""
@@ -306,7 +306,10 @@ msgstr "'Fangtian'"
 
 #: src-en/data/blueprints.xml.append:660
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"Fissure Beams deal damage per tile rather than per room. This Beam "
+"specializes in destroying systems, capable of dealing more damage the larger"
+" a system is."
 
 #: src-en/data/blueprints.xml.append:687
 msgid ""
@@ -427,7 +430,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
 msgstr ""
 "Unlike the standard adaptive ion, this weapon can chain to an effectively "
-"infinite number of times, but charges slower."
+"infinite number of times."
 
 #: src-en/data/blueprints.xml.append:988
 msgid ""
@@ -529,7 +532,9 @@ msgstr "Shrapnel B."
 #: src-en/data/blueprints.xml.append:1200
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"Self-teleporting explosive that deals system damage to not just the target "
+"room but all adjacent rooms as well. Can target your own ship."
 
 #: src-en/data/blueprints.xml.append:1234
 msgid ""
@@ -600,16 +605,17 @@ msgstr "YOU SHOULD NEVER SEE THIS"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
-"Self-teleporting device that deploys a repair drone on your ship. Costs a drone part instead of a missile to fire. Can (AND SHOULD) be used to target your own ship.\n"
-"\t\tThe drone will repair at 3x speed, but won't benefit from Drone Booster effects.\n"
+"Self-teleporting device that deploys two repair drones on your ship. Costs a drone part instead of a missile to fire. Can (AND SHOULD) be used to target your own ship.\n"
+"\t\tThe drones will repair at a base speed of 3x, but won't benefit from Drone Booster effects.\n"
 "\n"
 "\t\tStats:\n"
 "\t\tRequires no power\n"
 "\t\tCharge Time: 12 seconds\n"
-"\t\tDrone Consumption: 1\n"
 "\t\tAccuracy Bonus: +30%\n"
 "\n"
 "\t\tShots Per Charge: 1\n"
+"\n"
+"\t\tDrone Part Consumption: 1\n"
 "\t\t\n"
 "\t\tRepair Drone Lifetime: 60 seconds\n"
 "\t\t\n"
@@ -816,7 +822,9 @@ msgstr "'Themis'"
 #: src-en/data/blueprints.xml.append:1849
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"A devastating missile which creates shrapnel upon impact. Shrapnel deals 1 "
+"additional system damage to all adjacent rooms."
 
 #: src-en/data/blueprints.xml.append:1892
 msgid ""
@@ -831,7 +839,10 @@ msgstr "'Perses'"
 #: src-en/data/blueprints.xml.append:1894
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"A devastating missile which creates shrapnel upon impact. Shrapnel deals "
+"additional system damage to all adjacent rooms. This upgraded version does "
+"more damage."
 
 #: src-en/data/blueprints.xml.append:1937
 msgid ""
@@ -846,7 +857,9 @@ msgstr "'Epimetheus'"
 #: src-en/data/blueprints.xml.append:1939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"Fires one extremely accurate and destructive missile at the start of the "
+"fight. Can only be used once per fight."
 
 #: src-en/data/blueprints.xml.append:1995
 msgid ""
@@ -875,7 +888,10 @@ msgstr "Virulent"
 
 #: src-en/data/blueprints.xml.append:2072
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"Outlawed in several stretches of space, Virulent Dishes dispell highly toxic"
+" radiation, dealing crew damage not just in the target room but all adjacent"
+" rooms as well."
 
 #: src-en/data/blueprints.xml.append:2124
 msgid ""
@@ -971,7 +987,9 @@ msgstr "Assembly"
 
 #: src-en/data/blueprints.xml.append:2337
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"A specialized weapon with a built-in fabricator. At the cost of a drone "
+"part, can deploy a temporary combat drone that will attack the enemy ship."
 
 #: src-en/data/blueprints.xml.append:2379
 msgid ""
@@ -1003,7 +1021,9 @@ msgstr "'Sysshock'"
 #: src-en/data/blueprints.xml.append:2429
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"An overcharged ion weapon which causes a cascading effect when it directly "
+"hits a room, dealing 1 ion damage to all adjacent systems."
 
 #: src-en/data/blueprints.xml.append:2471
 msgid ""
@@ -1032,7 +1052,10 @@ msgstr "'Epistle'"
 
 #: src-en/data/blueprints.xml.append:2522
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"A weapon of ancient evil, which infiltrates the minds of its victims and "
+"turns them against each other. Inflicts mind control on any enemy it hits, "
+"but prevents them from receiving orders."
 
 #: src-en/data/blueprints.xml.append:2608
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
@@ -1062,7 +1085,10 @@ msgstr "Magma"
 #: src-en/data/blueprints.xml.append:2641
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"A bizarre gun only conceived in the mind of a madman. Although it's merely a"
+" Pinpoint Beam, its concentrated stream of superhot lava sets any room it "
+"touches completely on fire."
 
 #: src-en/data/blueprints.xml.append:2668
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
@@ -1155,7 +1181,6 @@ msgstr ""
 "\t\tStats:\n"
 "\t\tRequired Power: 2\n"
 "\t\tCharge Time: 14 seconds\n"
-"\t\tScrap Consumption: 3\n"
 "\n"
 "\t\tShot Radius: 50\n"
 "\t\tFires 5 Random Gems Per Shot\n"
@@ -1165,6 +1190,8 @@ msgstr ""
 "\t\tGreen Gem: 1 Damage, 45 Crew Damage, 10 Seconds Stun\n"
 "\t\tCyan Gem: 1 Damage, 0 System Damage, locks down room\n"
 "\t\tPurple Gem: 1 Damage, 2 System Damage, 80% Breach Chance\n"
+"\n"
+"\t\tScrap Consumption: 3\n"
 "\t\t\n"
 "\t\tDefault Price: 80~   -   Selling Price: 40~"
 
@@ -1181,12 +1208,14 @@ msgstr "Colonizer B."
 #: src-en/data/blueprints.xml.append:2816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
-msgstr "YOU SHOULD NEVER SEE THIS"
+msgstr ""
+"Self-teleporting device that mind controls an enemy crew in the room if "
+"there aren't any already. Can be used to target your own ship."
 
 #: src-en/data/blueprints.xml.append:2850
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
-"Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soliders rapidly decay after spawning.\n"
+"Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soldiers rapidly decay after spawning.\n"
 "\t\n"
 "\tInherited Human stat: minor suffocation resistance"
 
@@ -1217,7 +1246,7 @@ msgstr "Neural chip allows learning combat skills at an incredible rate"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
-"Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soliders rapidly decay after spawning.\n"
+"Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soldiers rapidly decay after spawning.\n"
 "\t\n"
 "\tInherited Human stat: minor suffocation resistance"
 
@@ -1529,10 +1558,10 @@ msgstr "Overshield"
 #: src-en/data/blueprints.xml.append:3324
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
-"Controllable utility drone which drains power from a system to provide shields to allied crew, massively reducing their damage from all sources.\n"
+"Controllable utility shipboard drone which drains power from a system to provide shields and a damage buff to allied crew.\n"
 "    \n"
 "-90 HP, 0.75x movement speed\n"
-"-Shields all allied crew in the room, providing them with 75% damage reduction from all sources\n"
+"-Shields all allied crew in the room, providing them with 75% damage reduction from all sources and 30% increased combat damage\n"
 "-Drains 1 power from any occupied system. Must be draining power to apply shields."
 
 #: src-en/data/blueprints.xml.append:3345
@@ -1600,7 +1629,7 @@ msgstr "Obsession-C"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
 msgstr ""
-"Unlike the average Engi cruiser, which only appears to be made of junk "
+"Unlike the average Engi cruiser which only appears to be made of junk "
 "loosely held together, this ship IS made of junk loosely held together."
 
 #: src-en/data/blueprints.xml.append:3656
@@ -1845,8 +1874,8 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
 "After countless millenia of devising better and better weapons to promote "
-"infighting, the Dynasty finally realized their guns could kill ships from "
-"other factions too."
+"infighting, the Dynasty finally realized their guns could also tear apart "
+"ships from other factions."
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
