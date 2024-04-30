@@ -25,14 +25,14 @@ msgstr ""
 "[COOLDOWN:10s  DURATION:6s]\n"
 "\t\t\t\tAssume control of the spider."
 
-#: src-en/data/hyperspace.xml.append:1095
+#: src-en/data/hyperspace.xml.append:1141
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr "Extinguisher Drone"
 
-#: src-en/data/hyperspace.xml.append:1099
+#: src-en/data/hyperspace.xml.append:1145
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr "Voltage Drone"
 
-#: src-en/data/hyperspace.xml.append:1103
+#: src-en/data/hyperspace.xml.append:1149
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr "Overshield Drone"

@@ -1082,7 +1082,53 @@
 				<maxStacks id="labZoltanShield">1</maxStacks>
 				<systemRoomTarget>ALL</systemRoomTarget>
 				<systemList>
-					<all/>
+					<!--<pilot/>-->
+					<engines/>
+					<shields/>
+					<weapons/>
+					<oxygen/>
+					<medbay/>
+					<clonebay/>
+					<drones/>
+					<sensors/>
+					<doors/>
+					<cloaking/>
+					<mind/>
+					<hacking/>
+					<teleporter/>
+					<artillery/>
+					<battery/>
+					<temporal/>
+				</systemList>
+			</statBoost>
+			<statBoost name="damageMultiplier">
+				<boostType>MULT</boostType>
+				<amount>1.3</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<functionalTarget>true</functionalTarget>
+				<droneTarget>CREW</droneTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>0</priority>
+				<systemRoomTarget>ALL</systemRoomTarget>
+				<systemList>
+					<!--<pilot/>-->
+					<engines/>
+					<shields/>
+					<weapons/>
+					<oxygen/>
+					<medbay/>
+					<clonebay/>
+					<drones/>
+					<sensors/>
+					<doors/>
+					<cloaking/>
+					<mind/>
+					<hacking/>
+					<teleporter/>
+					<artillery/>
+					<battery/>
+					<temporal/>
 				</systemList>
 			</statBoost>
 		</passiveStatBoosts>

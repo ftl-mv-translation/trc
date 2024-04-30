@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-11 11:42+0000\n"
-"Last-Translator: Janosch Javurek <ppan71749@gmail.com>\n"
-"Language-Team: German <https://weblate.hyperq.be/projects/"
-"the-renegade-collection/datahyperspace-xml-append/de/>\n"
-"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.4\n"
 
 #: src-en/data/hyperspace.xml.append:795
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
@@ -32,14 +25,14 @@ msgstr ""
 "[ABKLINGPHASE:10s  LÄNGE:6s]\n"
 "\t\t\t\tÜbernehme Kontrolle über die Spinne."
 
-#: src-en/data/hyperspace.xml.append:1095
+#: src-en/data/hyperspace.xml.append:1141
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
 msgstr "Feuerlöschdrohne"
 
-#: src-en/data/hyperspace.xml.append:1099
+#: src-en/data/hyperspace.xml.append:1145
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
 msgstr "Spannungsdrohne"
 
-#: src-en/data/hyperspace.xml.append:1103
+#: src-en/data/hyperspace.xml.append:1149
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
 msgstr "Über-Schilddrohne"
