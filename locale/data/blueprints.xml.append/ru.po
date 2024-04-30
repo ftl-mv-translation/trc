@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 11:29+0000\n"
-"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -144,10 +144,7 @@ msgstr "Коллайдер II"
 #: src-en/data/blueprints.xml.append:348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
-msgstr ""
-"Модифицированная технология частиц, которая заменяет свои привычные "
-"зажигательные свойства на нанесение урона и ослабление экипажа. Долгое время"
-" перезарядки и больший радиус, но выпускает больше частиц."
+msgstr "Модифицированная технология частиц, которая заменяет свои привычные зажигательные свойства на нанесение урона и ослабление экипажа. Долгое время перезарядки и больший радиус, но выпускает больше частиц."
 
 #: src-en/data/blueprints.xml.append:400
 msgid ""
@@ -484,9 +481,7 @@ msgstr "Бесконеч."
 #: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
-msgstr ""
-"В отличие от стандартной адаптивной ионной пушки, урон этого орудия может "
-"увеличиваться практически бесконечно, но заряжается оно медленнее."
+msgstr "В отличие от стандартной адаптивной ионной пушки, урон этого орудия может увеличиваться практически бесконечно, но заряжается оно медленнее."
 
 #: src-en/data/blueprints.xml.append:1030
 msgid ""
@@ -1635,10 +1630,7 @@ msgstr "Одержимост-Ь"
 #: src-en/data/blueprints.xml.append:3625
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
-msgstr ""
-"В отличие от обычного крейсера энджи, который только кажется будто бы "
-"сделанным из груды хлама, кое-как соединенной вместе, этот корабль "
-"ДЕЙСТВИТЕЛЬНО сделан из груды хлама, кое-как соединенной вместе."
+msgstr "В отличие от обычного крейсера энджи, который только кажется будто бы сделанным из груды хлама, кое-как соединенной вместе, этот корабль ДЕЙСТВИТЕЛЬНО сделан из груды хлама, кое-как соединенной вместе."
 
 #: src-en/data/blueprints.xml.append:3703
 msgid ""
@@ -1851,10 +1843,7 @@ msgstr "Аваддон"
 #: src-en/data/blueprints.xml.append:4723
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
-msgstr ""
-"После бесчисленных тысячелетий разработки все более совершенного оружия, "
-"способствующего междоусобицам, Династия наконец поняла, что ее пушки могут "
-"уничтожать корабли и других фракций."
+msgstr "После бесчисленных тысячелетий разработки все более совершенного оружия, способствующего междоусобицам, Династия наконец поняла, что ее пушки могут уничтожать корабли и других фракций."
 
 #: src-en/data/blueprints.xml.append:4797
 msgid ""
