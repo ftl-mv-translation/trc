@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_blueprints.xml.append:2
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_KESTREL_unlock\"]"
+msgstr "どのバージョンのケストレル巡洋艦でもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:3
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ENGINEER_unlock\"]"
+msgstr "エンジニア巡洋艦のどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:4
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ANGEL_unlock\"]"
+msgstr "どのバージョンのエンジェリック・デスブリンガーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:5
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ENGI_unlock\"]"
+msgstr "エンジ・クルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:6
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_OUTCAST_unlock\"]"
+msgstr "アウトキャスト巡洋艦のどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:7
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ORCHID_unlock\"]"
+msgstr "どのバージョンのギャザリング・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:8
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_STEALTH_unlock\"]"
+msgstr "ステルス巡洋艦のどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:9
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_FED_unlock\"]"
+msgstr "連邦巡洋艦のどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:10
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MANTIS_unlock\"]"
+msgstr "どのバージョンのハイヴ・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:11
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MONK_unlock\"]"
+msgstr "モンク・クルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:12
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_PEACE_unlock\"]"
+msgstr "どのバージョンの平和維持巡洋艦でもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:13
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SLUG_unlock\"]"
+msgstr "どのバージョンのクラプトクラシー・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:14
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LOSTSUN_unlock\"]"
+msgstr "ロスト・サン・クルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:15
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ROCK_unlock\"]"
+msgstr "神政巡洋艦のどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:16
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LEECH_unlock\"]"
+msgstr "どのバージョンのアージェン・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:17
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SCIENTIST_unlock\"]"
+msgstr "どのバージョンの科学者クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:18
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_AUTO_unlock\"]"
+msgstr "どのバージョンのオートクルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:19
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_DYNASTY_unlock\"]"
+msgstr "どのバージョンのダイナスティ・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:20
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_BROOD_unlock\"]"
+msgstr "ブルード・クルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:21
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SEPARATIST_unlock\"]"
+msgstr "分離主義クルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:22
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_TUCO_unlock\"]"
+msgstr "トゥコのクルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:23
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_LANIUS_unlock\"]"
+msgstr "ラニウス巡洋艦のどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:24
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_MVREBEL_unlock\"]"
+msgstr "MV Rebel Cruiserのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:25
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SUZERAIN_unlock\"]"
+msgstr "どのバージョンのスゼレイン・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:26
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_PLEASURE_unlock\"]"
+msgstr "どのバージョンのプレジャーバージでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:27
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_AUGMENTED_unlock\"]"
+msgstr "どのバージョンのオーグメント・クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:28
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_HACKER_unlock\"]"
+msgstr "ハッカー・クルーザーのどのバージョンでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:29
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_REBEL_unlock\"]"
+msgstr "どのバージョンの反乱軍クルーザーでもゲームに勝つ。"
+
+#: src-en/data/text_blueprints.xml.append:30
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SYLVAN_unlock\"]"
+msgstr "Collector's Bountiesをすべてクリアして、この船をアンロックする。"
+
+#: src-en/data/text_blueprints.xml.append:31
+msgid ""
+"data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_STUPIDGHOST_unlock\"]"
+msgstr "他のすべてのコレクター船で勝利を達成する。"

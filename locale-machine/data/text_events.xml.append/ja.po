@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_events.xml.append:2
+msgid "data/text_events.xml.append$//text[@name=\"text_collector_accept\"]"
+msgstr ""
+"「素晴らしい、素晴らしい！あのチップはやっぱりよかった。その好意を現金化する価値があると思った...よし、よそ者よ。座標を送るよ。俺はその座標を空間魔法の球体に閉じ込めてるんだ、だから急いでくれ。幸運を祈るよ、よそ者！君は優秀なスポーツマンだから、もっと簡単に仕事ができるようなことを教えてあげようか？\""

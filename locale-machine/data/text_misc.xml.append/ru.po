@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
+msgstr ""
+"Совет: созданные члены экипажа не учитываются в вашем лимите экипажа, но "
+"существуют ограниченный период времени. Их также нельзя клонировать."
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
+msgstr ""
+"Совет: изготовленные дроны временно дают преимущества до истечения срока их "
+"действия."
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
+msgstr ""
+"Совет: противники, пораженные этим оружием, попадают под действие контроля "
+"разума, если он применим. Эффект не наследует бонусы от любой улучшенной "
+"системы Контроля Разума, которая у вас есть."
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
+msgstr ""
+"Совет: сигнальные ракеты не наносят физического урона вражескому кораблю, но"
+" отвлекают защитных дронов и ослепляют экипаж противника."
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
+msgstr ""
+"Совет: концентраторы получают прибавку к своим характеристикам за каждый "
+"накопленный заряд вместо увеличения количества снарядов за выстрел."
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
+msgstr ""
+"Совет: каскадное оружие наносит небольшой урон всем соседним отсекам. Оно не"
+" действует на отсеки, находящиеся по диагонали."
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
+msgstr ""
+"Совет: системный урон расщепляющих лучей рассчитывается по плиткам, а не по "
+"отсекам. Это означает, что большие отсеки более уязвимы к их воздействию!"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
+msgstr ""
+"Совет: подавители не наносят физического урона, но отлично сбивают щиты. Они"
+" также могут повреждать энергетические щиты."
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
+msgstr ""
+"Совет: ракетным дронам требуется большое количество боеголовок для запуска, но они не расходуют их во время стрельбы.\n"
+"\n"
+"Совет: боевые дроны требуют 1 дрон-комплект для запуска против каждого нового противника. Они будут атаковать врага до тех пор, пока у них есть питание."
+
+#: src-en/data/text_misc.xml.append:22
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
+msgstr ""
+"КОЛЛЕКЦИЯ РЕНЕГАТА\n"
+"В настоящее время включен.\n"
+"Нажмите, чтобы увидеть больше информации."
+
+#: src-en/data/text_misc.xml.append:27
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
+msgstr "???"
+
+#: src-en/data/text_misc.xml.append:28
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
+msgstr "ЦЕЛЬ ЗАКАЗА [!]"

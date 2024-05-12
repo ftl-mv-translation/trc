@@ -1,0 +1,60 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
+msgstr "提示：临时生成的船员不会影响其他船员的数量上限，且无法被克隆。"
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
+msgstr "提示：制造出的无人机会在失效前临时发挥作用。"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
+msgstr "提示：诱击闪弹不造成任何物理伤害但会干扰防御无人机并致盲船员。"
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
+msgstr "提示：撕裂光束以舱格计算造成的伤害而非以舱室，因此大舱室是其最好的攻击目标！"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
+msgstr "提示：压制无人机不造成伤害但在破除护盾方面十分有效，包括能量护盾。"
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
+msgstr ""
+"提示：导弹无人机需消耗大量弹药来部署，但部署后开火无需则再消耗弹药。\n"
+"\n"
+"提示： 在每个新信标处，战斗无人机都需要1件无人机部件来部署。充能时其将持续攻击敌舰直至被摧毁。"
+
+#: src-en/data/text_misc.xml.append:22
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
+msgstr ""
+"变元者合集\n"
+"当前已启用。\n"
+"点此了解更多。"
+
+#: src-en/data/text_misc.xml.append:27
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
+msgstr "？？？"
+
+#: src-en/data/text_misc.xml.append:28
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
+msgstr "悬赏任务[!]"

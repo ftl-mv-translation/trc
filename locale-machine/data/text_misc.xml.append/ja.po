@@ -1,0 +1,62 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:2
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
+msgstr "ヒント：スポーンしたクルーはクルーキャップにカウントされないが、一時的にしか使えない。また、クローンを作成することもできない。"
+
+#: src-en/data/text_misc.xml.append:4
+msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
+msgstr "ヒント捏造されたドローンは、期限切れになる前に一時的に特典を提供する。"
+
+#: src-en/data/text_misc.xml.append:6
+msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
+msgstr ""
+"補足：この武器で殴られた敵は、該当する場合マインド・コントロールの効果を受ける。この効果は、君が所有しているアップグレードされたマインド・コントロール・システムのボーナスを引き継がない。"
+
+#: src-en/data/text_misc.xml.append:8
+msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
+msgstr "ヒントデコイは敵艦に物理的なダメージを与えないが、防衛ドローンの注意をそらし、敵クルーの目をくらませることができる。"
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
+msgstr "補足：拡大鏡は射程が増える代わりに、チャージが増えるごとにステータスのボーナスが増える。"
+
+#: src-en/data/text_misc.xml.append:12
+msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
+msgstr "ヒントカスケードウェポンは隣接するすべての部屋に特定のダメージを与える。斜めにつながった部屋には影響しない。"
+
+#: src-en/data/text_misc.xml.append:14
+msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
+msgstr "ヒント亀裂ビームは部屋単位ではなくタイル単位でシステムダメージを与える。つまり、広い部屋ほどその影響を受けやすい！"
+
+#: src-en/data/text_misc.xml.append:16
+msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
+msgstr ""
+"ヒント：サプレッサーは物理的なダメージは与えないが、シールドをダウンさせるのに優れている。エネルギーシールドにもダメージを与えることができる。"
+
+#: src-en/data/text_misc.xml.append:18
+msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
+msgstr ""
+"ヒント：ミサイル・ドローンは展開に大量のミサイルを必要とするが、発射時にミサイルを消費することはない。\n"
+"\n"
+"ヒントコンバットドローンは、新しい敵が出現するごとにドローンパーツを1つ必要とする。ドローンはパワーがある限り敵を攻撃する。"
+
+#: src-en/data/text_misc.xml.append:22
+msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
+msgstr ""
+"レネゲード・コレクション\n"
+"現在有効です。\n"
+"クリックして詳細を見る"
+
+#: src-en/data/text_misc.xml.append:27
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector\"]"
+msgstr "???"
+
+#: src-en/data/text_misc.xml.append:28
+msgid "data/text_misc.xml.append$//text[@name=\"map_icon_collector_bounty\"]"
+msgstr "BOUNTY [!］"
