@@ -9,13 +9,13 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Улучшить Рад-луч \"Фокон\" II."
 
 #: src-en/data/events_sector_union.xml.append:8
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
 
 #: src-en/data/events_sector_union.xml.append:14
 msgid ""
@@ -27,19 +27,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
 
 #: src-en/data/events_sector_union.xml.append:23
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Улучшить Ионный асфиксиатор."
 
 #: src-en/data/events_sector_union.xml.append:25
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
 
 #: src-en/data/events_sector_union.xml.append:31
 msgid ""
@@ -51,19 +51,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
 
 #: src-en/data/events_sector_union.xml.append:40
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Улучшить Энергетический фазер."
 
 #: src-en/data/events_sector_union.xml.append:42
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
 
 #: src-en/data/events_sector_union.xml.append:48
 msgid ""
@@ -75,19 +75,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."
 
 #: src-en/data/events_sector_union.xml.append:57
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Улучшить Бомбу частиц."
 
 #: src-en/data/events_sector_union.xml.append:59
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "Вы отдаете орудие инженеру, позволяя ему поработать над ним."
 
 #: src-en/data/events_sector_union.xml.append:65
 msgid ""
@@ -99,4 +99,4 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "Через некоторое время орудие возвращается к вам, получив оптимизацию."

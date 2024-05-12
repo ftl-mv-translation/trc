@@ -1,0 +1,50 @@
+\\\\\\\\\\\\\\\\
+ CHANGES:
+\\\\\\\\\\\\\\\\
+
+Moved the modding framework to standard Multiverse files.
+
+\\\\\\\\\\\\\\\\
+ BALANCE:
+\\\\\\\\\\\\\\\\
+
+Infinity ion cooldown: 14.5s -> 13s
+
+'Fangtian' cooldown: 14s -> 15s
+
+Mutagen bomb cooldown: 20s -> 14s
+
+'Epimetheus' ammo cost: 1 -> 2
+
+Virulent Dish cooldown: 8s -> 10s
+
+Assembly Cannon cooldown: 15s -> 12s, drone shots: 7 -> 8
+
+Deployment Bomb now deploys 2 repair drones.
+
+Breaching Pod projectile speed: 15 -> 18
+
+Tesla Beam cooldown: 15s -> 17s
+
+'Epistle':
+-power lowered from 3 to 2
+-cooldown lowered from 25s to 20s
+-length lowered from 200 to 140
+-price lowered from 125 to 100
+
+Overshield now additionally buffs shielded target combat damage by 30%.
+
+Collector's Angel starting missiles: 8 -> 14
+Collector's Harmony starting power: 7 -> 9
+Collector's Technician starting power: 6 -> 7
+Collector's Stealth starting missiles: 12 -> 16
+Collector's MV Rebel starting drones: 4 -> 6
+Collector's Suzerain: now starts with sensors, starting drones: 15 -> 20
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed Repair drone from Deployment Bomb being able to be healed.
+
+Epistle affected crew can no longer use their abilities.

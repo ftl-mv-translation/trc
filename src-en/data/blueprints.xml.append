@@ -11,7 +11,7 @@
 <weaponBlueprint name="TRC_LASER_CHARGEGUN_HEAVY"> 
 	<type>LASER</type>
 	<title>Charge Heavy Laser</title>
-	<short>Charge Heavy</short>
+	<short>C. Heavy</short>
 	<tip>tip_charge</tip>
 	<desc>This Laser weapon can charge multiple projectiles, or fire its volley early. Does 2 damage per shot.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 2.</tooltip>
@@ -271,35 +271,10 @@
 	<bp>2</bp>
 	<spin>0</spin>
 	<statBoosts>
-		<statBoost name="moveSpeedMultiplier">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>8</duration>
-			<boostAnim>bio_poison</boostAnim>
-		</statBoost>
-		<statBoost name="stunMultiplier">
-			<boostType>MULT</boostType>
-			<amount>1.75</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>8</duration>
-		</statBoost>
-		<statBoost name="repairSpeed">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>8</duration>
-		</statBoost>
-	</statBoosts>
+        <statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+        <statBoost name="repairSpeed" load="RAD_REPAIR"/>
+    </statBoosts>
 	<projectiles>
 		<projectile count="2" fake="false">laser_particle_bio</projectile>
 	</projectiles>
@@ -328,7 +303,7 @@
 	<title>Particle Collider MK II</title>
 	<short>Collider II</short>
 	<tip>tip_bio</tip>
-	<desc>Modified particle technology that trades its usual fire starting attributes to do crew damage and apply debuffs. Has a longer cooldown and larger radius but fires more bolts.</desc>
+	<desc>Modified particle technology that trades its usual fire starting attributes to do crew damage and apply debuffs. This version has increased cooldown and radius but fires more bolts.</desc>
 	<tooltip>Part Accelerator; 1 system damage, 5 shots. 17 second cooldown. Starts Fires.</tooltip>
 	<damage>0</damage>
 	<sysDamage>1</sysDamage>
@@ -345,35 +320,10 @@
 	<rarity>5</rarity>
 	<spin>0</spin>
 	<statBoosts>
-		<statBoost name="moveSpeedMultiplier">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>15</duration>
-			<boostAnim>bio_poison</boostAnim>
-		</statBoost>
-		<statBoost name="stunMultiplier">
-			<boostType>MULT</boostType>
-			<amount>1.75</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>15</duration>
-		</statBoost>
-		<statBoost name="repairSpeed">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>15</duration>
-		</statBoost>
-	</statBoosts>
+        <statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+        <statBoost name="repairSpeed" load="RAD_REPAIR"/>
+    </statBoosts>
 	<projectiles>
 		<projectile count="6" fake="false">laser_particle_bio</projectile>
 	</projectiles>
@@ -426,8 +376,21 @@
 		Fire Chance 10/20/30%
 		Breach Chance: 10/20/30% (Adjusted: 9/16/21%)
 
-		Default Price: 55~
+		Default Price: 55~   -   Selling Price: 27~
 	</descriptionOverride>
+	<tooltipOverride>Required Power: 1
+		Charge Time: 11 seconds
+		Accuracy Bonus: +10%
+
+		Max Charges: 3
+		Bonus Charging Speed: x1.3 per charge
+		
+		Base Hull Damage: 2/3/4
+		Total System Damage: 2/3/4
+		Total Crew Damage: 30/45/60
+		
+		Fire Chance 10/20/30%
+		Breach Chance: 10/20/30% (Adjusted: 9/16/21%)</tooltipOverride>
 	<tooltip>Heavy laser; 2 damage, 1 shot. 9 second cooldown.</tooltip>
 	<damage>2</damage>
 	<accuracyMod>10</accuracyMod>
@@ -487,8 +450,21 @@
 		Fire Chance 10/20/30/40%
 		Breach Chance: 10/20/30/40% (Adjusted: 9/16/21/24%)
 
-		Default Price: 70~
+		Default Price: 70~   -   Selling Price: 35~
 	</descriptionOverride>
+	<tooltipOverride>Required Power: 2
+		Charge Time: 13 seconds
+		Accuracy Bonus: +10%
+
+		Max Charges: 4
+		Bonus Charging Speed: x1.5 per charge
+		
+		Base Hull Damage: 3/4/5/6
+		Total System Damage: 3/4/5/6
+		Total Crew Damage: 45/60/75/90
+		
+		Fire Chance 10/20/30/40%
+		Breach Chance: 10/20/30/40% (Adjusted: 9/16/21/24%)</tooltipOverride>
 	<tooltip>Heavy laser; 2 damage, 1 shot. 9 second cooldown.</tooltip>
 	<damage>3</damage>
 	<accuracyMod>10</accuracyMod>
@@ -548,8 +524,21 @@
 		
 		Breach Chance: 60/70/80/90%
 
-		Default Price: 60~
+		Default Price: 60~   -   Selling Price: 30~
 	</descriptionOverride>
+	<tooltipOverride>Required Power: 2
+		Charge Time: 9 seconds
+		Accuracy Bonus: +10%
+
+		Max Charges: 4
+		Shield Piercing: 1/2/3/4
+		Bonus Charging Speed: x1.5 per charge
+		
+		Base Hull Damage: 2
+		Total System Damage: 2
+		Total Crew Damage: 30
+		
+		Breach Chance: 60/70/80/90%</tooltipOverride>
 	<tooltip>Heavy laser; 2 damage, 1 shot. 9 second cooldown.</tooltip>
 	<damage>2</damage>
 	<accuracyMod>10</accuracyMod>
@@ -606,8 +595,18 @@
 		
 		Stun Chance: 30/40/50/60% (3 seconds long)
 
-		Default Price: 50~
+		Default Price: 50~   -   Selling Price: 25~
 	</descriptionOverride>
+	<tooltipOverride>Required Power: 1
+		Charge Time: 8 seconds
+		Accuracy Bonus: +10%
+
+		Max Charges: 4
+		Bonus Charging Speed: x1.2 per charge
+		
+		Ion Damage: 1/2/3/4
+		
+		Stun Chance: 30/40/50/60% (3 seconds long)</tooltipOverride>
 	<tooltip>Heavy laser; 2 damage, 1 shot. 9 second cooldown.</tooltip>
 	<ion>1</ion>
 	<accuracyMod>10</accuracyMod>
@@ -658,32 +657,16 @@
 	<tip>tip_tile_beam</tip>
 	<title>'Fangtian' Fissure Beam</title>
 	<short>'Fangtian'</short>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Fissure Beams deal damage per tile rather than per room. This Beam specializes in destroying systems, capable of dealing more damage the larger a system is.
-
-		Stats:
-		Required Power: 2
-		Charge Time: 14 seconds
-
-		Beam Length: 128
-		Beam Speed: 6
-		
-		Total System Damage: 1
-		Shield Piercing: 1
-		Damage is dealt per-tile
-		
-		Breach Chance: 20%
-
-		Default Price: 65~
-	</descriptionOverride>
+	<desc>Fissure Beams deal damage per tile rather than per room. This Beam specializes in destroying systems, capable of dealing more damage the larger a system is.</desc>
 	<tooltip>Beam weapon with extended line. 1 damage per room.</tooltip>
 	<damage>0</damage>
 	<sysDamage>1</sysDamage>
+	<mv-tileDamage method="2"/>
 	<sp>2</sp>
 	<fireChance>0</fireChance>
 	<breachChance>2</breachChance>
 	<speed>6</speed>
-	<cooldown>14</cooldown>
+	<cooldown>15</cooldown>
 	<power>2</power>
 	<cost>65</cost>
 	<bp>5</bp>
@@ -717,35 +700,10 @@
 		<b>200</b>
 	</color>
 	<statBoosts>
-		<statBoost name="moveSpeedMultiplier">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>10</duration>
-			<boostAnim>bio_poison</boostAnim>
-		</statBoost>
-		<statBoost name="stunMultiplier">
-			<boostType>MULT</boostType>
-			<amount>1.75</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>10</duration>
-		</statBoost>
-		<statBoost name="repairSpeed">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>10</duration>
-		</statBoost>
-	</statBoosts>
+        <statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+        <statBoost name="repairSpeed" load="RAD_REPAIR"/>
+    </statBoosts>
 	<speed>40</speed>
 	<power>3</power>
 	<cost>65</cost>
@@ -778,35 +736,10 @@
 		<b>200</b>
 	</color>
 	<statBoosts>
-		<statBoost name="moveSpeedMultiplier">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>10</duration>
-			<boostAnim>bio_poison</boostAnim>
-		</statBoost>
-		<statBoost name="stunMultiplier">
-			<boostType>MULT</boostType>
-			<amount>1.75</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>10</duration>
-		</statBoost>
-		<statBoost name="repairSpeed">
-			<boostType>MULT</boostType>
-			<amount>0.33</amount>
-			<shipTarget>ALL</shipTarget>
-			<crewTarget>ALL</crewTarget>
-			<affectsSelf>true</affectsSelf>
-			<maxStacks>1</maxStacks>
-			<duration>10</duration>
-		</statBoost>
-	</statBoosts>
+        <statBoost name="moveSpeedMultiplier" load="RAD_MOVE"/>
+		<statBoost name="stunMultiplier" load="RAD_STUN"/>
+        <statBoost name="repairSpeed" load="RAD_REPAIR"/>
+    </statBoosts>
 	<speed>40</speed>
 	<power>2</power>
 	<cost>65</cost>
@@ -995,7 +928,7 @@
 	<short>'Infinity'</short>
 	<locked>1</locked>
 	<tip>tip_chain_ion</tip>
-	<desc>Unlike the standard adaptive ion, this weapon can chain to an effectively infinite number of times, but charges slower.</desc>
+	<desc>Unlike the standard adaptive ion, this weapon can chain to an effectively infinite number of times.</desc>
 	<tooltip>Fires a single blast that does 1 ion damage. Can hit and disable shields as well as systems.</tooltip>
 	<damage>0</damage>
 	<spin>720</spin>
@@ -1006,7 +939,7 @@
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
 	<stunChance>3</stunChance>
-	<cooldown>14.5</cooldown>
+	<cooldown>13</cooldown>
 	<power>3</power>
 	<cost>50</cost>
 	<bp>3</bp>
@@ -1015,7 +948,7 @@
 	<boost>
 		<type>damage</type>
 		<amount>1</amount>
-		<count>9</count>
+		<count>99</count>
 	</boost>
 	<explosion>explosion_small_ion</explosion>
 	<launchSounds>
@@ -1264,27 +1197,14 @@
 	<title>Shrapnel Bomb</title>
 	<short>Shrapnel B.</short>
 	<locked>1</locked>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Self-teleporting explosive that deals system damage to not just the target room but all adjacent rooms as well. Can target your own ship.
-
-		Stats:
-		Required Power: 1
-		Charge Time: 14 seconds
-		Missile Consumption: 1
-		Accuracy Bonus: +30%
-
-		Shots Per Charge: 1
-		
-		Total System Damage: 2
-		Total Crew Damage: 30
-		Adjacent System Damage: 1
-		
-		Default Price: 55~
-	</descriptionOverride>
+	<desc>Self-teleporting explosive that deals system damage to not just the target room but all adjacent rooms as well. Can target your own ship.</desc>
 	<tooltip>Bomb weapon; requires a missile; does 2 damage, but only damages system, not hull. Can target your own ship.</tooltip>
 	<damage>0</damage>
 	<sysDamage>2</sysDamage>
 	<persDamage>2</persDamage>
+	<mv-aoe>
+		<sysDamage>1</sysDamage>
+	</mv-aoe>
 	<accuracyMod>30</accuracyMod>
 	<missiles>1</missiles>
 	<shots>1</shots>
@@ -1448,40 +1368,83 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<title>Deployment Bomb</title>
 	<short>Deploy B.</short>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Self-teleporting device that deploys a repair drone on your ship. Costs a drone part instead of a missile to fire. Can (AND SHOULD) be used to target your own ship.
+	<descriptionOverride>Self-teleporting device that deploys two repair drones on your ship. Costs a drone part instead of a missile to fire. Can (AND SHOULD) be used to target your own ship.
+		The drones will repair at a base speed of 3x, but won't benefit from Drone Booster effects.
 
 		Stats:
 		Requires no power
-		Charge Time: 15 seconds
-		Drone Consumption: 1
+		Charge Time: 12 seconds
 		Accuracy Bonus: +30%
 
 		Shots Per Charge: 1
+
+		Drone Part Consumption: 1
 		
-		Repair Drone Lifetime: 90 seconds
+		Repair Drone Lifetime: 60 seconds
 		
-		Default Price: 45~
+		Default Price: 45~   -   Selling Price: 22~
 	</descriptionOverride>
+	<tooltipOverride>Requires no power
+		Charge Time: 12 seconds
+		Accuracy Bonus: +30%
+
+		Shots Per Charge: 1
+
+		Drone Part Consumption: 1
+		
+		Repair Drone Lifetime: 60 seconds</tooltipOverride>
 	<tooltip>Bomb weapon; requires a missile; does 2 damage, but only damages system, not hull. Can target your own ship.</tooltip>
 	<damage>0</damage>
 	<sysDamage>0</sysDamage>
 	<persDamage>0</persDamage>
 	<accuracyMod>30</accuracyMod>
-	<missiles>0</missiles>
+	<mv-resources>
+		<drones>1</drones>
+	</mv-resources>
 	<shots>1</shots>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>15</cooldown>
+	<cooldown>12</cooldown>
 	<power>0</power>
 	<mv-conservative/>
 	<cost>45</cost>
 	<bp>4</bp>
 	<spawnCrew>
-		<number>1</number>
+		<number>2</number>
 		<race>repair</race>
-		<lifetime>90</lifetime>
+		<lifetime>60</lifetime>
 		<noSlot>true</noSlot>
+		<statBoosts>
+			<statBoost name="noClone">
+                <boostType>SET</boostType>
+                <value>true</value>
+                <shipTarget>ALL</shipTarget>
+                <crewTarget>ALL</crewTarget>
+                <priority>999999</priority>
+            </statBoost>
+			<statBoost name="lowHealthThreshold">
+                <boostType>SET</boostType>
+                <amount>-1</amount>
+                <shipTarget>ALL</shipTarget>
+                <crewTarget>ALL</crewTarget>
+                <priority>999999</priority>
+            </statBoost>
+			<statBoost name="repairSpeed">
+				<boostType>SET</boostType>
+                <amount>3</amount>
+                <shipTarget>ALL</shipTarget>
+                <crewTarget>ALL</crewTarget>
+                <priority>999999</priority>
+			</statBoost>
+			<statBoost name="healSpeed">
+				<boostType>SET</boostType>
+                <amount>0</amount>
+                <shipTarget>ALL</shipTarget>
+                <crewTarget>ALL</crewTarget>
+                <priority>999999</priority>
+			</statBoost>
+		</statBoosts>
 	</spawnCrew>
 	<crewSpawnChance>10</crewSpawnChance>
 	<rarity>5</rarity>
@@ -1673,7 +1636,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>20</cooldown>
+	<cooldown>14</cooldown>
 	<power>1</power>
 	<cost>60</cost>
 	<bp>4</bp>
@@ -1716,7 +1679,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<fireChance>0</fireChance>
 	<breachChance>2</breachChance>
 	<stunChance>0</stunChance>
-	<cooldown>10</cooldown>
+	<cooldown>13</cooldown>
 	<statBoosts>
 		<statBoost name="healAmount">
 			<boostType>FLAT</boostType>
@@ -1761,7 +1724,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 
 		Stats:
 		Required Power: 2
-		Charge Time: 14 seconds
+		Charge Time: 17 seconds
 		Missile Consumption: 1
 		Accuracy Bonus: 10%
 
@@ -1775,7 +1738,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 		Locks down rooms on hit
 		Stun Chance: 100% (5 seconds long)
 		
-		Default Price: 65~
+		Default Price: 65~   -   Selling Price: 32~
 	</descriptionOverride>
 	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
 	<damage>3</damage>
@@ -1788,7 +1751,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<shots>1</shots>
 	<sp>10</sp>
 	<stunChance>4</stunChance>
-	<cooldown>14</cooldown>
+	<cooldown>17</cooldown>
 	<roomStatBoosts>
 		<statBoost name="trueHealAmount">
 			<boostType>FLAT</boostType>
@@ -1840,7 +1803,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<shots>1</shots>
 	<sp>10</sp>
 	<stunChance>4</stunChance>
-	<cooldown>15</cooldown>
+	<cooldown>18</cooldown>
 	<roomStatBoosts>
 		<statBoost name="trueHealAmount">
 			<boostType>FLAT</boostType>
@@ -1883,31 +1846,13 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tip>tip_cascade</tip>
 	<title>'Themis' Shrapnel Missiles</title>
 	<short>'Themis'</short>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>A devastating missile which creates shrapnel upon impact. Shrapnel deals 1 additional system damage to all adjacent rooms.
-
-		Stats:
-		Required Power: 1
-		Charge Time: 16 seconds
-		Missile Consumption: 1
-		Accuracy Bonus: +10%
-
-		Shots Per Charge: 1
-		
-		Base Hull Damage: 2
-		Total System Damage: 2
-		Total Crew Damage: 45
-		Shield Piercing: 10
-		Adjacent System Damage: 1
-		
-		Breach Chance: 50%
-		Stun Chance: 50% (3 seconds long)
-		
-		Default Price: 55~
-	</descriptionOverride>
+	<desc>A devastating missile which creates shrapnel upon impact. Shrapnel deals 1 additional system damage to all adjacent rooms.</desc>
 	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
 	<damage>2</damage>
 	<persDamage>1</persDamage>
+	<mv-aoe>
+		<sysDamage>1</sysDamage>
+	</mv-aoe>
 	<missiles>1</missiles>
 	<accuracyMod>10</accuracyMod>
 	<speed>50</speed>
@@ -1946,31 +1891,13 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tip>tip_cascade</tip>
 	<title>'Perses' Shrapnel Missiles</title>
 	<short>'Perses'</short>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>A devastating missile which creates shrapnel upon impact. Shrapnel deals additional system damage to all adjacent rooms. This upgraded version does more damage.
-
-		Stats:
-		Required Power: 3
-		Charge Time: 19 seconds
-		Missile Consumption: 1
-		Accuracy Bonus: +10%
-
-		Shots Per Charge: 1
-		
-		Base Hull Damage: 3
-		Total System Damage: 3
-		Total Crew Damage: 60
-		Shield Piercing: 10
-		Adjacent System Damage: 2
-		
-		Breach Chance: 50%
-		Stun Chance: 50% (3 seconds long)
-		
-		Default Price: 70~
-	</descriptionOverride>
+	<desc>A devastating missile which creates shrapnel upon impact. Shrapnel deals additional system damage to all adjacent rooms. This upgraded version does more damage.</desc>
 	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
 	<damage>3</damage>
 	<persDamage>1</persDamage>
+	<mv-aoe>
+		<sysDamage>2</sysDamage>
+	</mv-aoe>
 	<missiles>1</missiles>
 	<accuracyMod>10</accuracyMod>
 	<speed>50</speed>
@@ -2013,7 +1940,7 @@ Has self-replicating abilities and does not need a missile.</desc>
     <tooltip>Fires 1 missile; 4 damage; pierces all shields; high breach chance.</tooltip>
     <damage>4</damage>
 	<accuracyMod>100</accuracyMod>
-    <missiles>1</missiles>
+    <missiles>2</missiles>
     <speed>50</speed>
     <hullBust>1</hullBust>
     <shots>1</shots>
@@ -2142,32 +2069,20 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<title>Virulent Dish</title>
 	<short>Virulent</short>
 	<tip>tip_cascade</tip>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Outlawed in several stretches of space, Virulent Dishes dispell highly toxic radiation, dealing crew damage not just in the target room but all adjacent rooms as well.
-
-		Stats:
-		Required Power: 2
-		Charge Time: 8 seconds
-		Accuracy Bonus: +10%
-
-		Shots Per Charge: 1
-		
-		Total Crew Damage: 60
-		Adjacent Crew Damage: 30
-		Shield Piercing: 10
-		
-		Default Price: 50~
-	</descriptionOverride>
+	<desc>Outlawed in several stretches of space, Virulent Dishes dispell highly toxic radiation, dealing crew damage not just in the target room but all adjacent rooms as well.</desc>
 	<tooltip>A-Bio Laser; 60 crew damage, 1 shot. 8 second cooldown.</tooltip>
 	<damage>0</damage>
 	<persDamage>4</persDamage>
+	<mv-aoe>
+		<persDamage>2</persDamage>
+	</mv-aoe>
 	<accuracyMod>10</accuracyMod>
 	<shots>1</shots>
 	<speed>100</speed>
 	<sp>10</sp>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>8</cooldown>
+	<cooldown>10</cooldown>
 	<power>2</power>
 	<cost>50</cost>
 	<bp>2</bp>
@@ -2309,6 +2224,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 </weaponBlueprint>
 <weaponBlueprint name="TRIFECTA_LASER">
 	<type>LASER</type>
+	<drone_targetable>0</drone_targetable>
 	<title>Trifecta Laser</title>
 	<short>Trifecta Laser</short>
 	<desc>YOU SHOULD NEVER SEE THIS</desc>
@@ -2418,32 +2334,22 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tip>tip_spawner_drone</tip>
 	<title>Assembly Cannon</title>
 	<short>Assembly</short>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>A specialized weapon with a built-in fabricator. At the cost of a drone part, can deploy a temporary combat drone that will attack the enemy ship.
-
-		Stats:
-		Required Power: 2
-		Charge Time: 15 seconds
-		Drone Consumption: 1
-
-		Shots Per Charge: 1
-		
-		Fabricated Drone Type: Laser
-		Drone Lifetime: 7 Shots
-		Drone Speed: 35
-		
-		Default Price: 60~
-	</descriptionOverride>
+	<desc>A specialized weapon with a built-in fabricator. At the cost of a drone part, can deploy a temporary combat drone that will attack the enemy ship.</desc>
 	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
 	<damage>0</damage>
-	<accuracyMod>10</accuracyMod>
+	<mv-droneShooter>
+		<drone>TRC_COMBAT_ASSEMBLED</drone>
+		<shots>8</shots>
+	</mv-droneShooter>
 	<speed>50</speed>
 	<shots>1</shots>
-	<sp>10</sp>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>15</cooldown>
+	<cooldown>12</cooldown>
 	<power>2</power>
+	<mv-resources>
+		<drones>1</drones>
+	</mv-resources>
 	<cost>60</cost>
 	<rarity>5</rarity>
 	<image>drone_gun_proj</image>
@@ -2520,25 +2426,12 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<title>'Systemshock'</title>
 	<short>'Sysshock'</short>
 	<tip>tip_cascade</tip>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>An overcharged ion weapon which causes a cascading effect when it directly hits a room, dealing 1 ion damage to all adjacent systems.
-
-		Stats:
-		Required Power: 2
-		Charge Time: 12 seconds
-
-		Shots Per Charge: 1
-		
-		Ion Damage: 2
-		Adjacent Ion Damage: 1
-		Shield Piercing: 2
-		
-		Stun Chance: 60% (3 seconds long)
-		
-		Default Price: 55~
-	</descriptionOverride>
+	<desc>An overcharged ion weapon which causes a cascading effect when it directly hits a room, dealing 1 ion damage to all adjacent systems.</desc>
 	<tooltip>Heavy laser; 2 damage, 1 shot. 9 second cooldown.</tooltip>
 	<ion>2</ion>
+	<mv-aoe>
+		<ion>1</ion>
+	</mv-aoe>
 	<speed>25</speed>
 	<shots>1</shots>
 	<fireTime>2.0</fireTime>
@@ -2626,34 +2519,19 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tip>tip_mind_weapon</tip>
 	<title>'Epistle of Madness'</title>
 	<short>'Epistle'</short>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>A weapon of ancient evil, which infiltrates the minds of its victims and turns them against each other. Inflicts mind control on any enemy it hits, but prevents them from receiving orders.
-
-		Stats:
-		Required Power: 3
-		Charge Time: 25 seconds
-		
-		Beam Length: 200
-		Beam Speed: 5
-
-		Shield Piercing: 9
-		
-		Mind Controls any enemy hit
-		Mind Control Duration: 45 seconds
-		
-		Fire Chance 10%
-		Breach Chance: 20%
-
-		Default Price: 125~
-	</descriptionOverride>
+	<desc>A weapon of ancient evil, which infiltrates the minds of its victims and turns them against each other. Inflicts mind control on any enemy it hits, but prevents them from receiving orders.</desc>
 	<tooltip>Beam weapon, 2 damage per room.</tooltip>
 	<damage>0</damage>
 	<sp>10</sp>
 	<fireChance>1</fireChance>
 	<breachChance>2</breachChance>
-	<cooldown>25</cooldown>
-	<power>3</power>
-	<cost>125</cost>
+	<mv-mindControl>
+		<duration>45</duration>
+	</mv-mindControl>
+	<cooldown>20</cooldown>
+	<power>2</power>
+	<cost>100</cost>
+	<mv-crewTarget>MOST_CREW</mv-crewTarget>
 	<color>
 		<r>255</r>
 		<g>255</g>
@@ -2668,11 +2546,45 @@ Has self-replicating abilities and does not need a missile.</desc>
 			<droneTarget>CREW</droneTarget>
 			<affectsSelf>false</affectsSelf>
 			<duration>45</duration>
-			<blackList load="LIST_CREW_MADNESS_IMMUNE"/>
+			<!--<blackList load="LIST_CREW_MADNESS_IMMUNE"/>-->
+			<blackList>
+				<slug_hektar_box/>
+				<unique_billy_box/>
+				<unique_irwin_demon/>
+				<unique_dessius/>
+				<siren/>
+				<siren_harpy/>
+				<eldritch_thing/>
+				<eldritch_thing_weak/>
+				<eldritch_cat/>
+				<gnome/>
+			</blackList>
+		</statBoost>
+		<statBoost name="silenced">
+			<boostType>SET</boostType>
+			<value>true</value>
+			<shipTarget>ALL</shipTarget>
+			<crewTarget>ENEMIES</crewTarget>
+			<droneTarget>CREW</droneTarget>
+			<affectsSelf>false</affectsSelf>
+			<duration>45</duration>
+			<!--<blackList load="LIST_CREW_MADNESS_IMMUNE"/>-->
+			<blackList>
+				<slug_hektar_box/>
+				<unique_billy_box/>
+				<unique_irwin_demon/>
+				<unique_dessius/>
+				<siren/>
+				<siren_harpy/>
+				<eldritch_thing/>
+				<eldritch_thing_weak/>
+				<eldritch_cat/>
+				<gnome/>
+			</blackList>
 		</statBoost>
 	</statBoosts>
 	<rarity>0</rarity>
-	<length>200</length>
+	<length>140</length>
 	<image>beam_contact</image>
 	<launchSounds>
 		<sound>beam2</sound>
@@ -2703,7 +2615,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<sp>0</sp>
 	<fireChance>0</fireChance>
 	<breachChance>0</breachChance>
-	<cooldown>15</cooldown>
+	<cooldown>17</cooldown>
 	<color>
 		<r>0</r>
 		<g>94</g>
@@ -2726,24 +2638,11 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tip>tip_beams</tip>
 	<title>Magma Gun</title>
 	<short>Magma</short>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>A bizarre gun only conceived in the mind of a madman. Although it's merely a Pinpoint Beam, its concentrated stream of superhot lava sets any room it touches completely on fire.
-
-		Stats:
-		Required Power: 2
-		Charge Time: 15 seconds
-
-		Beam Length: 1
-		Beam Speed: 1
-		
-		Lights all tiles on fire in any room hit
-
-		Default Price: 70~
-	</descriptionOverride>
+	<desc>A bizarre gun only conceived in the mind of a madman. Although it's merely a Pinpoint Beam, its concentrated stream of superhot lava sets any room it touches completely on fire.</desc>
 	<tooltip>Beam weapon, 2 damage per room.</tooltip>
-	<ionBeamFix>true</ionBeamFix>
 	<sp>0</sp>
 	<fireChance>10</fireChance>
+	<mv-fireFill/>
 	<breachChance>0</breachChance>
 	<cooldown>15</cooldown>
 	<color>
@@ -2832,19 +2731,33 @@ Has self-replicating abilities and does not need a missile.</desc>
 		Stats:
 		Required Power: 2
 		Charge Time: 14 seconds
-		Scrap Consumption: 3
 
 		Shot Radius: 50
 		Fires 5 Random Gems Per Shot
 		
-		Red Gem: 1 Hull Damage, No System Damage, 80% Fire Chance
+		Red Gem: 1 Hull Damage, 0 System Damage, 80% Fire Chance
 		Blue Gem: 1 Ion Damage
 		Green Gem: 1 Damage, 45 Crew Damage, 10 Seconds Stun
-		Cyan Gem: 1 Damage, Locks down room
+		Cyan Gem: 1 Damage, 0 System Damage, locks down room
 		Purple Gem: 1 Damage, 2 System Damage, 80% Breach Chance
+
+		Scrap Consumption: 3
 		
-		Default Price: 80~
+		Default Price: 80~   -   Selling Price: 40~
 	</descriptionOverride>
+	<tooltipOverride>Required Power: 2
+		Charge Time: 14 seconds
+
+		Shot Radius: 50
+		Fires 5 Random Gems Per Shot
+		
+		Red Gem: 1 Hull Damage, 0 System Damage, 80% Fire Chance
+		Blue Gem: 1 Ion Damage
+		Green Gem: 1 Damage, 45 Crew Damage, 10 Seconds Stun
+		Cyan Gem: 1 Damage, 0 System Damage, locks down room
+		Purple Gem: 1 Damage, 2 System Damage, 80% Breach Chance
+
+		Scrap Consumption: 3</tooltipOverride>
 	<tooltip>Fires a blast of debris across a random area doing up to 3 damage.</tooltip>
 	<radius>50</radius>
 	<shots>1</shots>
@@ -2854,6 +2767,9 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<breachChance>0</breachChance>
 	<cooldown>14</cooldown>
 	<power>2</power>
+	<mv-resources>
+		<scrap>3</scrap>
+	</mv-resources>
 	<cost>80</cost>
 	<bp>10</bp>
 	<speed>26</speed>
@@ -2897,27 +2813,17 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<title>Colonizer Bomb</title>
 	<short>Colonizer B.</short>
 	<locked>1</locked>
-	<desc>YOU SHOULD NEVER SEE THIS</desc>
-	<descriptionOverride>Self-teleporting device that mind controls an enemy crew in the room if there aren't any already. Can be used to target your own ship.
-
-		Stats:
-		Required Power: 1
-		Charge Time: 15 seconds
-		Missile Consumption: 1
-		Accuracy Bonus: 30%
-
-		Shots Per Charge: 1
-		
-		Mind Controls one enemy crew in the room
-		Mind Control Duration: 15 seconds
-		
-		Default Price: 75~
-	</descriptionOverride>
+	<desc>Self-teleporting device that mind controls an enemy crew in the room if there aren't any already. Can be used to target your own ship.</desc>
 	<tooltip>Bomb weapon; requires a missile; does 2 damage, but only damages system, not hull. Can target your own ship.</tooltip>
 	<damage>0</damage>
 	<sysDamage>0</sysDamage>
 	<persDamage>0</persDamage>
+	<mv-mindControl>
+		<limit>1</limit>
+		<duration>15</duration>
+	</mv-mindControl>
 	<accuracyMod>30</accuracyMod>
+	<mv-crewTarget>RANDOM</mv-crewTarget>
 	<missiles>1</missiles>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -2941,7 +2847,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 </weaponBlueprint>
 
 <crewBlueprint name="clone_soldier">
-    <desc>Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soliders rapidly decay after spawning.
+    <desc>Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soldiers rapidly decay after spawning.
 	
 	Inherited Human stat: minor suffocation resistance</desc>
     <cost>65</cost>
@@ -2955,7 +2861,7 @@ Has self-replicating abilities and does not need a missile.</desc>
     </powerList>
 </crewBlueprint>
 <crewBlueprint name="clone_soldier_slot">
-    <desc>Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soliders rapidly decay after spawning.
+    <desc>Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soldiers rapidly decay after spawning.
 	
 	Inherited Human stat: minor suffocation resistance</desc>
     <cost>65</cost>
@@ -2977,7 +2883,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tooltip>Fires 1 missile; does 3 damage; pierces all shields.</tooltip>
 	<damage>1</damage>
 	<accuracyMod>100</accuracyMod>
-	<speed>15</speed>
+	<speed>18</speed>
 	<shots>1</shots>
 	<sp>10</sp>
 	<fireChance>0</fireChance>
@@ -3037,6 +2943,10 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<type>LASER</type>
 	<title>Drone Popper</title>
 	<damage>0</damage>
+	<mv-pop>
+		<count>1</count>
+		<countSuper>1</countSuper>
+	</mv-pop>
 	<shots>1</shots>
 	<accuracyMod>100</accuracyMod>
 	<fireChance>0</fireChance>
@@ -3064,6 +2974,10 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<type>BURST</type>
 	<title>Drone Popper</title>
 	<damage>0</damage>
+	<mv-pop>
+		<count>1</count>
+		<countSuper>1</countSuper>
+	</mv-pop>
 	<radius>25</radius>
 	<accuracyMod>100</accuracyMod>
 	<spin>0</spin>
@@ -3241,6 +3155,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<short>'Theseus'</short>
 	<desc>This one of a kind combat drone comes with a built-in missile reserve. Requires a sum of 3 missiles to deploy, but does not consume missiles to fire.</desc>
 	<power>3</power>
+	<mv-droneMissileCost>3</mv-droneMissileCost>
 	<cooldown>1000</cooldown>
 	<dodge>0</dodge>
 	<speed>9</speed>
@@ -3406,11 +3321,11 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<tip>tip_crew</tip>
 	<title>Overshield Drone</title>
 	<short>Overshield</short>
-	<desc>Controllable utility drone which drains power from a system to provide shields to allied crew, massively reducing their damage from all sources.
+	<desc>Controllable utility shipboard drone which drains power from a system to provide shields and a damage buff to allied crew.
     
--50 HP, 0.75x movement speed
--Shields all allied crew in the room, providing them with 75% damage reduction from all sources
--Drains 3 power from any occupied system. Must be draining power to apply shields.</desc>
+-90 HP, 0.75x movement speed
+-Shields all allied crew in the room, providing them with 75% damage reduction from all sources and 30% increased combat damage
+-Drains 1 power from any occupied system. Must be draining power to apply shields.</desc>
 	<power>1</power>
 	<cost>40</cost>
 	<rarity>4</rarity>
@@ -3639,7 +3554,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	</systemList>
 	<weaponSlots>4</weaponSlots>
 	<droneSlots>2</droneSlots>
-	<weaponList missiles="8" count="4">
+	<weaponList missiles="14" count="4">
 		<weapon name="TRC_MISSILES_SHRAPNEL" />
 		<weapon name="TRC_BEAM_HULL_CHAIN" />
 	</weaponList>
@@ -3660,7 +3575,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<class>Collector's Engi Cruiser</class>
 	<name>Obsession-C</name>
 	<unlock id="ship_TRC_PLAYER_SHIP_ENGI_unlock"/>
-	<desc>Unlike the average Engi cruiser, which only appears to be made of junk loosely held together, this ship IS made of junk loosely held together.</desc>
+	<desc>Unlike the average Engi cruiser which only appears to be made of junk loosely held together, this ship IS made of junk loosely held together.</desc>
 	<systemList>
 		<battery max="2" power="1" room="13" start="false" img="room_battery_3" />
 		<cloaking power="1" room="5" start="false" img="room_cloaking_8" />
@@ -3727,7 +3642,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 		<drone name="DRONE_SHIELD" />
 	</droneList>
 	<health amount="30" />
-	<maxPower amount="7" />
+	<maxPower amount="9" />
 	<crewCount amount="1" class="engi_separatist_nano" />
 	<crewCount amount="1" class="phantom" />
 	<crewCount amount="1" class="lanius" />
@@ -3806,7 +3721,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	</weaponList>
 	<droneList drones="0" count="2" />
 	<health amount="30" />
-	<maxPower amount="6" />
+	<maxPower amount="7" />
 	<crewCount amount="1" class="human_technician" />
 	<crewCount amount="1" class="rock_outcast" />
 	<crewCount amount="1" class="rock_commando" />
@@ -3959,7 +3874,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	</systemList>
 	<weaponSlots>3</weaponSlots>
 	<droneSlots>2</droneSlots>
-	<weaponList missiles="12" count="3">
+	<weaponList missiles="16" count="3">
 		<weapon name="TRC_MISSILES_INSTANT" />
 		<weapon name="LASER_LIGHT" />
 	</weaponList>
@@ -4661,8 +4576,8 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<weaponSlots>3</weaponSlots>
 	<droneSlots>2</droneSlots>
 	<weaponList missiles="3" count="3">
-		<weapon name="TRC_LASER_PARTICLE_BIO_2" />
 		<weapon name="ION_HEAVY" />
+		<weapon name="TRC_LASER_PARTICLE_BIO_2" />
 	</weaponList>
 	<droneList drones="3" count="2" />
 	<health amount="30" />
@@ -4759,7 +4674,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<class>Collector's Spectral Cruiser</class>
 	<name>Abaddon</name>
 	<unlock id="ship_TRC_PLAYER_SHIP_DYNASTY_unlock"/>
-	<desc>After countless millenia of devising better and better weapons to promote infighting, the Dynasty finally realized their guns could kill ships from other factions too.</desc>
+	<desc>After countless millenia of devising better and better weapons to promote infighting, the Dynasty finally realized their guns could also tear apart ships from other factions.</desc>
 	<systemList>
 		<battery max="2" power="1" room="7" start="false" img="room_battery_9" />
 		<cloaking power="1" room="28" start="false" img="room_cloaking" />
@@ -5206,7 +5121,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<weaponSlots>2</weaponSlots>
 	<droneSlots>4</droneSlots>
 	<weaponList missiles="0" count="2" />
-	<droneList drones="4" count="4">
+	<droneList drones="6" count="4">
 		<drone name="COMBAT_2_BEAM" />
 		<drone name="TRC_DRONE_POP" />
 		<drone name="TRC_DRONE_POP" />
@@ -5262,7 +5177,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<number>0</number>
 			</slot>
 		</pilot>
-		<sensors power="1" room="26" start="false" img="room_sensors_2">
+		<sensors power="1" room="26" start="true" img="room_sensors_2">
 			<slot>
 				<direction>up</direction>
 				<number>0</number>
@@ -5288,8 +5203,9 @@ Has self-replicating abilities and does not need a missile.</desc>
 		<weapon name="TRC_DRONE_GUN" />
 		<weapon name="TRC_BOMB_DRONE" />
 	</weaponList>
-	<droneList drones="15" count="3">
+	<droneList drones="20" count="3">
 		<drone name="FOCUS_1_AMP2" />
+		<drone name="MANNING" />
 	</droneList>
 	<health amount="30" />
 	<maxPower amount="9" />
@@ -5660,14 +5576,14 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<number>1</number>
 			</slot>
 		</sensors>
-		<shields max="8" power="2" room="5" start="true" img="room_shields_2">
+		<shields max="4" power="2" room="5" start="true" img="room_shields_2">
 			<slot>
 				<direction>left</direction>
 				<number>0</number>
 			</slot>
 		</shields>
 		<teleporter power="1" room="2" start="false" />
-		<weapons max="8" power="5" room="6" start="true" img="room_weapons">
+		<weapons max="8" power="4" room="6" start="true" img="room_weapons">
 			<slot>
 				<direction>up</direction>
 				<number>1</number>
@@ -5684,7 +5600,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<health amount="30" />
 	<maxPower amount="8" />
 	<aug name="LOCKED_SLUG_GEL" />
-	<aug name="SYLVAN_SHIELD" />
+	<aug name="LOCKED_SYLVAN_SHIELD" />
 	<shieldImage>mup_long1</shieldImage>
 	<cloakImage>mup_sylvan_a</cloakImage>
 	<mv-mapImage>map_icon_mup_sylvan_a</mv-mapImage>
