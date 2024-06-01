@@ -163,6 +163,11 @@ msgstr ""
 "\n"
 "\t基础价格：55~"
 
+#: src-en/data/blueprints.xml.append:381
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/tooltipOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
@@ -200,6 +205,11 @@ msgstr ""
 "\t破舱几率：10/20/30/40% (修正后：9/16/21/24%)\n"
 "\n"
 "\t基础价格：70~"
+
+#: src-en/data/blueprints.xml.append:455
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/tooltipOverride"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:506
 msgid ""
@@ -239,6 +249,11 @@ msgstr ""
 "\n"
 "\t基础价格：60~"
 
+#: src-en/data/blueprints.xml.append:529
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/tooltipOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
@@ -273,6 +288,11 @@ msgstr ""
 "\t击晕几率：30/40/50/60% (3秒)\n"
 "\n"
 "\t基础价格：50~"
+
+#: src-en/data/blueprints.xml.append:600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/tooltipOverride"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:658
 msgid ""
@@ -562,6 +582,11 @@ msgstr ""
 "\t维护无人机寿命：90 秒\n"
 "\n"
 "\t基础价格：45~"
+
+#: src-en/data/blueprints.xml.append:1387
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/tooltipOverride"
+msgstr ""
 
 #: src-en/data/blueprints.xml.append:1464
 msgid ""
@@ -1080,6 +1105,11 @@ msgstr "你 不 应 该 看 到 这 个"
 #: src-en/data/blueprints.xml.append:2729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2748
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/tooltipOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:2813

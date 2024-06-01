@@ -38,6 +38,7 @@
         "//weaponBlueprint/short",
         "//weaponBlueprint[starts-with(@name,'ARTILLERY_')]/tooltip",
         "//weaponBlueprint/descriptionOverride",
+        "//weaponBlueprint/tooltipOverride",
         "//shipBlueprint/class",
         "//shipBlueprint/desc",
         "//shipBlueprint/name",

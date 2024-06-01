@@ -145,6 +145,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:381
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/tooltipOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
@@ -163,6 +168,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:436
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:455
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/tooltipOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:506
@@ -185,6 +195,11 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
 
+#: src-en/data/blueprints.xml.append:529
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/tooltipOverride"
+msgstr ""
+
 #: src-en/data/blueprints.xml.append:580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
@@ -203,6 +218,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:600
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/tooltipOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:658
@@ -476,6 +496,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1371
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1387
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/tooltipOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:1464
@@ -969,6 +994,11 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2748
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/tooltipOverride"
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:2813
