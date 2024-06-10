@@ -1,28 +1,27 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 11:29+0000\n"
+"Last-Translator: Helyx <Helyx@users.noreply.weblate.hyperq.be>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/datatext_miscxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
-msgstr ""
-"Astuce : L’équipage engendré ne compte pas dans votre limite d'équipage, "
-"mais n'est que temporaire. Ils ne peuvent pas non plus être clonés."
+msgstr "Astuce : L’équipage engendré ne compte pas dans votre limite d'équipage, mais n'est que temporaire. Ils ne peuvent pas non plus être clonés."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
-msgstr ""
-"Astuce : Les drones fabriqués fourniront temporairement des avantages avant "
-"leur expiration."
+msgstr "Astuce : Les drones fabriqués fourniront temporairement des avantages avant leur expiration."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
-msgstr ""
-"Astuce : Les ennemis frappés par cette arme seront soumis aux effets du "
-"contrôle mental, le cas échéant. L’effet n’héritera pas des bonus d’un "
-"système de contrôle mental amélioré que vous posséderiez."
+msgstr "Astuce : Les ennemis frappés par cette arme seront soumis aux effets du contrôle mental, le cas échéant. L’effet n’héritera pas des bonus d’un système de contrôle mental amélioré que vous posséderiez."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
@@ -32,16 +31,11 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
-msgstr ""
-"Astuce : Les Loupes gagnent des bonus supplémentaires à leurs statistiques "
-"pour chaque charge supplémentaire au lieu de plus de projectiles."
+msgstr "Astuce : Les Loupes gagnent des bonus supplémentaires à leurs statistiques pour chaque charge supplémentaire au lieu de plus de projectiles."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
-msgstr ""
-"Astuce : Les armes en cascade infligent certains types de dégâts à toutes "
-"les pièces adjacentes. Elles n’affectent pas les pièces connectées en "
-"diagonale."
+msgstr "Astuce : Les armes en cascade infligent certains types de dégâts à toutes les pièces adjacentes. Elles n’affectent pas les pièces connectées en diagonale."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
