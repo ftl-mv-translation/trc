@@ -1,102 +1,117 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-10 14:42+0000\n"
+"Last-Translator: Antoine Martin <antoine.martin.232@protonmail.com>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/dataevents_sector_unionxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/events_sector_union.xml.append:6
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Améliorer votre Rayon Rad. 'Faucon' II."
 
 #: src-en/data/events_sector_union.xml.append:8
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "Vous donnez l’arme à l’ingénieur, lui permettant de travailler dessus."
 
 #: src-en/data/events_sector_union.xml.append:14
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/text"
-msgstr ""
+msgstr "Continuer..."
 
 #: src-en/data/events_sector_union.xml.append:16
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
 msgstr ""
+"Après un court laps de temps, votre arme vous est retournée, parée d’une "
+"optimisation."
 
 #: src-en/data/events_sector_union.xml.append:23
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Améliorer votre Asphyxiateur Ion."
 
 #: src-en/data/events_sector_union.xml.append:25
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "Vous donnez l’arme à l’ingénieur, lui permettant de travailler dessus."
 
 #: src-en/data/events_sector_union.xml.append:31
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/text"
-msgstr ""
+msgstr "Continuer..."
 
 #: src-en/data/events_sector_union.xml.append:33
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
 msgstr ""
+"Après un court laps de temps, votre arme vous est retournée, parée d’une "
+"optimisation."
 
 #: src-en/data/events_sector_union.xml.append:40
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Améliorer votre Phaseur à Énergie."
 
 #: src-en/data/events_sector_union.xml.append:42
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "Vous donnez l’arme à l’ingénieur, lui permettant de travailler dessus."
 
 #: src-en/data/events_sector_union.xml.append:48
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/text"
-msgstr ""
+msgstr "Continuer..."
 
 #: src-en/data/events_sector_union.xml.append:50
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/event/text"
 msgstr ""
+"Après un court laps de temps, votre arme vous est retournée, parée d’une "
+"optimisation."
 
 #: src-en/data/events_sector_union.xml.append:57
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Améliorer votre Bombe à Particules."
 
 #: src-en/data/events_sector_union.xml.append:59
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "Vous donnez l’arme à l’ingénieur, lui permettant de travailler dessus."
 
 #: src-en/data/events_sector_union.xml.append:65
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/text"
-msgstr ""
+msgstr "Continuer..."
 
 #: src-en/data/events_sector_union.xml.append:67
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/event/text"
 msgstr ""
+"Après un court laps de temps, votre arme vous est retournée, parée d’une "
+"optimisation."
