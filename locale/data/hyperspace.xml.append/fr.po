@@ -1,36 +1,45 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-10 14:42+0000\n"
+"Last-Translator: Antoine Martin <antoine.martin.232@protonmail.com>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/datahyperspace-xml-append/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/hyperspace.xml.append:795
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Collector\"]/@name"
-msgstr ""
+msgstr "Collecteur"
 
 #: src-en/data/hyperspace.xml.append:814
 msgid "data/hyperspace.xml.append$//unique_sylvan[@name=\"Sylvan\"]/@name"
-msgstr ""
+msgstr "Sylvan"
 
 #: src-en/data/hyperspace.xml.append:939
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "CONTRÔLE"
 
 #: src-en/data/hyperspace.xml.append:940
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
+"[TEMPS DE RECHARGE:10s  DURÉE:6s]\n"
+"\t\t\t\tPrenez le contrôle de l’araignée."
 
 #: src-en/data/hyperspace.xml.append:1141
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
-msgstr ""
+msgstr "Drone Extincteur"
 
 #: src-en/data/hyperspace.xml.append:1145
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
-msgstr ""
+msgstr "Drone Tension"
 
 #: src-en/data/hyperspace.xml.append:1149
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_OVERSHIELD\"]/tooltipName"
-msgstr ""
+msgstr "Drone d'Exobouclier"
