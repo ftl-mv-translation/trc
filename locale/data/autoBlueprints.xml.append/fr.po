@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 12:55+0000\n"
-"Last-Translator: Helyx <Helyx@users.noreply.weblate.hyperq.be>\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/dataautoblueprintsxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
