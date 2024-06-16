@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-02 14:09+0000\n"
+"PO-Revision-Date: 2025-05-26 10:46+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_special_storagexmlappend/fr/>\n"
@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:4
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
 msgstr ""
-"Utiliser votre lance-mines. [-15}, retarde la flotte de 2 saut, n'impacte "
-"pas la notoriété]"
+"Utiliser votre lance-mines. "
+"[-15}, retarde la flotte de 2 saut, n'impacte pas la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
