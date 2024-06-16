@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-16 16:42+0000\n"
+"PO-Revision-Date: 2024-06-16 19:42+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/fr/>\n"
@@ -152,190 +152,341 @@ msgstr "Accélérateur II"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
 msgstr ""
+"Technologie à particules modifiée qui échange ses chances d'incendie contre "
+"des dégâts à l'équipage et des affaiblissements. Cette version augmente le "
+"temps de recharge et élargie la zone d'impact du rayon, mais tire plus de "
+"boulons."
 
 #: src-en/data/blueprints.xml.append:358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
-msgstr ""
+msgstr "Magnifieur MK I"
 
 #: src-en/data/blueprints.xml.append:359
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
-msgstr ""
+msgstr "Magnifieur I"
 
 #: src-en/data/blueprints.xml.append:361
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:362
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
+"Les Magnifieurs utilisent une technologie spéciale pour augmenter leur "
+"puissance à chaque charge, plutôt que d'obtenir des projectiles "
+"supplémentaires. Chaque charge augmente les dégâts et les chances d'obtenir "
+"un effet d'état. Les charges deviennent progressivement plus rapides.\n"
+"\n"
+"\t\tCaractéristiques :\n"
+"\t\tPuissance requise : 1\n"
+"\t\tTemps de charge : 11 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 3\n"
+"\t\tBonus de vitesse de chargement : x1,3 par charge\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 2/3/4\n"
+"\t\tDommages totaux au système : 2/3/4\n"
+"\t\tDommages totaux à l'équipage : 30/45/60\n"
+"\t\t\n"
+"\t\tRisque d'incendie : 10/20/30% \n"
+"\t\tRisque de brèche : 10/20/30% (ajusté : 9/16/21%)\n"
+"\n"
+"\t\tPrix par défaut : 55~   -   Prix de vente : 27~"
 
 #: src-en/data/blueprints.xml.append:381
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 1\n"
+"\t\tTemps de charge : 11 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 3\n"
+"\t\tBonus de vitesse de chargement : x1,3 par charge\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 2/3/4\n"
+"\t\tDommages totaux au système : 2/3/4\n"
+"\t\tDommages totaux à l'équipage : 30/45/60\n"
+"\t\t\n"
+"\t\tRisque d'incendie : 10/20/30%\n"
+"\t\tRisque de brèche : 10/20/30% (ajusté : 9/16/21%)"
 
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
-msgstr ""
+msgstr "Magnifieur MK II"
 
 #: src-en/data/blueprints.xml.append:433
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
-msgstr ""
+msgstr "Magnifieur II"
 
 #: src-en/data/blueprints.xml.append:435
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:436
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
+"Les Magnifieurs utilisent une technologie spéciale pour augmenter leur "
+"puissance à chaque charge, plutôt que d'obtenir des projectiles "
+"supplémentaires. Chaque charge augmente les dégâts et les chances d'obtenir "
+"un effet d'état. Les charges deviennent progressivement plus rapides.\n"
+"\n"
+"\t\tCaractéristiques :\n"
+"\t\tPuissance requise : 2\n"
+"\t\tTemps de charge : 13 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 4\n"
+"\t\tBonus de vitesse de chargement : x1,5 par charge\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 3/4/5/6\n"
+"\t\tDommages totaux au système : 3/4/5/6\n"
+"\t\tDommages totaux à l'équipage : 45/60/75/90\n"
+"\t\t\n"
+"\t\tRisque d'incendie : 10/20/30/40%\n"
+"\t\tRisque de brèche : 10/20/30/40% (ajusté : 9/16/21/24%)\n"
+"\n"
+"\t\tPrix par défaut : 70~   -   Prix de vente : 35~"
 
 #: src-en/data/blueprints.xml.append:455
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 2\n"
+"\t\tTemps de charge : 13 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 4\n"
+"\t\tBonus de vitesse de chargement : x1,5 par charge\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 3/4/5/6\n"
+"\t\tDommages totaux au système : 3/4/5/6\n"
+"\t\tDommages totaux à l'équipage : 45/60/75/90\n"
+"\t\t\n"
+"\t\tRisque d'incendie : 10/20/30/40%\n"
+"\t\tRisque de brèche : 10/20/30/40% (ajusté : 9/16/21/24%)"
 
 #: src-en/data/blueprints.xml.append:506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
-msgstr ""
+msgstr "Magnifieur Perforant"
 
 #: src-en/data/blueprints.xml.append:507
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr ""
+msgstr "Magnifieur Perforant."
 
 #: src-en/data/blueprints.xml.append:509
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:510
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
+"Les Magnifieurs utilisent une technologie spéciale pour augmenter leur "
+"puissance à chaque charge, plutôt que d'obtenir des projectiles "
+"supplémentaires. Chaque charge augmente les chances de percer le bouclier et "
+"d'ouvrir une brèche. Les charges deviennent progressivement plus rapides.\n"
+"\n"
+"\t\tCaractéristiques :\n"
+"\t\tPuissance requise : 2\n"
+"\t\tTemps de charge : 9 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 4\n"
+"\t\tPerforation du bouclier : 1/2/3/4\n"
+"\t\tBonus de vitesse de chargement : x1.5 par charge\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 2\n"
+"\t\tDommages totaux au système : 2\n"
+"\t\tDommages totaux à l'équipage : 30\n"
+"\t\t\n"
+"\t\tRisque de brèche : 60/70/80/90%\n"
+"\n"
+"\t\tPrix par défaut : 60~   -   Prix de vente : 30~"
 
 #: src-en/data/blueprints.xml.append:529
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 2\n"
+"\t\tTemps de charge : 9 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 4\n"
+"\t\tPerforation du bouclier : 1/2/3/4\n"
+"\t\tBonus de vitesse de chargement : x1.5 par charge\n"
+"\t\t\n"
+"\t\tDommages de base à la coque : 2\n"
+"\t\tDommages totaux au système : 2\n"
+"\t\tDommages totaux à l'équipage : 30\n"
+"\t\t\n"
+"\t\tRisque de brèche : 60/70/80/90%"
 
 #: src-en/data/blueprints.xml.append:580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
-msgstr ""
+msgstr "Magnifieur Ionisant"
 
 #: src-en/data/blueprints.xml.append:581
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
-msgstr ""
+msgstr "Magnifieur Ionisant."
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:584
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
+"Les Magnifieurs utilisent une technologie spéciale pour augmenter leur "
+"puissance à chaque charge, plutôt que d'obtenir des projectiles "
+"supplémentaires. Chaque charge augmente les dégâts ioniques et les chances "
+"d'étourdissement. Les charges deviennent progressivement plus rapides.\n"
+"\n"
+"\t\tCaractéristiques :\n"
+"\t\tPuissance requise : 1\n"
+"\t\tTemps de charge : 8 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 4\n"
+"\t\tBonus de vitesse de charge : x1.2 par charge\n"
+"\t\t\n"
+"\t\tDégâts ioniques : 1/2/3/4\n"
+"\t\t\n"
+"\t\tChance d'étourdissement : 30/40/50/60% (pendant 3 secondes)\n"
+"\n"
+"\t\tPrix par défaut : 50~   -   Prix de vente : 25~"
 
 #: src-en/data/blueprints.xml.append:600
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/tooltipOverride"
 msgstr ""
+"Puissance requise : 1\n"
+"\t\tTemps de charge : 8 secondes\n"
+"\t\tBonus de précision : +10%\n"
+"\n"
+"\t\tCharges maximales : 4\n"
+"\t\tBonus de vitesse de charge : x1.2 par charge\n"
+"\t\t\n"
+"\t\tDégâts ioniques : 1/2/3/4\n"
+"\t\t\n"
+"\t\tChance d'étourdissement : 30/40/50/60% (pendant 3 secondes)"
 
 #: src-en/data/blueprints.xml.append:658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
-msgstr ""
+msgstr "Rayon Fissurant 'Fangtian'"
 
 #: src-en/data/blueprints.xml.append:659
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
-msgstr ""
+msgstr "'Fangtian'"
 
 #: src-en/data/blueprints.xml.append:660
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
 msgstr ""
+"Les rayons fissurant infligent des dégâts par tuile plutôt que par pièce. Ce "
+"rayon est spécialisé dans la destruction des systèmes et peut infliger des "
+"dégâts d'autant plus importants que le système est grand."
 
 #: src-en/data/blueprints.xml.append:687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
-msgstr ""
+msgstr "Rayon Radiant 'Faucon' II"
 
 #: src-en/data/blueprints.xml.append:688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
-msgstr ""
+msgstr "'Faucon' II"
 
 #: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
 msgstr ""
+"Ce terrifiant rayon à radiation inflige de lourds dégâts à l'équipage et les "
+"affaiblit. Il est plus long et fait plus de dégâts que le MK I, mais ne "
+"perce pas les boucliers."
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
-msgstr ""
+msgstr "Rayon Radiant 'Faucon' II†"
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
-msgstr ""
+msgstr "'Faucon' II†"
 
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
 msgstr ""
+"Ce terrifiant rayon à radiation inflige de lourds dégâts à l'équipage et les "
+"affaiblit. Il est plus long et fait plus de dégâts que le MK I, mais ne "
+"perce pas les boucliers."
 
 #: src-en/data/blueprints.xml.append:760
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
-msgstr ""
+msgstr "Rayon 'Bardiche'"
 
 #: src-en/data/blueprints.xml.append:761
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
-msgstr ""
+msgstr "'Bardiche'"
 
 #: src-en/data/blueprints.xml.append:763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
 msgstr ""
+"Ce rayon se charge plus rapidement à chaque tir, et peut également infliger "
+"de lourds dégâts à la coque lorsqu'il est dirigé vers des pièces vides."
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/title"
-msgstr ""
+msgstr "Rayon 'Kagiyari'"
 
 #: src-en/data/blueprints.xml.append:794
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/short"
-msgstr ""
+msgstr "'Kagiyari'"
 
 #: src-en/data/blueprints.xml.append:795
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
 msgstr ""
+"Un rayon adaptatif lent mais autonome qui peut évoluer à l'infini si on lui "
+"laisse le temps d'accumuler de l'énergie, mais qui a besoin de plus de temps "
+"pour traiter efficacement les systèmes. Les armes conservatrices ne "
+"consomment pas d'énergie mais ont besoin d'une autre arme pour être "
+"alimentées."
 
 #: src-en/data/blueprints.xml.append:834
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
-msgstr ""
+msgstr "Apshyxiateur Ionique"
 
 #: src-en/data/blueprints.xml.append:835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
-msgstr ""
+msgstr "Apshyxiateur"
 
 #: src-en/data/blueprints.xml.append:838
 msgid ""
@@ -519,7 +670,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1370
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:1371
 msgid ""
@@ -594,7 +745,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:1593
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
@@ -671,7 +822,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1722
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:1723
 msgid ""
@@ -808,7 +959,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2230
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2264
 msgid ""
@@ -947,7 +1098,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2670
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2678
 msgid ""
@@ -961,7 +1112,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2680
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2686
 msgid ""
@@ -976,7 +1127,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2696
 msgid ""
@@ -990,7 +1141,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2698
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2706
 msgid ""
@@ -1005,7 +1156,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2708
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2725
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
@@ -1017,7 +1168,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2728
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:2729
 msgid ""
@@ -1203,7 +1354,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3123
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
-msgstr ""
+msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 
 #: src-en/data/blueprints.xml.append:3154
 msgid ""
