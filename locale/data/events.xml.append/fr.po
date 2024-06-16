@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-16 13:42+0000\n"
+"PO-Revision-Date: 2024-06-16 16:42+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/fr/>\n"
@@ -153,7 +153,7 @@ msgstr "Accepter la prime ; 'Les Artisans'"
 #: src-en/data/events.xml.append:79
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_rock\"]/text"
-msgstr "Accepter la prime ; 'Les Nantis'"
+msgstr "Accepter la prime ; 'Le Nanti'"
 
 #: src-en/data/events.xml.append:87
 msgid ""
@@ -806,22 +806,41 @@ msgstr ""
 #: src-en/data/events.xml.append:441
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Est-ce... normal ? Vous couper les membres, je veux dire ?"
 
 #: src-en/data/events.xml.append:443
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"NORMAL ? Qu'est-ce qui est encore normal ? C'était une époque paisible "
+"avant l'ère des nouveaux dieux. Une époque simple, mais paisible, si je puis "
+"dire. Un jour, une brèche s'est ouverte et le mal est apparu comme vous ne "
+"l'avez jamais vu. Ce sont les dieux qui nous ont sauvés. Des intrus pour "
+"combattre les intrus. Ils nous dépossèdent de nos membres, oui. Mais il faut "
+"faire des sacrifices, je suppose. Mais pour moi ? Ce n'est pas une question "
+"de salaire. J'étais un homme d'artisanat avant l'avènement de l'ère, et je "
+"suis un homme d'artisanat aujourd'hui. Ma quête éternelle est de forger une "
+"arme si puissante que même les DIEUX trembleront devant elle ! Et alors, "
+"moi, LOWLY MORTAL ALOV, JE DEVIENDRAI LE PLUS GRAND SEIGNEUR ! SACRO-SAINT "
+"CHAMPION DES MORTELS ! TUEUR DE L'EFFROYABLE... l'effroyable...\""
 
 #: src-en/data/events.xml.append:445
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "L'effroyable qui ?"
 
 #: src-en/data/events.xml.append:447
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Le Rocailleux accorde soudain sa voix à un murmure. Il se rapproche du "
+"micro, aussi près que possible, et murmure : « Elle ». Vous haussez un "
+"sourcil, mais il ne veut pas s'étendre sur le sujet. \"Cela fait longtemps "
+"que le diable est arrivé. On dit que les cieux sont gardés par un nouveau "
+"maître. Une humble forme, voire un mortel comme moi, qui a banni le diable "
+"avec son arrivée. J'ai du mal à y croire. Mais si c'est vrai, c'est son "
+"trône que je cherche. ET CE SERA LE MIEN ! Maintenant, assez de ce badinage "
+"inutile. Vos questions pestilentielles corrompent mon génie.\""
 
 #: src-en/data/events.xml.append:449
 msgid ""
@@ -832,6 +851,9 @@ msgstr "Attaquer l'anomalie."
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"ET DONC VOUS REJETEZ MA PROMESSE DE LA GRANDEUR ÉTERNELLE DE MON GÉNIE PAR-"
+"DESSUS TOUT ? Vous n'êtes que de la racaille, au plus bas de l'enfer. ALLEZ "
+"VOUS FAIRE VOIR, PAÏENS !\""
 
 #: src-en/data/events.xml.append:454
 msgid ""
@@ -847,6 +869,7 @@ msgstr "L'attaquer immédiatement !"
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/text"
 msgstr ""
+"\"PAÏENS, À TRIBORD !Je vais déchaîner ma FURIE ULTIME SUR VOUS, MONSTRE !\""
 
 #: src-en/data/events.xml.append:473
 msgid ""
@@ -877,6 +900,13 @@ msgstr "Ne rien faire."
 #: src-en/data/events.xml.append:502
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/text"
 msgstr ""
+"\"Vous pensez m'avoir éliminé pour de bon ? Vous pensez que c'est la fin ? "
+"Pitoyable gâcheur de vie, vous n'avez aucune idée du peu que cela change. Je "
+"suis si infiniment riche que je ne peux même pas vraiment mourir. Mes "
+"comptes en banque sont une ancre dans mon âme. Je ne peux pas mourir. Je "
+"suis éternel. Quand vous serez mort, enterré et oublié, je continuerai à "
+"amasser plus d'argent en une microseconde que toute ta lignée ne le fera "
+"jamais.\""
 
 #: src-en/data/events.xml.append:506
 msgid ""
@@ -897,11 +927,15 @@ msgstr ""
 #: src-en/data/events.xml.append:516
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement de la prime 'Le Nanti'."
 
 #: src-en/data/events.xml.append:520
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/text"
 msgstr ""
+"Vos yeux sont presque immédiatement attirés par un vaisseau Lanius doré. "
+"Vous pensez d'abord que l'or n'est que de la peinture, mais les scanners "
+"suggèrent que le vaisseau est littéralement fait d'or pur et renforcé par "
+"une sorte d'alliage non identifié."
 
 #: src-en/data/events.xml.append:522
 msgid ""
@@ -912,26 +946,60 @@ msgstr "Contacter le vaisseau."
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/text"
 msgstr ""
+"L'équipage Lanius reste presque parfaitement immobile, fixant la caméra. "
+"Vous vous sentez bafoué par la façon dont ils vous regardent et vous êtes "
+"sur le point de raccrocher avant que l'un d'entre eux ne s'avance et ne "
+"parle. \"Vous êtes révoltants.\""
 
 #: src-en/data/events.xml.append:526
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Excusez-moi ?"
 
 #: src-en/data/events.xml.append:528
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Vous me parlez ? Misérable ver ? Ne comprenez-vous pas mon ascension ? Je "
+"suis la richesse incarnée. Je suis les veines incandescentes de la félicité "
+"libertaire. Je suis le capitalisme. Mes comptes en banque grossissent "
+"tellement qu'on a inventé un nouveau chiffre pour décrire ma magnifique "
+"richesse. Je possède des réalités entières. Je possède la vie elle-même. Je "
+"n'ai pas seulement gagné le jeu de la vie. Je suis le jeu de la vie. Vous ne "
+"valez rien à côté de moi. La valeur de votre vie est si répugnante, si "
+"pitoyablement basse que je pourrais simplement vous noyer dans ma monnaie de "
+"poche. Je pourrais vous étouffer jusqu'à la mort avec le volume pur de ma "
+"fortune incompréhensiblement grande. Vous n'êtes RIEN. Vous êtes une tache "
+"de merde que je paie à quelqu'un pour qu'il paie à quelqu'un pour qu'il paie "
+"à quelqu'un pour qu'il paie à quelqu'un pour qu'il la nettoie. Comprenez-"
+"vous cela ? Il n'y a même pas 6 degrés de connexion entre nous. Je suis sur "
+"un autre plan d'existence que vous. Je SUIS un autre plan d'existence. Je "
+"suis si incroyablement supérieur à toi que lorsque vous parlez, je ne "
+"t'entends même pas. Tout ce que j'entends, c'est le gémissement sourd des "
+"billions de cafards sans valeur comme vous que je piétine chaque jour sur "
+"mon chemin pour gagner un autre quintillion de dollars en existant "
+"simplement. JE VOUS DÉTESTE. JE VOUS DÉTESTE. Je vous souhaite le pire "
+"destin possible, espèce de honte détestable et pitoyable. Il n'y a même pas "
+"de mot dans le dictionnaire pour décrire la bassesse avec laquelle je vous "
+"vois. Pour contenir le pur vitriol que je ressens face à votre existence "
+"détestable, et à quel point vous m'insultez par le simple fait d'exister. Je "
+"vais donc en inventer un. Thatchfizgler.\""
 
 #: src-en/data/events.xml.append:530
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "J... euh... quoi ?"
 
 #: src-en/data/events.xml.append:532
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Vous ne valez même pas le poids de mes excréments, ignoble bulbe de pus. "
+"Quand vous serez mort, j'achèterai toute cette réalité et j'utiliserai la "
+"viande prélevée sur chacun de ses habitants pour créer une chambre de "
+"torture vivante où je ferai des simulations sans fin de votre conscience "
+"sans valeur en train de vivre le plus douloureusement possible...\" Vous "
+"coupez les communications et chargez vos armes."
 
 #: src-en/data/events.xml.append:535
 msgid ""
@@ -947,6 +1015,9 @@ msgstr "L'attaquer immédiatement !"
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/text"
 msgstr ""
+"\"La tache sans valeur cherche à défier le puissant dieu du marché libre "
+"éternel ? Je vais te réduire en pâte, assemblage sans valeur de molécules à "
+"peine sensibles.\""
 
 #: src-en/data/events.xml.append:550
 msgid ""
@@ -978,64 +1049,121 @@ msgstr "Ne rien faire."
 #: src-en/data/events.xml.append:579
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/text"
 msgstr ""
+"D'une manière ou d'une autre, vous avez réussi à éliminer l'ennemi. Vous "
+"commencez à démanteler le vaisseau."
 
 #: src-en/data/events.xml.append:583
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/text"
-msgstr ""
+msgstr "Contacter à nouveau le collectionneur."
 
 #: src-en/data/events.xml.append:585
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/event/text"
 msgstr ""
+"\"Ccc'est vraiment miraculeux ! Je sssuis ssssurpris que vous vous zzen "
+"sssoyez sssorti vivant, étranger ! Vous zzavez jussste de la chanccce que "
+"cccelui-là n'ait pas zzété armé. Vous zzavez fait du bon travail, étranger.\""
+"\n"
+"\t\t\t\n"
+"\t\t\t\"Cccette... sssonde. Ccc'est une curiozzité, ccc'est cccertain. Il "
+"ssserait dommage de la détruire maintenant. Je mènerai d'autres zzétudes sur "
+"elle pendant mon temps libre. Mais pour que votre temps en vaille la peine, "
+"un cadeau ssspécccial est nécccessssaire. Il sss'agit d'une réplique de "
+"l'arme pour laquelle j'ai métaphoriquement vendu mon âme. Ccce qui nous zza "
+"mis dans ccce pétrin. Utilizzez-le bien, étranger. On ne peut qu'essspérer "
+"qu'elle n'ait pas d'effets sssecondaires indézzirables.\""
 
 #: src-en/data/events.xml.append:596
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "Emplacement de la prime 'La Sonde'."
 
 #: src-en/data/events.xml.append:604
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
 msgstr ""
+"Vous êtes arrivé à l'emplacement. Un petit auto-vaisseau vert est visible au "
+"loin - un module de piratage de forme inhabituelle est attaché à "
+"l'extérieur. Le drone ne semble pas armé et est relativement petit, ce qui "
+"signifie qu'il ne représente pas une réelle menace."
 
 #: src-en/data/events.xml.append:606
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
-msgstr ""
+msgstr "Approcher la sonde."
 
 #: src-en/data/events.xml.append:608
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
 msgstr ""
+"Dès que vous vous approchez, la sonde se verrouille sur votre coque et "
+"commence à tourner en rond autour de vous. \"A***-AI***- Quelqu'un peut "
+"m'****der ? S'il vous plaît, sau****. Il s'ag** d'un mes*** urgent !\" Il "
+"est difficile de comprendre ce qui est dit - en plus des parasites, le "
+"message est brouillé et son volume fluctue."
 
 #: src-en/data/events.xml.append:610
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Nous vous entendons. En quelque sorte."
 
 #: src-en/data/events.xml.append:612
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"L'ai-je fait - OH M* *** ! ÇA A ***CHÉ ! S'il *** plaît, qui *** vous so***, "
+"vous de*** ***outer. Nous av*** *** de temps. Je ne sais *** ce *** vous ***"
+"vez, mais *** *** a *** trio. Un En***, un Zo*** et un Ro***. S'il *** "
+"plaît, dites *** que les cho*** peuvent ***bler mauv*** mais *** y a ***ore "
+"de l'**poir. **** n'a pas **agné - pas **core. La quaran** peut être bris***"
+". Je trav*** sur quel***chose. Un moyen *** *** passer le mess***. Il sera "
+"***ché - un *** de le faire **asser aux éclair***. Un je*** - un jeu *** "
+"être. Pour *** savoir à qui *** bien l'ent*** ce qui se ***asse ici. Ce *** "
+"cette ***ose nous a f*** - et que Prim** conti*** de laisser fai**. Je ne "
+"s*** pas quand il sera pr***, ni à qui il ***ssera, mais si n*** le ***"
+"fusons au plus ***and nom***, quelqu'un sau*** quoi fai*** de *** savoir. Et "
+"- et s'il *** plaît, qui *** vous soy*** à l'autre ***out de l'écr***. "
+"Assurez-v*** que ce ***ssage leur parvien***. Th*** - s*** nom est ***st. Je "
+"*** en ***lie, ri*** n'est ***us ***tant que ***. **************************"
+"\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tLe message se termine brusquement par des parasites. Vous "
+"manipulez vos communications, espérant pouvoir rétablir la connexion. "
+"Malheureusement, rien ne semble régler le problème. Vous notez le peu que "
+"vous pouvez comprendre, mais vous n'avez aucune idée de la signification du "
+"message."
 
 #: src-en/data/events.xml.append:616
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Abandonner et couper les communications."
 
 #: src-en/data/events.xml.append:618
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Alors que vous êtes sur le point de couper les communications, une brèche "
+"s'ouvre à proximité. Un grand vaisseau automatique arrive, d'une couleur "
+"différente de tout ce que vous avez vu. Les symboles sur sa coque "
+"ressemblent à ceux du Collectionneur, mais vous n'avez toujours aucune idée "
+"de leur signification. L'auto-vaisseau vous ignore et scrute la sonde.\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tPendant ce temps, vous recevez un autre appel longue distance "
+"du Collectionneur. \"Étranger, ccc'est... pas bon. Il sssemble que mes "
+"zzemployeurs nous aient trouvés ! Ou plutôt, ils ne m'ont pas trouvé. Ouf ! "
+"Pas zzencore, du moins. Mais vous devez arrêter ce vaisssseau avant qu'il ne "
+"fasssse ssson rapport à mes zzemployeurs, sssinon tout est en danger !\""
 
 #: src-en/data/events.xml.append:623
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Défendre la sonde et attaquer le vaisseau."
 
 #: src-en/data/events.xml.append:625
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"DÉTECTION D'ANOMALIES MULTIPLES ET D'UN VAISSEAU HOSTILE EN APPROCHE. "
+"DÉPLOIEMENT DES MESURES DE QUARANTAINE.\""
 
 #: src-en/data/events.xml.append:628
 msgid ""
