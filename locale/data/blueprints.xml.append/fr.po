@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 10:46+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"the-renegade-collection/datablueprintsxmlappend/fr/>\n"
+"PO-Revision-Date: 2025-05-26 11:17+0000\n"
+"Last-Translator: Sowa <jb.del@live.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1021,11 +1020,7 @@ msgstr "Virale"
 
 #: src-en/data/blueprints.xml.append:2072
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
-msgstr ""
-"Interdites dans plusieurs secteurs de l'espace, les Paraboles virales "
-"dissipent des radiations hautement toxiques, infligeant des dégâts à "
-"l'équipage non seulement dans la pièce ciblée, mais également dans toutes "
-"les pièces adjacentes."
+msgstr "Interdites dans plusieurs secteurs de l'espace, les Paraboles virales dissipent des radiations hautement toxiques, infligeant des dégâts à l'équipage non seulement dans la pièce ciblée, mais également dans toutes les pièces adjacentes."
 
 #: src-en/data/blueprints.xml.append:2124
 msgid ""
@@ -1375,10 +1370,7 @@ msgstr "B. colonisatrice."
 #: src-en/data/blueprints.xml.append:2816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
-msgstr ""
-"Dispositif auto-téléporté qui contrôle l'esprit d'un équipage ennemi dans la "
-"pièce s'il n'y en a pas déjà. Peut être utilisé pour cibler votre propre "
-"vaisseau."
+msgstr "Dispositif auto-téléporté qui contrôle l'esprit d'un équipage ennemi dans la pièce s'il n'y en a pas déjà. Peut être utilisé pour cibler votre propre vaisseau."
 
 #: src-en/data/blueprints.xml.append:2850
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
@@ -1460,8 +1452,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
-msgstr ""
-"Lanceur de Module de clone d'intrusion de grade militaire de la Fédération"
+msgstr "Lanceur de Module de clone d'intrusion de grade militaire de la Fédération"
 
 #: src-en/data/blueprints.xml.append:2881
 msgid ""
