@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 02:42+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"PO-Revision-Date: 2024-06-17 21:42+0000\n"
+"Last-Translator: Sowa <jb.del@live.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -1013,7 +1013,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2069
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
-msgstr "Parabole Virale"
+msgstr "Parabole virale"
 
 #: src-en/data/blueprints.xml.append:2070
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
@@ -1022,15 +1022,15 @@ msgstr "Virale"
 #: src-en/data/blueprints.xml.append:2072
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
 msgstr ""
-"Interdit dans plusieurs secteurs de l'espace, Parabole Virale dissipe des "
-"radiations hautement toxiques, infligeant des dégâts à l'équipage non "
-"seulement dans la pièce ciblée, mais également dans toutes les pièces "
-"adjacentes."
+"Interdites dans plusieurs secteurs de l'espace, les Paraboles virales "
+"dissipent des radiations hautement toxiques, infligeant des dégâts à "
+"l'équipage non seulement dans la pièce ciblée, mais également dans toutes "
+"les pièces adjacentes."
 
 #: src-en/data/blueprints.xml.append:2124
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
-msgstr "Lanceur de Mines 'Baal'"
+msgstr "Lanceur de mines 'Baal'"
 
 #: src-en/data/blueprints.xml.append:2125
 msgid ""
@@ -1041,7 +1041,7 @@ msgstr "'Baal'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
-"Les Lanceurs de Mines se chargent rapidement et tirent un barrage de "
+"Les Lanceurs de mines se chargent rapidement et tirent un barrage de "
 "projectiles à déplacement lent. Ils servent également à poser efficacement "
 "des pièges pour la flotte.\n"
 "\n"
@@ -1083,12 +1083,12 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:2264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
-msgstr "Flak Givrante"
+msgstr "Flak givrante"
 
 #: src-en/data/blueprints.xml.append:2265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
-msgstr "Flak Givrante"
+msgstr "Flak givrante"
 
 #: src-en/data/blueprints.xml.append:2267
 msgid ""
@@ -1115,7 +1115,7 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:2335
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
-msgstr "Canon Assemblé"
+msgstr "Canon assemblé"
 
 #: src-en/data/blueprints.xml.append:2336
 msgid ""
@@ -1216,7 +1216,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2639
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
-msgstr "Canon Magma"
+msgstr "Canon magma"
 
 #: src-en/data/blueprints.xml.append:2640
 msgid ""
@@ -1363,20 +1363,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
-msgstr "Bombe Colonisatrice"
+msgstr "Bombe colonisatrice"
 
 #: src-en/data/blueprints.xml.append:2814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
-msgstr "B. Colonisatrice."
+msgstr "B. colonisatrice."
 
 #: src-en/data/blueprints.xml.append:2816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
 msgstr ""
-"Dispositif d'auto-téléportation qui contrôle l'esprit de l'équipage ennemi "
-"dans la pièce s'il n'y en a pas déjà. Peut être utilisé pour cibler votre "
-"propre vaisseau."
+"Dispositif auto-téléporté qui contrôle l'esprit d'un équipage ennemi dans la "
+"pièce s'il n'y en a pas déjà. Peut être utilisé pour cibler votre propre "
+"vaisseau."
 
 #: src-en/data/blueprints.xml.append:2850
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:2854
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
-msgstr "Soldat Cloné"
+msgstr "Soldat cloné"
 
 #: src-en/data/blueprints.xml.append:2855
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
@@ -1429,7 +1429,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2868
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
-msgstr "Soldat Cloné"
+msgstr "Soldat cloné"
 
 #: src-en/data/blueprints.xml.append:2869
 msgid ""
@@ -1459,7 +1459,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
 msgstr ""
-"Lanceur de Module de Clone d'Intrusion de Grade Militaire de la Fédération"
+"Lanceur de Module de clone d'intrusion de grade militaire de la Fédération"
 
 #: src-en/data/blueprints.xml.append:2881
 msgid ""
@@ -1484,7 +1484,7 @@ msgstr "Popper Drone"
 
 #: src-en/data/blueprints.xml.append:3011
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
-msgstr "Drone Suppresseur Mk. I"
+msgstr "Drone suppresseur Mk. I"
 
 #: src-en/data/blueprints.xml.append:3012
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
@@ -1500,7 +1500,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3026
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
-msgstr "Drone Suppresseur Mk. II"
+msgstr "Drone suppresseur Mk. II"
 
 #: src-en/data/blueprints.xml.append:3027
 msgid ""
@@ -1520,12 +1520,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3041
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
-msgstr "Bombe à Drone"
+msgstr "Bombe à drone"
 
 #: src-en/data/blueprints.xml.append:3062
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
-msgstr "Bombe à Drone"
+msgstr "Bombe à drone"
 
 #: src-en/data/blueprints.xml.append:3086
 msgid ""
@@ -1566,12 +1566,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
-msgstr "Drone à Missile"
+msgstr "Drone à missile"
 
 #: src-en/data/blueprints.xml.append:3122
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
-msgstr "Drone à Missile"
+msgstr "Drone à missile"
 
 #: src-en/data/blueprints.xml.append:3123
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
@@ -1580,7 +1580,7 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:3154
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
-msgstr "Drone à Missile 'Theseus'"
+msgstr "Drone à missile 'Theseus'"
 
 #: src-en/data/blueprints.xml.append:3155
 msgid ""
@@ -1598,7 +1598,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
-msgstr "Flak Drone"
+msgstr "Flak drone"
 
 #: src-en/data/blueprints.xml.append:3208
 msgid ""
@@ -1639,12 +1639,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3253
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
-msgstr "Drone Extincteur"
+msgstr "Drone extincteur"
 
 #: src-en/data/blueprints.xml.append:3254
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
-msgstr "Drone Extincteur"
+msgstr "Drone extincteur"
 
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
@@ -1659,7 +1659,7 @@ msgstr "DRONE"
 #: src-en/data/blueprints.xml.append:3266
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
-msgstr "Drone Extincteur"
+msgstr "Drone extincteur"
 
 #: src-en/data/blueprints.xml.append:3267
 msgid ""
@@ -1680,11 +1680,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:3281
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
-msgstr "Drone à Tension"
+msgstr "Drone à tension"
 
 #: src-en/data/blueprints.xml.append:3282
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
-msgstr "Drone à Tension"
+msgstr "Drone à tension"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
@@ -1697,7 +1697,7 @@ msgstr "DRONE"
 
 #: src-en/data/blueprints.xml.append:3294
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
-msgstr "Drone à Tension"
+msgstr "Drone à tension"
 
 #: src-en/data/blueprints.xml.append:3295
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
@@ -1721,12 +1721,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3309
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
-msgstr "Drone Surblindé"
+msgstr "Drone surblindé"
 
 #: src-en/data/blueprints.xml.append:3310
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
-msgstr "Drone Surblindé"
+msgstr "Drone surblindé"
 
 #: src-en/data/blueprints.xml.append:3311
 msgid ""
@@ -1741,7 +1741,7 @@ msgstr "DRONE"
 #: src-en/data/blueprints.xml.append:3322
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
-msgstr "Drone Surblindé"
+msgstr "Drone surblindé"
 
 #: src-en/data/blueprints.xml.append:3323
 msgid ""
