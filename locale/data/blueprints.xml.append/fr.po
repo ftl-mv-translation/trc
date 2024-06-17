@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-06-17 02:42+0000\n"
-"Last-Translator: Sowa <jb.del@live.fr>\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -124,7 +124,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:255
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/title"
-msgstr "Accélérateur de particules MK I"
+msgstr "Accélérateur de particules Ver. I"
 
 #: src-en/data/blueprints.xml.append:256
 msgid ""
@@ -141,7 +141,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:303
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/title"
-msgstr "Accélérateur de particules MK II"
+msgstr "Accélérateur de particules Ver. II"
 
 #: src-en/data/blueprints.xml.append:304
 msgid ""
@@ -160,7 +160,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:358
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
-msgstr "Magnifieur MK I"
+msgstr "Magnifieur Ver. I"
 
 #: src-en/data/blueprints.xml.append:359
 msgid ""
@@ -219,7 +219,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:432
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
-msgstr "Magnifieur MK II"
+msgstr "Magnifieur Ver. II"
 
 #: src-en/data/blueprints.xml.append:433
 msgid ""
@@ -419,7 +419,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
 msgstr ""
 "Ce terrifiant rayon à radiation inflige de lourds dégâts à l'équipage et les "
-"affaiblit. Il est plus long et fait plus de dégâts que le MK I, mais ne "
+"affaiblit. Il est plus long et fait plus de dégâts que la version I, mais ne "
 "perce pas les boucliers."
 
 #: src-en/data/blueprints.xml.append:723
@@ -437,7 +437,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
 msgstr ""
 "Ce terrifiant rayon à radiation inflige de lourds dégâts à l'équipage et les "
-"affaiblit. Il est plus long et fait plus de dégâts que le MK I, mais ne "
+"affaiblit. Il est plus long et fait plus de dégâts que la version I, mais ne "
 "perce pas les boucliers."
 
 #: src-en/data/blueprints.xml.append:760
@@ -1530,42 +1530,48 @@ msgstr "Bombe à Drone"
 #: src-en/data/blueprints.xml.append:3086
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
-msgstr ""
+msgstr "Drone Coup de Tonnerre [Brèche]"
 
 #: src-en/data/blueprints.xml.append:3087
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
-msgstr ""
+msgstr "Tonnerre [B]"
 
 #: src-en/data/blueprints.xml.append:3088
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Brèche] Un drone spécialisé capable d'alterner entre le "
+"déploiement de bombes de brèche et d'Ion sans nécessiter de missiles, mais "
+"relativement lent."
 
 #: src-en/data/blueprints.xml.append:3103
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
-msgstr ""
+msgstr "Drone Coup de Tonnerre [Ion]"
 
 #: src-en/data/blueprints.xml.append:3104
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
-msgstr ""
+msgstr "Tonnerre [I]"
 
 #: src-en/data/blueprints.xml.append:3105
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
 msgstr ""
+"[MODE ACTUEL : Ion] Un drone spécialisé capable d'alterner entre le "
+"déploiement de bombes de Violation et d'Ion sans nécessiter de missiles, "
+"mais relativement lent."
 
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
-msgstr ""
+msgstr "Drone à Missile"
 
 #: src-en/data/blueprints.xml.append:3122
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
-msgstr ""
+msgstr "Drone à Missile"
 
 #: src-en/data/blueprints.xml.append:3123
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
@@ -1574,62 +1580,71 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA"
 #: src-en/data/blueprints.xml.append:3154
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
-msgstr ""
+msgstr "Drone à Missile 'Theseus'"
 
 #: src-en/data/blueprints.xml.append:3155
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
-msgstr ""
+msgstr "'Theseus'"
 
 #: src-en/data/blueprints.xml.append:3156
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr ""
+"Ce drone de combat unique est équipé d'une réserve de missiles intégrée. Il "
+"nécessite un total de 3 missiles pour être déployé, mais n'en consomme pas "
+"pour tirer."
 
 #: src-en/data/blueprints.xml.append:3172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
-msgstr ""
+msgstr "Flak Drone"
 
 #: src-en/data/blueprints.xml.append:3208
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
-msgstr ""
+msgstr "Drone de défense à dispersion"
 
 #: src-en/data/blueprints.xml.append:3209
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
-msgstr ""
+msgstr "Dispersion"
 
 #: src-en/data/blueprints.xml.append:3210
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
+"Un drone de défense particulier qui tire des rafales de flak à déplacement "
+"lent. Peut cibler n'importe quoi : projectiles solides, lasers, drones, peu "
+"importe !\n"
+"\tRechargement : 1400 millisecondes"
 
 #: src-en/data/blueprints.xml.append:3227
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
-msgstr ""
+msgstr "Drone de défense à dispersion"
 
 #: src-en/data/blueprints.xml.append:3228
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
-msgstr ""
+msgstr "Dispersion"
 
 #: src-en/data/blueprints.xml.append:3229
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
 msgstr ""
+"VOUS NE DEVRIEZ JAMAIS VOIR CECI\n"
+"\tRecharge : 1700 millisecondes"
 
 #: src-en/data/blueprints.xml.append:3253
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
-msgstr ""
+msgstr "Drone Extincteur"
 
 #: src-en/data/blueprints.xml.append:3254
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
-msgstr ""
+msgstr "Drone Extincteur"
 
 #: src-en/data/blueprints.xml.append:3255
 msgid ""
@@ -1639,30 +1654,37 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:3259
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
-msgstr ""
+msgstr "DRONE"
 
 #: src-en/data/blueprints.xml.append:3266
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
-msgstr ""
+msgstr "Drone Extincteur"
 
 #: src-en/data/blueprints.xml.append:3267
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
-msgstr ""
+msgstr "Extincteur"
 
 #: src-en/data/blueprints.xml.append:3268
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
+"Drone utilitaire contrôlable qui éteint les incendies très rapidement et "
+"draine l'oxygène. Peut également réparer lentement les systèmes en cas "
+"d'urgence.\n"
+"\n"
+"- 50 pv, 1.5x vitesse de déplacement \n"
+"- 4x Vitesse d'extinction des incendies, 0.5x vitesse de réparation\n"
+"- Draine l'oxygène, immunisé contre les dégâts de feu"
 
 #: src-en/data/blueprints.xml.append:3281
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
-msgstr ""
+msgstr "Drone à Tension"
 
 #: src-en/data/blueprints.xml.append:3282
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
-msgstr ""
+msgstr "Drone à Tension"
 
 #: src-en/data/blueprints.xml.append:3283
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
@@ -1671,29 +1693,40 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:3287
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
-msgstr ""
+msgstr "DRONE"
 
 #: src-en/data/blueprints.xml.append:3294
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
-msgstr ""
+msgstr "Drone à Tension"
 
 #: src-en/data/blueprints.xml.append:3295
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
-msgstr ""
+msgstr "Tension"
 
 #: src-en/data/blueprints.xml.append:3296
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
+"Drone utilitaire contrôlable qui fournit des quantités significatives "
+"d'énergie à tout système avec lequel il est couplé. Cependant, le drone perd "
+"régulièrement de la santé au fil du temps jusqu'à ce qu'il explose. Utilisez-"
+"le avec précaution, car son explosion est plus volatile que celle des autres "
+"drones !\n"
+"    \n"
+"-75 pv, 2x vitesse de déplacement\n"
+"-Fournit 6 puissance au système occupé\n"
+"-Perd 1pv/s. L'explosion fait 4 dégâts au système, avec 10% de chance de "
+"déclencher un incendie.\n"
+"-Totalement immunisé contre l'étourdissement, ne peut pas être soigné"
 
 #: src-en/data/blueprints.xml.append:3309
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
-msgstr ""
+msgstr "Drone Surblindé"
 
 #: src-en/data/blueprints.xml.append:3310
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
-msgstr ""
+msgstr "Drone Surblindé"
 
 #: src-en/data/blueprints.xml.append:3311
 msgid ""
@@ -1703,466 +1736,554 @@ msgstr "VOUS NE DEVRIEZ JAMAIS VOIR ÇA."
 #: src-en/data/blueprints.xml.append:3315
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
-msgstr ""
+msgstr "DRONE"
 
 #: src-en/data/blueprints.xml.append:3322
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
-msgstr ""
+msgstr "Drone Surblindé"
 
 #: src-en/data/blueprints.xml.append:3323
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
-msgstr ""
+msgstr "Surblindé"
 
 #: src-en/data/blueprints.xml.append:3324
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
+"Drone de bord utilitaire contrôlable qui draine l'énergie d'un système pour "
+"fournir des boucliers et un bonus de dégâts à l'équipage allié.\n"
+"    \n"
+"-90 pv, 0,75x la vitesse de déplacement\n"
+"-Bouclier de tous les membres d'équipage alliés présents dans la pièce, leur "
+"offrant 75% de réduction des dégâts de toutes sources et 30% d'augmentation "
+"des dégâts de combat.\n"
+"-Draine 1 d'énergie de n'importe quel système occupé. Le système doit être "
+"en cours de drainage pour que les boucliers soient appliqués."
 
 #: src-en/data/blueprints.xml.append:3345
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
-msgstr ""
+msgstr "Croiseur Kestrel du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3346
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
-msgstr ""
+msgstr "L'Oriole"
 
 #: src-en/data/blueprints.xml.append:3348
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
 msgstr ""
+"Un croiseur Kestrel réaménagé, piloté par un pirate obsédé par les armes de "
+"pointe."
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
-msgstr ""
+msgstr "Croiseur Ingénieur du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3422
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
-msgstr ""
+msgstr "L'Éclat"
 
 #: src-en/data/blueprints.xml.append:3424
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
 msgstr ""
+"Ce vaisseau est piloté par un savant fou déterminé à transformer à la fois "
+"son équipage et celui de l'ennemi en mutants."
 
 #: src-en/data/blueprints.xml.append:3496
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
-msgstr ""
+msgstr "Faucheur du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3497
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
-msgstr ""
+msgstr "Chthon"
 
 #: src-en/data/blueprints.xml.append:3499
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
 msgstr ""
+"Ce vaisseau délivre une puissante attaque avec son armement. C'est vraiment "
+"tout ce qu'il y a à dire à ce sujet."
 
 #: src-en/data/blueprints.xml.append:3575
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
-msgstr ""
+msgstr "Croiseur Engi du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
-msgstr ""
+msgstr "Obsession-C"
 
 #: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
 msgstr ""
+"Contrairement au croiseur Engi moyen, qui ne semble fait que de bric et de "
+"broc vaguement assemblé, ce vaisseau EST fait de bric et de broc vaguement "
+"assemblé."
 
 #: src-en/data/blueprints.xml.append:3656
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
-msgstr ""
+msgstr "Croiseur Exilé du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3657
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
-msgstr ""
+msgstr "Intérêt corporatif"
 
 #: src-en/data/blueprints.xml.append:3659
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr ""
+"Ce vaisseau faisait partie d'un programme de sensibilisation raté de "
+"Wentworth Innovations, inspiré par le personnage populaire de la télévision "
+"\"Remmy le Rekma\"."
 
 #: src-en/data/blueprints.xml.append:3734
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
-msgstr ""
+msgstr "Croiseur Congrégation du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3735
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
-msgstr ""
+msgstr "Composteur"
 
 #: src-en/data/blueprints.xml.append:3737
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
 msgstr ""
+"\"Dès le moment où j'ai compris la faiblesse de ma mésocarpe, cela m'a "
+"dégoûté. Je désire la force et la certitude de l'acier. De préférence sous "
+"la forme d'un missile.\""
 
 #: src-en/data/blueprints.xml.append:3814
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
-msgstr ""
+msgstr "Croiseur Camouflage du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3815
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
-msgstr ""
+msgstr "Un seul coup"
 
 #: src-en/data/blueprints.xml.append:3817
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
+"Le capitaine de ce vaisseau n'a qu'une seule devise.\n"
+"\t\n"
+"\tTuer vite - ou mourir difficilement."
 
 #: src-en/data/blueprints.xml.append:3894
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
-msgstr ""
+msgstr "Croiseur Fédéré du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3895
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
-msgstr ""
+msgstr "Le Lion"
 
 #: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
 msgstr ""
+"Les lois de cette Fédération sont étrangères au capitaine de ce vaisseau. "
+"Bien qu'ils puissent avoir manqué la note sur les régulations du clonage, "
+"ils sont stricts en ce qui concerne la règle interdisant la téléportation "
+"depuis leur base d'origine."
 
 #: src-en/data/blueprints.xml.append:3970
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
-msgstr ""
+msgstr "Croiseur Ruche du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:3971
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
-msgstr ""
+msgstr "Hyménope II"
 
 #: src-en/data/blueprints.xml.append:3973
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
 msgstr ""
+"Le capitaine de ce vaisseau était autrefois un membre d'équipage du "
+"Hyménope. Insatisfait des conditions de travail, il s'est consacré à prouver "
+"sa supériorité avec encore PLUS de bombes."
 
 #: src-en/data/blueprints.xml.append:4051
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
-msgstr ""
+msgstr "Croiseur Illesctrien du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4052
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
-msgstr ""
+msgstr "Patience"
 
 #: src-en/data/blueprints.xml.append:4054
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
 msgstr ""
+"Le moine responsable de ce vaisseau valorisait la vertu de la patience par-"
+"dessus tout. C'est juste dommage qu'il ait raté le mémo sur le fait d'être "
+"pacifique."
 
 #: src-en/data/blueprints.xml.append:4127
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
-msgstr ""
+msgstr "Croiseur de la Paix du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4128
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
-msgstr ""
+msgstr "Condensateur de flux"
 
 #: src-en/data/blueprints.xml.append:4130
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
 msgstr ""
+"La patience est souvent considérée comme une vertu. Bien que cela soit vrai, "
+"qui dit que vous ne pouvez pas accélérer un peu les choses ?"
 
 #: src-en/data/blueprints.xml.append:4205
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
-msgstr ""
+msgstr "Croiseur Kleptocrate du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4206
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
-msgstr ""
+msgstr "Spencer-45"
 
 #: src-en/data/blueprints.xml.append:4208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
 msgstr ""
+"Malheureusement, l'équipage Limace est sorti déjeuner au moment précis où ce "
+"vaisseau a été lancé. Même avec le nouvel équipage, il pourrait y avoir des "
+"difficultés à traquer l'équipage ennemi..."
 
 #: src-en/data/blueprints.xml.append:4283
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
-msgstr ""
+msgstr "Croiseur Lost Sun du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
-msgstr ""
+msgstr "La Ruine"
 
 #: src-en/data/blueprints.xml.append:4286
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
 msgstr ""
+"En entendant l'appel de la Fédération en recherche de courageux combattants, "
+"ce vaillant Lost Sun a saisi l'occasion de mettre le feu au plus grand "
+"nombre de personnes possible."
 
 #: src-en/data/blueprints.xml.append:4362
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
-msgstr ""
+msgstr "Croiseur Théocrate du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4363
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
-msgstr ""
+msgstr "Magmatique"
 
 #: src-en/data/blueprints.xml.append:4365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
 msgstr ""
+"À bord de ce vaisseau, de nombreux débats ont eu lieu pour savoir si son "
+"arme unique tire du magma ou de la lave. Peut-être que leurs ennemis "
+"auraient pu participer, s'ils n'étaient pas morts."
 
 #: src-en/data/blueprints.xml.append:4440
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
-msgstr ""
+msgstr "Croiseur Républicain du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4441
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
-msgstr ""
+msgstr "L'AMPère"
 
 #: src-en/data/blueprints.xml.append:4443
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
 msgstr ""
+"Il s'appelle l'AMPère parce qu'il possède une arme AMP ! Vous avez saisi ?..."
 
 #: src-en/data/blueprints.xml.append:4517
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
-msgstr ""
+msgstr "Croiseur Géniocrate du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4518
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
-msgstr ""
+msgstr "Hadron"
 
 #: src-en/data/blueprints.xml.append:4520
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
 msgstr ""
+"Ce coquille s'est rapidement rendu compte qu'il avait accidentellement "
+"acheté un Collisionneur de Particules au lieu d'un Accélérateur. Mais c'est "
+"bon - le violet est de toute façon meilleur que l'orange."
 
 #: src-en/data/blueprints.xml.append:4594
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
-msgstr ""
+msgstr "Croiseur Automatique du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4595
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
-msgstr ""
+msgstr "Victoria"
 
 #: src-en/data/blueprints.xml.append:4597
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr ""
+"La règle d'or est celle du « qui trouve garde », et elle ne s'applique pas "
+"seulement aux objets que vous volez. Elle s'applique aussi aux personnes !"
 
 #: src-en/data/blueprints.xml.append:4674
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
-msgstr ""
+msgstr "Croiseur Spectral du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
-msgstr ""
+msgstr "Abaddon"
 
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
+"Après d'innombrables millénaires à concevoir des armes de plus en plus "
+"efficaces pour promouvoir les luttes internes, la Dynastie a enfin réalisé "
+"que leurs armes pouvaient aussi déchirer les vaisseaux des autres factions."
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
-msgstr ""
+msgstr "Croiseur Couvée du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4752
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
-msgstr ""
+msgstr "Mère Couveuse"
 
 #: src-en/data/blueprints.xml.append:4754
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr ""
+"Que dire d'autre sur le capitaine de ce vaisseau ? Ils aiment les araignées. "
+"Ils ADORENT les araignées. Peut-être un peu trop."
 
 #: src-en/data/blueprints.xml.append:4827
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
-msgstr ""
+msgstr "Croiseur Tiiikaka du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4828
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
-msgstr ""
+msgstr "Humperdinck"
 
 #: src-en/data/blueprints.xml.append:4830
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
 msgstr ""
+"C'est un vaisseau Tiiikaka et n'a aucun lien avec un pirate ou exilé "
+"célèbre. Veuillez ne pas le confondre avec cela. De plus, il est équipé de "
+"plusieurs lasers."
 
 #: src-en/data/blueprints.xml.append:4904
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
-msgstr ""
+msgstr "Croiseur Séparatiste du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4905
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
-msgstr ""
+msgstr "briseur de limites"
 
 #: src-en/data/blueprints.xml.append:4907
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
 msgstr ""
+"Dans le futur, qui a besoin d'amis organiques ? Vos drones seront la seule "
+"compagnie dont vous aurez besoin."
 
 #: src-en/data/blueprints.xml.append:4985
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
-msgstr ""
+msgstr "Croiseur Lanius du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:4986
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
-msgstr ""
+msgstr "Mouette rieuse"
 
 #: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
 msgstr ""
+"Les gens continuent de voir des drapeaux dans la coque de ce vaisseau ; le "
+"capitaine est confus. \"Pas de tissu ? Le symbole du motif n'existe pas ?\" "
+"Il trouve juste que les couleurs sont jolies."
 
 #: src-en/data/blueprints.xml.append:5062
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
-msgstr ""
+msgstr "Croiseur MV Rebelle du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5063
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
-msgstr ""
+msgstr "L'Oppresseur"
 
 #: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
 msgstr ""
+"De nombreux coûts ont été réduits dans le but de maximiser la puissance du "
+"système de drones. Peut-être trop, mais laissons les choses du passé "
+"derrière nous."
 
 #: src-en/data/blueprints.xml.append:5141
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
-msgstr ""
+msgstr "Croiseur Suzerain du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5142
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
-msgstr ""
+msgstr "Mécanomantis"
 
 #: src-en/data/blueprints.xml.append:5144
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
 msgstr ""
+"Embrassant l'avenir ! La Ruche Technocratique commence l'assimilation avec "
+"ses amis robots futuristes !"
 
 #: src-en/data/blueprints.xml.append:5222
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
-msgstr ""
+msgstr "Barge du Plaisir Limaces du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5223
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
-msgstr ""
+msgstr "Elysia"
 
 #: src-en/data/blueprints.xml.append:5225
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
+"Il existe une légende autour d'un missile, le missile Apollo. Est-il réel ?\n"
+"\t« Oui, c'est vrai », dit l'ami du capitaine.\n"
+"\t« Woaaah » dit le capitaine."
 
 #: src-en/data/blueprints.xml.append:5301
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
-msgstr ""
+msgstr "Croiseur Augmenté du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5302
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
-msgstr ""
+msgstr "Yacht Club"
 
 #: src-en/data/blueprints.xml.append:5304
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
 msgstr ""
+"Une fois que le surplus de ressources provenant de l'exploitation des "
+"astéroïdes a conduit à une société de pénurie, les habitants de la réalité "
+"de ce capitaine ont dû trouver de nouvelles façons de gaspiller leurs "
+"richesses excédentaires. Pourquoi ne pas en faire une arme ?"
 
 #: src-en/data/blueprints.xml.append:5379
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
-msgstr ""
+msgstr "Croiseur Hacker du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5380
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
-msgstr ""
+msgstr "5Y5-5H0C"
 
 #: src-en/data/blueprints.xml.append:5382
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
 msgstr ""
+"Calibrage du cadre principal. Engagement du noyau de filtration en "
+"dérivation. La méga-puce de surcadençage du processeur fonctionne en "
+"surrégime d'efficacité maximale. Ce vaisseau est prêt pour le combat."
 
 #: src-en/data/blueprints.xml.append:5457
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
-msgstr ""
+msgstr "Croiseur Rebelle du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5458
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
-msgstr ""
+msgstr "Absolution"
 
 #: src-en/data/blueprints.xml.append:5460
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
 msgstr ""
+"L'équipage de ce vaisseau pirate s'accroche ironiquement à l'héritage "
+"rebelle de leur vaisseau. Cela ajoute un peu du côté tant désiré de la "
+"sauvegarde du multivers."
 
 #: src-en/data/blueprints.xml.append:5534
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
-msgstr ""
+msgstr "Croiseur du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5535
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
-msgstr ""
+msgstr "Theophilus"
 
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
 msgstr ""
+"Armé d'une ancienne super arme eldritch... C'est euh. Il est armé d'une "
+"ancienne super arme eldritch. C'est tout ce que vous avez besoin de savoir, "
+"vraiment."
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
-msgstr ""
+msgstr "Croiseur Détruit du Collectionneur"
 
 #: src-en/data/blueprints.xml.append:5610
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
-msgstr ""
+msgstr "Le Tas d'Ordures"
 
 #: src-en/data/blueprints.xml.append:5612
 msgid ""
