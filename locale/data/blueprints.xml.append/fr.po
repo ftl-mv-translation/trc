@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 00:38+0000\n"
+"PO-Revision-Date: 2024-06-17 02:42+0000\n"
 "Last-Translator: Sowa <jb.del@live.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/fr/>\n"
@@ -20,7 +20,7 @@ msgstr "Laser lourd à charges"
 #: src-en/data/blueprints.xml.append:14
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_CHARGEGUN_HEAVY\"]/short"
-msgstr "Ch. Lourd"
+msgstr "Ch. lourd"
 
 #: src-en/data/blueprints.xml.append:16
 msgid ""
@@ -32,12 +32,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:52
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/title"
-msgstr "Laser Amplifié"
+msgstr "Laser amplificateur"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/short"
-msgstr "Laser Amplifié [2]"
+msgstr "Laser amplificateur [2]"
 
 #: src-en/data/blueprints.xml.append:55
 msgid ""
@@ -51,12 +51,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/title"
-msgstr "Laser Amplifié"
+msgstr "Laser amplificateur"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/short"
-msgstr "Laser Amplifié [3]"
+msgstr "Laser amplificateur [3]"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
@@ -70,12 +70,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/title"
-msgstr "Laser Amplifié"
+msgstr "Laser amplificateur"
 
 #: src-en/data/blueprints.xml.append:129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/short"
-msgstr "Laser Amplifié [4]"
+msgstr "Laser amplificateur [4]"
 
 #: src-en/data/blueprints.xml.append:131
 msgid ""
@@ -278,12 +278,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:506
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
-msgstr "Magnifieur Perforant"
+msgstr "Magnifieur perforant"
 
 #: src-en/data/blueprints.xml.append:507
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
-msgstr "Magn. Perf."
+msgstr "Magn. perf."
 
 #: src-en/data/blueprints.xml.append:509
 msgid ""
@@ -337,12 +337,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:580
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
-msgstr "Magnifieur Ionisant"
+msgstr "Magnifieur ionisant"
 
 #: src-en/data/blueprints.xml.append:581
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
-msgstr "Magn. Ion."
+msgstr "Magn. ion."
 
 #: src-en/data/blueprints.xml.append:583
 msgid ""
@@ -390,7 +390,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:658
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
-msgstr "Rayon Fissurant 'Fangtian'"
+msgstr "Rayon fissurant 'Fangtian'"
 
 #: src-en/data/blueprints.xml.append:659
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
-msgstr "Rayon Radiant 'Faucon' II"
+msgstr "Rayon radiant 'Faucon' II"
 
 #: src-en/data/blueprints.xml.append:688
 msgid ""
@@ -425,7 +425,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:723
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
-msgstr "Rayon Radiant 'Faucon' II†"
+msgstr "Rayon radiant 'Faucon' II†"
 
 #: src-en/data/blueprints.xml.append:724
 msgid ""
@@ -480,7 +480,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:834
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
-msgstr "Apshyxiateur Ionique"
+msgstr "Apshyxiateur ionique"
 
 #: src-en/data/blueprints.xml.append:835
 msgid ""
@@ -497,7 +497,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
-msgstr "Apshyxiateur Ionique†"
+msgstr "Apshyxiateur ionique†"
 
 #: src-en/data/blueprints.xml.append:881
 msgid ""
@@ -569,12 +569,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1080
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
-msgstr "Brûleur Énergétique"
+msgstr "Brûleur énergétique"
 
 #: src-en/data/blueprints.xml.append:1081
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
-msgstr "Flamme Énergétique"
+msgstr "Flamme énergétique"
 
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
@@ -695,12 +695,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1368
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/title"
-msgstr "Bombe à Déploiement"
+msgstr "Bombe à déploiement"
 
 #: src-en/data/blueprints.xml.append:1369
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
-msgstr "B. à Déploiement."
+msgstr "B. à déploiement."
 
 #: src-en/data/blueprints.xml.append:1370
 msgid ""
@@ -783,12 +783,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1497
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
-msgstr "Arachno-Bombe"
+msgstr "Arachno-bombe"
 
 #: src-en/data/blueprints.xml.append:1498
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
-msgstr "Arachno-B."
+msgstr "Arach-b."
 
 #: src-en/data/blueprints.xml.append:1500
 msgid ""
@@ -801,12 +801,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
-msgstr "Arachno-Bombe"
+msgstr "Arachno-bombe"
 
 #: src-en/data/blueprints.xml.append:1547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
-msgstr "Arachno-B."
+msgstr "Arach b."
 
 #: src-en/data/blueprints.xml.append:1549
 msgid ""
@@ -851,12 +851,12 @@ msgstr "Reviendra à sa forme d'origine après 15 secondes"
 #: src-en/data/blueprints.xml.append:1608
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
-msgstr "Bombe Mutagène"
+msgstr "Bombe mutagène"
 
 #: src-en/data/blueprints.xml.append:1609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
-msgstr "B. Mutagène."
+msgstr "B. mutagène."
 
 #: src-en/data/blueprints.xml.append:1611
 msgid ""
