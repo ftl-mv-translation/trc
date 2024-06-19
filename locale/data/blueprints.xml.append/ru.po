@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-15 14:42+0000\n"
+"PO-Revision-Date: 2024-06-19 21:42+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -209,7 +209,7 @@ msgstr ""
 "\t\t Урон системам: 2/3/4\n"
 "\t\tУрон экипажу: 30/45/60\n"
 "\t\t\n"
-"\t\tВероятность поджога: 10/20/30%\n"
+"\t\tВероятность возгорания: 10/20/30%\n"
 "\t\tВероятность пробоины: 10/20/30% (Скорректировано: 9/16/21%)"
 
 #: src-en/data/blueprints.xml.append:432
@@ -268,7 +268,7 @@ msgstr ""
 "\t\t Урон системам: 3/4/5/6\n"
 "\t\tУрон экипажу: 45/60/75/90\n"
 "\t\t\n"
-"\t\tВероятность поджога: 10/20/30/40%\n"
+"\t\tВероятность возгорания: 10/20/30/40%\n"
 "\t\tВероятность пробоины: 10/20/30/40% (Скорректировано: 9/16/21/24%)"
 
 #: src-en/data/blueprints.xml.append:506
