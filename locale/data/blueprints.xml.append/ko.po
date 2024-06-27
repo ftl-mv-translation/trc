@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-06-27 15:42+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/datablueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -1629,7 +1636,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3894
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
-msgstr "수집가의 연번 순양함"
+msgstr "수집가의 연방 순양함"
 
 #: src-en/data/blueprints.xml.append:3895
 msgid ""
