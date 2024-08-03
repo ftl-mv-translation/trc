@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-08 11:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2024-08-03 13:42+0000\n"
+"Last-Translator: Юрий <iorgos.grek@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1005,7 +1005,7 @@ msgstr "Излучатель"
 #: src-en/data/blueprints.xml.append:2072
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
 msgstr ""
-"Вирусные диски, запрещенные в некоторых частях космоса, испускают "
+"Вирусные излучатели, запрещенные в некоторых частях космоса, испускают "
 "высокотоксичное излучение, наносящее урон экипажу не только в целевом, но и "
 "во всех соседних отсеках."
 
