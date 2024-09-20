@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 11:29+0000\n"
-"Last-Translator: Mwalls <Mwalls@users.noreply.weblate.hyperq.be>\n"
+"Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/dataeventsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -41,8 +41,7 @@ msgstr "跨维度裂隙？"
 #: src-en/data/events.xml.append:30
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/text"
-msgstr ""
-"\"嗯...除了出现的所有新玩意儿，我还发现有一些其他的异常现象正在渗透进来。比如说，宇宙飞船。还带着船员。可能还有更糟糕的东西。所以...呃...这就是你们派上用场的地方了！希望如此！我不能到处乱跑，否则我以前的雇主们会追踪到我。但如果你们能够...收拾我留下的烂摊子，那么，嗯，一切就都完美了！更棒的是，你们可以把我一直在追求的那些甜美科技带给我，这样我就能完成我的收藏了！\""
+msgstr "\"嗯...除了出现的所有新玩意儿，我还发现有一些其他的异常现象正在渗透进来。比如说，宇宙飞船。还带着船员。可能还有更糟糕的东西。所以...呃...这就是你们派上用场的地方了！希望如此！我不能到处乱跑，否则我以前的雇主们会追踪到我。但如果你们能够...收拾我留下的烂摊子，那么，嗯，一切就都完美了！更棒的是，你们可以把我一直在追求的那些甜美科技带给我，这样我就能完成我的收藏了！\""
 
 #: src-en/data/events.xml.append:32
 msgid ""
