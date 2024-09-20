@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-20 10:42+0000\n"
+"PO-Revision-Date: 2024-09-20 17:42+0000\n"
 "Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -362,7 +362,8 @@ msgstr "方天戟束"
 
 #: src-en/data/blueprints.xml.append:660
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "撕裂光束按舱格数量计算伤害而不是按舱室。这种光束专门用于破坏系统，系统越大，"
+"它能造成的伤害就越高。"
 
 #: src-en/data/blueprints.xml.append:687
 msgid ""
@@ -1843,7 +1844,7 @@ msgstr "灵朝藏品舰"
 #: src-en/data/blueprints.xml.append:4675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
-msgstr "毁灭者号"
+msgstr "毁灭者"
 
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
