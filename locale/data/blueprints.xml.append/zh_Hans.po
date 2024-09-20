@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-20 06:58+0000\n"
+"PO-Revision-Date: 2024-09-20 10:42+0000\n"
 "Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
@@ -339,6 +339,16 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/tooltipOverride"
 msgstr ""
+"需要能量：1\n"
+"\t充能时间：8 秒\n"
+"\t命中率加成：+10%\n"
+"\n"
+"\t最大充能：4\n"
+"\t充能提速：1.2X 每层充能\n"
+"\n"
+"\t离子伤害：1/2/3/4 点\n"
+"\n"
+"\t眩晕几率：30/40/50/60%（3秒）"
 
 #: src-en/data/blueprints.xml.append:658
 msgid ""
@@ -633,6 +643,15 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/tooltipOverride"
 msgstr ""
+"无需供能\n"
+"\t充能时间：12 秒\n"
+"\t命中率加成：+30%\n"
+"\n"
+"\t弹体数：1 发\n"
+"\n"
+"\t无人机消耗：1 架\n"
+"\n"
+"\t维护无人机寿命：60 秒"
 
 #: src-en/data/blueprints.xml.append:1464
 msgid ""
@@ -1138,11 +1157,11 @@ msgstr "你 不 应 该 看 到 这 个"
 
 #: src-en/data/blueprints.xml.append:2725
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
-msgstr ""
+msgstr "璀璨碎珠炮"
 
 #: src-en/data/blueprints.xml.append:2726
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
-msgstr ""
+msgstr "璀璨"
 
 #: src-en/data/blueprints.xml.append:2728
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
@@ -1152,21 +1171,54 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
 msgstr ""
+"这是一把只为最富有的叛军打造的武器。它能发射5颗具有多种不同效果的宝石炮弹，但"
+"每次射击都需要消耗废料。\n"
+"\n"
+"\t属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：14 秒\n"
+"\n"
+"\t射击半径:50\n"
+"\t每次射击发射5颗随机宝石\n"
+"\n"
+"\t红宝石:1点船体伤害,0点系统伤害,80%几率着火\n"
+"\t蓝宝石:1点离子伤害\n"
+"\t绿宝石:1点伤害,45点人员伤害,眩晕10秒\n"
+"\t青宝石:1点伤害,0点系统伤害,封锁房间\n"
+"\t紫宝石:1点伤害,2点系统伤害,80%几率破舱\n"
+"\n"
+"\t废料消耗:3\n"
+"\n"
+"\t基础价格:80~   -   出售价格:40~"
 
 #: src-en/data/blueprints.xml.append:2748
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/tooltipOverride"
 msgstr ""
+"属性：\n"
+"\t需要能量：2\n"
+"\t充能时间：14 秒\n"
+"\n"
+"\t射击半径:50\n"
+"\t每次射击发射5颗随机宝石\n"
+"\n"
+"\t红宝石:1点船体伤害,0点系统伤害,80%几率着火\n"
+"\t蓝宝石:1点离子伤害\n"
+"\t绿宝石:1点伤害,45点人员伤害,眩晕10秒\n"
+"\t青宝石:1点伤害,0点系统伤害,封锁房间\n"
+"\t紫宝石:1点伤害,2点系统伤害,80%几率破舱\n"
+"\n"
+"\t废料消耗:3"
 
 #: src-en/data/blueprints.xml.append:2813
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
-msgstr ""
+msgstr "殖民炸弹"
 
 #: src-en/data/blueprints.xml.append:2814
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
-msgstr ""
+msgstr "殖民炸弹"
 
 #: src-en/data/blueprints.xml.append:2816
 msgid ""
@@ -1176,6 +1228,10 @@ msgstr "你 不 应 该 看 到 这 个"
 #: src-en/data/blueprints.xml.append:2850
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
+"精英人形船员。极其高效的克隆士兵，由登陆舱上的克隆实验室制造。由于使用廉价的"
+"基因材料，这些士兵在生成后会迅速崩溃分解。\n"
+"\n"
+"\t继承人类特质：轻微抗窒息能力"
 
 #: src-en/data/blueprints.xml.append:2854
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
@@ -1204,6 +1260,10 @@ msgstr "神经芯片使其能够极快地学习技能"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
+"精英人形船员。极其高效的克隆士兵，由登陆舱上的克隆实验室制造。由于使用廉价的"
+"基因材料，这些士兵在生成后会迅速崩溃分解。\n"
+"\n"
+"\t继承人类特质：轻微抗窒息能力"
 
 #: src-en/data/blueprints.xml.append:2868
 msgid ""
@@ -1243,7 +1303,8 @@ msgstr "联军级克舰舱器"
 #: src-en/data/blueprints.xml.append:2882
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
-msgstr ""
+msgstr "联邦标准克隆性破舰舱发射器。该装置可攻破敌方船舱后部署一个克隆吊舱，"
+"并生成一个为你战斗 60 秒的克隆士兵。"
 
 #: src-en/data/blueprints.xml.append:2944
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
@@ -1298,12 +1359,13 @@ msgstr "电震无人机[破舱]"
 #: src-en/data/blueprints.xml.append:3087
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
-msgstr ""
+msgstr "雷霆B型"
 
 #: src-en/data/blueprints.xml.append:3088
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
-msgstr ""
+msgstr "[当前模式：“突袭”] 一种特殊的无人机，可在 “突袭 "
+"”和离子炸弹之间切换部署，无需导弹，但速度相对较慢。"
 
 #: src-en/data/blueprints.xml.append:3103
 msgid ""
@@ -1313,12 +1375,13 @@ msgstr "电震无人机[离子]"
 #: src-en/data/blueprints.xml.append:3104
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
-msgstr ""
+msgstr "雷霆I型"
 
 #: src-en/data/blueprints.xml.append:3105
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
-msgstr ""
+msgstr "[当前模式：“离子”] 一种特殊的无人机，可在 “突袭 "
+"”和离子炸弹之间切换部署，无需导弹，但速度相对较慢。"
 
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
@@ -1337,17 +1400,18 @@ msgstr "你 不 应 该 看 到 这 个"
 #: src-en/data/blueprints.xml.append:3154
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
-msgstr ""
+msgstr "\"忒修斯 \"导弹无人机"
 
 #: src-en/data/blueprints.xml.append:3155
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
-msgstr ""
+msgstr "\"忒修斯 \""
 
 #: src-en/data/blueprints.xml.append:3156
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
-msgstr ""
+msgstr "这种独一无二的战斗无人机内置导弹储备。部署需要总共3枚导弹，但发射时不消耗导弹"
+"。"
 
 #: src-en/data/blueprints.xml.append:3172
 msgid ""
@@ -1422,6 +1486,12 @@ msgstr "灭火"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
+"可控制的多功能无人机，能通过吸收氧气快速灭火。在紧急情况下还能缓慢修复系统。"
+"\n"
+"    \n"
+"-50点生命值，1.5 倍移动速度\n"
+"-4 倍灭火速度，0.5 倍修复速度\n"
+"-吸收氧气，免疫火焰伤害"
 
 #: src-en/data/blueprints.xml.append:3281
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
@@ -1451,6 +1521,14 @@ msgstr "高压"
 #: src-en/data/blueprints.xml.append:3296
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
+"可控制的实用型无人机，可为任何与之配合的系统提供大量电力。但随着时间推移，该"
+"无人机的生命值会逐渐下降直至爆炸。请谨慎使用，因为它的爆炸比其他无人机更具破"
+"坏性！\n"
+"    \n"
+"-75生命值，2 倍移动速度\n"
+"-为当前所在系统提供 6 点能量\n"
+"-每秒损失 1点生命值。爆炸对系统造成 4点伤害，并有 10% 的几率引发着火。\n"
+"-完全免疫眩晕，无法治疗"
 
 #: src-en/data/blueprints.xml.append:3309
 msgid ""
@@ -1504,7 +1582,7 @@ msgstr "拟鹂号"
 #: src-en/data/blueprints.xml.append:3348
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
-msgstr ""
+msgstr "一艘经过改装的隼式巡洋舰，由一名痴迷于最先进武器的海盗驾驶。"
 
 #: src-en/data/blueprints.xml.append:3421
 msgid ""
@@ -1529,12 +1607,12 @@ msgstr "告死藏品舰"
 #: src-en/data/blueprints.xml.append:3497
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
-msgstr ""
+msgstr "西索恩"
 
 #: src-en/data/blueprints.xml.append:3499
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
-msgstr ""
+msgstr "这艘船的武器装备火力强大。老实说，也就这点值得一提了。"
 
 #: src-en/data/blueprints.xml.append:3575
 msgid ""
@@ -1544,12 +1622,13 @@ msgstr "半械藏品舰"
 #: src-en/data/blueprints.xml.append:3576
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
-msgstr ""
+msgstr "执念-C"
 
 #: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
-msgstr ""
+msgstr "不像普通半械族巡洋舰只是看起来像用废料松散拼凑而成，这艘船真的就是用废料松散"
+"拼凑而成的。"
 
 #: src-en/data/blueprints.xml.append:3656
 msgid ""
@@ -1574,12 +1653,13 @@ msgstr "集议会藏品舰"
 #: src-en/data/blueprints.xml.append:3735
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
-msgstr ""
+msgstr "堆肥箱"
 
 #: src-en/data/blueprints.xml.append:3737
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
-msgstr ""
+msgstr "\"从我意识到我的中果皮如此脆弱的那一刻起"
+"，我就对它深感厌恶。我想变得像钢铁一样又硬又靠谱。要是能变成导弹就更棒了。\""
 
 #: src-en/data/blueprints.xml.append:3814
 msgid ""
@@ -1612,7 +1692,8 @@ msgstr "狮子号"
 #: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
-msgstr ""
+msgstr "这艘船的船长对联邦的法律一窍不通。他们可能没注意到克隆管制的通知，但对于老家"
+"那条禁止传送的规定，他们倒是严格遵守。"
 
 #: src-en/data/blueprints.xml.append:3970
 msgid ""
@@ -1627,7 +1708,8 @@ msgstr "兰花螳螂II"
 #: src-en/data/blueprints.xml.append:3973
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
-msgstr ""
+msgstr "这艘船的船长以前是螳螂号的船员。对工作条件不满意后，他决心用更多的炸弹来证明"
+"自己有多厉害。"
 
 #: src-en/data/blueprints.xml.append:4051
 msgid ""
@@ -1652,12 +1734,12 @@ msgstr "维和藏品舰"
 #: src-en/data/blueprints.xml.append:4128
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
-msgstr ""
+msgstr "通量电容器"
 
 #: src-en/data/blueprints.xml.append:4130
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
-msgstr ""
+msgstr "人们常说耐心是美德。这话没错，但谁规定不能稍微加快点节奏呢？"
 
 #: src-en/data/blueprints.xml.append:4205
 msgid ""
@@ -1667,12 +1749,13 @@ msgstr "星盗会藏品舰"
 #: src-en/data/blueprints.xml.append:4206
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
-msgstr ""
+msgstr "斯潘塞-45"
 
 #: src-en/data/blueprints.xml.append:4208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
-msgstr ""
+msgstr "真不巧，蛞蝓族船员恰好在这艘船起航时出去吃午饭了。即便有了新船员，想要追踪敌"
+"方船员恐怕还是有点困难..."
 
 #: src-en/data/blueprints.xml.append:4283
 msgid ""
@@ -1682,12 +1765,13 @@ msgstr "迷失烈阳藏品舰"
 #: src-en/data/blueprints.xml.append:4284
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
-msgstr ""
+msgstr "湮灭"
 
 #: src-en/data/blueprints.xml.append:4286
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
-msgstr ""
+msgstr "听说联邦在召集勇敢的战士，这艘勇猛的迷失之阳号二话不说就冲出来了，就是为了尽"
+"可能鼓舞其他人。"
 
 #: src-en/data/blueprints.xml.append:4362
 msgid ""
@@ -1702,7 +1786,8 @@ msgstr "火元号"
 #: src-en/data/blueprints.xml.append:4365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
-msgstr ""
+msgstr "关于这艘船独特的武器到底发射的是岩浆还是熔岩，人们没少争论。要不是它的敌人都"
+"已经死光了，没准还能加入讨论呢。"
 
 #: src-en/data/blueprints.xml.append:4440
 msgid ""
@@ -1727,12 +1812,13 @@ msgstr "怪才体藏品舰"
 #: src-en/data/blueprints.xml.append:4518
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
-msgstr ""
+msgstr "海德龙号"
 
 #: src-en/data/blueprints.xml.append:4520
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
-msgstr ""
+msgstr "这个呆瓜很快就意识到他不小心买了个粒子对撞机，而不是加速器。不过没关系， "
+"反正紫色比橙色好看多了。"
 
 #: src-en/data/blueprints.xml.append:4594
 msgid ""
@@ -1742,12 +1828,12 @@ msgstr "自动藏品舰"
 #: src-en/data/blueprints.xml.append:4595
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
-msgstr ""
+msgstr "维多利亚号"
 
 #: src-en/data/blueprints.xml.append:4597
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
-msgstr ""
+msgstr "\"先到先得\"是黄金法则，这可不光适用于你偷来的东西。对人也一样管用！"
 
 #: src-en/data/blueprints.xml.append:4674
 msgid ""
@@ -1757,12 +1843,13 @@ msgstr "灵朝藏品舰"
 #: src-en/data/blueprints.xml.append:4675
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
-msgstr ""
+msgstr "毁灭者号"
 
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
-msgstr ""
+msgstr "在折腾了无数年，想尽办法搞出越来越厉害的武器来内斗后，这个王朝终于开窍了 —— "
+"原来他们的枪炮还能轰烂其他派系的飞船。"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
@@ -1777,7 +1864,8 @@ msgstr "育母号"
 #: src-en/data/blueprints.xml.append:4754
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
-msgstr ""
+msgstr "这船长还有啥好说的？嗯，他们喜欢蜘蛛。不，应该说是超爱蜘蛛。可能..."
+"有点太过头了。"
 
 #: src-en/data/blueprints.xml.append:4827
 msgid ""
@@ -1787,12 +1875,13 @@ msgstr "提卡卡藏品舰"
 #: src-en/data/blueprints.xml.append:4828
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
-msgstr ""
+msgstr "洪佩丁克号"
 
 #: src-en/data/blueprints.xml.append:4830
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
-msgstr ""
+msgstr "这是一艘提卡卡族的船，跟任何有名的海盗或亡命之徒半毛钱关系都没有。拜托别搞混"
+"了啊。对了，它还装了一大堆激光武器。"
 
 #: src-en/data/blueprints.xml.append:4904
 msgid ""
@@ -1807,7 +1896,7 @@ msgstr "破极号"
 #: src-en/data/blueprints.xml.append:4907
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
-msgstr ""
+msgstr "未来谁还需要有机朋友？无人机才是你唯一需要的伙伴。"
 
 #: src-en/data/blueprints.xml.append:4985
 msgid ""
@@ -1817,12 +1906,13 @@ msgstr "食铁藏品舰"
 #: src-en/data/blueprints.xml.append:4986
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
-msgstr ""
+msgstr "三趾鸥号"
 
 #: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
-msgstr ""
+msgstr "人们老说在这艘巡洋舰上看到了旗帜；这可把船长搞糊涂了。\"不是布做的啊"
+"？也没啥图案标志啊？\"他就是觉得这些颜色挺好看的。"
 
 #: src-en/data/blueprints.xml.append:5062
 msgid ""
@@ -1837,7 +1927,8 @@ msgstr "暴迫号"
 #: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
-msgstr ""
+msgstr "为了把无人机系统的威力拉满，我们可没少动歪脑筋省钱。也许是省过头了，不过咱们"
+"就既往不咎吧。"
 
 #: src-en/data/blueprints.xml.append:5141
 msgid ""
@@ -1852,7 +1943,7 @@ msgstr "机螂号"
 #: src-en/data/blueprints.xml.append:5144
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
-msgstr ""
+msgstr "拥抱未来！技术官僚蜂巢开始与未来派机器人朋友同化！"
 
 #: src-en/data/blueprints.xml.append:5222
 msgid ""
@@ -1868,6 +1959,9 @@ msgstr "姬乐号"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
+"听说有个导弹的传说,叫啥阿波罗导弹。这玩意儿是真的吗?\n"
+"\t\"没错,就是真的。\"船长的朋友回答道。\n"
+"\t\"哇哦!\"船长惊呼。"
 
 #: src-en/data/blueprints.xml.append:5301
 msgid ""
@@ -1877,12 +1971,15 @@ msgstr "强铁藏品舰"
 #: src-en/data/blueprints.xml.append:5302
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
-msgstr ""
+msgstr "游艇俱乐部"
 
 #: src-en/data/blueprints.xml.append:5304
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
 msgstr ""
+"小行星采矿带来的资源过剩导致了后稀缺社会的出现，这位船长所在世界的智慧生物们"
+"就不得不寻找新的方式来挥霍他们过剩的财富。既然如此，为什么不把这些财富转化成"
+"武器呢？"
 
 #: src-en/data/blueprints.xml.append:5379
 msgid ""
@@ -1897,7 +1994,8 @@ msgstr "5Y5-5H0CK"
 #: src-en/data/blueprints.xml.append:5382
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
-msgstr ""
+msgstr "校准主框架。启动旁路过滤核心。处理器超频巨型芯片正以最大效能超频运行。本舰已"
+"进入战备状态。"
 
 #: src-en/data/blueprints.xml.append:5457
 msgid ""
@@ -1907,12 +2005,13 @@ msgstr "叛军藏品舰"
 #: src-en/data/blueprints.xml.append:5458
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
-msgstr ""
+msgstr "赦免号"
 
 #: src-en/data/blueprints.xml.append:5460
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
-msgstr ""
+msgstr "讽刺的是，这艘海盗船的船员们仍然坚持着叛军传统。它为拯救多元宇宙增添了一点众"
+"望所归的优势。"
 
 #: src-en/data/blueprints.xml.append:5534
 msgid ""
@@ -1922,12 +2021,13 @@ msgstr "收藏家星舰"
 #: src-en/data/blueprints.xml.append:5535
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
-msgstr ""
+msgstr "狄奥菲勒斯号"
 
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
-msgstr ""
+msgstr "装备了一件远古的超级邪术武器..."
+"它呃，它装备了一件远古的超级邪术武器。说真的，你只需要知道这些就够了。"
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
@@ -1942,4 +2042,5 @@ msgstr "垃圾堆号"
 #: src-en/data/blueprints.xml.append:5612
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
-msgstr ""
+msgstr "这艘船的船长不明白为什么人们认为\"垃圾堆\"这个名字是侮辱"
+"。垃圾是美味的食物，这艘船也是美味的食物。但是现在还不能吃。"
