@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 10:46+0000\n"
-"Last-Translator: 羽绯 <2488550685@qq.com>\n"
+"Last-Translator: shadowcrowX <13549855@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -1689,8 +1689,8 @@ msgstr "堆肥箱"
 #: src-en/data/blueprints.xml.append:3737
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
-msgstr "\"从我意识到我的中果皮如此脆弱的那一刻起"
-"，我就对它深感厌恶。我想变得像钢铁一样又硬又靠谱。要是能变成导弹就更棒了。\""
+msgstr "\"从我意识到我的中果皮如此脆弱的那一刻起，我就对它深感厌恶。我想变得像钢铁一"
+"样又硬又靠谱。要是能变成导弹就更棒了。\""
 
 #: src-en/data/blueprints.xml.append:3814
 msgid ""
@@ -1895,8 +1895,8 @@ msgstr "育母号"
 #: src-en/data/blueprints.xml.append:4754
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
-msgstr "这船长还有啥好说的？嗯，他们喜欢蜘蛛。不，应该说是超爱蜘蛛。可能..."
-"有点太过头了。"
+msgstr "这船长还有啥好说的？嗯，他们喜欢蜘蛛。不，应该说是超爱蜘蛛。可能...有点太过头"
+"了。"
 
 #: src-en/data/blueprints.xml.append:4827
 msgid ""
@@ -1942,8 +1942,8 @@ msgstr "三趾鸥号"
 #: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
-msgstr "人们老说在这艘巡洋舰上看到了旗帜；这可把船长搞糊涂了。\"不是布做的啊"
-"？也没啥图案标志啊？\"他就是觉得这些颜色挺好看的。"
+msgstr "人们老说在这艘巡洋舰上看到了旗帜；这可把船长搞糊涂了。"
+"\"不是布做的啊？也没啥图案标志啊？\"他就是觉得这些颜色挺好看的。"
 
 #: src-en/data/blueprints.xml.append:5062
 msgid ""
@@ -2057,8 +2057,8 @@ msgstr "狄奥菲勒斯号"
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
-msgstr "装备了一件远古的超级邪术武器..."
-"它呃，它装备了一件远古的超级邪术武器。说真的，你只需要知道这些就够了。"
+msgstr "装备了一件远古的超级邪术武器...它呃，它装备了一件远古的超级邪术武器。说真的，"
+"你只需要知道这些就够了。"
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
