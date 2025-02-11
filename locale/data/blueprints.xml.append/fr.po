@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-17 21:42+0000\n"
-"Last-Translator: Sowa <jb.del@live.fr>\n"
+"PO-Revision-Date: 2025-02-11 14:22+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.8.1\n"
 
 #: src-en/data/blueprints.xml.append:13
 msgid ""
@@ -587,7 +587,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1134
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/title"
-msgstr "Point de mire 'Calciné'"
+msgstr "Aiguillon 'Calciné'"
 
 #: src-en/data/blueprints.xml.append:1135
 msgid ""
@@ -598,13 +598,13 @@ msgstr "'Calciné'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
 msgstr ""
-"Un Point de mire à charge rapide avec une perforation minimale qui n'inflige "
+"Un Aiguillon à charge rapide avec une perforation minimale qui n'inflige "
 "aucun dégât physique mais allume des feux."
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
-msgstr "Point de mire 'Poignard'"
+msgstr "Aiguillon 'Poignard'"
 
 #: src-en/data/blueprints.xml.append:1162
 msgid ""
@@ -615,7 +615,7 @@ msgstr "'Poignard'"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
 msgstr ""
-"Un Point de mire à charge lente mais fiable. Les armes conservatrices ne "
+"Un Aiguillon à charge lente mais fiable. Les armes conservatrices ne "
 "consomment pas d'énergie mais ont besoin d'une autre arme pour être "
 "alimentées."
 
@@ -1228,7 +1228,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
 msgstr ""
 "Un canon étrange conçu uniquement dans l'esprit d'un fou. Bien qu'il ne soit "
-"qu'un Rayon à Point de mire, son jet concentré de lave surchauffée met "
+"qu'un Rayon Aiguillon, son jet concentré de lave surchauffée met "
 "complètement le feu à toute pièce qu'il touche."
 
 #: src-en/data/blueprints.xml.append:2668
