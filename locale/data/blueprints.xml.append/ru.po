@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-08 19:37+0000\n"
+"PO-Revision-Date: 2025-02-15 15:22+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/ru/>\n"
@@ -38,7 +38,7 @@ msgstr "Лазер с усилителем"
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/short"
-msgstr "Лазер с усилителем [2]"
+msgstr "Лазер с усил. [2]"
 
 #: src-en/data/blueprints.xml.append:55
 msgid ""
@@ -56,7 +56,7 @@ msgstr "Лазер с усилителем"
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/short"
-msgstr "Лазер с усилителем [3]"
+msgstr "Лазер с усил. [3]"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
@@ -74,7 +74,7 @@ msgstr "Лазер с усилителем"
 #: src-en/data/blueprints.xml.append:129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/short"
-msgstr "Лазер с усилителем [4]"
+msgstr "Лазер с усил. [4]"
 
 #: src-en/data/blueprints.xml.append:131
 msgid ""
