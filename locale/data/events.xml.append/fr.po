@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-29 00:12+0000\n"
+"PO-Revision-Date: 2025-02-21 16:13+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataeventsxmlappend/fr/>\n"
@@ -999,7 +999,7 @@ msgstr ""
 "viande prélevée sur chacun de ses habitants pour créer une chambre de "
 "torture vivante où je ferai des simulations sans fin de votre conscience "
 "sans valeur en train de vivre le plus douloureusement possible...\" Vous "
-"coupez les communications et chargez vos armes."
+"coupez les communications et activez vos armes."
 
 #: src-en/data/events.xml.append:535
 msgid ""
