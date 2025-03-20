@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-17 13:32+0000\n"
+"PO-Revision-Date: 2025-03-21 00:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datablueprintsxmlappend/fr/>\n"
@@ -2058,7 +2058,7 @@ msgstr "Victoria"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr ""
-"La règle d'or est celle du « qui trouve garde », et elle ne s'applique pas "
+"La règle d'or est celle du 'qui trouve garde', et elle ne s'applique pas "
 "seulement aux objets que vous volez. Elle s'applique aussi aux personnes !"
 
 #: src-en/data/blueprints.xml.append:4674
@@ -2199,8 +2199,8 @@ msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
 "Il existe une légende autour d'un missile, le missile Apollo. Est-il réel ?\n"
-"\t« Oui, c'est vrai », dit l'ami du capitaine.\n"
-"\t« Woaaah » dit le capitaine."
+"\t\"Oui, c'est vrai\" dit l'ami du capitaine.\n"
+"\t\"Woaaah\" dit le capitaine."
 
 #: src-en/data/blueprints.xml.append:5301
 msgid ""
