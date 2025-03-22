@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-02 03:16+0000\n"
+"PO-Revision-Date: 2025-03-22 23:14+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/datatext_miscxmlappend/fr/>\n"
@@ -70,7 +70,7 @@ msgstr ""
 "Astuce : Les drones missiles nécessitent une somme importante de missiles à "
 "déployer, mais ne consomment pas de missiles lorsqu’ils tirent.\n"
 "\n"
-"Astuce : Les drones de combat ont besoin d’une pièce de drone pour être "
+"Astuce : Les Drone de Bataille ont besoin d’une pièce de drone pour être "
 "déployés pour chaque nouvel ennemi. Ils attaqueront l’ennemi tant qu’ils "
 "seront alimentés."
 
