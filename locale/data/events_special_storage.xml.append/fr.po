@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-03-01 17:16+0000\n"
+"PO-Revision-Date: 2025-04-02 14:09+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/"
 "the-renegade-collection/dataevents_special_storagexmlappend/fr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:4
 msgid ""
@@ -103,7 +103,7 @@ msgstr "Êtes-vous sûr de vouloir modifier les paramètres du drone ?"
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/text"
-msgstr "Régler le drone en mode bombe à Brèche."
+msgstr "Régler le drone en mode Bombe Perforante."
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
