@@ -45,6 +45,7 @@
         "//shipBlueprint/name",
 
         // events
+		"//hover-text",
         "//*[not(starts-with(@name,'TEXT_CREW_TALK_'))]/text",
         "//triggeredEventBox/tooltip",
         "//unvisitedTooltip",
