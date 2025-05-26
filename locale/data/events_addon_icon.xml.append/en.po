@@ -5,6 +5,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: src-en/data/events_addon_icon.xml.append:10
+msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/hover-text"
+msgstr ""
+"THE RENEGADE COLLECTION \n"
+"\tClick to see more info."
+
 #: src-en/data/events_addon_icon.xml.append:14
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/text"
 msgstr ""
