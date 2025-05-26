@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-05-26 11:29+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/dataeventsxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -318,11 +318,10 @@ msgid ""
 msgstr "Атаковать аномалию."
 
 #: src-en/data/events.xml.append:270
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-"\"О, Боже, такой дикости следовало ожидать. Братья, сестры, полые собратья, "
-"похоже, настало время вспомнить, что мы знали о войне\"."
+msgstr "\"О, Боже, такой дикости следовало ожидать. Братья, сестры, полые собратья, похоже, настало время вспомнить, что мы знали о войне\"."
 
 #: src-en/data/events.xml.append:273
 msgid ""
