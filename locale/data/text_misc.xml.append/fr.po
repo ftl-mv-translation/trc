@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 10:46+0000\n"
+"PO-Revision-Date: 2025-05-26 11:17+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/"
-"the-renegade-collection/datatext_miscxmlappend/fr/>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/datatext_miscxmlappend/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -14,65 +13,42 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner\"]"
-msgstr ""
-"Astuce : L’équipage engendré ne compte pas dans votre limite d'équipage, "
-"mais n'est que temporaire. Ils ne peuvent pas non plus être clonés."
+msgstr "Astuce : L’équipage engendré ne compte pas dans votre limite d'équipage, mais n'est que temporaire. Ils ne peuvent pas non plus être clonés."
 
 #: src-en/data/text_misc.xml.append:4
 msgid "data/text_misc.xml.append$//text[@name=\"tip_spawner_drone\"]"
-msgstr ""
-"Astuce : Les drones fabriqués fourniront temporairement des avantages avant "
-"leur expiration."
+msgstr "Astuce : Les drones fabriqués fourniront temporairement des avantages avant leur expiration."
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
-msgstr ""
-"Astuce : Les ennemis frappés par cette arme seront soumis aux effets du "
-"contrôle mental, le cas échéant. L’effet n’héritera pas des bonus d’un "
-"système de contrôle mental amélioré que vous posséderiez."
+msgstr "Astuce : Les ennemis frappés par cette arme seront soumis aux effets du contrôle mental, le cas échéant. L’effet n’héritera pas des bonus d’un système de contrôle mental amélioré que vous posséderiez."
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
-msgstr ""
-"Astuce : Les leurres ne feront aucun dégât physique au vaisseau ennemi, mais "
-"distrairont les drones de défense et aveugleront l’équipage ennemi."
+msgstr "Astuce : Les leurres ne feront aucun dégât physique au vaisseau ennemi, mais distrairont les drones de défense et aveugleront l’équipage ennemi."
 
 #: src-en/data/text_misc.xml.append:10
 msgid "data/text_misc.xml.append$//text[@name=\"tip_magnifier\"]"
-msgstr ""
-"Astuce : Les Loupes gagnent des bonus supplémentaires à leurs statistiques "
-"pour chaque charge supplémentaire au lieu de plus de projectiles."
+msgstr "Astuce : Les Loupes gagnent des bonus supplémentaires à leurs statistiques pour chaque charge supplémentaire au lieu de plus de projectiles."
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
-msgstr ""
-"Astuce : Les armes en cascade infligent certains types de dégâts à toutes "
-"les pièces adjacentes. Elles n’affectent pas les pièces connectées en "
-"diagonale."
+msgstr "Astuce : Les armes en cascade infligent certains types de dégâts à toutes les pièces adjacentes. Elles n’affectent pas les pièces connectées en diagonale."
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
-msgstr ""
-"Astuce : Les Rayons Fissurant endommagent le système par tuile plutôt que "
-"par pièce. Cela signifie que les pièces plus grandes sont plus vulnérables à "
-"leurs effets !"
+msgstr "Astuce : Les Rayons Fissurant endommagent le système par tuile plutôt que par pièce. Cela signifie que les pièces plus grandes sont plus vulnérables à leurs effets !"
 
 #: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"tip_suppressor\"]"
-msgstr ""
-"Astuce : Les Suppresseurs ne causent aucun dégât physique, mais sont "
-"excellents pour retirer les boucliers. Ils peuvent aussi endommager les "
-"boucliers d’énergie."
+msgstr "Astuce : Les Suppresseurs ne causent aucun dégât physique, mais sont excellents pour retirer les boucliers. Ils peuvent aussi endommager les boucliers d’énergie."
 
 #: src-en/data/text_misc.xml.append:18
 msgid "data/text_misc.xml.append$//text[@name=\"tip_missile_combat\"]"
 msgstr ""
-"Astuce : Les drones missiles nécessitent une somme importante de missiles à "
-"déployer, mais ne consomment pas de missiles lorsqu’ils tirent.\n"
+"Astuce : Les drones missiles nécessitent une somme importante de missiles à déployer, mais ne consomment pas de missiles lorsqu’ils tirent.\n"
 "\n"
-"Astuce : Les Drone de Bataille ont besoin d’une pièce de drone pour être "
-"déployés pour chaque nouvel ennemi. Ils attaqueront l’ennemi tant qu’ils "
-"seront alimentés."
+"Astuce : Les Drone de Bataille ont besoin d’une pièce de drone pour être déployés pour chaque nouvel ennemi. Ils attaqueront l’ennemi tant qu’ils seront alimentés."
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"

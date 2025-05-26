@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 10:46+0000\n"
+"PO-Revision-Date: 2025-05-26 11:17+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
-"projects/the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -40,9 +39,7 @@ msgstr "多级激光[2]"
 #: src-en/data/blueprints.xml.append:55
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/desc"
-msgstr "[当前能量：2]"
-"一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤害输出。能量"
-"越高，冷却时间也会增加。"
+msgstr "[当前能量：2]一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤害输出。能量越高，冷却时间也会增加。"
 
 #: src-en/data/blueprints.xml.append:90
 msgid ""
@@ -57,9 +54,7 @@ msgstr "多级激光[3]"
 #: src-en/data/blueprints.xml.append:93
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/desc"
-msgstr "[当前能量：3]"
-"一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤害输出。能量"
-"越高，冷却时间也会增加。"
+msgstr "[当前能量：3]一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤害输出。能量越高，冷却时间也会增加。"
 
 #: src-en/data/blueprints.xml.append:128
 msgid ""
@@ -74,9 +69,7 @@ msgstr "多级激光[4]"
 #: src-en/data/blueprints.xml.append:131
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/desc"
-msgstr "[当前能量：4]"
-"一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤害输出。能量"
-"越高，冷却时间也会增加。"
+msgstr "[当前能量：4]一种具有潜在破坏力的激光武器，可在战斗前中调整其能量消耗来改变伤害输出。能量越高，冷却时间也会增加。"
 
 #: src-en/data/blueprints.xml.append:167
 msgid ""
@@ -106,8 +99,7 @@ msgstr "轻型爆裂"
 #: src-en/data/blueprints.xml.append:213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/desc"
-msgstr "尽管充能速度比标准轻型激光更慢，但它可以发射一连串激光弹幕，以快速破坏敌方护"
-"盾。"
+msgstr "尽管充能速度比标准轻型激光更慢，但它可以发射一连串激光弹幕，以快速破坏敌方护盾。"
 
 #: src-en/data/blueprints.xml.append:255
 msgid ""
@@ -137,8 +129,7 @@ msgstr "粒子加速II"
 #: src-en/data/blueprints.xml.append:306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
-msgstr "精心调制的粒子技术，放弃了起火特性转而对船员直接造成伤害并施加减益。此版本充"
-"能时间更长，着弹范围更广，但一次射出更多弹丸。"
+msgstr "精心调制的粒子技术，放弃了起火特性转而对船员直接造成伤害并施加减益。此版本充能时间更长，着弹范围更广，但一次射出更多弹丸。"
 
 #: src-en/data/blueprints.xml.append:358
 msgid ""
@@ -159,9 +150,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
-"\"聚能\""
-"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增"
-"加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：1\n"
@@ -217,9 +206,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
-"\"聚能\""
-"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增"
-"加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加伤害和施加特殊状态的几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
@@ -275,9 +262,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
-"\"聚能\""
-"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增"
-"加护盾穿透能力和破舱几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加护盾穿透能力和破舱几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
@@ -333,9 +318,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
-"\"聚能\""
-"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增"
-"加离子伤害和击晕几率。充能会随时间推移逐渐加快。\n"
+"\"聚能\"系列武器使用特种技术来随着充能增强其威力(而不是增加射弹数目)。每层充能都会增加离子伤害和击晕几率。充能会随时间推移逐渐加快。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：1\n"
@@ -378,8 +361,7 @@ msgstr "方天戟束"
 
 #: src-en/data/blueprints.xml.append:660
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
-msgstr "撕裂光束按舱格数量计算伤害而不是按舱室。这种光束专门用于破坏系统，系统越大，"
-"它能造成的伤害就越高。"
+msgstr "撕裂光束按舱格数量计算伤害而不是按舱室。这种光束专门用于破坏系统，系统越大，它能造成的伤害就越高。"
 
 #: src-en/data/blueprints.xml.append:687
 msgid ""
@@ -394,8 +376,7 @@ msgstr "鹰钩辐束II"
 #: src-en/data/blueprints.xml.append:689
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
-msgstr "这种可怕的辐射光束可对船员造成大量伤害，并削弱敌方船员。相较于其原始型号，该"
-"版本光束更长，威力更高，但牺牲了穿盾能力。"
+msgstr "这种可怕的辐射光束可对船员造成大量伤害，并削弱敌方船员。相较于其原始型号，该版本光束更长，威力更高，但牺牲了穿盾能力。"
 
 #: src-en/data/blueprints.xml.append:723
 msgid ""
@@ -410,8 +391,7 @@ msgstr "鹰钩辐束II†"
 #: src-en/data/blueprints.xml.append:725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
-msgstr "这种可怕的辐射光束可对船员造成大量伤害，并削弱敌方船员。相较于其原始型号，该"
-"版本光束更长，威力更高，但牺牲了穿盾能力。"
+msgstr "这种可怕的辐射光束可对船员造成大量伤害，并削弱敌方船员。相较于其原始型号，该版本光束更长，威力更高，但牺牲了穿盾能力。"
 
 #: src-en/data/blueprints.xml.append:760
 msgid ""
@@ -426,8 +406,7 @@ msgstr "宽斧链束"
 #: src-en/data/blueprints.xml.append:763
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
-msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空舱室时对舰体造成沉重打"
-"击。"
+msgstr "这种光束武器每次发射都会减少充能时间，并且能够在瞄准空舱室时对舰体造成沉重打击。"
 
 #: src-en/data/blueprints.xml.append:793
 msgid ""
@@ -442,10 +421,7 @@ msgstr "钩枪光束"
 #: src-en/data/blueprints.xml.append:795
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
-msgstr ""
-"一种充能较慢但自给自足的自适应光束，如果给予其足够长的时间积蓄能量，它的威力"
-"就可以无限上升。由于不具备初始系统伤害，它需要更长的时间才能有效地破坏系统。"
-"集能武器不使用能量，但需要另一种已供能的武器。"
+msgstr "一种充能较慢但自给自足的自适应光束，如果给予其足够长的时间积蓄能量，它的威力就可以无限上升。由于不具备初始系统伤害，它需要更长的时间才能有效地破坏系统。集能武器不使用能量，但需要另一种已供能的武器。"
 
 #: src-en/data/blueprints.xml.append:834
 msgid ""
@@ -490,8 +466,7 @@ msgstr "无极离子"
 #: src-en/data/blueprints.xml.append:931
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
-msgstr "不同于标准的自适应离子，这种武器可以随射击将威力提升至足以同时压制多个系统，"
-"但充能速度相对更慢。"
+msgstr "不同于标准的自适应离子，这种武器可以随射击将威力提升至足以同时压制多个系统，但充能速度相对更慢。"
 
 #: src-en/data/blueprints.xml.append:988
 msgid ""
@@ -506,8 +481,7 @@ msgstr "相位能量"
 #: src-en/data/blueprints.xml.append:992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/desc"
-msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种特殊型号的武器可以穿透护盾"
-"，并对第一层护盾和击中舱室的系统造成离子伤害。"
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种特殊型号的武器可以穿透护盾，并对第一层护盾和击中舱室的系统造成离子伤害。"
 
 #: src-en/data/blueprints.xml.append:1033
 msgid ""
@@ -522,8 +496,7 @@ msgstr "相位能量∫"
 #: src-en/data/blueprints.xml.append:1037
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
-msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种特殊型号的武器可以穿透护盾"
-"，并对第一层护盾和击中舱室的系统造成离子伤害。"
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。这种特殊型号的武器可以穿透护盾，并对第一层护盾和击中舱室的系统造成离子伤害。"
 
 #: src-en/data/blueprints.xml.append:1080
 msgid ""
@@ -538,8 +511,7 @@ msgstr "火焰能量"
 #: src-en/data/blueprints.xml.append:1083
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
-msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。相较于标准能量炮，这种武器具有"
-"更高的起火率。"
+msgstr "能量武器可以使系统失效，同时也会造成舰体伤害。相较于标准能量炮，这种武器具有更高的起火率。"
 
 #: src-en/data/blueprints.xml.append:1134
 msgid ""
@@ -554,8 +526,7 @@ msgstr "灼烧光点"
 #: src-en/data/blueprints.xml.append:1136
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
-msgstr "一种充能速度较快的光点武器，具备最低限度的穿盾能力。该种光点除了点火之外不会"
-"造成任何物理伤害。"
+msgstr "一种充能速度较快的光点武器，具备最低限度的穿盾能力。该种光点除了点火之外不会造成任何物理伤害。"
 
 #: src-en/data/blueprints.xml.append:1161
 msgid ""
@@ -599,8 +570,7 @@ msgstr "粒子炸弹"
 
 #: src-en/data/blueprints.xml.append:1237
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
-msgstr "自传送炸弹，内含一次性粒子加速器，可对系统造成沉重打击并引发火焰。可瞄准己方"
-"星舰。"
+msgstr "自传送炸弹，内含一次性粒子加速器，可对系统造成沉重打击并引发火焰。可瞄准己方星舰。"
 
 #: src-en/data/blueprints.xml.append:1266
 msgid ""
@@ -615,8 +585,7 @@ msgstr "粒子炸弹∫"
 #: src-en/data/blueprints.xml.append:1269
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
-msgstr "自传送炸弹，内含一次性粒子加速器，可对系统造成沉重打击并引发火焰。可瞄准己方"
-"星舰。"
+msgstr "自传送炸弹，内含一次性粒子加速器，可对系统造成沉重打击并引发火焰。可瞄准己方星舰。"
 
 #: src-en/data/blueprints.xml.append:1299
 msgid ""
@@ -632,8 +601,7 @@ msgstr "汽油炸弹"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
-"自传送炸弹，能将汽油喷洒于船员和无人机，使他们受到的火焰伤害增加4倍，移动速度"
-"降低30%，持续20秒。如果作用对象在效果期间死亡，其残骸也会引发火灾。\n"
+"自传送炸弹，能将汽油喷洒于船员和无人机，使他们受到的火焰伤害增加4倍，移动速度降低30%，持续20秒。如果作用对象在效果期间死亡，其残骸也会引发火灾。\n"
 "这种武器具有自我复制能力，发射不消耗弹药。"
 
 #: src-en/data/blueprints.xml.append:1368
@@ -655,8 +623,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
-"自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业"
-"。可瞄准己方星舰。\n"
+"自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业。可瞄准己方星舰。\n"
 "\n"
 "\t属性：\n"
 "\t无需供能\n"
@@ -795,12 +762,9 @@ msgstr "变异炸弹"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
-"自传送炸弹，能够将被击中的船员（不分敌我）转变为绿油油的变异生物。变异效果持"
-"续15秒。\n"
+"自传送炸弹，能够将被击中的船员（不分敌我）转变为绿油油的变异生物。变异效果持续15秒。\n"
 "\n"
-"\t变异体具有2"
-".3倍战斗伤害，无法维修或恢复生命、0.5倍移动速度。并在死亡时爆炸，对同舱室造成"
-"15点船员伤害与1点系统伤害。"
+"\t变异体具有2.3倍战斗伤害，无法维修或恢复生命、0.5倍移动速度。并在死亡时爆炸，对同舱室造成15点船员伤害与1点系统伤害。"
 
 #: src-en/data/blueprints.xml.append:1668
 msgid ""
@@ -815,8 +779,7 @@ msgstr "光神导弹"
 #: src-en/data/blueprints.xml.append:1670
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
-msgstr "一种极端特化但效果不错的导弹武器。它不会对船员造成伤害，转而为被击中舱室的友"
-"方船员提供每秒4点生命值回复效果，持续15秒。回复效果可以叠加。"
+msgstr "一种极端特化但效果不错的导弹武器。它不会对船员造成伤害，转而为被击中舱室的友方船员提供每秒4点生命值回复效果，持续15秒。回复效果可以叠加。"
 
 #: src-en/data/blueprints.xml.append:1720
 msgid ""
@@ -837,8 +800,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/descriptionOverride"
 msgstr ""
-"自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业"
-"。可瞄准己方星舰。\n"
+"自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业。可瞄准己方星舰。\n"
 "\n"
 "\t属性：\n"
 "\t无需供能\n"
@@ -931,8 +893,7 @@ msgstr "殃害哨卫"
 #: src-en/data/blueprints.xml.append:1997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
-msgstr "在击中舱室部署一个临时哨卫，舱室内敌方船员受到的环境伤害和眩晕时长翻倍，持续2"
-"0秒。哨卫不占用舱室空间并且不会被摧毁。"
+msgstr "在击中舱室部署一个临时哨卫，舱室内敌方船员受到的环境伤害和眩晕时长翻倍，持续20秒。哨卫不占用舱室空间并且不会被摧毁。"
 
 #: src-en/data/blueprints.xml.append:2069
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
@@ -960,8 +921,7 @@ msgstr "霆神空雷"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
-"空雷发射器快速充能并发射一片缓慢移动的弹体，还能高效地向追击的叛军部署陷阱。"
-"\n"
+"空雷发射器快速充能并发射一片缓慢移动的弹体，还能高效地向追击的叛军部署陷阱。\n"
 "\n"
 "\t可在空信标处用15发弹药来拖延2次叛军追击，不产生恶名。"
 
@@ -978,8 +938,7 @@ msgstr "三联破片"
 #: src-en/data/blueprints.xml.append:2186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
-msgstr "一挺怪异的，像是临时拼凑而来的武器。它在一轮充能攻击中会同时发射2枚破片和1发"
-"速度较慢的重型激光。"
+msgstr "一挺怪异的，像是临时拼凑而来的武器。它在一轮充能攻击中会同时发射2枚破片和1发速度较慢的重型激光。"
 
 #: src-en/data/blueprints.xml.append:2228
 msgid ""
@@ -1052,8 +1011,7 @@ msgstr "炽炎火束"
 
 #: src-en/data/blueprints.xml.append:2381
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
-msgstr "一种发射集中热能光束的武器。其不仅能对船体和系统造成伤害，还能暂时打破船员的"
-"火焰免疫，使他们在15秒内受到1.5倍的火焰伤害。小心误伤！"
+msgstr "一种发射集中热能光束的武器。其不仅能对船体和系统造成伤害，还能暂时打破船员的火焰免疫，使他们在15秒内受到1.5倍的火焰伤害。小心误伤！"
 
 #: src-en/data/blueprints.xml.append:2426
 msgid ""
@@ -1107,8 +1065,7 @@ msgstr "闪电光束"
 
 #: src-en/data/blueprints.xml.append:2610
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
-msgstr "不同于你之前见过的任何造物，这件奇特的武器似乎使用了某种先进的离子技术，能生"
-"成足够的离子能量并像光束那样对多个舱室造成离子伤害。"
+msgstr "不同于你之前见过的任何造物，这件奇特的武器似乎使用了某种先进的离子技术，能生成足够的离子能量并像光束那样对多个舱室造成离子伤害。"
 
 #: src-en/data/blueprints.xml.append:2639
 msgid ""
@@ -1211,8 +1168,7 @@ msgstr "你 不 应 该 看 到 这 个"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
 msgstr ""
-"这是一把只为最富有的叛军打造的武器。它能发射5颗具有多种不同效果的宝石炮弹，但"
-"每次射击都需要消耗废料。\n"
+"这是一把只为最富有的叛军打造的武器。它能发射5颗具有多种不同效果的宝石炮弹，但每次射击都需要消耗废料。\n"
 "\n"
 "\t属性：\n"
 "\t需要能量：2\n"
@@ -1268,8 +1224,7 @@ msgstr "你 不 应 该 看 到 这 个"
 #: src-en/data/blueprints.xml.append:2850
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
-"精英人形船员。极其高效的克隆士兵，由登陆舱上的克隆实验室制造。由于使用廉价的"
-"基因材料，这些士兵在生成后会迅速崩溃分解。\n"
+"精英人形船员。极其高效的克隆士兵，由登陆舱上的克隆实验室制造。由于使用廉价的基因材料，这些士兵在生成后会迅速崩溃分解。\n"
 "\n"
 "\t继承人类特质：轻微抗窒息能力"
 
@@ -1300,8 +1255,7 @@ msgstr "神经芯片使其能够极快地学习技能"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
-"精英人形船员。极其高效的克隆士兵，由登陆舱上的克隆实验室制造。由于使用廉价的"
-"基因材料，这些士兵在生成后会迅速崩溃分解。\n"
+"精英人形船员。极其高效的克隆士兵，由登陆舱上的克隆实验室制造。由于使用廉价的基因材料，这些士兵在生成后会迅速崩溃分解。\n"
 "\n"
 "\t继承人类特质：轻微抗窒息能力"
 
@@ -1343,8 +1297,7 @@ msgstr "联军级克舰舱器"
 #: src-en/data/blueprints.xml.append:2882
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
-msgstr "联邦标准克隆性破舰舱发射器。该装置可攻破敌方船舱后部署一个克隆吊舱，"
-"并生成一个为你战斗 60 秒的克隆士兵。"
+msgstr "联邦标准克隆性破舰舱发射器。该装置可攻破敌方船舱后部署一个克隆吊舱，并生成一个为你战斗 60 秒的克隆士兵。"
 
 #: src-en/data/blueprints.xml.append:2944
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
@@ -1379,8 +1332,7 @@ msgstr "压制II"
 #: src-en/data/blueprints.xml.append:3028
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
-msgstr "一种专用于持续有效压制护盾层数的无人机，自带隐形系统，能够避免反无人机攻击。I"
-"I型移动速度更低但单次开火能破除3层护盾。"
+msgstr "一种专用于持续有效压制护盾层数的无人机，自带隐形系统，能够避免反无人机攻击。II型移动速度更低但单次开火能破除3层护盾。"
 
 #: src-en/data/blueprints.xml.append:3041
 msgid ""
@@ -1405,8 +1357,7 @@ msgstr "雷霆B型"
 #: src-en/data/blueprints.xml.append:3088
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
-msgstr "[当前模式：“突袭”] 一种特殊的无人机，可在 “突袭 "
-"”和离子炸弹之间切换部署，无需导弹，但速度相对较慢。"
+msgstr "[当前模式：“突袭”] 一种特殊的无人机，可在 “突袭 ”和离子炸弹之间切换部署，无需导弹，但速度相对较慢。"
 
 #: src-en/data/blueprints.xml.append:3103
 msgid ""
@@ -1421,8 +1372,7 @@ msgstr "雷霆I型"
 #: src-en/data/blueprints.xml.append:3105
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
-msgstr "[当前模式：“离子”] 一种特殊的无人机，可在 “突袭 "
-"”和离子炸弹之间切换部署，无需导弹，但速度相对较慢。"
+msgstr "[当前模式：“离子”] 一种特殊的无人机，可在 “突袭 ”和离子炸弹之间切换部署，无需导弹，但速度相对较慢。"
 
 #: src-en/data/blueprints.xml.append:3121
 msgid ""
@@ -1451,8 +1401,7 @@ msgstr "\"忒修斯 \""
 #: src-en/data/blueprints.xml.append:3156
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
-msgstr "这种独一无二的战斗无人机内置导弹储备。部署需要总共3枚导弹，但发射时不消耗导弹"
-"。"
+msgstr "这种独一无二的战斗无人机内置导弹储备。部署需要总共3枚导弹，但发射时不消耗导弹。"
 
 #: src-en/data/blueprints.xml.append:3172
 msgid ""
@@ -1473,8 +1422,7 @@ msgstr "散射防御"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
-"一种怪异的防御无人机，发射慢速移动的破片来防御攻击。防御目标包括你能想到的任"
-"何事物——实体弹、激光、无人机等等。\n"
+"一种怪异的防御无人机，发射慢速移动的破片来防御攻击。防御目标包括你能想到的任何事物——实体弹、激光、无人机等等。\n"
 "\t重新装填：1400 毫秒"
 
 #: src-en/data/blueprints.xml.append:3227
@@ -1528,8 +1476,7 @@ msgstr "灭火"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
-"可控制的多功能无人机，能通过吸收氧气快速灭火。在紧急情况下还能缓慢修复系统。"
-"\n"
+"可控制的多功能无人机，能通过吸收氧气快速灭火。在紧急情况下还能缓慢修复系统。\n"
 "    \n"
 "-50点生命值，1.5 倍移动速度\n"
 "-4 倍灭火速度，0.5 倍修复速度\n"
@@ -1563,9 +1510,7 @@ msgstr "高压"
 #: src-en/data/blueprints.xml.append:3296
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
-"可控制的实用型无人机，可为任何与之配合的系统提供大量电力。但随着时间推移，该"
-"无人机的生命值会逐渐下降直至爆炸。请谨慎使用，因为它的爆炸比其他无人机更具破"
-"坏性！\n"
+"可控制的实用型无人机，可为任何与之配合的系统提供大量电力。但随着时间推移，该无人机的生命值会逐渐下降直至爆炸。请谨慎使用，因为它的爆炸比其他无人机更具破坏性！\n"
 "    \n"
 "-75生命值，2 倍移动速度\n"
 "-为当前所在系统提供 6 点能量\n"
@@ -1605,8 +1550,7 @@ msgstr "汲护无人机"
 #: src-en/data/blueprints.xml.append:3324
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
-"可操控的辅助无人机，其能够从所处舱室的系统汲取能量来为同舱室的友方船员提供伤"
-"害减免。\n"
+"可操控的辅助无人机，其能够从所处舱室的系统汲取能量来为同舱室的友方船员提供伤害减免。\n"
 "    \n"
 "-50点最大生命值，0.75倍移动速度\n"
 "-为同舱室的友方船员提供防护，使其获得75%的伤害抗性\n"
@@ -1670,8 +1614,7 @@ msgstr "执念-C"
 #: src-en/data/blueprints.xml.append:3578
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
-msgstr "不像普通半械族巡洋舰只是看起来像用废料松散拼凑而成，这艘船真的就是用废料松散"
-"拼凑而成的。"
+msgstr "不像普通半械族巡洋舰只是看起来像用废料松散拼凑而成，这艘船真的就是用废料松散拼凑而成的。"
 
 #: src-en/data/blueprints.xml.append:3656
 msgid ""
@@ -1686,8 +1629,7 @@ msgstr "众益至上"
 #: src-en/data/blueprints.xml.append:3659
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
-msgstr "这艘星舰是温特沃斯革新社一个失败的市场扩展计划的一部分，"
-"该计划主要围绕电视角色\"石头鱼雷米\"展开。"
+msgstr "这艘星舰是温特沃斯革新社一个失败的市场扩展计划的一部分，该计划主要围绕电视角色\"石头鱼雷米\"展开。"
 
 #: src-en/data/blueprints.xml.append:3734
 msgid ""
@@ -1702,8 +1644,7 @@ msgstr "堆肥箱"
 #: src-en/data/blueprints.xml.append:3737
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
-msgstr "\"从我意识到我的中果皮如此脆弱的那一刻起，我就对它深感厌恶。我想变得像钢铁一"
-"样又硬又靠谱。要是能变成导弹就更棒了。\""
+msgstr "\"从我意识到我的中果皮如此脆弱的那一刻起，我就对它深感厌恶。我想变得像钢铁一样又硬又靠谱。要是能变成导弹就更棒了。\""
 
 #: src-en/data/blueprints.xml.append:3814
 msgid ""
@@ -1736,8 +1677,7 @@ msgstr "狮子号"
 #: src-en/data/blueprints.xml.append:3897
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
-msgstr "这艘船的船长对联邦的法律一窍不通。他们可能没注意到克隆管制的通知，但对于老家"
-"那条禁止传送的规定，他们倒是严格遵守。"
+msgstr "这艘船的船长对联邦的法律一窍不通。他们可能没注意到克隆管制的通知，但对于老家那条禁止传送的规定，他们倒是严格遵守。"
 
 #: src-en/data/blueprints.xml.append:3970
 msgid ""
@@ -1752,8 +1692,7 @@ msgstr "兰花螳螂II"
 #: src-en/data/blueprints.xml.append:3973
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
-msgstr "这艘船的船长以前是螳螂号的船员。对工作条件不满意后，他决心用更多的炸弹来证明"
-"自己有多厉害。"
+msgstr "这艘船的船长以前是螳螂号的船员。对工作条件不满意后，他决心用更多的炸弹来证明自己有多厉害。"
 
 #: src-en/data/blueprints.xml.append:4051
 msgid ""
@@ -1798,8 +1737,7 @@ msgstr "斯潘塞-45"
 #: src-en/data/blueprints.xml.append:4208
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
-msgstr "真不巧，蛞蝓族船员恰好在这艘船起航时出去吃午饭了。即便有了新船员，想要追踪敌"
-"方船员恐怕还是有点困难..."
+msgstr "真不巧，蛞蝓族船员恰好在这艘船起航时出去吃午饭了。即便有了新船员，想要追踪敌方船员恐怕还是有点困难..."
 
 #: src-en/data/blueprints.xml.append:4283
 msgid ""
@@ -1814,8 +1752,7 @@ msgstr "湮灭"
 #: src-en/data/blueprints.xml.append:4286
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
-msgstr "听说联邦在召集勇敢的战士，这艘勇猛的迷失之阳号二话不说就冲出来了，就是为了尽"
-"可能鼓舞其他人。"
+msgstr "听说联邦在召集勇敢的战士，这艘勇猛的迷失之阳号二话不说就冲出来了，就是为了尽可能鼓舞其他人。"
 
 #: src-en/data/blueprints.xml.append:4362
 msgid ""
@@ -1830,8 +1767,7 @@ msgstr "火元号"
 #: src-en/data/blueprints.xml.append:4365
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
-msgstr "关于这艘船独特的武器到底发射的是岩浆还是熔岩，人们没少争论。要不是它的敌人都"
-"已经死光了，没准还能加入讨论呢。"
+msgstr "关于这艘船独特的武器到底发射的是岩浆还是熔岩，人们没少争论。要不是它的敌人都已经死光了，没准还能加入讨论呢。"
 
 #: src-en/data/blueprints.xml.append:4440
 msgid ""
@@ -1861,8 +1797,7 @@ msgstr "海德龙号"
 #: src-en/data/blueprints.xml.append:4520
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
-msgstr "这个呆瓜很快就意识到他不小心买了个粒子对撞机，而不是加速器。不过没关系， "
-"反正紫色比橙色好看多了。"
+msgstr "这个呆瓜很快就意识到他不小心买了个粒子对撞机，而不是加速器。不过没关系， 反正紫色比橙色好看多了。"
 
 #: src-en/data/blueprints.xml.append:4594
 msgid ""
@@ -1892,8 +1827,7 @@ msgstr "毁灭者"
 #: src-en/data/blueprints.xml.append:4677
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
-msgstr "在折腾了无数年，想尽办法搞出越来越厉害的武器来内斗后，这个王朝终于开窍了 —— "
-"原来他们的枪炮还能轰烂其他派系的飞船。"
+msgstr "在折腾了无数年，想尽办法搞出越来越厉害的武器来内斗后，这个王朝终于开窍了 —— 原来他们的枪炮还能轰烂其他派系的飞船。"
 
 #: src-en/data/blueprints.xml.append:4751
 msgid ""
@@ -1908,8 +1842,7 @@ msgstr "育母号"
 #: src-en/data/blueprints.xml.append:4754
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
-msgstr "这船长还有啥好说的？嗯，他们喜欢蜘蛛。不，应该说是超爱蜘蛛。可能...有点太过头"
-"了。"
+msgstr "这船长还有啥好说的？嗯，他们喜欢蜘蛛。不，应该说是超爱蜘蛛。可能...有点太过头了。"
 
 #: src-en/data/blueprints.xml.append:4827
 msgid ""
@@ -1924,8 +1857,7 @@ msgstr "洪佩丁克号"
 #: src-en/data/blueprints.xml.append:4830
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
-msgstr "这是一艘提卡卡族的船，跟任何有名的海盗或亡命之徒半毛钱关系都没有。拜托别搞混"
-"了啊。对了，它还装了一大堆激光武器。"
+msgstr "这是一艘提卡卡族的船，跟任何有名的海盗或亡命之徒半毛钱关系都没有。拜托别搞混了啊。对了，它还装了一大堆激光武器。"
 
 #: src-en/data/blueprints.xml.append:4904
 msgid ""
@@ -1955,8 +1887,7 @@ msgstr "三趾鸥号"
 #: src-en/data/blueprints.xml.append:4988
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
-msgstr "人们老说在这艘巡洋舰上看到了旗帜；这可把船长搞糊涂了。"
-"\"不是布做的啊？也没啥图案标志啊？\"他就是觉得这些颜色挺好看的。"
+msgstr "人们老说在这艘巡洋舰上看到了旗帜；这可把船长搞糊涂了。\"不是布做的啊？也没啥图案标志啊？\"他就是觉得这些颜色挺好看的。"
 
 #: src-en/data/blueprints.xml.append:5062
 msgid ""
@@ -1971,8 +1902,7 @@ msgstr "暴迫号"
 #: src-en/data/blueprints.xml.append:5065
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
-msgstr "为了把无人机系统的威力拉满，我们可没少动歪脑筋省钱。也许是省过头了，不过咱们"
-"就既往不咎吧。"
+msgstr "为了把无人机系统的威力拉满，我们可没少动歪脑筋省钱。也许是省过头了，不过咱们就既往不咎吧。"
 
 #: src-en/data/blueprints.xml.append:5141
 msgid ""
@@ -2020,10 +1950,7 @@ msgstr "游艇俱乐部"
 #: src-en/data/blueprints.xml.append:5304
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
-msgstr ""
-"小行星采矿带来的资源过剩导致了后稀缺社会的出现，这位船长所在世界的智慧生物们"
-"就不得不寻找新的方式来挥霍他们过剩的财富。既然如此，为什么不把这些财富转化成"
-"武器呢？"
+msgstr "小行星采矿带来的资源过剩导致了后稀缺社会的出现，这位船长所在世界的智慧生物们就不得不寻找新的方式来挥霍他们过剩的财富。既然如此，为什么不把这些财富转化成武器呢？"
 
 #: src-en/data/blueprints.xml.append:5379
 msgid ""
@@ -2038,8 +1965,7 @@ msgstr "5Y5-5H0CK"
 #: src-en/data/blueprints.xml.append:5382
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
-msgstr "校准主框架。启动旁路过滤核心。处理器超频巨型芯片正以最大效能超频运行。本舰已"
-"进入战备状态。"
+msgstr "校准主框架。启动旁路过滤核心。处理器超频巨型芯片正以最大效能超频运行。本舰已进入战备状态。"
 
 #: src-en/data/blueprints.xml.append:5457
 msgid ""
@@ -2054,8 +1980,7 @@ msgstr "赦免号"
 #: src-en/data/blueprints.xml.append:5460
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
-msgstr "讽刺的是，这艘海盗船的船员们仍然坚持着叛军传统。它为拯救多元宇宙增添了一点众"
-"望所归的优势。"
+msgstr "讽刺的是，这艘海盗船的船员们仍然坚持着叛军传统。它为拯救多元宇宙增添了一点众望所归的优势。"
 
 #: src-en/data/blueprints.xml.append:5534
 msgid ""
@@ -2070,8 +1995,7 @@ msgstr "狄奥菲勒斯号"
 #: src-en/data/blueprints.xml.append:5537
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
-msgstr "装备了一件远古的超级邪术武器...它呃，它装备了一件远古的超级邪术武器。说真的，"
-"你只需要知道这些就够了。"
+msgstr "装备了一件远古的超级邪术武器...它呃，它装备了一件远古的超级邪术武器。说真的，你只需要知道这些就够了。"
 
 #: src-en/data/blueprints.xml.append:5609
 msgid ""
@@ -2086,5 +2010,4 @@ msgstr "垃圾堆号"
 #: src-en/data/blueprints.xml.append:5612
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
-msgstr "这艘船的船长不明白为什么人们认为\"垃圾堆\"这个名字是侮辱"
-"。垃圾是美味的食物，这艘船也是美味的食物。但是现在还不能吃。"
+msgstr "这艘船的船长不明白为什么人们认为\"垃圾堆\"这个名字是侮辱。垃圾是美味的食物，这艘船也是美味的食物。但是现在还不能吃。"
