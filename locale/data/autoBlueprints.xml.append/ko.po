@@ -1,47 +1,41 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 11:17+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Korean <https://weblate.hyperq.be/projects/the-renegade-collection/dataautoblueprintsxmlappend/ko/>\n"
-"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
-#: src-en/data/autoBlueprints.xml.append:983
+#: src-en/data/autoBlueprints.xml.append:993
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_COLLECTOR\"]/class"
 msgstr "수집가"
 
-#: src-en/data/autoBlueprints.xml.append:1061
+#: src-en/data/autoBlueprints.xml.append:1080
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CONTINUITY_BOSS\"]/class"
 msgstr "격리 요원"
 
-#: src-en/data/autoBlueprints.xml.append:1134
+#: src-en/data/autoBlueprints.xml.append:1153
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_1\"]/class"
 msgstr "우주 연방 살쾡이급 장거리 순찰 폭격기"
 
-#: src-en/data/autoBlueprints.xml.append:1187
+#: src-en/data/autoBlueprints.xml.append:1206
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_2\"]/class"
 msgstr "불변의 감시자"
 
-#: src-en/data/autoBlueprints.xml.append:1245
+#: src-en/data/autoBlueprints.xml.append:1264
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_3\"]/class"
 msgstr "식민지 정찰기"
 
-#: src-en/data/autoBlueprints.xml.append:1284
+#: src-en/data/autoBlueprints.xml.append:1303
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_4\"]/class"
 msgstr "정신 나간 선각자"
 
-#: src-en/data/autoBlueprints.xml.append:1332
+#: src-en/data/autoBlueprints.xml.append:1351
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_5\"]/class"
 msgstr "부의 화신"
