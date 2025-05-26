@@ -4,6 +4,7 @@
 
         "data/autoBlueprints.xml.append",
         "data/blueprints.xml.append",
+		"data/events_addon_icon.xml.append",
         "data/events.xml.append",
         "data/events_sector_union.xml.append",
         "data/events_special_storage.xml.append",
@@ -113,9 +114,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/trc/raw/trc-english/Multiverse_-_TRC_2.5.zip",
+            "https://github.com/ftl-mv-translation/trc/raw/trc-english/Multiverse_-_TRC_2.6.zip",
         ],
         "prefix": "The-Renegade-Collection",
-        "version": "2.5"
+        "version": "2.6"
     }
 }

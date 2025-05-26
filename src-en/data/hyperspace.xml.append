@@ -962,7 +962,7 @@
 			<shipFriendlyFire>true</shipFriendlyFire>
 		</deathEffect>
 		<deathSounds>
-			<deathSound>technicianDroneDeath</deathSound>
+			<deathSound>explosionShell</deathSound>
 		</deathSounds>
 	</race>
 	<race name="clone_soldier">
@@ -1169,6 +1169,9 @@
 		<req lvl="4" max_lvl="4">
 			<name>loc_sector_count</name>
 		</req>
+		<req lvl="3">
+			<name>prof_finalsector</name>
+		</req>
 		<req lvl="0" max_lvl="0">
 			<name>trc_collector</name>
 		</req>
@@ -1226,207 +1229,210 @@
     </mod-append:customStore>
 </mod:findLike>
 <!-- WALLACE BEACON -->
-<mod:findLike type="customStore"><mod:selector id="STORE_ULTIMATE_SYLVAN"/>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_LASER_CHARGEGUN_HEAVY</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_LASER_AMP2</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_LASER_COMPACT</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_LASER_LIGHT_BURST</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_LASER_PARTICLE_BIO</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_LASER_PARTICLE_BIO_2</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_MAGNIFIER_1</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_MAGNIFIER_2</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_MAGNIFIER_PIERCE</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_MAGNIFIER_ION</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BEAM_TILE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BEAM_BIO_2</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_BEAM_HULL_CHAIN</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BEAM_ADAPT_CONSERVATIVE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_ION_BREACH</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_ION_CHAINGUN_2</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_ENERGY_PIERCE_1</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_ENERGY_FIRE</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_FOCUS_FIRE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_FOCUS_CONSERVATIVE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BOMB_SHRAPNEL</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_BOMB_PART</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BOMB_GASOLINE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BOMB_DRONE</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_BOMB_SPIDER</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BOMB_MUTANT</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_MISSILES_HEAL</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_MISSILES_FROST</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_MISSILES_SHRAPNEL</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_MISSILES_SHRAPNEL_2</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_MISSILES_INSTANT</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_SENTRY_HAZARD</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_VIRULENT</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_MINELAUNCHER_ION</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_SHOTGUN_TRIFECTA</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_SHOTGUN_FROST</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_DRONE_GUN</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_ULTRABURN</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_SYSTEMSHOCK</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_FLARE_LAUNCHER</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BREACHING_POD</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_BEAM_ION</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_BOMB_COLONIZER</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_LAVA_THROWER</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_CASH_GUN</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="WEAPONS">
-		<item>
-			<blueprint>TRC_EPISTLE</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="DRONES">
-		<item>
-			<blueprint>TRC_DRONE_POP</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_DRONE_POP_2</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_THUNDER_1_BREACH</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="DRONES">
-		<item>
-			<blueprint>TRC_COMBAT_MISSILE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_SCATTERSHOT</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_EXTINGUISHER</blueprint>
-		</item>
-	</mod-append:category>
-	<mod-append:category type="DRONES">
-		<item>
-			<blueprint>TRC_VOLTAGE</blueprint>
-		</item>
-		<item>
-			<blueprint>TRC_OVERSHIELD</blueprint>
-		</item>
-	</mod-append:category>
+<mod:findLike type="store" limit="1">
+    <mod:findLike type="customStore">
+        <mod:selector id="STORE_ULTIMATE_SYLVAN"/>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_LASER_CHARGEGUN_HEAVY</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_LASER_AMP2</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_LASER_COMPACT</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_LASER_LIGHT_BURST</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_LASER_PARTICLE_BIO</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_LASER_PARTICLE_BIO_2</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_MAGNIFIER_1</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_MAGNIFIER_2</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_MAGNIFIER_PIERCE</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_MAGNIFIER_ION</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BEAM_TILE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BEAM_BIO_2</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_BEAM_HULL_CHAIN</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BEAM_ADAPT_CONSERVATIVE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_ION_BREACH</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_ION_CHAINGUN_2</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_ENERGY_PIERCE_1</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_ENERGY_FIRE</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_FOCUS_FIRE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_FOCUS_CONSERVATIVE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BOMB_SHRAPNEL</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_BOMB_PART</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BOMB_GASOLINE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BOMB_DRONE</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_BOMB_SPIDER</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BOMB_MUTANT</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_MISSILES_HEAL</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_MISSILES_FROST</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_MISSILES_SHRAPNEL</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_MISSILES_SHRAPNEL_2</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_MISSILES_INSTANT</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_SENTRY_HAZARD</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_VIRULENT</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_MINELAUNCHER_ION</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_SHOTGUN_TRIFECTA</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_SHOTGUN_FROST</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_DRONE_GUN</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_ULTRABURN</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_SYSTEMSHOCK</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_FLARE_LAUNCHER</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BREACHING_POD</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_BEAM_ION</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_BOMB_COLONIZER</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_LAVA_THROWER</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_CASH_GUN</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="WEAPONS">
+				<item>
+					<blueprint>TRC_EPISTLE</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="DRONES">
+				<item>
+					<blueprint>TRC_DRONE_POP</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_DRONE_POP_2</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_THUNDER_1_BREACH</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="DRONES">
+				<item>
+					<blueprint>TRC_COMBAT_MISSILE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_SCATTERSHOT</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_EXTINGUISHER</blueprint>
+				</item>
+			</mod-append:category>
+			<mod-append:category type="DRONES">
+				<item>
+					<blueprint>TRC_VOLTAGE</blueprint>
+				</item>
+				<item>
+					<blueprint>TRC_OVERSHIELD</blueprint>
+				</item>
+			</mod-append:category>
+	</mod:findLike>
 </mod:findLike>
 
 <mod:findLike type="scripts" limit="1">

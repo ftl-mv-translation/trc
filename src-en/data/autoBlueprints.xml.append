@@ -165,6 +165,16 @@
 	<mod-append:name>TRC_EPISTLE</mod-append:name>
 </mod:findName>
 
+<mod:findName type="blueprintList" name="LIST_WEAPONS_MISSILE">
+	<mod-append:name>TRC_MISSILES_INSTANT</mod-append:name>
+	<mod-append:name>TRC_MISSILES_HEAL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST</mod-append:name>
+	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL</mod-append:name>
+	<mod-append:name>TRC_MISSILES_SHRAPNEL_2</mod-append:name>
+	<mod-append:name>TRC_BREACHING_POD</mod-append:name>
+</mod:findName>
+
 <mod:findName type="blueprintList" name="LIST_CREW_SPIDER">
 	<mod-append:name>spider_hatch_temp</mod-append:name>
 </mod:findName>
@@ -688,7 +698,7 @@
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_FED">
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 </mod:findName>
 <mod:findName type="blueprintList" name="LIST_DRONES_FED">
@@ -734,7 +744,7 @@
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_FREEMANTIS">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_LOSTSUN">
@@ -752,7 +762,7 @@
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_SSLG">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
 </mod:findName>
 
@@ -762,7 +772,7 @@
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_DYNASTY">
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
 	<mod-append:name>TRC_BEAM_TILE</mod-append:name>
@@ -774,18 +784,18 @@
 <mod:findName type="blueprintList" name="LIST_WEAPONS_LEECH">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_REVOLUTIONARY">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_LEECH_ELITE">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_LANIUS">
@@ -798,7 +808,7 @@
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_REBEL_SELITE">
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
 </mod:findName>
 
@@ -816,7 +826,7 @@
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_ESTATE">
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
 	<mod-append:name>TRC_SENTRY_HAZARD</mod-append:name>
 </mod:findName>
@@ -827,7 +837,7 @@
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_COALITION">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_MISSILES_FROST_ENEMY</mod-append:name>
 </mod:findName>
 
@@ -846,11 +856,11 @@
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_MANTIS">
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_SUZERAIN">
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_OUTCAST">
@@ -892,7 +902,7 @@
 
 <mod:findName type="blueprintList" name="LIST_WEAPONS_BROOD">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
 	<mod-append:name>TRC_BOMB_SPIDER_ENEMY</mod-append:name>
 	<mod-append:name>TRC_ULTRABURN</mod-append:name>
@@ -911,14 +921,14 @@
 
 <mod:findName type="blueprintList" name="MV_WEAPONS_ALL">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
 	<mod-append:name>TRC_BEAM_HULL_CHAIN</mod-append:name>
 	<mod-append:name>TRC_FOCUS_FIRE</mod-append:name>
 </mod:findName>
 <mod:findName type="blueprintList" name="MV_WEAPONS_SHIELDBREAKER">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 	<mod-append:name>TRC_SHOTGUN_TRIFECTA</mod-append:name>
 </mod:findName>
 <mod:findName type="blueprintList" name="MV_WEAPONS_FIRE">
@@ -926,7 +936,7 @@
 </mod:findName>
 <mod:findName type="blueprintList" name="MV_WEAPONS_LASER">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
-	<mod-append:name>TRC_LASER_LIGHT_BURST</mod-append:name>
+	<mod-append:name>TRC_LASER_LIGHT_BURST_ENEMY</mod-append:name>
 </mod:findName>
 <mod:findName type="blueprintList" name="MV_WEAPONS_LASER_HEAVY">
 	<mod-append:name>TRC_LASER_CHARGEGUN_HEAVY</mod-append:name>
@@ -1017,6 +1027,15 @@
 	<aug name="SYLVAN_SHIELD" />
 	<aug name="NO_GHOST" />
 </shipBlueprint>
+
+<mod:findName type="blueprintList" name="BLUELIST_WEAPONS_MIND_AFFECT">
+	<mod-append:name>TRC_EPISTLE</mod-append:name>
+	<mod-append:name>TRC_BOMB_COLONIZER</mod-append:name>
+</mod:findName>
+<mod:findName type="blueprintList" name="BLUELIST_WEAPONS_MIND_CONTROL">
+	<mod-append:name>TRC_BOMB_COLONIZER</mod-append:name>
+</mod:findName>
+
 
 <blueprintList name="LIST_WEAPONS_CELBOSS">
 	<name>LASER_BURST_3</name>

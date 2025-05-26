@@ -247,6 +247,48 @@
 	<weaponArt>laser_light_burst</weaponArt>
 	<iconImage>laser</iconImage>
 </weaponBlueprint>
+<weaponBlueprint name="TRC_LASER_LIGHT_BURST_ENEMY">
+	<type>LASER</type>
+	<title>Light Burst Laser</title>
+	<short>Light Burst</short>
+	<tip>tip_light_laser</tip>
+	<desc>YOU SHOULD NEVER SEE THIS</desc>
+	<tooltip>Light laser; 1 damage, no system damage. 5 second cooldown.</tooltip>
+	<damage>1</damage>
+	<sysDamage>-1</sysDamage>
+	<persDamage>-1</persDamage>
+	<!--<accuracyMod>10</accuracyMod>-->
+	<shots>3</shots>
+	<fireTime>0.05</fireTime>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>3</breachChance>
+	<cooldown>10.5</cooldown>
+	<power>2</power>
+	<cost>50</cost>
+	<bp>2</bp>
+	<rarity>0</rarity>
+	<image>laser_light</image>
+	<launchSounds>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+		<sound>laser_light</sound>
+	</launchSounds>
+	<hitShipSounds>
+		<sound>hitHull2</sound>
+		<sound>hitHull3</sound>
+	</hitShipSounds>
+	<hitShieldSounds>
+		<sound>hitShield1</sound>
+		<sound>hitShield2</sound>
+		<sound>hitShield3</sound>
+	</hitShieldSounds>
+	<missSounds>
+		<sound>miss</sound>
+	</missSounds>
+	<weaponArt>laser_light_burst</weaponArt>
+	<iconImage>laser</iconImage>
+</weaponBlueprint>
 
 <weaponBlueprint name="TRC_LASER_PARTICLE_BIO">
 	<type>BURST</type>
@@ -1628,6 +1670,11 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<eldritch_cat/>
 				<gnome/>
 				<bucket/>
+				<human_technician_drone/>
+				<hologram/>
+				<zoltan_osmian_hologram/>
+				<battle/>
+				<atom/>
 			</blackList>
 		</statBoost>
 	</statBoosts>
@@ -1953,11 +2000,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<mv-conservative/>
     <cost>90</cost>
     <bp>7</bp>
-	<boost>
-		<type>cooldown</type>
-		<amount>2</amount>
-		<count>2</count>
-	</boost>
+	<shotLimit>1</shotLimit>
     <rarity>5</rarity>
     <image>missile_instant</image>
     <launchSounds>
@@ -2000,6 +2043,10 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<missiles>1</missiles>
 	<shots>1</shots>
 	<accuracyMod>30</accuracyMod>
+	<mv-sys-limit>
+		<amount>1</amount>
+		<time>20</time>
+	</mv-sys-limit>
 	<sp>10</sp>
 	<fireChance>0</fireChance>
 	<breachChance>2</breachChance>
@@ -2531,7 +2578,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<cooldown>20</cooldown>
 	<power>2</power>
 	<cost>100</cost>
-	<mv-crewTarget>MOST_CREW</mv-crewTarget>
+	<mv-aiCrewTarget>MOST_CREW</mv-aiCrewTarget>
 	<color>
 		<r>255</r>
 		<g>255</g>
@@ -2823,7 +2870,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 		<duration>15</duration>
 	</mv-mindControl>
 	<accuracyMod>30</accuracyMod>
-	<mv-crewTarget>RANDOM</mv-crewTarget>
+	<mv-aiCrewTarget>RANDOM</mv-aiCrewTarget>
 	<missiles>1</missiles>
 	<shots>1</shots>
 	<sp>0</sp>
@@ -3925,7 +3972,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 		</medbay>
 		<mind power="1" room="14" start="false" img="room_mind_6" />
 		<oxygen power="1" room="17" start="true" img="room_oxygen_4" />
-		<pilot power="1" room="0" start="true" img="room_pilot_a">
+		<pilot power="1" room="0" start="true" img="room_pilot_trc_1">
 			<slot>
 				<direction>right</direction>
 				<number>0</number>
@@ -3963,7 +4010,6 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<crewCount amount="1" class="human_soldier" />
 	<aug name="EX_BACKUP_DNA" />
 	<shieldImage>mup_long3</shieldImage>
-	<cloakImage>mup_federation_a</cloakImage>
 	<mv-mapImage>map_icon_mup_mvfed_a</mv-mapImage>
 </shipBlueprint>
 <shipBlueprint name="TRC_PLAYER_SHIP_STEALTH_3" layout="eep_mantis" img="eep_mantis">
@@ -4198,7 +4244,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 	<crewCount amount="1" class="zoltan_monk" />
 	<aug name="LOCKED_ENERGY_SHIELD" />
 	<shieldImage>mup_small_long2</shieldImage>
-	<cloakImage>mup_peace_a</cloakImage>
+	<cloakImage>mup_peace_b</cloakImage>
 	<mv-mapImage>map_icon_mup_peace_a</mv-mapImage>
 </shipBlueprint>
 <shipBlueprint name="TRC_PLAYER_SHIP_MONK_3" layout="eep_slug" img="eep_slug">
@@ -4603,10 +4649,10 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<number>0</number>
 			</slot>
 		</clonebay>
-		<doors power="2" room="7" start="true" img="room_doors">
+		<doors power="2" room="7" start="true" img="room_doors_noman">
 			<slot>
 				<direction>up</direction>
-				<number>1</number>
+				<number>-2</number>
 			</slot>
 		</doors>
 		<drones max="8" power="2" room="2" start="true" img="room_drones_10" />
@@ -4630,10 +4676,10 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<number>2</number>
 			</slot>
 		</pilot>
-		<sensors power="1" room="6" start="true" img="room_sensors">
+		<sensors power="1" room="6" start="true" img="room_sensors_noman">
 			<slot>
-				<direction>down</direction>
-				<number>1</number>
+				<direction>up</direction>
+				<number>-2</number>
 			</slot>
 		</sensors>
 		<shields max="8" power="2" room="10" start="true" img="room_shields_10">
@@ -4689,7 +4735,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<number>0</number>
 			</slot>
 		</doors>
-		<drones max="8" power="2" room="8" start="false" img="room_drones_19" />
+		<drones max="8" power="2" room="8" start="false" img="room_drones_18" />
 		<engines power="2" room="3" start="true" img="room_engines_2">
 			<slot>
 				<direction>down</direction>
@@ -4932,7 +4978,7 @@ Has self-replicating abilities and does not need a missile.</desc>
 				<number>1</number>
 			</slot>
 		</medbay>
-		<mind power="1" room="14" start="false" img="room_mind_12" />
+		<mind power="1" room="14" start="false" img="room_mind_trc_1" />
 		<oxygen power="1" room="13" start="true" img="room_oxygen_13" />
 		<pilot power="1" room="0" start="true" img="room_pilot_2">
 			<slot>

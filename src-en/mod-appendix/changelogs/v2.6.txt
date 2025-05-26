@@ -1,0 +1,18 @@
+\\\\\\\\\\\\\\\\
+ CHANGES:
+\\\\\\\\\\\\\\\\
+
+
+\\\\\\\\\\\\\\\\
+ BALANCE:
+\\\\\\\\\\\\\\\\
+
+Hazard-sentry now drains 1 system power as with other sentries.
+Nerfed enemy Light Burst. (+1.5s cd, no accuracy boost)
+
+\\\\\\\\\\\\\\\\
+ BUG FIXES:
+\\\\\\\\\\\\\\\\
+
+Fixed items not spawning in the Wallace beacon store.
+Fixed Mutagen bomb affecting holograms and technician drones.

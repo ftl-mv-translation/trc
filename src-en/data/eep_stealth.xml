@@ -12,7 +12,7 @@
 	<mount x="250" y="99" rotate="true" mirror="true" gib="2" slide="up" />
 	<mount x="250" y="340" rotate="true" mirror="false" gib="6" slide="down" />
 </weaponMounts>
-<thrusters sync="true">
+<thrusters sync="false">
     <thruster x="40" y="204">mup_fed_stealth_thrusters</thruster>
 </thrusters>
 <explosion>
