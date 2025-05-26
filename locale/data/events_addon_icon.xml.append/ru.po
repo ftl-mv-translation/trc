@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-26 15:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_addon_iconxmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -14,6 +14,8 @@ msgstr ""
 #: src-en/data/events_addon_icon.xml.append:10
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/hover-text"
 msgstr ""
+"КОЛЛЕКЦИЯ РЕНЕГАТА\n"
+"\tНажмите, чтобы увидеть больше информации."
 
 #: src-en/data/events_addon_icon.xml.append:14
 #, fuzzy
