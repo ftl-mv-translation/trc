@@ -49,7 +49,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_trc\"]"
 msgstr ""
-"レネゲード・コレクション\n"
+"レネゲイド・コレクション\n"
 "現在有効です。\n"
 "クリックして詳細を見る"
 

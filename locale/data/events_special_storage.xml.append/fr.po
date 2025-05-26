@@ -1,39 +1,40 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 11:21+0000\n"
-"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
-"Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_special_storagexmlappend/fr/>\n"
-"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:4
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
-msgstr "Utiliser votre lance-mines. [-15}, retarde la flotte de 2 saut, n'impacte pas la notoriété]"
+msgstr ""
+"Utiliser votre lance-mines. [-15}, retarde la flotte de 2 saut, n'impacte "
+"pas la notoriété]"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
-msgstr "Vous fabriquez les munitions et tendez un piège aux rebelles. Heureusement, grâce à d'obscures lacunes juridiques, l'utilisation de cette arme n'est pas illégale, bien qu'elle soit très douteuse sur le plan moral."
+msgstr ""
+"Vous fabriquez les munitions et tendez un piège aux rebelles. Heureusement, "
+"grâce à d'obscures lacunes juridiques, l'utilisation de cette arme n'est pas"
+" illégale, bien qu'elle soit très douteuse sur le plan moral."
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr "(Drone de Combat Tonnerre) Définir l'état du drone. [Mode actuel : Brèche]"
+msgstr ""
+"(Drone de Combat Tonnerre) Définir l'état du drone. [Mode actuel : Brèche]"
 
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr "(Drone de Combat Tonnerre) Définir l'état du drone. [Mode actuel : Ion]"
+msgstr ""
+"(Drone de Combat Tonnerre) Définir l'état du drone. [Mode actuel : Ion]"
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
@@ -133,7 +134,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/text"
-msgstr "Régler l'arme sur une puissance de 3. [dégâts : 4, temps de recharge : 9]"
+msgstr ""
+"Régler l'arme sur une puissance de 3. [dégâts : 4, temps de recharge : 9]"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
@@ -158,7 +160,8 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/text"
-msgstr "Régler l'arme sur une puissance de 4. [dégâts : 6, temps de recharge : 12]"
+msgstr ""
+"Régler l'arme sur une puissance de 4. [dégâts : 6, temps de recharge : 12]"
 
 #: src-en/data/events_special_storage.xml.append:130
 msgid ""
@@ -195,7 +198,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/text"
-msgstr "Régler l'arme sur une puissance de 2. [dégâts : 2, temps de recharge : 6]"
+msgstr ""
+"Régler l'arme sur une puissance de 2. [dégâts : 2, temps de recharge : 6]"
 
 #: src-en/data/events_special_storage.xml.append:156
 msgid ""
@@ -220,7 +224,8 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/text"
-msgstr "Régler l'arme sur une puissance de 4. [dégâts : 6, temps de recharge : 12]"
+msgstr ""
+"Régler l'arme sur une puissance de 4. [dégâts : 6, temps de recharge : 12]"
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
@@ -257,7 +262,8 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/text"
-msgstr "Régler l'arme sur une puissance de 2. [dégâts : 2, temps de recharge : 6]"
+msgstr ""
+"Régler l'arme sur une puissance de 2. [dégâts : 2, temps de recharge : 6]"
 
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
@@ -282,7 +288,8 @@ msgstr "Continuer..."
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/text"
-msgstr "Régler l'arme sur une puissance de 3. [dégâts : 4, temps de recharge : 9]"
+msgstr ""
+"Régler l'arme sur une puissance de 3. [dégâts : 4, temps de recharge : 9]"
 
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 #: src-en/data/events_addon_icon.xml.append:14
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/text"
 msgstr ""
-"THE RENEGADE COLLECTION\n"
+"THE RENEGADE COLLECTION \n"
 "\tDeveloped by: Kix\n"
 "\tCurrently Enabled.\n"
 "\t\n"

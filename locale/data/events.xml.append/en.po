@@ -423,7 +423,7 @@ msgstr "Attack the anomaly."
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"\"Oh dear, such savagery was to be expected. Brothers, sisters, and hollowed"
+"\"Oh dear, such savagery was to be expected. Brothers, sisters, and hallowed"
 " siblings, it appears it is time we remember what we used to know of war.\""
 
 #: src-en/data/events.xml.append:273

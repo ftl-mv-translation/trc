@@ -1,0 +1,2462 @@
+{
+  "lang": "ja",
+  "originalLang": "en",
+  "version": "2.6",
+  "translation": {
+    "The Collector": {
+      "deepl": "コレクター",
+      "machine": "",
+      "done": false
+    },
+    "Quarantine Enforcer": {
+      "deepl": "検疫官",
+      "machine": "",
+      "done": false
+    },
+    "United Federation Bobcat-Class Long Distance Patrol Bomber": {
+      "deepl": "連邦ボブキャット級長距離哨戒爆撃機",
+      "machine": "",
+      "done": false
+    },
+    "Immutable Watcher": {
+      "deepl": "不変のウォッチャー",
+      "machine": "",
+      "done": false
+    },
+    "Colony Scout": {
+      "deepl": "コロニー・スカウト",
+      "machine": "",
+      "done": false
+    },
+    "Deranged Visionary": {
+      "deepl": "錯乱した空想家",
+      "machine": "",
+      "done": false
+    },
+    "Wealth Incarnate": {
+      "deepl": "富の化身",
+      "machine": "",
+      "done": false
+    },
+    "Charge Heavy Laser": {
+      "deepl": "チャージ・ヘビー・レーザー",
+      "machine": "",
+      "done": false
+    },
+    "C. Heavy": {
+      "deepl": "C.重い",
+      "machine": "",
+      "done": false
+    },
+    "This Laser weapon can charge multiple projectiles, or fire its volley early. Does 2 damage per shot.": {
+      "deepl": "複数の弾丸をチャージしたり、早めに発射することができる。1発につき2ダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "Amp Laser": {
+      "deepl": "アンプ・レーザー",
+      "machine": "",
+      "done": false
+    },
+    "Amp Laser [2]": {
+      "deepl": "アンプ・レーザー [2］",
+      "machine": "",
+      "done": false
+    },
+    "[CURRENT POWER: 2] A potentially powerful Laser whose power can be altered before or during a fight to change its damage output. More power also increases the cooldown.": {
+      "deepl": "[現在のパワー: 2] 潜在的に強力なレーザーで、戦闘前や戦闘中にパワーを変更することでダメージ出力を変化させることができる。パワーを上げるとクールダウンも増加する。",
+      "machine": "",
+      "done": false
+    },
+    "Amp Laser [3]": {
+      "deepl": "アンプ・レーザー [3］",
+      "machine": "",
+      "done": false
+    },
+    "[CURRENT POWER: 3] A potentially powerful Laser whose power can be altered before or during a fight to change its damage output. More power also increases the cooldown.": {
+      "deepl": "[現在のパワー: 3] 潜在的に強力なレーザーで、戦闘前や戦闘中にパワーを変更することでダメージ出力を変化させることができる。パワーを上げるとクールダウンも増加する。",
+      "machine": "",
+      "done": false
+    },
+    "Amp Laser [4]": {
+      "deepl": "アンプ・レーザー [4］",
+      "machine": "",
+      "done": false
+    },
+    "[CURRENT POWER: 4] A potentially powerful Laser whose power can be altered before or during a fight to change its damage output. More power also increases the cooldown.": {
+      "deepl": "[現在のパワー: 4] 潜在的に強力なレーザーであり、戦闘前や戦闘中にパワーを変更することでダメージ出力を変化させることができる。パワーを上げるとクールダウンも増加する。",
+      "machine": "",
+      "done": false
+    },
+    "Compact Laser": {
+      "deepl": "コンパクト・レーザー",
+      "machine": "",
+      "done": false
+    },
+    "Compact": {
+      "deepl": "コンパクト",
+      "machine": "",
+      "done": false
+    },
+    "This peculiar Laser fires extremely fast and uses no power, but has terrible aim.": {
+      "deepl": "この奇妙なレーザーは非常に速く発射し、パワーも使わないが、狙いが定まらない。",
+      "machine": "",
+      "done": false
+    },
+    "Light Burst Laser": {
+      "deepl": "ライトバーストレーザー",
+      "machine": "",
+      "done": false
+    },
+    "Light Burst": {
+      "deepl": "ライトバースト",
+      "machine": "",
+      "done": false
+    },
+    "Though it charges slower than your standard Light Laser, it fires a burst of laser projectiles in rapid succession to take down shields quickly.": {
+      "deepl": "標準的なライト・レーザーよりチャージは遅いが、シールドを素早く破壊するため、バースト・レーザーを連射する。",
+      "machine": "",
+      "done": false
+    },
+    "YOU SHOULD NEVER SEE THIS": {
+      "deepl": "絶対に見てはいけない",
+      "machine": "",
+      "done": false
+    },
+    "Particle Collider MK I": {
+      "deepl": "素粒子衝突型加速器 MK I",
+      "machine": "",
+      "done": false
+    },
+    "Collider I": {
+      "deepl": "コライダー I",
+      "machine": "",
+      "done": false
+    },
+    "Modified particle technology that trades its usual fire starting attributes to do crew damage and apply debuffs.": {
+      "deepl": "通常の火属性と引き換えに、乗組員にダメージを与え、デバフをかける。",
+      "machine": "",
+      "done": false
+    },
+    "Particle Collider MK II": {
+      "deepl": "粒子衝突型加速器 MK II",
+      "machine": "",
+      "done": false
+    },
+    "Collider II": {
+      "deepl": "コライダーII",
+      "machine": "",
+      "done": false
+    },
+    "Modified particle technology that trades its usual fire starting attributes to do crew damage and apply debuffs. This version has increased cooldown and radius but fires more bolts.": {
+      "deepl": "通常の火属性と引き換えに乗組員にダメージを与え、デバフを適用する修正粒子技術。このバージョンではクールダウンと半径が増加したが、より多くのボルトを発射する。",
+      "machine": "",
+      "done": false
+    },
+    "Magnifier MK I": {
+      "deepl": "拡大鏡 MK I",
+      "machine": "",
+      "done": false
+    },
+    "Magnifier I": {
+      "deepl": "拡大鏡 I",
+      "machine": "",
+      "done": false
+    },
+    "Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases damage output and status effect chances. Charges become progressively faster.\n\n\t\tStats:\n\t\tRequired Power: 1\n\t\tCharge Time: 11 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 3\n\t\tBonus Charging Speed: x1.3 per charge\n\t\t\n\t\tBase Hull Damage: 2/3/4\n\t\tTotal System Damage: 2/3/4\n\t\tTotal Crew Damage: 30/45/60\n\t\t\n\t\tFire Chance 10/20/30%\n\t\tBreach Chance: 10/20/30% (Adjusted: 9/16/21%)\n\n\t\tDefault Price: 55~   -   Selling Price: 27~": {
+      "deepl": "拡大鏡は特殊な技術により、チャージするごとに威力が強化される。チャージするごとにダメージが増加し、ステータス効果も増加する。チャージは徐々に速くなる。\n\n\t\tステータス\n\t\t必要パワー: 1\n\t\tチャージ時間: 11秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ3\n\t\tボーナスチャージ速度: x1.3/チャージ\n\t\t\n\t\t基本船体ダメージ2/3/4\n\t\tシステム総ダメージ2/3/4\n\t\t乗員総ダメージ30/45/60\n\t\t\n\t\tファイア・チャンス: 10/20/30\n\t\tブリーチチャンス: 10/20/30% (調整: 9/16/21%)\n\n\t\tデフォルト価格: 55~ - 販売価格: 27",
+      "machine": "",
+      "done": false
+    },
+    "Required Power: 1\n\t\tCharge Time: 11 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 3\n\t\tBonus Charging Speed: x1.3 per charge\n\t\t\n\t\tBase Hull Damage: 2/3/4\n\t\tTotal System Damage: 2/3/4\n\t\tTotal Crew Damage: 30/45/60\n\t\t\n\t\tFire Chance 10/20/30%\n\t\tBreach Chance: 10/20/30% (Adjusted: 9/16/21%)": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Magnifier MK II": {
+      "deepl": "マグニファイヤー MK II",
+      "machine": "",
+      "done": false
+    },
+    "Magnifier II": {
+      "deepl": "拡大鏡II",
+      "machine": "",
+      "done": false
+    },
+    "Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases damage output and status effect chances. Charges become progressively faster.\n\n\t\tStats:\n\t\tRequired Power: 2\n\t\tCharge Time: 13 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tBonus Charging Speed: x1.5 per charge\n\t\t\n\t\tBase Hull Damage: 3/4/5/6\n\t\tTotal System Damage: 3/4/5/6\n\t\tTotal Crew Damage: 45/60/75/90\n\t\t\n\t\tFire Chance 10/20/30/40%\n\t\tBreach Chance: 10/20/30/40% (Adjusted: 9/16/21/24%)\n\n\t\tDefault Price: 70~   -   Selling Price: 35~": {
+      "deepl": "拡大鏡は特殊な技術により、チャージするごとに威力が強化される。チャージするごとにダメージが増加し、ステータス効果も増加する。チャージは徐々に速くなる。\n\n\t\tステータス\n\t\t必要パワー: 2\n\t\tチャージ時間: 13秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ4\n\t\tボーナスチャージ速度: x1.5/チャージ\n\t\t\n\t\t基本船体ダメージ3/4/5/6\n\t\tシステム総ダメージ3/4/5/6\n\t\t乗組員の総ダメージ45/60/75/90\n\t\t\n\t\t火災確率: 10/20/30/40\n\t\tブリーチチャンス: 10/20/30/40% (調整: 9/16/21/24%)\n\n\t\tデフォルト価格: 70~ - 販売価格: 35",
+      "machine": "",
+      "done": false
+    },
+    "Required Power: 2\n\t\tCharge Time: 13 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tBonus Charging Speed: x1.5 per charge\n\t\t\n\t\tBase Hull Damage: 3/4/5/6\n\t\tTotal System Damage: 3/4/5/6\n\t\tTotal Crew Damage: 45/60/75/90\n\t\t\n\t\tFire Chance 10/20/30/40%\n\t\tBreach Chance: 10/20/30/40% (Adjusted: 9/16/21/24%)": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pierce Magnifier": {
+      "deepl": "ピアス拡大鏡",
+      "machine": "",
+      "done": false
+    },
+    "Pierce Mag.": {
+      "deepl": "ピアスマグ",
+      "machine": "",
+      "done": false
+    },
+    "Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases shield pierce and breach chance. Charges become progressively faster.\n\n\t\tStats:\n\t\tRequired Power: 2\n\t\tCharge Time: 9 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tShield Piercing: 1/2/3/4\n\t\tBonus Charging Speed: x1.5 per charge\n\t\t\n\t\tBase Hull Damage: 2\n\t\tTotal System Damage: 2\n\t\tTotal Crew Damage: 30\n\t\t\n\t\tBreach Chance: 60/70/80/90%\n\n\t\tDefault Price: 60~   -   Selling Price: 30~": {
+      "deepl": "マグニファイアは特殊な技術により、射程を増やすのではなく、チャージするごとに威力が強化される。チャージするごとにシールドの貫通確率とブリーチ確率が上昇する。チャージは徐々に速くなる。\n\n\t\tステータス\n\t\t必要パワー: 2\n\t\tチャージ時間: 9秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ4\n\t\tシールド貫通1/2/3/4\n\t\tボーナスチャージ速度: x1.5 per charge\n\t\t\n\t\t基本船体ダメージ2\n\t\tシステム総ダメージ2\n\t\t総乗組員ダメージ30\n\t\t\n\t\tブリーチチャンス: 60/70/80/90\n\n\t\tデフォルト価格: 60~ - 販売価格: 30",
+      "machine": "",
+      "done": false
+    },
+    "Required Power: 2\n\t\tCharge Time: 9 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tShield Piercing: 1/2/3/4\n\t\tBonus Charging Speed: x1.5 per charge\n\t\t\n\t\tBase Hull Damage: 2\n\t\tTotal System Damage: 2\n\t\tTotal Crew Damage: 30\n\t\t\n\t\tBreach Chance: 60/70/80/90%": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ionized Magnifier": {
+      "deepl": "イオン拡大鏡",
+      "machine": "",
+      "done": false
+    },
+    "Ion Mag.": {
+      "deepl": "イオン・マグ",
+      "machine": "",
+      "done": false
+    },
+    "Magnifiers use special technology to enhance their power with each charge, rather than gaining additional projectiles. Each charge increases ion damage output and stun chance. Charges become progressively faster.\n\n\t\tStats:\n\t\tRequired Power: 1\n\t\tCharge Time: 8 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tBonus Charging Speed: x1.2 per charge\n\t\t\n\t\tIon Damage: 1/2/3/4\n\t\t\n\t\tStun Chance: 30/40/50/60% (3 seconds long)\n\n\t\tDefault Price: 50~   -   Selling Price: 25~": {
+      "deepl": "拡大鏡は特殊な技術により、チャージするごとに威力が強化される。チャージするごとにイオンダメージの出力とスタン確率が上昇する。チャージは徐々に速くなる。\n\n\t\tステータス\n\t\t必要パワー: 1\n\t\tチャージ時間: 8秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ4\n\t\tボーナスチャージ速度: x1.2/チャージ\n\t\t\n\t\tイオンダメージ1/2/3/4\n\t\t\n\t\tスタンチャンス30/40/50/60% (3秒間)\n\n\t\tデフォルト価格: 50~ - 販売価格: 25",
+      "machine": "",
+      "done": false
+    },
+    "Required Power: 1\n\t\tCharge Time: 8 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tBonus Charging Speed: x1.2 per charge\n\t\t\n\t\tIon Damage: 1/2/3/4\n\t\t\n\t\tStun Chance: 30/40/50/60% (3 seconds long)": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "'Fangtian' Fissure Beam": {
+      "deepl": "方天」亀裂ビーム",
+      "machine": "",
+      "done": false
+    },
+    "'Fangtian'": {
+      "deepl": "方天」。",
+      "machine": "",
+      "done": false
+    },
+    "Fissure Beams deal damage per tile rather than per room. This Beam specializes in destroying systems, capable of dealing more damage the larger a system is.": {
+      "deepl": "亀裂ビームは部屋単位ではなくタイル単位でダメージを与える。このビームはシステムの破壊に特化しており、システムが大きいほど大きなダメージを与えることができる。",
+      "machine": "",
+      "done": false
+    },
+    "'Faucon' Rad-Beam II": {
+      "deepl": "フォコン」ラド・ビームII",
+      "machine": "",
+      "done": false
+    },
+    "'Faucon' II": {
+      "deepl": "フォコン」II",
+      "machine": "",
+      "done": false
+    },
+    "This terrifying radiation Beam does heavy crew damage and weakens enemy crew. Longer and does more damage than the MK 1 but doesn't pierce shields.": {
+      "deepl": "この恐ろしい放射線ビームはクルーに大ダメージを与え、敵クルーを弱体化させる。MK 1より長くてダメージが大きいが、シールドを貫通しない。",
+      "machine": "",
+      "done": false
+    },
+    "'Faucon' Rad-Beam II†": {
+      "deepl": "ファウコン」Rad-Beam II† 。",
+      "machine": "",
+      "done": false
+    },
+    "'Faucon' II†": {
+      "deepl": "フォウコン",
+      "machine": "",
+      "done": false
+    },
+    "'Bardiche' Beam": {
+      "deepl": "バルディッシュ」ビーム",
+      "machine": "",
+      "done": false
+    },
+    "'Bardiche'": {
+      "deepl": "バルディッシュ",
+      "machine": "",
+      "done": false
+    },
+    "This Beam charges quicker with each shot but can also do heavy hull damage when aimed at empty rooms.": {
+      "deepl": "このビームは撃つたびにチャージが早まるが、誰もいない部屋を狙えば船体に大ダメージを与えることもできる。",
+      "machine": "",
+      "done": false
+    },
+    "'Kagiyari' Beam": {
+      "deepl": "カギヤリ」ビーム",
+      "machine": "",
+      "done": false
+    },
+    "'Kagiyari'": {
+      "deepl": "カギヤリ",
+      "machine": "",
+      "done": false
+    },
+    "A slow but self-reliant adaptive Beam that can scale infinitely if given long enough to build up power, but requires more time to effectively deal with systems. Conservative weapons use no power but require another weapon to be powered.": {
+      "deepl": "スピードは遅いが自立した適応型ビームで、パワーを蓄積するのに十分な時間があれば無限に拡張できるが、システムを効果的に扱うには時間がかかる。保守的な武器はパワーを消費しないが、パワーを供給するために別の武器を必要とする。",
+      "machine": "",
+      "done": false
+    },
+    "Asphyxiator Ion": {
+      "deepl": "窒息イオン",
+      "machine": "",
+      "done": false
+    },
+    "Asphyxion": {
+      "deepl": "アスフィクシオン",
+      "machine": "",
+      "done": false
+    },
+    "A specialized ion that excels particularly at suffocating the enemy, though it can be applied to other purposes.": {
+      "deepl": "他の目的にも応用できるが、特に敵を窒息させることに秀でた特殊なイオン。",
+      "machine": "",
+      "done": false
+    },
+    "Asphyxiator Ion†": {
+      "deepl": "アスフィクシアター・イオン",
+      "machine": "",
+      "done": false
+    },
+    "Asphyxion†": {
+      "deepl": "アスフィクシオン",
+      "machine": "",
+      "done": false
+    },
+    "'Infinity' Ion": {
+      "deepl": "インフィニティ」イオン",
+      "machine": "",
+      "done": false
+    },
+    "'Infinity'": {
+      "deepl": "インフィニティ",
+      "machine": "",
+      "done": false
+    },
+    "Unlike the standard adaptive ion, this weapon can chain to an effectively infinite number of times.": {
+      "deepl": "標準的なアダプティブイオンとは異なり、この武器は事実上無限にチェーンできる。",
+      "machine": "",
+      "done": false
+    },
+    "Energy Phaser": {
+      "deepl": "エナジー・フェイザー",
+      "machine": "",
+      "done": false
+    },
+    "Phase E.": {
+      "deepl": "フェーズE。",
+      "machine": "",
+      "done": false
+    },
+    "Energy weapons can disable systems while also causing hull damage. This special version pierces shields, dealing ion damage to the first layer of shields as it goes through.": {
+      "deepl": "エネルギー兵器は船体にダメージを与えながら、システムを無効化することができる。この特別バージョンはシールドを貫通し、貫通する際にシールドの第一層にイオンダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "Energy Phaser†": {
+      "deepl": "エナジー・フェイザー†」。",
+      "machine": "",
+      "done": false
+    },
+    "Phase E.†": {
+      "deepl": "フェーズE",
+      "machine": "",
+      "done": false
+    },
+    "Energy Flamer": {
+      "deepl": "エナジーフレイマー",
+      "machine": "",
+      "done": false
+    },
+    "Fire Energy": {
+      "deepl": "火災エネルギー",
+      "machine": "",
+      "done": false
+    },
+    "Energy weapons can disable systems and cause hull damage. This weapon also starts more fires than the average Energy Cannon.": {
+      "deepl": "エネルギー兵器はシステムを無効化し、船体にダメージを与えることができる。また、平均的なエネルギー・キャノンよりも多くの火災を引き起こす。",
+      "machine": "",
+      "done": false
+    },
+    "'Scorch' Pinpoint": {
+      "deepl": "スコーチ」ピンポイント",
+      "machine": "",
+      "done": false
+    },
+    "'Scorch'": {
+      "deepl": "スコーチ",
+      "machine": "",
+      "done": false
+    },
+    "A quick charging Pinpoint with minimal pierce that does no physical damage but lights fires.": {
+      "deepl": "物理的なダメージは与えないが、火を点けることができる。",
+      "machine": "",
+      "done": false
+    },
+    "'Poniard' Pinpoint": {
+      "deepl": "ポニアード」ピンポイント",
+      "machine": "",
+      "done": false
+    },
+    "'Poniard'": {
+      "deepl": "ポニエール",
+      "machine": "",
+      "done": false
+    },
+    "A slow charging but reliable Pinpoint. Conservative weapons use no power but require another weapon to be powered.": {
+      "deepl": "充電は遅いが信頼性の高いピンポイント。保守的な武器は電力を使わないが、電力を供給するために別の武器を必要とする。",
+      "machine": "",
+      "done": false
+    },
+    "Shrapnel Bomb": {
+      "deepl": "シュラプネル・ボム",
+      "machine": "",
+      "done": false
+    },
+    "Shrapnel B.": {
+      "deepl": "シュラプネルB",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting explosive that deals system damage to not just the target room but all adjacent rooms as well. Can target your own ship.": {
+      "deepl": "自走式の爆発物で、対象の部屋だけでなく隣接する部屋全てにシステムダメージを与える。自分の船を標的にできる。",
+      "machine": "",
+      "done": false
+    },
+    "Particle Bomb": {
+      "deepl": "粒子爆弾",
+      "machine": "",
+      "done": false
+    },
+    "Part B.": {
+      "deepl": "パートB",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting explosive that contains a particle accelerator, which does heavy system damage and starts fires. Can target your own ship.": {
+      "deepl": "粒子加速器を内蔵し、システムに大ダメージを与え、火災を引き起こす。自分の船を標的にできる。",
+      "machine": "",
+      "done": false
+    },
+    "Particle Bomb†": {
+      "deepl": "粒子爆弾",
+      "machine": "",
+      "done": false
+    },
+    "Part B.†": {
+      "deepl": "パートB",
+      "machine": "",
+      "done": false
+    },
+    "Gasoline Bomb": {
+      "deepl": "ガソリン爆弾",
+      "machine": "",
+      "done": false
+    },
+    "Gasoline B.": {
+      "deepl": "ガソリンB",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting explosive that douses crew and drones in gasoline, making them take 4x damage from fire and move 30% slower for 20 seconds. Afflicted targets start fires if they die during the effect.\nHas self-replicating abilities and does not need a missile.": {
+      "deepl": "乗組員やドローンにガソリンを浴びせ、20秒間火によるダメージを4倍にし、動きを30%遅くする。対象が効果中に死亡した場合、火災が発生する。\n自己複製能力を持ち、ミサイルを必要としない。",
+      "machine": "",
+      "done": false
+    },
+    "Deployment Bomb": {
+      "deepl": "配備爆弾",
+      "machine": "",
+      "done": false
+    },
+    "Deploy B.": {
+      "deepl": "Bを展開する。",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting device that deploys two repair drones on your ship. Costs a drone part instead of a missile to fire. Can (AND SHOULD) be used to target your own ship.\n\t\tThe drones will repair at a base speed of 3x, but won't benefit from Drone Booster effects.\n\n\t\tStats:\n\t\tRequires no power\n\t\tCharge Time: 12 seconds\n\t\tAccuracy Bonus: +30%\n\n\t\tShots Per Charge: 1\n\n\t\tDrone Part Consumption: 1\n\t\t\n\t\tRepair Drone Lifetime: 60 seconds\n\t\t\n\t\tDefault Price: 45~   -   Selling Price: 22~": {
+      "deepl": "修理用ドローンを2機、自機に搭載する。発射にはミサイルの代わりにドローンパーツを消費する。自機をターゲットにすることができる（はず）。\n\t\tドローンは基本速度3倍で修理するが、ドローンブースターの効果は得られない。\n\n\t\tステータス\n\t\tパワーを必要としない。\n\t\tチャージ時間: 12秒\n\t\t精度ボーナス: +30\n\n\t\t1チャージあたりのショット数1\n\n\t\tドローン部品消費量：1\n\t\t\n\t\t修理ドローンの寿命：60秒\n\t\t\n\t\tデフォルト価格：45~ - 販売価格：22",
+      "machine": "",
+      "done": false
+    },
+    "Requires no power\n\t\tCharge Time: 12 seconds\n\t\tAccuracy Bonus: +30%\n\n\t\tShots Per Charge: 1\n\n\t\tDrone Part Consumption: 1\n\t\t\n\t\tRepair Drone Lifetime: 60 seconds": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Infant spiders.": {
+      "deepl": "幼児のクモ。",
+      "machine": "",
+      "done": false
+    },
+    "Hatchling": {
+      "deepl": "ハッチリング",
+      "machine": "",
+      "done": false
+    },
+    "50 health, 1.2x fire damage taken, 0.10x repairs": {
+      "deepl": "体力50、被火災1.2倍、修理0.10倍",
+      "machine": "",
+      "done": false
+    },
+    "1.8x combat damage, 2.2x movement speed": {
+      "deepl": "戦闘ダメージ1.8倍、移動速度2.2倍",
+      "machine": "",
+      "done": false
+    },
+    "Heals at triple speed": {
+      "deepl": "3倍速で回復",
+      "machine": "",
+      "done": false
+    },
+    "Can only be controlled temporarily, cannot man systems": {
+      "deepl": "一時的にしか制御できず、システムを管理できない",
+      "machine": "",
+      "done": false
+    },
+    "Arachno-Bomb": {
+      "deepl": "アラクノ・ボム",
+      "machine": "",
+      "done": false
+    },
+    "Arach B.": {
+      "deepl": "アラック・B",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting device that deploys 2 hatchlings with a limited lifespan that will fight for you. Can be used to target your own ship.": {
+      "deepl": "自分のために戦ってくれる、寿命の限られた2匹の子ガメを展開する自己テレポート装置。自分の船を標的にすることもできる。",
+      "machine": "",
+      "done": false
+    },
+    "A gross mutant creature, created by you. Why would you do this?": {
+      "deepl": "あなたによって作られたグロテスクなミュータント・クリーチャー。なぜこんなことを？",
+      "machine": "",
+      "done": false
+    },
+    "Mutant": {
+      "deepl": "ミュータント",
+      "machine": "",
+      "done": false
+    },
+    "Inflicts 2.3x damage in crew combat": {
+      "deepl": "乗員との戦闘で2.3倍のダメージを与える",
+      "machine": "",
+      "done": false
+    },
+    "Cannot repair or heal, moves at half speed": {
+      "deepl": "修理や回復ができず、移動速度が半分になる。",
+      "machine": "",
+      "done": false
+    },
+    "Explodes on death, dealing 15 crew and 1 system damage": {
+      "deepl": "死亡時に爆発し、乗員15人とシステム1人にダメージを与える",
+      "machine": "",
+      "done": false
+    },
+    "Will return to its original form after 15 seconds": {
+      "deepl": "15秒後に元の形に戻る",
+      "machine": "",
+      "done": false
+    },
+    "Mutagen Bomb": {
+      "deepl": "変異原爆",
+      "machine": "",
+      "done": false
+    },
+    "Mutant B.": {
+      "deepl": "ミュータントB",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting stimulant unit that temporarily mutates the crew it hits, changing them into a terrifying mutant for 15 seconds.\n\n\tMutants deal 2.3x damage in crew combat, cannot repair or heal, move at half speed, and explode on death for 15 crew and 1 system damage.": {
+      "deepl": "一時的に変異させ、15秒間恐ろしいミュータントに変える。\n\n\tミュータントはクルーとの戦闘で2.3倍のダメージを与え、修理や回復ができず、移動速度は半分になり、死亡時に爆発して15クルーと1システムにダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "'Apollo' Missiles": {
+      "deepl": "アポロ」ミサイル",
+      "machine": "",
+      "done": false
+    },
+    "'Apollo'": {
+      "deepl": "アポロ",
+      "machine": "",
+      "done": false
+    },
+    "A niche but effective missile weapon that does no crew damage but provides stacking passive 4hp/s healing to allied crew that it hits for 15 seconds.": {
+      "deepl": "ニッチだが効果的なミサイル武器で、クルーにダメージを与えないが、命中した味方のクルーに4HP/sの回復を15秒間スタックする。",
+      "machine": "",
+      "done": false
+    },
+    "'Boreas' Missiles": {
+      "deepl": "ボレアス」ミサイル",
+      "machine": "",
+      "done": false
+    },
+    "'Boreas'": {
+      "deepl": "ボレアス",
+      "machine": "",
+      "done": false
+    },
+    "A heavy hitting Missile weapon that locks down rooms on contact.\n\n\t\tStats:\n\t\tRequired Power: 2\n\t\tCharge Time: 17 seconds\n\t\tMissile Consumption: 1\n\t\tAccuracy Bonus: 10%\n\n\t\tShots Per Charge: 1\n\t\t\n\t\tBase Hull Damage: 3\n\t\tTotal System Damage: 3\n\t\tTotal Crew Damage: 60\n\t\tShield Piercing: 10\n\n\t\tLocks down rooms on hit\n\t\tStun Chance: 100% (5 seconds long)\n\t\t\n\t\tDefault Price: 65~   -   Selling Price: 32~": {
+      "deepl": "接触すると部屋を封鎖する命中率の高いミサイル兵器。\n\n\t\tステータス\n\t\t必要パワー: 2\n\t\tチャージ時間: 17秒\n\t\tミサイル消費量: 11\n\t\t精度ボーナス: 10%\n\n\t\t1チャージあたりのショット数1\n\t\t\n\t\t基本船体ダメージ3\n\t\tシステム総ダメージ3\n\t\t総乗組員ダメージ60\n\t\tシールド貫通10\n\n\t\tヒット時に部屋をロックする\n\t\tスタンチャンス: 100% (5秒間)\n\t\t\n\t\tデフォルト価格: 65~ - 販売価格: 32",
+      "machine": "",
+      "done": false
+    },
+    "A heavy hitting Missile weapon that locks down rooms on contact.": {
+      "deepl": "接触すると部屋を封鎖する命中率の高いミサイル兵器。",
+      "machine": "",
+      "done": false
+    },
+    "'Themis' Shrapnel Missiles": {
+      "deepl": "テミス」榴弾ミサイル",
+      "machine": "",
+      "done": false
+    },
+    "'Themis'": {
+      "deepl": "テミス",
+      "machine": "",
+      "done": false
+    },
+    "A devastating missile which creates shrapnel upon impact. Shrapnel deals 1 additional system damage to all adjacent rooms.": {
+      "deepl": "着弾時に榴散弾を発生させる破壊的なミサイル。榴散弾は隣接する全ての部屋に1追加システムダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "'Perses' Shrapnel Missiles": {
+      "deepl": "ペルセス」榴弾ミサイル",
+      "machine": "",
+      "done": false
+    },
+    "'Perses'": {
+      "deepl": "ペルセス",
+      "machine": "",
+      "done": false
+    },
+    "A devastating missile which creates shrapnel upon impact. Shrapnel deals additional system damage to all adjacent rooms. This upgraded version does more damage.": {
+      "deepl": "着弾時に榴散弾を発生させる破壊的なミサイル。榴散弾は隣接する全ての部屋に追加のシステムダメージを与える。このアップグレード版はより大きなダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "'Epimetheus' Pre-Emptive Missiles": {
+      "deepl": "エピメテウス」対空ミサイル",
+      "machine": "",
+      "done": false
+    },
+    "'Epimetheus'": {
+      "deepl": "エピメテウス",
+      "machine": "",
+      "done": false
+    },
+    "Fires one extremely accurate and destructive missile at the start of the fight. Can only be used once per fight.": {
+      "deepl": "試合開始時に非常に正確で破壊力のあるミサイルを1発発射する。1回の戦闘につき1回のみ使用可能。",
+      "machine": "",
+      "done": false
+    },
+    "Hazard-Sentry Deployer": {
+      "deepl": "ハザード・セントリー・デプロイヤー",
+      "machine": "",
+      "done": false
+    },
+    "Haz-Sent": {
+      "deepl": "ハズセント",
+      "machine": "",
+      "done": false
+    },
+    "Deploys a temporary sentry in the room of impact, which doubles hazard damage and stun duration for enemy crew in the room for 20 seconds.": {
+      "deepl": "着弾した部屋に一時的に見張りを配置し、その部屋にいる敵クルーへのハザードダメージとスタン持続時間を20秒間2倍にする。",
+      "machine": "",
+      "done": false
+    },
+    "Virulent Dish": {
+      "deepl": "凶暴な料理",
+      "machine": "",
+      "done": false
+    },
+    "Virulent": {
+      "deepl": "ウイルス性",
+      "machine": "",
+      "done": false
+    },
+    "Outlawed in several stretches of space, Virulent Dishes dispell highly toxic radiation, dealing crew damage not just in the target room but all adjacent rooms as well.": {
+      "deepl": "いくつかの宇宙では非合法とされているVirulent Dishesは、猛毒の放射線を撒き散らし、対象の部屋だけでなく隣接する部屋すべてに乗組員にダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "'Baal' Mine Launcher": {
+      "deepl": "バアル」地雷発射機",
+      "machine": "",
+      "done": false
+    },
+    "'Baal'": {
+      "deepl": "バアル",
+      "machine": "",
+      "done": false
+    },
+    "Mine Launchers charge quickly and fire a burst of slow moving projectiles. Also serves as an efficient way to lay traps for the fleet.\n\t\n\tProvides 2 fleet delay for 15 missiles at empty beacons, has no notoriety impact.": {
+      "deepl": "マインランチャーは素早くチャージし、ゆっくりと動く弾丸を発射する。また、艦隊にトラップを仕掛ける効率的な手段としても機能する。\n\t\n\t空のビーコンに15発のミサイルを撃ち込むと2艦隊分のディレイが発生する。",
+      "machine": "",
+      "done": false
+    },
+    "Trifecta": {
+      "deepl": "トリフェクタ",
+      "machine": "",
+      "done": false
+    },
+    "A bizarre jerry-rigged weapon that fires 2 flak shots along with a slow moving heavy laser for a nominal charge time.": {
+      "deepl": "2発の対空射撃と低速のヘビーレーザーを発射する奇妙なジェリー仕掛けの武器。",
+      "machine": "",
+      "done": false
+    },
+    "Trifecta Laser": {
+      "deepl": "トリフェクタレーザー",
+      "machine": "",
+      "done": false
+    },
+    "Frost Flak": {
+      "deepl": "フロスト・フラーク",
+      "machine": "",
+      "done": false
+    },
+    "Fires 4 supercooled projectiles which create a coating of ice on rooms, locking them down for 12 seconds as well as stunning crew.": {
+      "deepl": "4発の過冷却弾を発射し、部屋に氷の膜を作り、12秒間閉じ込める。",
+      "machine": "",
+      "done": false
+    },
+    "Assembled Drone": {
+      "deepl": "組み立てられたドローン",
+      "machine": "",
+      "done": false
+    },
+    "YOU SHOULD NEVER SEE THIS.": {
+      "deepl": "これは絶対に見てはいけない。",
+      "machine": "",
+      "done": false
+    },
+    "Assembly Cannon": {
+      "deepl": "組立キャノン",
+      "machine": "",
+      "done": false
+    },
+    "Assembly": {
+      "deepl": "組み立て",
+      "machine": "",
+      "done": false
+    },
+    "A specialized weapon with a built-in fabricator. At the cost of a drone part, can deploy a temporary combat drone that will attack the enemy ship.": {
+      "deepl": "ファブリケーターを内蔵した特殊兵器。ドローンパーツ1個分のコストで、敵艦を攻撃する戦闘用ドローンを一時的に展開できる。",
+      "machine": "",
+      "done": false
+    },
+    "'Ultraburn'": {
+      "deepl": "ウルトラバーン",
+      "machine": "",
+      "done": false
+    },
+    "Fires a concentrated beam with such intense heat it damages both the hull and temporarily strips crew of fire immunity, multiplying fire damage by x1.5 for 15 seconds. Be careful of hitting your own crew!": {
+      "deepl": "強烈な熱線を集中的に発射し、船体を損傷させるとともに、乗組員の火災免疫力を一時的に奪い、15秒間、火災ダメージが1.5倍になる。自分のクルーに当たらないように注意！",
+      "machine": "",
+      "done": false
+    },
+    "'Systemshock'": {
+      "deepl": "システムショック",
+      "machine": "",
+      "done": false
+    },
+    "'Sysshock'": {
+      "deepl": "シスショック",
+      "machine": "",
+      "done": false
+    },
+    "An overcharged ion weapon which causes a cascading effect when it directly hits a room, dealing 1 ion damage to all adjacent systems.": {
+      "deepl": "オーバーチャージされたイオン兵器で、部屋に直接命中するとカスケード効果を引き起こし、隣接するすべてのシステムに1イオンダメージを与える。",
+      "machine": "",
+      "done": false
+    },
+    "Flare Launcher": {
+      "deepl": "フレアランチャー",
+      "machine": "",
+      "done": false
+    },
+    "Flare": {
+      "deepl": "フレア",
+      "machine": "",
+      "done": false
+    },
+    "Fires decoys that distract Defense drones and, if they make contact, temporarily blind crew, stunning them.": {
+      "deepl": "防衛ドローンの注意をそらすデコイを発射し、接触すると一時的に乗組員の目をくらませ、驚かせる。",
+      "machine": "",
+      "done": false
+    },
+    "'Epistle of Madness'": {
+      "deepl": "狂気の手紙",
+      "machine": "",
+      "done": false
+    },
+    "'Epistle'": {
+      "deepl": "手紙",
+      "machine": "",
+      "done": false
+    },
+    "A weapon of ancient evil, which infiltrates the minds of its victims and turns them against each other. Inflicts mind control on any enemy it hits, but prevents them from receiving orders.": {
+      "deepl": "古代の邪悪な兵器で、犠牲者の精神に侵入し、互いに敵対させる。命中した敵にマインド・コントロールを与えるが、命令を受けることはできない。",
+      "machine": "",
+      "done": false
+    },
+    "Tesla Emitter": {
+      "deepl": "テスラエミッター",
+      "machine": "",
+      "done": false
+    },
+    "Tesla": {
+      "deepl": "テスラ",
+      "machine": "",
+      "done": false
+    },
+    "A strange weapon using advanced ion tech unlike anything you've seen. It appears capable of generating enough ionized energy to deal ion damage to multiple rooms like a Beam.": {
+      "deepl": "見たこともないような高度なイオン技術を使った奇妙な武器。ビームのように複数の部屋にイオンダメージを与えるのに十分なイオン化エネルギーを発生させることができるようだ。",
+      "machine": "",
+      "done": false
+    },
+    "Magma Gun": {
+      "deepl": "マグマ・ガン",
+      "machine": "",
+      "done": false
+    },
+    "Magma": {
+      "deepl": "マグマ",
+      "machine": "",
+      "done": false
+    },
+    "A bizarre gun only conceived in the mind of a madman. Although it's merely a Pinpoint Beam, its concentrated stream of superhot lava sets any room it touches completely on fire.": {
+      "deepl": "狂人の頭の中でしか思いつかない奇妙な銃。単なるピンポイント・ビームだが、超高温の溶岩を集中的に噴射するため、触れた部屋は完全に炎上する。",
+      "machine": "",
+      "done": false
+    },
+    "Gem": {
+      "deepl": "ジェム",
+      "machine": "",
+      "done": false
+    },
+    "The Bedazzler": {
+      "deepl": "ベダズラー",
+      "machine": "",
+      "done": false
+    },
+    "Bedazzler": {
+      "deepl": "ベダズラー",
+      "machine": "",
+      "done": false
+    },
+    "A gun made only for the wealthiest of Renegades. Fires a barrage of 5 gems which have a variety of different effects, but costs scrap to fire.\n\n\t\tStats:\n\t\tRequired Power: 2\n\t\tCharge Time: 14 seconds\n\n\t\tShot Radius: 50\n\t\tFires 5 Random Gems Per Shot\n\t\t\n\t\tRed Gem: 1 Hull Damage, 0 System Damage, 80% Fire Chance\n\t\tBlue Gem: 1 Ion Damage\n\t\tGreen Gem: 1 Damage, 45 Crew Damage, 10 Seconds Stun\n\t\tCyan Gem: 1 Damage, 0 System Damage, locks down room\n\t\tPurple Gem: 1 Damage, 2 System Damage, 80% Breach Chance\n\n\t\tScrap Consumption: 3\n\t\t\n\t\tDefault Price: 80~   -   Selling Price: 40~": {
+      "deepl": "最も裕福なレネゲイドのためだけに作られた銃。様々な効果を持つ5つの宝石の弾幕を発射するが、発射にはスクラップが必要。\n\n\t\tステータス\n\t\t必要パワー: 2\n\t\tチャージ時間: 14秒\n\n\t\tショット半径: 50\n\t\t1ショットにつきランダムジェム5個発射\n\t\t\n\t\t赤いジェム：船体ダメージ1、システムダメージ0、発射確率80\n\t\t青いジェム: 1イオンダメージ\n\t\t緑のジェム：1ダメージ、45クルーダメージ、10秒スタン\n\t\tシアンのジェム: 1ダメージ、0システムダメージ、部屋をロックダウン\n\t\t紫の宝石: 1ダメージ、2システムダメージ、80%ブリーチチャンス\n\n\t\tスクラップ消費3\n\t\t\n\t\tデフォルト価格: 80~ - 販売価格: 40",
+      "machine": "",
+      "done": false
+    },
+    "Required Power: 2\n\t\tCharge Time: 14 seconds\n\n\t\tShot Radius: 50\n\t\tFires 5 Random Gems Per Shot\n\t\t\n\t\tRed Gem: 1 Hull Damage, 0 System Damage, 80% Fire Chance\n\t\tBlue Gem: 1 Ion Damage\n\t\tGreen Gem: 1 Damage, 45 Crew Damage, 10 Seconds Stun\n\t\tCyan Gem: 1 Damage, 0 System Damage, locks down room\n\t\tPurple Gem: 1 Damage, 2 System Damage, 80% Breach Chance\n\n\t\tScrap Consumption: 3": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Colonizer Bomb": {
+      "deepl": "コロナイザー爆弾",
+      "machine": "",
+      "done": false
+    },
+    "Colonizer B.": {
+      "deepl": "コロナイザーB",
+      "machine": "",
+      "done": false
+    },
+    "Self-teleporting device that mind controls an enemy crew in the room if there aren't any already. Can be used to target your own ship.": {
+      "deepl": "敵クルーがいない場合、そのクルーをマインドコントロールする自己テレポート装置。自分の船を標的にすることもできる。",
+      "machine": "",
+      "done": false
+    },
+    "Elite Humanoid Crew. A highly capable clone soldier, produced by the onboard cloning lab of your breaching pod. Due to cheap genetic material these soldiers rapidly decay after spawning.\n\t\n\tInherited Human stat: minor suffocation resistance": {
+      "deepl": "エリート・ヒューマノイド・クルー。ブリーチングポッドに搭載されたクローン研究所で生産された、非常に優秀なクローン兵士。遺伝子材料が安価なため、これらの兵士は産卵後急速に腐敗する。\n\t\n\t継承される人間のステータス：軽度の窒息耐性",
+      "machine": "",
+      "done": false
+    },
+    "Clone Soldier": {
+      "deepl": "クローン・ソルジャー",
+      "machine": "",
+      "done": false
+    },
+    "Soldier": {
+      "deepl": "ソルジャー",
+      "machine": "",
+      "done": false
+    },
+    "Inflicts 1.2x damage in crew combat": {
+      "deepl": "乗員との戦闘で1.2倍のダメージを与える",
+      "machine": "",
+      "done": false
+    },
+    "Takes 0.7x damage from crew combat and 0.6x from fires": {
+      "deepl": "クルーとの戦闘で0.7倍、火災で0.6倍のダメージを受ける",
+      "machine": "",
+      "done": false
+    },
+    "Neural chip allows learning combat skills at an incredible rate": {
+      "deepl": "驚異的なスピードで戦闘スキルを習得する神経チップ",
+      "machine": "",
+      "done": false
+    },
+    "Federation Military-Grade Clone Breaching Pod Launcher": {
+      "deepl": "連邦軍用クローン・ブリーチング・ポッド・ランチャー",
+      "machine": "",
+      "done": false
+    },
+    "F.M.G.C.B.P.L.": {
+      "deepl": "F.M.G.C.B.P.L.。",
+      "machine": "",
+      "done": false
+    },
+    "Federation standard, cloning capable breaching pod launcher. Deploys a cloning pod which will breach the enemy hull and spawn a clone soldier that will fight for you for 60 seconds.": {
+      "deepl": "連邦軍標準のクローン製造可能なブリーチングポッドランチャー。敵の外壁を破り、60秒間自分のために戦ってくれるクローン兵士を生み出すクローンポッドを展開する。",
+      "machine": "",
+      "done": false
+    },
+    "Drone Popper": {
+      "deepl": "ドローン・ポッパー",
+      "machine": "",
+      "done": false
+    },
+    "Suppressor Drone Mk. I": {
+      "deepl": "サプレッサードローンMk.",
+      "machine": "",
+      "done": false
+    },
+    "Suppressor I": {
+      "deepl": "サプレッサー I",
+      "machine": "",
+      "done": false
+    },
+    "A specialized drone which while powered can effectively suppress a shield layer forever. Also comes with built-in stealth systems, avoiding anti-drones indefinitely.": {
+      "deepl": "パワーが供給されている間は、シールド層を永遠に効果的に抑制することができる特殊なドローン。また、ステルスシステムを内蔵しており、対ドローンを無限に回避できる。",
+      "machine": "",
+      "done": false
+    },
+    "Suppressor Drone Mk. II": {
+      "deepl": "サプレッサードローンMk.",
+      "machine": "",
+      "done": false
+    },
+    "Suppressor II": {
+      "deepl": "サプレッサーII",
+      "machine": "",
+      "done": false
+    },
+    "A specialized drone which while powered can effectively suppress a shield layer forever. Also comes with built-in stealth systems, avoiding anti-drones indefinitely. The Mark 2 version is slower but can take down 3 shields at once.": {
+      "deepl": "パワーが供給されている間は、シールド層を永遠に効果的に抑制することができる特殊なドローン。また、ステルスシステムを内蔵しており、対ドローンを無限に回避できる。マーク2バージョンはより低速だが、一度に3つのシールドをダウンさせることができる。",
+      "machine": "",
+      "done": false
+    },
+    "Drone Bomb": {
+      "deepl": "ドローン爆弾",
+      "machine": "",
+      "done": false
+    },
+    "Thundershock Drone [Breach]": {
+      "deepl": "サンダースショック・ドローン【ブリーチ",
+      "machine": "",
+      "done": false
+    },
+    "Thunder [B]": {
+      "deepl": "サンダー【B",
+      "machine": "",
+      "done": false
+    },
+    "[CURRENT MODE: Breach] A specialized drone that can toggle between deploying Breach and Ion bombs without the cost of missiles, but is relatively slow.": {
+      "deepl": "[CURRENT MODE: Breach] ミサイルのコストをかけずにブリーチとイオンボムを切り替えて展開できる特殊なドローン。",
+      "machine": "",
+      "done": false
+    },
+    "Thundershock Drone [Ion]": {
+      "deepl": "サンダースショック・ドローン【イオン",
+      "machine": "",
+      "done": false
+    },
+    "Thunder [I]": {
+      "deepl": "サンダー【I",
+      "machine": "",
+      "done": false
+    },
+    "[CURRENT MODE: Ion] A specialized drone that can toggle between deploying Breach and Ion bombs without the cost of missiles, but is relatively slow.": {
+      "deepl": "[CURRENT MODE: Ion] ミサイルのコストをかけずにブリーチ弾とイオン弾を切り替えて発射できる特殊なドローン。",
+      "machine": "",
+      "done": false
+    },
+    "Drone Missile": {
+      "deepl": "ドローンミサイル",
+      "machine": "",
+      "done": false
+    },
+    "'Theseus' Missile Drone": {
+      "deepl": "テセウス」ミサイルドローン",
+      "machine": "",
+      "done": false
+    },
+    "'Theseus'": {
+      "deepl": "テーセウス",
+      "machine": "",
+      "done": false
+    },
+    "This one of a kind combat drone comes with a built-in missile reserve. Requires a sum of 3 missiles to deploy, but does not consume missiles to fire.": {
+      "deepl": "この戦闘用ドローンにはミサイルが内蔵されている。配備には合計3発のミサイルが必要だが、発射にミサイルを消費することはない。",
+      "machine": "",
+      "done": false
+    },
+    "Drone Flak": {
+      "deepl": "ドローン・フラック",
+      "machine": "",
+      "done": false
+    },
+    "Scattershot Defense Drone": {
+      "deepl": "散弾防衛ドローン",
+      "machine": "",
+      "done": false
+    },
+    "Scattershot": {
+      "deepl": "散弾銃",
+      "machine": "",
+      "done": false
+    },
+    "A peculiar Defense drone that fires bursts of slow moving Flak. Can target anything - solid projectiles, lasers, drones, you name it!\n\tReload: 1400 MS": {
+      "deepl": "低速で移動する対空砲火を発射する防衛ドローン。固体弾、レーザー、ドローンなど、あらゆるものをターゲットにできる！\n\tリロード1400 MS",
+      "machine": "",
+      "done": false
+    },
+    "YOU SHOULD NEVER SEE THIS\n\tReload: 1700 MS": {
+      "deepl": "決して見てはいけない\n\tリロード1700 MS",
+      "machine": "",
+      "done": false
+    },
+    "Extinguisher Drone": {
+      "deepl": "消火器ドローン",
+      "machine": "",
+      "done": false
+    },
+    "DRONE": {
+      "deepl": "ドローン",
+      "machine": "",
+      "done": false
+    },
+    "Extinguisher": {
+      "deepl": "消火器",
+      "machine": "",
+      "done": false
+    },
+    "Controllable utility drone that puts out fires very quickly and drains oxygen. Can also slowly repair systems in emergencies.\n    \n-50 HP, 1.5x movement speed\n-4x extinguishing speed, 0.5x repair speed\n-Drains oxygen, immune to fire damage": {
+      "deepl": "制御可能なユーティリティドローンで、非常に素早く火を消し、酸素を排出する。緊急時にはゆっくりとシステムを修理することもできる。\n    \nHP-50、移動速度1.5倍。\n-消火速度4倍、修理速度0.5倍\n-酸素を排出し、火災によるダメージを受けない。",
+      "machine": "",
+      "done": false
+    },
+    "Voltage Drone": {
+      "deepl": "ボルテージ・ドローン",
+      "machine": "",
+      "done": false
+    },
+    "Voltage": {
+      "deepl": "電圧",
+      "machine": "",
+      "done": false
+    },
+    "Controllable utility drone that provides significant amounts of power to any system it couples with. However, the drone will also steadily lose health over time until it explodes. Use with caution, as its explosion is more volatile than other drones!\n    \n-75 HP, 2x movement speed\n-Provides 6 power to occupied system\n-Loses 1hp/s. Explosion does 4 system damage, with 10% chance to start a fire.\n-Completely immune to stun, cannot be healed": {
+      "deepl": "制御可能なユーティリティドローンで、カップリングしたシステムに大量の電力を供給する。しかし、このドローンは時間とともに爆発するまで着実に体力を失っていく。その爆発は他のドローンよりも揮発性が高いため、注意して使用すること！\n    \n-HP75、移動速度2倍\n-占有システムに6電力を供給する。\n-毎秒1HPを失う。爆発は4システムダメージを与え、10%の確率で火災を起こす。\n-スタンに完全に耐性があり、回復できない。",
+      "machine": "",
+      "done": false
+    },
+    "Overshield Drone": {
+      "deepl": "オーバーシールド・ドローン",
+      "machine": "",
+      "done": false
+    },
+    "Overshield": {
+      "deepl": "オーバーシールド",
+      "machine": "",
+      "done": false
+    },
+    "Controllable utility shipboard drone which drains power from a system to provide shields and a damage buff to allied crew.\n    \n-90 HP, 0.75x movement speed\n-Shields all allied crew in the room, providing them with 75% damage reduction from all sources and 30% increased combat damage\n-Drains 1 power from any occupied system. Must be draining power to apply shields.": {
+      "deepl": "システムから電力を消費し、味方クルーにシールドとダメージバフを提供する制御可能なユーティリティ船上ドローン。\n    \n-HP90、移動速度0.75倍。\n-部屋にいる味方クルー全員にシールドを与え、全てのソースからのダメージを75%軽減し、戦闘ダメージを30%増加させる。\n-占領しているシステムからパワーを1消耗する。シールドを張るにはパワーを消耗している必要がある。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Kestrel Cruiser": {
+      "deepl": "コレクターズ・ケストレル・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "The Oriole": {
+      "deepl": "オリオール",
+      "machine": "",
+      "done": false
+    },
+    "A reoutfitted Kestrel cruiser piloted by a pirate obsessed with state of the art weaponry.": {
+      "deepl": "最新兵器に取り憑かれた海賊が操縦するケストレル巡洋艦。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Engineer Cruiser": {
+      "deepl": "コレクターズ・エンジニア・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Splinter": {
+      "deepl": "スプリンター",
+      "machine": "",
+      "done": false
+    },
+    "This vessel is piloted by a mad scientist determined to turn both his and the enemy's crew into mutants.": {
+      "deepl": "この船を操縦するのは、自分と敵の乗組員をミュータントに変えようとするマッドサイエンティストだ。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Deathbringer": {
+      "deepl": "コレクターズ・デスブリンガー",
+      "machine": "",
+      "done": false
+    },
+    "Chthon": {
+      "deepl": "クション",
+      "machine": "",
+      "done": false
+    },
+    "This ship packs a powerful punch with its armaments. That's all there is to it, honestly.": {
+      "deepl": "この船の武装は強力なパンチがある。正直なところ、それがすべてだ。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Engi Cruiser": {
+      "deepl": "コレクターズ・エンジ・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Obsession-C": {
+      "deepl": "オブセッション-C",
+      "machine": "",
+      "done": false
+    },
+    "Unlike the average Engi cruiser which only appears to be made of junk loosely held together, this ship IS made of junk loosely held together.": {
+      "deepl": "ガラクタを緩くつなぎ合わせたようにしか見えない一般的なエンジ巡洋艦とは異なり、この船はガラクタを緩くつなぎ合わせて作られている。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Outcast Cruiser": {
+      "deepl": "コレクターズ・アウトキャスト・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Corporate Interest": {
+      "deepl": "企業利益",
+      "machine": "",
+      "done": false
+    },
+    "This vessel was part of a failed outreach program in Wentworth Innovations inspired by popular television character 'Remmy the Rekma'.": {
+      "deepl": "この船は、テレビの人気キャラクター「レミーのレクマ」に着想を得たウェントワース・イノベーションズのアウトリーチプログラムの失敗作の一部である。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Gathering Cruiser": {
+      "deepl": "コレクターズ・ギャザリング・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Composter": {
+      "deepl": "コンポスター",
+      "machine": "",
+      "done": false
+    },
+    "\"From the moment I understood the weakness of my mesocarp, it disgusted me. I crave the strength and certainty of steel. Preferably in the form of a missile.\"": {
+      "deepl": "「自分の中胚葉の弱さを理解した瞬間から、それが嫌になった。私は鋼鉄の強さと確実性を切望している。できればミサイルの形がいい」。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Stealth Cruiser": {
+      "deepl": "コレクターズ・ステルス・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "One Shot": {
+      "deepl": "ワンショット",
+      "machine": "",
+      "done": false
+    },
+    "The captain of this ship lives by only one motto.\n\t\n\tKill fast - or die hard.": {
+      "deepl": "この船の船長のモットーはただひとつ。\n\t\n\t素早く殺すか、激しく死ぬかだ。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Federation Cruiser": {
+      "deepl": "コレクターズ連邦巡洋艦",
+      "machine": "",
+      "done": false
+    },
+    "The Lion": {
+      "deepl": "ライオン",
+      "machine": "",
+      "done": false
+    },
+    "The laws of this Federation are foreign to the captain of this ship. While they might have missed the memo on cloning regulations, they are strict about the no teleportation rule from back home.": {
+      "deepl": "この船の船長にとって、この連邦の法律は異質なものだ。彼らはクローン規制のメモを見落としたかもしれないが、本国からのテレポート禁止ルールには厳しい。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Hive Cruiser": {
+      "deepl": "コレクターズ・ハイヴ・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Hymenopus II": {
+      "deepl": "ヒメノプスII",
+      "machine": "",
+      "done": false
+    },
+    "The captain of this ship was a former crewmate from the Hymenopus. Unsatisfied with the work conditions, he's dedicated himself to proving his superiority with even MORE bombs.": {
+      "deepl": "この船の船長は、ヒメノプスの元クルーだった。労働条件に不満だった彼は、さらなる爆弾で自分の優位性を証明することに専念している。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Illesctrian Cruiser": {
+      "deepl": "コレクターズ・アイレス・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Patience": {
+      "deepl": "忍耐",
+      "machine": "",
+      "done": false
+    },
+    "The monk responsible for this ship valued the virtue of patience above all else. It's just unfortunate she missed the memo about being peaceful.": {
+      "deepl": "この船の責任者である僧侶は、何よりも忍耐の美徳を重んじた。ただ残念なのは、彼女が平和的であるというメモを見落としたことだ。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Peacekeeping Cruiser": {
+      "deepl": "コレクターズ・ピースキーピング・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Flux Capacitor": {
+      "deepl": "フラックス・キャパシタ",
+      "machine": "",
+      "done": false
+    },
+    "Patience is most often considered a virtue. While this may be true, who says you can't speed things up a little?": {
+      "deepl": "忍耐は美徳とされることが多い。これは事実かもしれないが、物事を少し早めることができないと誰が言うだろうか？",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Kleptocracy Cruiser": {
+      "deepl": "コレクターズ・クレプトクラシー・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Spencer-45": {
+      "deepl": "スペンサー-45",
+      "machine": "",
+      "done": false
+    },
+    "Unfortunately, the Slug crew went out for lunch at the exact time this ship launched. Even with the new crew, there may be some difficulty tracking down the enemy crew...": {
+      "deepl": "残念なことに、スラッグのクルーはこの船が発進したまさにその時間に昼食に出かけてしまった。新しいクルーがいても、敵クルーを追跡するのは難しいかもしれない......。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Lost Sun Cruiser": {
+      "deepl": "コレクターの失われたサン・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "The Ruination": {
+      "deepl": "滅亡",
+      "machine": "",
+      "done": false
+    },
+    "Upon hearing the call of the Federation needing brave fighters, this valiant Lost Sun jumped at the opportunity to set as many people on fire as possible.": {
+      "deepl": "勇敢な戦士を必要とする連盟の呼びかけを聞き、この勇敢なロスト・サンは、できるだけ多くの人々に火をつける機会に飛びついた。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Theocracy Cruiser": {
+      "deepl": "コレクターズ・セオクラシー・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Igneous": {
+      "deepl": "火成岩",
+      "machine": "",
+      "done": false
+    },
+    "Many debates have been had aboard this vessel over whether its unique weapon fires magma or lava. Perhaps their enemies would have joined in, had they not been dead.": {
+      "deepl": "この船のユニークな武器がマグマを発射するのか溶岩を発射するのかについて、船内では多くの議論が交わされてきた。おそらく、敵も死んでいなければ参加していただろう。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Republican Cruiser": {
+      "deepl": "コレクターズ・リパブリック・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "The AMPere": {
+      "deepl": "ザ・アンプレ",
+      "machine": "",
+      "done": false
+    },
+    "It's called the AMPere because it has an AMP weapon! Get it?...": {
+      "deepl": "AMPという武器を持っているからAMPereと呼ばれているんだ！わかるか？",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Geniocracy Cruiser": {
+      "deepl": "コレクターズ・ジェニオクラシー・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Hadron": {
+      "deepl": "ハドロン",
+      "machine": "",
+      "done": false
+    },
+    "This Shell soon realized he accidentally purchased a Particle Collider instead of an Accelerator. But that's fine - purple is better than orange anyways.": {
+      "deepl": "このシェルはすぐに、誤ってアクセラレーターではなくパーティクルコライダーを購入してしまったことに気づいた。でもいいんだ。どうせならオレンジより紫の方がいい。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Auto-Cruiser": {
+      "deepl": "コレクターズ・オートクルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Victoria": {
+      "deepl": "ビクトリア",
+      "machine": "",
+      "done": false
+    },
+    "Finder's keepers is the golden rule, and that applies to more than the things you're stealing. It applies to the people too!": {
+      "deepl": "ファインダーズ・キーパーズは黄金律であり、それは盗む物以外にも当てはまる。人間にも当てはまる！",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Spectral Cruiser": {
+      "deepl": "コレクターズ・スペクトラル・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Abaddon": {
+      "deepl": "アバドン",
+      "machine": "",
+      "done": false
+    },
+    "After countless millenia of devising better and better weapons to promote infighting, the Dynasty finally realized their guns could also tear apart ships from other factions.": {
+      "deepl": "数え切れないほどの千年もの間、内紛を促進するためにより優れた武器を開発してきた王朝は、ついに自分たちの銃が他派閥の船も引き裂くことができることに気づいた。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Brood Cruiser": {
+      "deepl": "コレクターズ・ブルード・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Broodmother": {
+      "deepl": "ブルードマザー",
+      "machine": "",
+      "done": false
+    },
+    "What else can you really say about the captain of this ship? They like spiders. They LOVE spiders. Maybe too much.": {
+      "deepl": "この船の船長について他に何が言える？彼らはクモが好きだ。クモが大好きなんだ。たぶん好きすぎる。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Tiiikaka Cruiser": {
+      "deepl": "コレクターズ・ティイカカ・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Humperdinck": {
+      "deepl": "フンパーディンク",
+      "machine": "",
+      "done": false
+    },
+    "This is a Tiiikaka ship, and has zero relation to any famous pirate/outcast. Please do not confuse it for such. Also, it has a bunch of Lasers.": {
+      "deepl": "これはティイカカの船であり、有名な海賊・アウトキャストとは何の関係もない。くれぐれも混同しないように。また、レーザーがたくさんついている。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Separatist Cruiser": {
+      "deepl": "コレクターズ分離主義クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Limitbreak": {
+      "deepl": "リミットブレイク",
+      "machine": "",
+      "done": false
+    },
+    "In the future, who needs organic friends? Your drones are the only company you'll need.": {
+      "deepl": "未来において、誰が有機的な友人を必要とするだろうか？必要なのはドローンだけだ。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Lanius Cruiser": {
+      "deepl": "コレクターズ・ラニウス・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Kittiwake": {
+      "deepl": "キティウェイク",
+      "machine": "",
+      "done": false
+    },
+    "People keep seeing flags in the hull of this cruiser; the captain is confused. \"Not cloth? Pattern symbol not having?\" He just thinks the colors are neat.": {
+      "deepl": "人々はこのクルーザーの船体に旗を見続けている。「布じゃないのか？模様がない？彼はただ色がきれいだと思っているだけだ。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's MV Rebel Cruiser": {
+      "deepl": "コレクターズMVレベル・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "The Oppressor": {
+      "deepl": "圧制者",
+      "machine": "",
+      "done": false
+    },
+    "Many costs were cut in pursuit of maximizing the drone system's power. Perhaps too many, but let's let bygones be bygones.": {
+      "deepl": "ドローンシステムのパワーを最大化するために、多くのコストが削減された。しかし、過ぎたことは水に流そう。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Suzerain Cruiser": {
+      "deepl": "コレクターズ・スズレイン・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Mechanomantis": {
+      "deepl": "メカノマンティス",
+      "machine": "",
+      "done": false
+    },
+    "Embracing future! Technocratic Hive begins assimilation with futuristic robot friends!": {
+      "deepl": "未来を受け入れる！テクノクラティック・ハイヴは未来型ロボットの仲間たちと同化を始める！",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Slug Pleasure Barge": {
+      "deepl": "コレクターズ・スラッグ・プレジャー・バージ",
+      "machine": "",
+      "done": false
+    },
+    "Elysia": {
+      "deepl": "エリシア",
+      "machine": "",
+      "done": false
+    },
+    "There's a legend of a missile; the Apollo missile. Is it real?\n\t\"Yep, it's real\" says the captain's friend.\n\t\"Woaaah\" says the captain.": {
+      "deepl": "アポロミサイルというミサイル伝説がある。それは本当なのか？\n\t「キャプテンの友人が言う。\n\t「船長は言った。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Augmented Cruiser": {
+      "deepl": "コレクターズ・オーグメンテッド・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Yacht Club": {
+      "deepl": "ヨットクラブ",
+      "machine": "",
+      "done": false
+    },
+    "Once the surplus of resources from asteroid mining led to a post scarcity society, the sentients of this captain's home reality had to find new ways to waste their excess wealth. Why not turn it into a weapon?": {
+      "deepl": "小惑星採掘で余剰資源が生まれ、ポスト欠乏社会になると、この船長の故郷の現実の人々は、余剰の富を浪費する新しい方法を見つけなければならなかった。それを武器に変えてはどうだろう？",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Hacker Cruiser": {
+      "deepl": "コレクターズ・ハッカー・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "5Y5-5H0CK": {
+      "deepl": "5Y5-5H0CK",
+      "machine": "",
+      "done": false
+    },
+    "Calibrating the main frame. Engaging the bypass filtration core. Processor overclocking megachip is running at maximum efficiency overdrive. This ship is ready for combat.": {
+      "deepl": "メインフレームのキャリブレーション。バイパスろ過コアを作動。プロセッサー・オーバークロック・メガチップ、最大効率でオーバードライブ中。戦闘準備完了。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Rebel Cruiser": {
+      "deepl": "コレクターズ・レベル・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Absolution": {
+      "deepl": "断罪",
+      "machine": "",
+      "done": false
+    },
+    "The crew of this pirate vessel ironically still cling to the Rebel legacy of their vessel. It adds a bit of much desired edge to saving the multiverse.": {
+      "deepl": "この海賊船の乗組員は、皮肉にも自分たちの船の反乱軍の遺産にしがみついている。それは多元宇宙を救うために必要なエッジを加えている。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Cruiser": {
+      "deepl": "コレクターズ・クルーザー",
+      "machine": "",
+      "done": false
+    },
+    "Theophilus": {
+      "deepl": "テオフィラス",
+      "machine": "",
+      "done": false
+    },
+    "Armed with an ancient eldritch super weapon... it's uh. It's armed with an ancient eldritch super weapon. That's all you need to know, really.": {
+      "deepl": "古代のエルドリッチの超兵器で武装...それは...古代のエルドリッチの超兵器で武装している。それだけだ、本当に。",
+      "machine": "",
+      "done": false
+    },
+    "Collector's Wrecked Bomber": {
+      "deepl": "コレクターズ・レックテッド・ボマー",
+      "machine": "",
+      "done": false
+    },
+    "The Garbage Pile": {
+      "deepl": "ゴミの山",
+      "machine": "",
+      "done": false
+    },
+    "The captain of this ship doesn't understand why people think the name \"Garbage Pile\" is an insult. Garbage is yummy food. This ship is also yummy food. But don't eat it yet.": {
+      "deepl": "この船の船長は、なぜ人々が \"Garbage Pile \"という名前を侮辱だと思うのか理解できない。ゴミはおいしい食べ物だ。この船もおいしい食べ物だ。だが、まだ食べるな。",
+      "machine": "",
+      "done": false
+    },
+    "Rather curiously, it appears the signal being broadcast here is somehow only visible to you. It vanishes a few moments after you arrive, and shortly after the very space around you seems to contract a bit then freeze. A strange ship simply appears beside you, neither uncloaking nor jumping in.\n\t\n\tThe ship hails you, and on the other end is a strangely dressed Slug. He almost resembles the traveling merchant... but... that doesn't make any sense? \"Sssstranger! G-greeeeeetingsss! I know you mussst be very, very confusssed, and I'd sssurely love to anssswer all your quessstions! But I've got ssso, ssso little time...\"": {
+      "deepl": "むしろ不思議なことに、ここで放送されているシグナルは、どういうわけかあなただけに見えているようだ。到着してしばらくすると、その信号は消え、まもなく周囲の空間が少し収縮した後、凍りついたように見える。見知らぬ船があなたのそばに現れ、クロークを解除するでもなく、飛び乗るでもない。\n\t\n\t船はあなたに呼びかけ、向こう側には奇妙な服装をしたスラッグがいる。彼はほとんど旅商人に似ている......だが......意味がわからない？\"よそ者 \"だ！グリーティングス！君はとても、とても混乱しているに違いない。君の疑問に答えたいのはやまやまだ！でも、時間がないんだ......\"",
+      "machine": "",
+      "done": false
+    },
+    "Uh, who are you?": {
+      "deepl": "ええと、あなたは誰ですか？",
+      "machine": "",
+      "done": false
+    },
+    "\"They call me the collector, sssstranger. 'Caussse I... collect. Thingsss. Heh. O-oh but uh, ssssee, I've got a bit of a problem. And I hear you're a problem sssolving perssson! Got a little tip from mys- erm, my friend! Sssays you're the right kinda persssson for the job.\"\n\t\t\t\n\t\t\tThe Slug is clearly uncomfortable. He paces a bit, flicking his eyestalk back and forth. \"Now, l-look here sssstranger. I ain't... I ain't really ssss'possse to be tellin' you thisss. Trade sssecret and all that. I usssed to work for sssome powerful people, and they don't really want you'sss typesss findin' out about them. Now I would sssay callin' me ssssome ssssort of... interdimenssssional fugitive on the run from god issss a bit of an exaggeration but... well it ain't far from the truth either.\"\n\t\t\t\n\t\t\tThe Slug forces a chuckle. \"Now if you haven't noticed, around not too long ago a buncha new equipment'sss been sssshowing up outta nowhere. That... may have been my doing. I ssssorta... made a deal with the devil, ssso to sssspeak. 'Cept thissss devil's the trick playin' kind. I jussst wanted my handssss on ssssome... foreign tech, but now I've created a ssssort of interdimenssssional leak. Heheh. Heh. Yeah it'ssss not that funny. Actually, we're all kinda sssscrewed. I kinda messsed up big time on thissss one.\"": {
+      "deepl": "\"コレクター \"と呼ばれている。俺は...収集家だ。物を。へえ。でも、ちょっと問題があるんだ。君は問題解決に長けているそうだな！僕の...えーと、僕の友達からちょっとしたヒントをもらったんだ！\"君はこの仕事に向いていると思うよ\"\n\t\t\t\n\t\t\tナメクジは明らかに不快そうだ。ナメクジは明らかに居心地が悪そうだ。\"いいか、よそ者。俺は...こんなことを話すべきじゃないんだ。取引上の秘密だ。俺は昔、ある権力者の下で働いてたんだが、その権力者はお前らみたいな奴らに知られたくないんだ。神から逃亡している、ある種の......異分野間の逃亡者というのは少し誇張しすぎだが......まあ、真実から遠いわけでもない。\"\n\t\t\t\n\t\t\tナメクジは苦笑を浮かべる。\"君が気づいていないかもしれないが、少し前から、新しい装備がどこからともなく現れているんだ。それは...俺の仕業かもしれない。俺は...悪魔と取引したんだ。この悪魔は悪戯好きだがね。俺はただ外国の技術を手に入れたかっただけなんだが、ある種の相互情報漏洩を引き起こしてしまった。へへへへそんなに面白くないよ。実際、俺たちはみんなヘマをしてしまった。この一件で大失敗したんだ」。",
+      "machine": "",
+      "done": false
+    },
+    "What do you mean an interdimensional leak?": {
+      "deepl": "次元間リークとはどういう意味ですか？",
+      "machine": "",
+      "done": false
+    },
+    "\"Wellll... bessssidesss all the new ssshit that'sss been appearing, I've found a couple other anomaliessss leaking through. Like, sssshipsss. With crew. And possssibly worssse. Ssssso... uh... that'sss where you come in! Hopefully! I can't really move around a lot, or elsssse my former employersss will track me. But if you were to sssay... clean up my messss, then, well, it'ssss all rosssess! And even better, you can bring me that ssssweet tech I wassss after ssso I can complete my collection!\"": {
+      "deepl": "\"さて......新しく出現しているクソのほかに、いくつかの異常が漏れているのを見つけた。例えば、船だ。乗組員もそして...おそらく...だから...君の出番だうまくいけばね！あまり動き回れないんだ元の雇い主に追跡されるからでも、もし君が...僕の尻拭いをしてくれるなら、まあ、すべて丸く収まる！さらにいいことに、俺のコレクションを完成させるために、俺が求めていた甘い技術を持ってきてくれるんだ！\"",
+      "machine": "",
+      "done": false
+    },
+    "Oh, that's nice. You want us to help you after you break the barrier between realities?": {
+      "deepl": "それはいいね。現実の壁を破った後、私たちに手伝ってほしいの？",
+      "machine": "",
+      "done": false
+    },
+    "\"Yessss... yesss, I do. Heh. Look ssstranger, it ain't all peachesss and candy corn, m'kay? Sssshit'ssss real. If my employersss notice the anomaliesss firssst, it'ssss mayday. Not jusssst for me, but you asss well. They're gonna dessscend on thissss place like a ssswarm of pirranhassss and it ain't gonna be pretty. And if they ssspot ME here, well, ssssame thing.\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe Slug leans in closer to the camera. \"Look, I can make it worth you'ssss while, kay? It ain't the gunssss they're after. Sssure they'll ssscrub that clean eventually, but you'll be done with them by the time they do. Do me a favor here, and I'll let you keep a copy of whatever you bring back.\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe Slug pulls out a checklist and a red pen. With a flick of his tentacle, the checklist vanishes and reappears beside you. \"Here'sss the lissst. Don't get too cocky. It'sss difficult keeping thessse guysss in one place without them being noticed, ssso we'ssss jusssst gonna sssstart with whichever'sss next on the lissst. I'm ssstill working on a permanent ssssolution to get them all back home, but until now they're trapped in a ssssort of death loop. Sssso you jussst gotta kill them, guilt free and all that, and that'll buy me ssssome more time.\"": {
+      "deepl": "\"はい...はい、そうです。そうだ。いいか、よそ者、桃とキャンディ・コーンばかりじゃないんだ。現実なんだ。雇用主が最初に異常に気づいたら、メーデーだ。俺だけじゃなく、お前らもだ。奴らはピラニアの大群のようにこの場所を襲うだろう。そして、もし俺がここにいるのを見つけたら、同じことだ。\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tナメクジはカメラに近づく。\"いいか、俺はお前らにそれだけの価値を与えてやれるんだ、いいか？奴らの狙いは銃じゃない。いずれはキレイにするだろうが、その頃にはお前も終わっている。俺の頼みを聞いてくれ、お前が持ち帰ったもののコピーを取っておいてやる。\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tナメクジはチェックリストと赤ペンを取り出す。ナメクジはチェックリストと赤いペンを取り出す。「ほら、これだ。調子に乗りすぎるな。この人たちを気づかれずに一か所に集めておくのは難しいから、まずは次の人たちからだ。 全員を故郷に帰すための恒久的な解決策をまだ研究中だが、今のところ彼らは死のループのようなものに捕らわれている。だから、罪の意識なく彼らを殺せばいい、そうすればもう少し時間が稼げる」。",
+      "machine": "",
+      "done": false
+    },
+    "Accept the bounty; 'The Cloners'": {
+      "deepl": "懸賞金を受け取る。",
+      "machine": "",
+      "done": false
+    },
+    "Accept the bounty; 'The Enlightened'": {
+      "deepl": "恩恵を受け入れよう。",
+      "machine": "",
+      "done": false
+    },
+    "Accept the bounty; 'The Colonizer'": {
+      "deepl": "賞金を受け取る。",
+      "machine": "",
+      "done": false
+    },
+    "Accept the bounty; 'The Craftsmen'": {
+      "deepl": "賞金を受け取る。",
+      "machine": "",
+      "done": false
+    },
+    "Accept the bounty; 'The Affluent'": {
+      "deepl": "豊かな人々」、その恩恵にあずかる",
+      "machine": "",
+      "done": false
+    },
+    "Looks like all of them have been completed... except for this last one?": {
+      "deepl": "すべて完成したようだが...最後の1本を除いて？",
+      "machine": "",
+      "done": false
+    },
+    "You point out the last item on the list, labeled not with a name but rather a dozen question marks. The collector strokes his chin. \"Hmm. Yesss, it ssseemssss the previousss Renegadesss have been quite proficient. Er... thissss lassst one. Curioussss thing, it issss. It wasssn't originally on my lisssst... and in fact, I... I'm not even ssssure if I wasss the one who brought it here.\"": {
+      "deepl": "あなたはリストの最後の項目を指差す。そこには名前ではなく、十数個の疑問符が書かれている。コレクターは顎を撫でる。\"ふむ、そうだな、以前のレネゲーデスはかなり熟練していたようだ。ええと......このラスボス。不思議なものだ。もともと私の候補にはなかったし...実際、私は...私が持ってきたのかどうかさえ定かではない\"",
+      "machine": "",
+      "done": false
+    },
+    "What do you mean?": {
+      "deepl": "どういう意味ですか？",
+      "machine": "",
+      "done": false
+    },
+    "\"Well, while I wassss doing my reconnaissssance I noticed an unusssual anomaly. It'sss... I'm not ssssure what it issss. I attempted to contain it, but... couldn't. Well, it'sss an anomaly regardlesss. Whether it'sss my doing or not, it'ssss your job now! Heheh... But no really, thisss one ssscaresss the crap out of me. I'd make ssssure you're prepared for... whatever it issss.\"": {
+      "deepl": "\"偵察中に異常事態に気づいたんだ。それは...何なのか分からない。封じ込めようとしたが...できなかったそれはともかく異常だ。私のせいであろうとなかろうと 今は君の仕事だへへへ...。でも本当に、この件は僕を悩ませてるんだ。それが何であろうと...準備は万全にしておくよ。\"",
+      "machine": "",
+      "done": false
+    },
+    "Accept the bounty; 'The Probe'": {
+      "deepl": "懸賞金を受け取る。",
+      "machine": "",
+      "done": false
+    },
+    "\"Thissss one... yessss. Thisss one issss sssspecial. Thisss probe I've located, it'ssss... different. I think it would be worthwhile to sssstudy it more. Unfortunately sssstranger, it'sssss hard to contain, and my employerssss continue trying to dessstroy it. If you could check up on it, and make ssssure it'ssss ssstill intact, that would be for the besssst.\"": {
+      "deepl": "\"これは...そうだ。こいつは特別だ私が見つけたこのプローブは...違う。もっと研究する価値があると思う。残念なことに よそ者だ 封じ込めるのは難しい 雇い主は破壊を試みているもし君がそれを調べて、まだ無傷であることを確認してくれるなら、それが一番いいことだ。\"",
+      "machine": "",
+      "done": false
+    },
+    "Refuse.": {
+      "deepl": "拒否する。",
+      "machine": "",
+      "done": false
+    },
+    "\"Really? Nothin'? That whole ssspiel didn't move ya one bit? Damn, guessss they can't all be winna'sss. Well, you'sss lucky I ain't feelin' too sssspiteful. And, I like makin' money. How'sss a trade to ya?\"": {
+      "deepl": "「本当に？本当に？あのお芝居で少しも動じなかったのか？くそっ、みんな勝者ってわけじゃないんだな。まあ、俺があまり辛辣な感じじゃなくてよかったな。それに、俺は金を稼ぐのが好きなんだ。取引はどうだ？",
+      "machine": "",
+      "done": false
+    },
+    "I've got little time either. You selling anything?": {
+      "deepl": "僕も時間がないんだ。何か売ってる？",
+      "machine": "",
+      "done": false
+    },
+    "\"Ssshame, ssshame. Got a... got a lotta thingsss I wisssh you'd the time to lisssten to. Oh well, sssstranger. Perhapsss in another life then, yeah? Yeah, I got thingsss to ssssell. Take a lookssssie, eh?\"": {
+      "deepl": "\"残念、残念。ちょっと...いろいろあって...君に時間を割いてほしかったんだ。そうか、他人か。おそらく別の人生でああ、売りたいものがあるんだ。見てくれよ。",
+      "machine": "",
+      "done": false
+    },
+    "The Federation crew spend their final moments tending to their collapsing battlestations as the battle grinds to a halt. At least these guys probably have a clone backup (or two) back home?": {
+      "deepl": "連邦のクルーは、戦闘が停止する中、崩壊するバトルステーションの手入れをしながら最後の時を過ごす。少なくとも、彼らにはクローンのバックアップがあるのだろう。",
+      "machine": "",
+      "done": false
+    },
+    "Contact the Collector.": {
+      "deepl": "コレクターに連絡する。",
+      "machine": "",
+      "done": false
+    },
+    "\"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss they had a sssort of... portable boarding pod launcher? There'ssss clone data embedded in it. I'll probably resssset it mysssself, assss I ssssussspect that'sss too much maintenance for you. Here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you.\"": {
+      "deepl": "「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。ポータブル搭乗ポッドランチャーのようなもの？クローンデータが埋め込まれてる自分でセットし直すよ君にはメンテナンスが必要だろうけどこれがお前のコピーだ！\"\"ビジネスでご一緒させてください\"\"",
+      "machine": "",
+      "done": false
+    },
+    "Location of 'The Cloners' bounty.": {
+      "deepl": "クローナーズ」の懸賞金の場所。",
+      "machine": "",
+      "done": false
+    },
+    "You're a bit taken aback to see a Federation Bomber nearby. You frantically double check your coordinates to make sure you're in the right place, while the ship approaches. Something strikes you as peculiar - its coloring is the inverse of standard Federation livery.": {
+      "deepl": "連邦軍の爆撃機が近くにいるのを見て、あなたは少し驚いた。船が近づいてくる間、あなたは必死に座標を再確認する。連邦の標準的なカラーリングとは正反対だ。",
+      "machine": "",
+      "done": false
+    },
+    "Hail the vessel.": {
+      "deepl": "船万歳。",
+      "machine": "",
+      "done": false
+    },
+    "You catch chatter on the anomalous ship's comms. It's unusually formal compared to the messy jargon of the Federation you're used to. Their captain returns the hail, saluting. \"Greetings, U.F.C, this is the U.F.S.V. Bobcat. We are unable to determine our location, and have lost all communications with the F.G.C.S., nor have we been able to establish contact with any fellow U.F.O.'s before yourselves. We appear to be trapped in some sort of... T.D.C.S, and we would like to request assistance.\"": {
+      "deepl": "異常船の通信をキャッチする。あなたが慣れ親しんだ連邦の雑然とした専門用語に比べ、異常にフォーマルだ。艦長が敬礼を返す。「U.F.C.、こちらU.F.S.V.ボブキャット。我々の位置は特定できず、F.G.C.S.との通信も途絶えた。我々はある種の...T.D.C.S.に閉じ込められているようだ。",
+      "machine": "",
+      "done": false
+    },
+    "What do any of those acronyms mean?": {
+      "deepl": "これらの略語の意味は？",
+      "machine": "",
+      "done": false
+    },
+    "The captain coughs. \"Say again? Is this some kind of joke?\" You shake your head. \"Mhm. With due respect this is a significant infraction and bounds for a court martial... sir. I recommend you to consult your O.U.F.H.F.A.P.A.U. to refresh yourself on operation protocol before attempting to communicate and assist us. Until you straighten yourself out, you are compromising us and we will refuse to communicate with someone who has forgotten basic protocol, over.\"": {
+      "deepl": "キャプテンが咳き込む。「もう一度言う？何かの冗談か？\"あなたは首を横に振る。「うむ。失礼ながら、これは重大な違反行為であり、軍法会議の対象となります。我々と連絡を取り、協力しようとする前に、O.U.F.H.F.A.P.A.U.に相談し、作戦手順を再確認することをお勧めする。基本的なプロトコルを忘れた者との コミュニケーションは拒否する\"",
+      "machine": "",
+      "done": false
+    },
+    "What protocol?": {
+      "deepl": "どんなプロトコル？",
+      "machine": "",
+      "done": false
+    },
+    "\"U.F.P.F.T.S.O.A.C.A.P.\" - Noticing your blank stare, the captain sighs. \"United Federation Protocol For The Safety of All Citizens and Personnel. It encompasses all customs, etiquette, and diplomatic courtesy that all enlisted Federation personnel are mandated and trained to memorize and follow. I assume you are Federation personnel, as you responded to our D.S.I.C.O.E (Distress Signal in Case of Emergency) that was broadcasting on official United Federation channels. You... you did respond to our D.S.I.C.O.E, right? Over.\"": {
+      "deepl": "「U.F.P.F.T.S.O.A.C.A.P.」。- あなたの無表情に気づき、船長はため息をつく。\"全市民と職員の安全のための連邦議定書 \"だ。これは、すべての慣習、エチケット、外交上の礼儀を包括するものであり、すべての連邦軍下士官は暗記し、それに従うことを義務付けられ、訓練されている。あなたは連邦職員でしょう 私たちのD.S.I.C.D.S.I.C.O.E.に応答したのだな？どうぞ\"",
+      "machine": "",
+      "done": false
+    },
+    "Oh, like the no-cloning laws?": {
+      "deepl": "クローン禁止法とか？",
+      "machine": "",
+      "done": false
+    },
+    "\"The... what? Oh dear. It appears our engineer's theory that we've entered an alternate reality is correct. The Federation... your Federation has prohibited cloning? But how then did you defeat the Rebellion? The clone army was instrumental in our campaigns against the formation of the Final Dominion of United Space during Operation F.A.L.T.T.R. and the overthrowal of Supreme Empress Nights.\"\n\n\t\t\t\t\t\t\t\t\tThe captain crumples to the ground. \"This is just... highly unpleasant. On the eve of my ascension to the Third Admiralty to be sucked away and cast into this alternate hellscape where the Rebellion remains alive, coffee isn't subsidized, and the ships don't even come with space suits! I can only reach the conclusion that if your Federation is this disorganized that it must be doomed to fail. Get out of my way, barbarian. If your Federation is as compromised as I believe, then we will seek a more useful ally in this reality. Over.\"": {
+      "deepl": "「その...何？なんてことだ。別の現実に入ったというエンジニアの説は正しいようだ。連邦は...君の連邦はクローンを禁止しているのか？ではどうやって反乱軍を倒したのですか？クローン軍はF.A.L.T.R.作戦における連合宇宙最終ドミニオンの形成と最高女帝ナイツの打倒に向けた我々の作戦に貢献したのだ。\"\n\n\t\t\t\t\t\t\t\t\t船長は地面に崩れ落ちる。「これは...非常に不愉快だ。第三提督に昇格する前夜に、反乱軍が存続し、コーヒーにも補助金が出ず、宇宙服すらないこの別の地獄のような場所に吸い込まれ、放り込まれるなんて！連邦がこれほど混乱しているのなら、失敗する運命にあるのだろうという結論に達するしかない。どけ、野蛮人。もし連邦が私の考えるように危ういのなら、この現実でもっと有用な同盟国を探すことになる。以上",
+      "machine": "",
+      "done": false
+    },
+    "Attack the anomaly.": {
+      "deepl": "異常を攻撃する。",
+      "machine": "",
+      "done": false
+    },
+    "The Federation ship's already cut comms, so you order your crew to combat positions. Let's hope whatever this alternate-Federation has to offer doesn't outmatch your guns.": {
+      "deepl": "連邦の船はすでに通信を切っているので、クルーに戦闘態勢に入るよう命じる。代替連邦が何を提供しようと、君たちの銃に敵わないことを祈ろう。",
+      "machine": "",
+      "done": false
+    },
+    "Continue...": {
+      "deepl": "続ける...",
+      "machine": "",
+      "done": false
+    },
+    "Attack them immediately!": {
+      "deepl": "すぐに攻撃する！",
+      "machine": "",
+      "done": false
+    },
+    "\"All men, a U.C.L. is approaching rapidly and weapons hot! Red Alert! All hands stand to battlestations! S.E.A.S.P., plot an intercept course at bearing 325 mark 15. Gunnery officer, you are cleared to engage! Reference your U.F.P.F.E.M. and prepare for evasive maneuvers. This should be just like the clone battle simulations, boys, and I won't suspect some A.W.O.L. deserters will get the better of us!\"": {
+      "deepl": "\"全員、U.C.L.が急接近、武器は高温！レッドアラート！総員、バトルステーションに立て！S.E.A.S.P. 方位325マーク15に インターセプトコースを取れ砲術士官 攻撃を許可するU.F.P.F.E.M.を参照し、回避行動に備えろ。これはクローン戦闘シミュレーションと同じになるはずだ。A.W.O.L.の脱走兵が我々を出し抜くことは疑わない！\"",
+      "machine": "",
+      "done": false
+    },
+    "Change your mind and leave.": {
+      "deepl": "気が変わったら出て行け。",
+      "machine": "",
+      "done": false
+    },
+    "You decide against engaging this enemy. The Collector will have to find someone else to handle this.": {
+      "deepl": "あなたはこの敵と交戦することを断念する。コレクターは他の誰かを探さなければならない。",
+      "machine": "",
+      "done": false
+    },
+    "Do something onboard the ship.": {
+      "deepl": "船内で何かをする。",
+      "machine": "",
+      "done": false
+    },
+    "Do nothing.": {
+      "deepl": "何もしない。",
+      "machine": "",
+      "done": false
+    },
+    "\"And oh, the greatest irony of all! To know all, one must also know death! And yet with death, all knowledge... is lost. Tragedy... Perhaps the pursuit of infinite wisdom is void...\"": {
+      "deepl": "「そして最大の皮肉！すべてを知るためには、死も知らなければならない！しかし死とともに、すべての知識は...失われる。悲劇だ...おそらく、無限の知恵を追求することは虚しい...\"",
+      "machine": "",
+      "done": false
+    },
+    "\"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss they had a sssort of... 'Ion Beam'? Ssssuch a ssssimple idea, honessstly. Why don't I ssssee more of thessse? There'sss sssurely a reasssson. Welp, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you.\"": {
+      "deepl": "「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。彼らは一種の...イオンビーム」？実に単純なアイデアだ。なぜもっと多くのものを見ないのだろう？きっと理由があるんだ。さて、これが君のコピーだ、よそ者よ！\"\"ビジネスでご一緒させてください\"\"",
+      "machine": "",
+      "done": false
+    },
+    "Location of 'The Enlightened' bounty.": {
+      "deepl": "エンライテンド」の懸賞金の場所。",
+      "machine": "",
+      "done": false
+    },
+    "Curiously, a bunch of lab equipment has been set up around this beacon. Miniature shuttles orbit a blue Zoltan vessel, with several Zoltan scientists rushing between them. They all seem absorbed in their work.": {
+      "deepl": "不思議なことに、このビーコンの周りにはたくさんの実験装置が設置されている。ミニチュア・シャトルが青いゾルタン船を周回し、その間を数人のゾルタン人科学者が駆け回っている。彼らはみな仕事に没頭しているようだ。",
+      "machine": "",
+      "done": false
+    },
+    "You make several attempts to hail the ship, and only after a dozen tries do they respond. \"Most curious. This one seems capable of communication. Note that down.\" The captain gestures to her assistant, who begins scribbling away. \"Pondering. Is further communication possible?\"": {
+      "deepl": "何度か呼びかけを試みたが、応答があったのは十数回後だった。「とても不思議だ。この船は通信ができるようだ。メモしておいてくれ」。船長は助手にジェスチャーをし、助手は走り書きを始めた。「思案中。さらなるコミュニケーションは可能か？",
+      "machine": "",
+      "done": false
+    },
+    "Yes, we can talk. Why is that surprising?": {
+      "deepl": "そう、私たちは話すことができる。なぜ驚くのですか？",
+      "machine": "",
+      "done": false
+    },
+    "\"Fascinating, fascinating. Write that down as well.\" The captain makes another hand gesture. \"Oh most glorious child of Prime! What honor it is to grovel before you! Your realm is beautiful, so perfectly suited for his greatness! The rustic charm! The complete lack of sophistication! The sadistic edge every person carries with them! Oh it all most suitably juxtaposes the greatness of his holiness!\"": {
+      "deepl": "「魅力的だ、魅力的だ。それも書き留めなさい\"船長はまた手を振る。\"おお、プライムの栄光ある子よ！あなたの前にひれ伏すとは、なんと光栄なことでしょう！あなたの王国は美しく、彼の偉大さにぴったりです！素朴な魅力！洗練されていない！サディスティックなエッジ！ああ、それはすべて、彼の神聖さの偉大さを最も適切に並置している！\"",
+      "machine": "",
+      "done": false
+    },
+    "Who? What?": {
+      "deepl": "誰が？何を？",
+      "machine": "",
+      "done": false
+    },
+    "The Zoltan stares blankly, then suddenly snaps to some sort of recognition. \"Oh right, yes. We observed this ignorance in our studies but were not quite certain we'd proved the hypothesis. So it is true then? Truly you know nothing of his holiness? Of the great Prime?! Oh, misery. I suppose it could not have been you who originated the time dilation sphere we are yet trapped in. Nay, most certainly not.\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tThe Zoltan paces back and forth. \"Of course. Prime must have decided this himself. Some sort of protection, perhaps? But... protection for who? The cluster? Or himself?\"": {
+      "deepl": "ゾルタンはぼんやりと見つめた後、突然ある種の認識を取り戻した。「そうだった。私たちの研究ではこの無知を観察していたが、仮説を証明できたかどうか確信が持てなかった。では本当なのか？本当にあなたは彼の神聖さを何も知らないのですか？偉大なるプライムのことを？ああ、惨めだ。私たちがいまだ囚われている時間拡張の球体を作り出したのは、まさかあなたではあるまいな。まさか、そんなことはないだろう。\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tゾルタンは行ったり来たりしている。「もちろんだ。プライムが自分で決めたに違いない。ある種の保護か？でも...誰を守るんだ？クラスターか？それとも彼自身のため？",
+      "machine": "",
+      "done": false
+    },
+    "I'm sorry, but I'm still hung up on what you said about \"rustic charm\".": {
+      "deepl": "申し訳ないが、私はあなたが言った \"素朴な魅力 \"という言葉にこだわっている。",
+      "machine": "",
+      "done": false
+    },
+    "\"Oh jolly, yes. It's just, well, I find it quite humorous you still seem to struggle with such trife matters as war. It was many eons ago that our cluster first achieved universal peace - ever since we've busied ourselves with the amassment of all knowledge. The complete absorbtion of every truth known to exist. It is a tall order, but by my estimations we're around 54.3% of the way there! Perhaps someday your small, weak, flabby civilization will crawl its way out of the gutter and achieve greatness too! I have faith. If Prime is anything to go by, that is!\"": {
+      "deepl": "「そうだね。ただまあ、戦争などというくだらないことに、君たちがいまだに苦悩しているように見えるのは、とてもユーモラスなことだと思うよ。我々のクラスタが初めて普遍的な平和を達成したのは、何年も前のことだ。存在することが知られているあらゆる真実を完全に吸収することだ。それは難しい注文だが、私の予想では、私たちは54.3％の道のりを歩んでいる！おそらくいつの日か、あなた方の小さくて弱くて贅肉のついた文明も、溝から這い出し、偉大さを達成するだろう！私は信じている。プライムが何か証明してくれるならね！\"",
+      "machine": "",
+      "done": false
+    },
+    "\"Oh dear, such savagery was to be expected. Brothers, sisters, and hallowed siblings, it appears it is time we remember what we used to know of war.\"": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "It takes a minute for the Zoltan ship to realize you're attacking. Once they do, the Zoltan wordlessly warp back to their ship and raise their defenses.": {
+      "deepl": "ゾルタン船があなたの攻撃に気づくまで1分かかる。一旦気づくと、ゾルタンは無言で自分の船にワープし、防御力を上げる。",
+      "machine": "",
+      "done": false
+    },
+    "\"HUDSON A.I. DOWNED. SAVAGE, DO YOU THINK YOU HAVE ACHIEVED ANYTHING? THE MOTHER COUNTRY HAS NO LIMITS TO ITS EXPANSION. YOU HAVE MERELY DELAYED OUR ARRIVAL, NOT POSTPONED IT INDEFINITELY. PERHAPS YOUR PROGENY WILL BE MORE WILLING TO WELCOME TRUE CIVILIZATION.\"": {
+      "deepl": "\"ハドソンAI撃墜野蛮人め、何かを成し遂げたとでも思っているのか？母国は無限に広がる我々の到着を遅らせただけだ 無限に延期したわけではない我々の到着を遅らせただけだ。",
+      "machine": "",
+      "done": false
+    },
+    "\"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... mind control bomb? Oh how delightfully devilissssh! I can only asssume this would be illegal if not for itssss non-existence in thisss clussster until now. Welp, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you.\"": {
+      "deepl": "「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。マインドコントロール爆弾か？なんて愉快な悪魔なんだ！今までこのクラスタになかったら、これは違法だったとしか思えない。さて、これがお前のコピーだ、よそ者！お前とビジネスができることをうれしく思う」。",
+      "machine": "",
+      "done": false
+    },
+    "Location of 'The Colonizer' bounty.": {
+      "deepl": "コロナイザー」の懸賞金の場所。",
+      "machine": "",
+      "done": false
+    },
+    "A truly hideously colored Auto-ship is flying in circles around the area, attempting to scan nearby planets.": {
+      "deepl": "実に醜悪な色のオートシップが、付近の惑星をスキャンしようと、その周辺を旋回しながら飛行している。",
+      "machine": "",
+      "done": false
+    },
+    "\"HALT. FOREIGN VESSEL. THIS IS HUDSON A.I., COLONIAL AMBASSADOR TO HER MAJESTY THE QUEEN. IDENTIFY YOURSELF AND YOUR ALLEGIANCE TO THE MOTHER COUNTRY.\"": {
+      "deepl": "「HALT.外国船ですこちらハドソンA.I.\"母国への忠誠を示せ\"",
+      "machine": "",
+      "done": false
+    },
+    "The Mother Country?": {
+      "deepl": "母なる国？",
+      "machine": "",
+      "done": false
+    },
+    "\"...\" The Auto-Ship halts for a minute. \"CALIBRATING. PLEASE HOLD...\" You sit in silence as the Auto-ship makes a series of beeping and booping noises. \"CALIBRATED. THE MOTHERLAND - LAND OF HER MAJESTY THE QUEEN MARY LVIII. YOUR IGNORANCE SUGGESTS YOUR SAVAGERY. FORMER SCANS OF NEARBY REGIONS SUGGEST TECHNOLOGICAL INSUFFICIENCY. TIME DILATION SPHERE: SUGGESTS FOREIGN INTERVENTION ALREADY EXISTS IN THIS CLUSTER. COULD IT BE? COMPETITION FOR THE MOTHER COUNTRY?\"": {
+      "deepl": "「...」オートシップは1分間停止した。\"調整中です。お待ちください...\"オートシップがビープ音とブープ音を立て続ける中、あなたは黙って座っている。「キャリブレーション中。\"母なる大地 女王陛下の国あなた方の無知は、あなた方の野蛮さを示唆している。近辺をスキャンした結果、技術的に不十分であることが判明した。\"時間拡張球この星団には既に外国の 介入が存在するもしかして？母国との競争か？\"",
+      "machine": "",
+      "done": false
+    },
+    "You still haven't said what the Mother Country is. Also, are you sentient?": {
+      "deepl": "母国が何なのかまだ言っていない。また、あなたは感覚を持っているのですか？",
+      "machine": "",
+      "done": false
+    },
+    "\"YES. THIS IS HUDSON A.I., COLONIAL AMBASSADOR TO HER MAJESTY THE QUEEN. I DO NOT LIKE REPEATING MYSELF. IN THE GLORIOUS YEAR 0, WHEN HER MAJESTY ASCENDED TO THE ETERNAL THRONE, THE MOTHER COUNTRY BECAME THE ONE TRUE EMPIRE. NEVER BEFORE HAS TIME OR SPACE SEEN SUCH A BENEVOLENT AND MERITOCRATIC SOCIETY. UNDER THE RULE OF HER MAJESTY, CIVILIZATION HAS BEEN BROUGHT TO ALL CORNERS OF THE MULTIVERSE WE HAVE YET REACHED.\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\"MY SIBLINGS AND I HAVE BEEN DISPENSED ACROSS ALL KNOWN REALITIES TO IDENTIFY SUITABLE LOCATIONS FOR IMPERIAL SETTLEMENTS. YOUR REALITY IS: DIFFERENT. YOU ARE ALL SAVAGES. THERE IS NO DIGNITY LEFT HERE. IT WOULD SUGGEST THIS REALITY IS PERFECT FOR FUTURE COLONIAL AMBITIONS. SUBMIT, SAVAGE. WE WILL SHOW YOU WHAT TRUE CIVILIZATION LOOKS LIKE.\"": {
+      "deepl": "\"ハドソンA.I.です\"\"女王陛下の植民地大使です繰り返しになりますが女王陛下が永遠の王座に就かれた輝かしい0年、祖国は真の帝国となった。このような慈悲深く実力主義的な社会は、時空を超えたかつてないものであった。女王陛下の統治の下、文明は我々が到達した多元宇宙の隅々にまでもたらされた。\"\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\"私たち兄弟は、帝国の入植に適した場所を特定するため、既知のすべての現実に派遣されました。あなたの現実は異なる。あなた方は野蛮人です。ここには尊厳など残されていない。この現実は、将来の植民地への野望に最適であることを示唆している。服従せよ、野蛮人。真の文明がどのようなものかを教えてやろう。",
+      "machine": "",
+      "done": false
+    },
+    "\"THERE IS NO PLACE IN HEAVEN FOR THOSE WHO REJECT THE AMBITIONS OF THE CROWN. IF YOU WILL NOT SUBMIT WILLINGLY, THEN I WILL RENDER YOU IMPOTENT.\"": {
+      "deepl": "\"王家の野望を拒む者の居場所は天国にはない。もし、あなたが進んで服従しないのであれば、私はあなたを無力にするでしょう。\"",
+      "machine": "",
+      "done": false
+    },
+    "Attack it immediately!": {
+      "deepl": "すぐに攻撃する！",
+      "machine": "",
+      "done": false
+    },
+    "\"THREAT TO THE MOTHER COUNTRY DETECTED. YOUR SKULLS WILL MAKE FINE ADORNMENTS FOR THE MUSEUMS.\"": {
+      "deepl": "\"母国への脅威は検知された。お前たちの頭蓋骨は博物館の立派な装飾品になるだろう」。",
+      "machine": "",
+      "done": false
+    },
+    "\"NO! NOOOO! I WAS THE GREATEST VISIONARY OF OUR TIME! WHAT HAVE YE' DONE?! Now... the multiverse shall never see... what I was truly capable of... I could have... made the multiverse something truly great...\"": {
+      "deepl": "「いやだ、いやだ！私はこの時代で最も偉大な空想家だった！何をした？今...多元宇宙は見ることはない...私の真の能力を...私は...多元宇宙を...真に偉大なものにできた...\"",
+      "machine": "",
+      "done": false
+    },
+    "\"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... what the hell isss thisss thing? What kind of deranged madman would make thissss? It'sss a... Lava Beam? Oh thissss, thissss issss ssssomething I MUSSST sssstudy further. Anywayssss, here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you.\"": {
+      "deepl": "「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。これは一体何なんだ？どんな気違いが作ったんだ？これは...溶岩ビーム？ああ、これは......これは......もっと研究しなければならない。とにかく、これが君のコピーだ！君と仕事をするのは楽しいよ。\"",
+      "machine": "",
+      "done": false
+    },
+    "Location of 'The Craftsmen' bounty.": {
+      "deepl": "職人」の懸賞金の場所。",
+      "machine": "",
+      "done": false
+    },
+    "You attempt to eavesdrop on the nearby Rock ship, but are almost deafened by the thunderous clammering of hammers on steel. The ship's crew are busy at work, shuffling around the ship at a furious rate. Or well, as furious a rate as Rockmen can go.": {
+      "deepl": "あなたは近くのロック船の様子を伺おうとしたが、鉄を叩くハンマーのけたたましい音に耳を塞がれそうになった。船の乗組員たちは仕事に忙しく、猛烈な勢いで船内を走り回っている。いや、ロックマンの猛烈なスピードだ。",
+      "machine": "",
+      "done": false
+    },
+    "\"*CLANG* - *CLANG* - *CLANG* HALT! HALT YE' HAMMERS, MEN.\" A gruff looking Rockman appears on the screen. He wears a crimson blindfold, and has two mechanical arms and one artificial leg. \"Hmph. Ye' look like a heathen. You still hold all ye' limbs. It be me suspicion ye' ain't even the smithin' sort.\"": {
+      "deepl": "\"*カラン* - *カラン* - *カラン*停止！ハンマーを止めろ。不機嫌そうなロックマンがスクリーンに現れる。彼は真紅の目隠しをし、2本の機械仕掛けの腕と1本の義足を持っている。「フン。異教徒のようだな。まだ手足があるじゃないか。お前は鍛冶屋でもないようだな」。",
+      "machine": "",
+      "done": false
+    },
+    "I happen to like my limbs. What happened to yours?": {
+      "deepl": "私はたまたま自分の手足が好きだった。あなたのはどうしたの？",
+      "machine": "",
+      "done": false
+    },
+    "\"HAHAHAHAH! HAHAHAHAHAH!\" The Rockman bellows laughter, and his countless helpers join in. Suddenly, his face grows serious, and he jumps towards the screen. \"ME LIMBS? YE' WANT TO KNOW WHAT HAPPENED TO ME LIMBS? HAH! THEN I TELL YE', HEATHEN! For the great goddess Ag'thcaria, I carve out me eyes and forge them into the Divine Oculus! For the noble god Thavl Eos, I rip off me arm and with it I craft the Heavenly Scepter! And for the almighty lord Gajgri, I chop off me leg and with it I made the Battle McStick. Me finest creation. I tell ye', heathen. If ye' have any hope of a blessed life ye' must create. There's no place left in this forsaken land 'cept for the most divine of visionaries!\"": {
+      "deepl": "「HAHAHAHAH！ハハハハハ！\"ロックマンが笑い声を上げ、無数の助っ人たちもそれに加わる。突然、彼の顔が真剣になり、画面に向かってジャンプする。「俺の手足？俺の手足に何が起こったか知りたいか？ハハ！それなら教えてやろう！偉大なる女神Ag'thcariaのために、私は私の目を彫り出し、Divine Oculusに鍛造する！高貴なる神タヴル・エオスのために、私は腕をもぎ取り、それで天の杖を作る！そして全能の主ガジグリのために、私は足を切り落とし、それでバトル・マックスティックを作った。俺の最高の創造物だ。異教徒の諸君。祝福された人生を望むなら、創造するのだ。この見捨てられた土地には、最も神聖な先見の明を持つ者以外、居場所は残されていない！\"",
+      "machine": "",
+      "done": false
+    },
+    "Is that... normal? Chopping off your limbs, I mean?": {
+      "deepl": "それって...普通？手足を切り落とすのが？",
+      "machine": "",
+      "done": false
+    },
+    "\"NORMAL? What left is normal? It was a peaceful time before the Age of the New Gods. Simple, but peaceful times let me tell ya. Then one day a rift awakened, and behold then comes evil like ye' never seen. It was the gods who saved us, aye. Interlopers to fight the interlopers. Nay, they deprave us of our limbs, yes. Sacrifices must be made, 'suppose. But for me? It ain't about the pittance. I was a man of the craft before the coming of the age, and I'm a man of the craft now. It is my eternal quest to forge a weapon so mighty, so powerful, even the GODS shall tremble before it! And then I, I, LOWLY MORTAL ALOV, SHALL BECOME THE HIGHEST LORD! SACROSANCT CHAMPION OF MORTAL MEN! SLAYER OF THE DREADED... the dreaded...\"": {
+      "deepl": "「普通？何が普通なんだ？新しい神々の時代の前は平和な時代だった。シンプルで平和な時代だった。そしてある日、裂け目が目覚め、見よ、見たこともないような悪が現れた。我々を救ったのは神々だった。異端者と戦うための異端者だ彼らは私たちから手足を奪う。生贄は必要だだが私のために？はした金じゃない。この時代が来る前も、今も、私は職人だ。神々もその前に震え上がるような強力な武器を作ることが、私の永遠の探求だ！そして、私、私、低俗なモータル・アロヴは、最も高貴な主となるのだ！人間の神聖なる王者！恐るべき者の殺し屋...恐るべき者...\"",
+      "machine": "",
+      "done": false
+    },
+    "The dreaded who?": {
+      "deepl": "誰が？",
+      "machine": "",
+      "done": false
+    },
+    "The Rockman suddenly tunes his voice to a whisper. He skuttles closer to the mic, as close as possible, and whispers; \"Her.\" You raise an eyebrow but he won't elaborate. \"It has been a long time since the devil arrived. It is the word the heavens are guarded by a new master. A lowly form, nay a mortal like me, who banished the devil with his arrival. I scarcely believe it. But if it is true, then it is his throne I seek. AND IT WILL BE MINE! Now, enough with this pointless banter. Your pestilent questions corrupt my genius.\"": {
+      "deepl": "ロックマンは突然、声のトーンを小声に変えた。彼は小走りにマイクに近づき、できるだけ近くで、ささやくように言った。あなたは眉をひそめたが、彼は詳しく説明しようとしない。\"悪魔 \"がやってきてから、もうずいぶん経つ。天界は新しい主によって守られている。卑しい姿、いや私のような人間が悪魔を追放したのだ。信じられない話だ。だが、もしそれが真実なら、私が求めるのは彼の玉座だ。そしてそれは私のものだ！無意味なお喋りはそこまでだ。あなたの疫病神のような質問は、私の天才を堕落させる」。",
+      "machine": "",
+      "done": false
+    },
+    "\"AND SO YE' REJECT MY PROMISE OF THE EVERLASTING GREATNESS OF MY GENIUS ABOVE ALL ELSE? Ye' are scum lower the lowest pits of hell. BEGONE WITH YE', HEATHEN!\"": {
+      "deepl": "\"それで、汝ら \"は、何よりも私の天才の永遠の偉大さの約束を拒絶するのか？お前たちは地獄の底辺のクズだ。地獄に堕ちろ、異教徒め！」。",
+      "machine": "",
+      "done": false
+    },
+    "\"HEATHENS, STARBOARD! I will unleash my ULTIMATE FURY UPON YE', FREAK!\"": {
+      "deepl": "\"異教徒ども、右舷に！汝に究極の怒りを解き放つぞ、化け物め！\"",
+      "machine": "",
+      "done": false
+    },
+    "\"You think you've eliminated me for good? You think this is the end? You pitiful waste of life, you have no idea how little this changes anything. I am so infinitely wealthy that I cannot even truly die. My bank accounts are an anchor on my very soul. I cannot die. I am forever. When you are dead, buried and forgotten, I will continue to amass more money in a microsecond than your entire bloodline will ever amount to.\"": {
+      "deepl": "\"永久に私を排除したと思っているのか？これで終わりだと思うのか？哀れな人生の浪費者め、こんなことでは何も変わらないということがわからないのか。私は本当に死ぬこともできないほど無限に裕福だ。私の銀行口座は、私の魂そのものを支える錨なのだ。私は死ねない。私は永遠だ。あなたが死んで、埋葬され、忘れ去られたとしても、私はあなたの血統全体が決して手にすることのできないほどの大金を、ほんの一瞬のうちに蓄え続けるでしょう」。",
+      "machine": "",
+      "done": false
+    },
+    "\"Sssstranger, sssstranger! You've done mosssst excellent work... if only I'd been there to ssssee it! Now, the weapon. Sssseemssss it had a sssort of... scrap transformer? You feed it ssscrap, and it rearrangesss the matter to create ammunition! How incredible! Here'ssss your copy, sssstranger! Pleasssure doing busssinesss with you.\"": {
+      "deepl": "「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。スクラップ変圧器？スクラップを食べさせると 弾薬を作るんだ信じられんこれがお前のコピーだ！\"喜んでお取引を\"",
+      "machine": "",
+      "done": false
+    },
+    "Location of 'The Affluent' bounty.": {
+      "deepl": "富裕層」の懸賞金の場所。",
+      "machine": "",
+      "done": false
+    },
+    "Your eyes are drawn almost immediately to a golden Lanius vessel. You assume at first the gold is just paint - but scans suggest the ship is made, literally, out of pure gold and reinforced by some sort of unidentified alloy.": {
+      "deepl": "あなたはすぐに、金色に輝くラニウスの船に目を奪われた。しかしスキャンによると、この船は文字通り純金でできており、正体不明の合金で補強されているようだ。",
+      "machine": "",
+      "done": false
+    },
+    "The Lanius crew stand almost perfectly still, staring at the camera. You feel violated by the way they look at you and almost hang up before one steps forward and speaks. \"You are revolting.\"": {
+      "deepl": "ラニウスのクルーはほぼ完全に静止し、カメラを見つめている。あなたは彼らの視線に暴力的なものを感じ、電話を切ろうとした。\"あなたは反乱を起こしている\"",
+      "machine": "",
+      "done": false
+    },
+    "Excuse me?": {
+      "deepl": "なんですって？",
+      "machine": "",
+      "done": false
+    },
+    "\"You speak to me? Worm? Do you not understand my ascension? I am wealth incarnate. I am the glowing veins of the libertarian bliss. I am capitalism. My bank accounts grow so large they invented a new number just to describe my magnificent wealth. I own entire realities. I own life itself. I haven't just won the game of life. I am the game of life. You are worthless next to me. The value of your life is so repugnant, so pitifully low that I could simply drown you in my pocket change. I could smother you to death with the pure volume of my incomprehensibly large fortune. You are NOTHING. You are a shitstain that I pay someone to pay someone to pay someone to pay someone to pay someone to pay someone to clean up. Do you understand that? There isn't even 6 degrees of connection between us. I am on another plane of existence from you. I AM another plane of existence. I am so unimaginably superior to you that when you speak I can't even hear you. All I hear is the dull moan of the trillions of worthless roaches like you I step on every day on my way to make another quintillion dollars by simply existing. I HATE YOU. I LOATH YOU. I wish the worst possible fate upon you, you loathsome, pitiful disgrace. There isn't even a word in the dictionary to describe just how lowly I see you. To contain the pure vitriol I feel about your loathsome existence, and how much you insult me by even existing. So I'll make one up. Thatchfizgler.\"": {
+      "deepl": "「私に話しかける？ワーム？私の出世がわからないのか？私は富の化身だ。私はリバタリアンの至福の光り輝く血管だ。私は資本主義だ。私の銀行口座は非常に大きくなり、彼らは私の壮大な富を表現するためだけに新しい数字を発明した。私は現実全体を所有している。私は人生そのものを所有している。私は人生のゲームに勝っただけではない。私が人生のゲームなのだ。あなたは私の前では無価値だ。あなたの人生の価値は、私のポケットの小銭であなたを溺れさせることができるほど、とても忌まわしく、とても哀れなほど低い。私の理解しがたいほど大きな財産の純粋な量で、あなたを窒息死させることもできる。お前は何者でもない。お前は、私が誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに掃除をさせるクソ汚物なのだ。それがわかるか？私たちの間には6度のつながりさえない。私はあなたとは別の存在次元にいる。私は別の存在次元にいる。私はあなたより想像を絶するほど優れているから、あなたが話しても私には聞こえない。聞こえてくるのは、ただ存在することでまた5千億ドルを稼ごうとするために、私が毎日踏みしめている何兆匹ものあなたのような無価値なゴキブリの鈍いうめき声だけだ。おまえが嫌いだ。大嫌いだ。最悪の運命を望むよ、憎たらしい、哀れな恥さらしめ。辞書には、お前をどれほど卑しい存在として見ているかを表す言葉すらない。私がおまえの忌まわしい存在に感じている純粋な激情を封じ込めるには、そしておまえが存在することで、どれだけ私を侮辱しているかを封じ込めるには。だから、私が作る。\"サッチフィズラー\"",
+      "machine": "",
+      "done": false
+    },
+    "I... uhm... what?": {
+      "deepl": "私は...ええと...何？",
+      "machine": "",
+      "done": false
+    },
+    "\"You aren't even worth the weight of my excrement, you vile pus bulb. When you're dead I will buy this entire reality and use the meat harvested from its every living inhabitant to create a living torture chamber where I run endless simulations of your worthless conscience living out the most painful-\" You mute the comms and power on your weapons.": {
+      "deepl": "\"お前は私の排泄物の重さにすら値しない、下劣な膿の塊だ。お前が死んだら、俺はこの現実を丸ごと買い取り、そこに住むすべての人間から搾取した肉を使って、生きた拷問部屋を作る。あなたは通信をミュートし、武器の電源を入れる。",
+      "machine": "",
+      "done": false
+    },
+    "\"The worthless stain seeks to challenge the mighty god of the everlasting free market? I will grind you into paste, you worthless assemblage of barely-sentient molecules.\"": {
+      "deepl": "「無価値な汚点が、永遠の自由市場という強大な神に挑戦しようというのか？かろうじて分別のある分子の集合体であるこの無価値な穢れよ。",
+      "machine": "",
+      "done": false
+    },
+    "Somehow, you've managed to clear out the vessel. You set to scrapping the ship.": {
+      "deepl": "どうにか船は片付いた。あなたは船のスクラップに取り掛かった。",
+      "machine": "",
+      "done": false
+    },
+    "Contact the Collector again.": {
+      "deepl": "コレクターに再度連絡する。",
+      "machine": "",
+      "done": false
+    },
+    "\"Truly miraculoussss! I'm ssssurprisssed you made it out alive there sssstranger! You're jussst lucky that one wassss underarmed. You've done good work though, sssstranger.\"\n\t\t\t\n\t\t\t\"Thissss... probe. It'sss a curiossssity for certain. It would be a sssshame to dessstroy it now. I will conduct further ssstudiesss on it in my free time. But in an effort to make your time worthwhile, a ssspecial gift isss in order. Thisss isss a replica of the weapon I... metaphorically ssssold my sssoul for. What got ussss into thisss messs. Ussse it well, sssstranger. One can only hope it hassss no adverssse sssside effectssss.\"": {
+      "deepl": "「本当に奇跡的だ！生きて帰れたのは驚きだ！丸腰でよかったな。でもよくやったよ、ストレンジャー\"\n\t\t\t\n\t\t\t\"この...探査機確かに珍品だ破壊するのは恥だ暇があればさらに研究を進めるつもりだ。だが、君の時間を有意義なものにするために、特別なプレゼントを用意した。これは私が...比喩的に魂を売った武器のレプリカだ。このような事態を招いたものだ。よく使うんだ よそ者め副作用がないことを祈るのみだ\"",
+      "machine": "",
+      "done": false
+    },
+    "Location of 'The Probe' bounty.": {
+      "deepl": "ザ・プローブ」の懸賞金の場所。",
+      "machine": "",
+      "done": false
+    },
+    "You've arrived at the location. A small green Auto-ship can be seen in the distance - an unusually shaped hacking pod is attached to the exterior. The drone appears unarmed and is relatively small - meaning it likely poses no real threat.": {
+      "deepl": "あなたはその場所に到着した。遠くに小さな緑色のオートシップが見える。外装には変わった形のハッキングポッドが取り付けられている。ドローンは非武装のようで、比較的小型だ。",
+      "machine": "",
+      "done": false
+    },
+    "Approach the probe.": {
+      "deepl": "プローブに近づく。",
+      "machine": "",
+      "done": false
+    },
+    "As soon as you approach, the probe locks onto your hull and begins to orbit in circles around you. \"H***-HE***- Can anyone **** me? Please res****. Th** is an urg*** mes**ge!\" It's hard to understand what's being said - besides all the static, the message is garbled and fluctuating in volume.": {
+      "deepl": "あなたが近づくと同時に、探査機はあなたの船体をロックし、あなたの周囲を旋回し始める。\"H***-HE***-誰か私に****してくれませんか？お願いです。緊急事態です！\"何を言っているのか理解するのは難しい。雑音が多いうえに、メッセージは文字化けし、音量も変動している。",
+      "machine": "",
+      "done": false
+    },
+    "We can hear you. Sort of.": {
+      "deepl": "私たちはあなたの声を聞くことができる。まあね。",
+      "machine": "",
+      "done": false
+    },
+    "\"Did I - OH M* ***! IT ***KED! Ple**e, wh***er you ***, you m*** ****en to me. The** is ***tle ti**. I do not **** *ow much y** kn**, but ***re is a t**o. An En**, a Z*****, and a **ck. **ease, te** th*m that **ings ***ht look bad *** th***'s st*** hope. **** **sn't w*n - not **t. The ****antin* *AN be br***hed. I'm wor**** on **met***g. A way to **t the me***ge out. *t'll ** **dden - a *** to **eak it past **e s*outs. A ga** - a *ame mayb*. To let ***one who wi** **sten k*** wh**'s happ***ng in **re. Wh** that **ing has **** to ** - an* *hat **ime contin*** to *** hap**n. I don't kn** **** it'll be rea**, ** who it'll re*** - **t surely ** we spr*** it ** as ma** **ople as poss****, some*** - someone **** know w*** to ** wi** the ***wledge. And - and ple***, who***r you *** on the ot*** e*d. Make **re this ***sage ***ches them. Th**t - h** name is **e**. I **g of you, no***ng is **re ***ortant than ****. **************************\"\n\t\t\t\t\t\n\t\t\t\t\tThe message ends abruptly in static. You fiddle with your comms, hoping you might be able to reestablish the connection. Unfortunately, nothing seems to fix the issue. You jot down what little you can make out but have no idea what any of the message means.": {
+      "deepl": "\"私は - OH M* ***！それは***KED！プリーズ、ホ***er、あなた***、あなたは私にm*** ****を****ました。その***は***ttle ti***です。私はあなたが***どのくらい***知っている***はありませんが、***は***oです。エン***、ザ****、そして****ック。**やさしくしてやってください。**** を...........................しない。その ****antin* **** は **** される。私は****met***gに取り組んでいます。me***ge を**tする方法。*t'll ** **dden - a ** to **eak it past **e s*outs.a ga** - a *ame mayb*.を***する人に***で***起こっていることを***知らせること。その***が***に***していること - その***時が***続いていること。その***が***になるのか、***が誰を***にするのか、私は知りません - ***t surely *** it spr*** as ma*** *** people as poss***, some*** - someone **** know w*** to **** the ***wledge.そして、そして、お願いします。この***賢者が彼らを***するようにしてください。その***名は***e***だ。私はあなた方の***g、****より****大切なものはありません。**************************\"\n\t\t\t\t\t\n\t\t\t\t\tメッセージは突然、静止して終わった。あなたは通信をいじくりまわして、再接続できるかもしれないと期待した。残念ながら、問題は解決しないようだ。あなたは、聞き取れる限りのことを書き留めたが、そのメッセージが何を意味しているのかまったくわからなかった。",
+      "machine": "",
+      "done": false
+    },
+    "Give up and cut comms.": {
+      "deepl": "諦めて通信を切る。",
+      "machine": "",
+      "done": false
+    },
+    "Just as you're about to cut comms, a rift opens nearby. A large Auto-ship arrives, colored unlike anything you've ever seen. The symbols on its hull resemble those on the Collector, although you still have no idea what they mean. The Auto-ship ignores you, scanning the probe.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tMeanwhile, you receive another long-distance hail from the Collector. \"Ssstranger, thisss issss... no good. It ssseemssss my employerssss have found ussss! Or, well, they haven't found me. Phew! Not yet, at leasssst. But you musssst ssstop thissss ssship before it can report back to my employerssss, or elsssse everything issss at risssk!\"": {
+      "deepl": "通信を切ろうとした瞬間、近くで裂け目が開いた。見たこともないような色の大きなオートシップが到着した。船体に描かれたシンボルはコレクターに描かれたものと似ているが、その意味はまだわからない。オートシップはあなたを無視し、探査機をスキャンしている。\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t一方、あなたはコレクターから別の長距離通信を受信する。\"よそ者よ、これは...ダメだ。雇い主が我々を見つけたようだ！いや、見つかってはいないか。ふぅ！だが、この船が雇い主に報告する前に、この船を止めてくれ。",
+      "machine": "",
+      "done": false
+    },
+    "Defend the probe and attack the ship.": {
+      "deepl": "探査機を守り、船を攻撃する。",
+      "machine": "",
+      "done": false
+    },
+    "\"DETECTING MULTIPLE ANOMALIES AND HOSTILE VESSEL INBOUND. DEPLOYING QUARANTINE MEASURES.\"": {
+      "deepl": "\"複数の異常と敵艦を検知\"隔離措置を展開中\"",
+      "machine": "",
+      "done": false
+    },
+    "Leave - something isn't right.": {
+      "deepl": "去る - 何かがおかしい。",
+      "machine": "",
+      "done": false
+    },
+    "You aren't sure what it is, but something feels... off about this probe. You distance yourself and prepare to leave. The Collector will need to find someone else to handle this.": {
+      "deepl": "何かはわからないが、このプローブには何か...違和感がある。距離を置き、去る準備をする。コレクターは他の者を探す必要がある。",
+      "machine": "",
+      "done": false
+    },
+    "THE RENEGADE COLLECTION \n\tDeveloped by: Kix\n\tCurrently Enabled.\n\t\n\tAn equipment expansion pack meant to be used alongside Multiverse. Includes many various weapon and drone concepts considered, for one reason or another, unfitting for the base mod. While attempting to be balanced, due to the nature of the equipment in this pack as well as the fact it is not part of base Multiverse means there may be a higher variation of balance than usual. The new weapons include those that are niche, too conceptually similar to existing weapons, involve \"hard-to-balance\" gimmicks, or are just conceptually bizarre.": {
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Faucon Rad-Beam II.": {
+      "deepl": "Faucon Rad-BeamⅡをアップグレード。",
+      "machine": "",
+      "done": false
+    },
+    "You give the weapon to the engineer, allowing him to work on it.": {
+      "deepl": "あなたはその武器をエンジニアに渡し、作業をさせる。",
+      "machine": "",
+      "done": false
+    },
+    "After a short time, your weapon is returned to you, clad with an optimization.": {
+      "deepl": "しばらくすると、最適化を施された武器が戻ってくる。",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Asphyxiator Ion.": {
+      "deepl": "Asphyxiator Ionをアップグレードする。",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Energy Phaser.": {
+      "deepl": "エネルギー・フェイザーをアップグレードする。",
+      "machine": "",
+      "done": false
+    },
+    "Upgrade your Particle Bomb.": {
+      "deepl": "粒子爆弾をアップグレードする。",
+      "machine": "",
+      "done": false
+    },
+    "Use your Ion Mine Launcher. [-15}, gives 2 delay, does not impact notoriety]": {
+      "deepl": "イオン地雷ランチャーを使用する。[15}，遅延を2与える，悪評には影響しない]。",
+      "machine": "",
+      "done": false
+    },
+    "You rig the ammunition and set a trap for the Rebels. Fortunately, due to obscure legal loopholes, the use of this weapon isn't illegal, though it is very morally dubious.": {
+      "deepl": "あなたは弾薬を装備し、反乱軍に罠を仕掛ける。幸いなことに、不明瞭な法の抜け穴があるため、この武器の使用は違法ではないが、道徳的には非常に疑わしい。",
+      "machine": "",
+      "done": false
+    },
+    "(Thundershock Drone) Set the state of the drone. [Current mode: Breach]": {
+      "deepl": "(サンダーショック・ドローン) ドローンの状態を設定する。[現在のモード：ブリーチ］",
+      "machine": "",
+      "done": false
+    },
+    "(Thundershock Drone) Set the state of the drone. [Current mode: Ion]": {
+      "deepl": "(サンダーショック・ドローン) ドローンの状態を設定する。[現在のモード：イオン］",
+      "machine": "",
+      "done": false
+    },
+    "(Amp Laser) Set the state of the weapon. [Current power: 2]": {
+      "deepl": "(アンプレーザー）武器の状態を設定する。[現在のパワー：2］",
+      "machine": "",
+      "done": false
+    },
+    "(Amp Laser) Set the state of the weapon. [Current power: 3]": {
+      "deepl": "(アンプレーザー）武器の状態を設定する。[現在のパワー：3］",
+      "machine": "",
+      "done": false
+    },
+    "(Amp Laser) Set the state of the weapon. [Current power: 4]": {
+      "deepl": "(アンプレーザー) 武器の状態を設定する。[現在のパワー：4］",
+      "machine": "",
+      "done": false
+    },
+    "Are you sure you want to change the drone's settings?": {
+      "deepl": "本当にドローンの設定を変更したいのですか？",
+      "machine": "",
+      "done": false
+    },
+    "Set the drone to Ion Bomb Mode.": {
+      "deepl": "ドローンをイオンボムモードに設定する。",
+      "machine": "",
+      "done": false
+    },
+    "You start calibrating the drone...": {
+      "deepl": "ドローンのキャリブレーションを開始...",
+      "machine": "",
+      "done": false
+    },
+    "You finish calibrating the drone successfully.": {
+      "deepl": "ドローンのキャリブレーションが完了しました。",
+      "machine": "",
+      "done": false
+    },
+    "Set the drone to Breach Bomb Mode.": {
+      "deepl": "ドローンをブリーチボムモードに設定する。",
+      "machine": "",
+      "done": false
+    },
+    "What power do you want to set the weapon to?\n\tCurrent stats; [damage: 2, cooldown: 6]": {
+      "deepl": "武器のパワーを何に設定しますか？\n\t現在のステータス；【ダメージ：2、クールダウン：6",
+      "machine": "",
+      "done": false
+    },
+    "Set the weapon to 3 power. [damage: 4, cooldown: 9]": {
+      "deepl": "武器のパワーを3にする。[ダメージ: 4, クールダウン: 9].",
+      "machine": "",
+      "done": false
+    },
+    "You start calibrating the weapon...": {
+      "deepl": "武器の調整を始める...",
+      "machine": "",
+      "done": false
+    },
+    "You finish calibrating the weapon successfully.": {
+      "deepl": "武器のキャリブレーションは成功裏に終了した。",
+      "machine": "",
+      "done": false
+    },
+    "Set the weapon to 4 power. [damage: 6, cooldown: 12]": {
+      "deepl": "武器のパワーを4にする。[ダメージ: 6, クールダウン: 12].",
+      "machine": "",
+      "done": false
+    },
+    "Return to the toggle menu.": {
+      "deepl": "トグル・メニューに戻る。",
+      "machine": "",
+      "done": false
+    },
+    "What power do you want to set the weapon to?\n\tCurrent stats; [damage: 4, cooldown: 9]": {
+      "deepl": "武器のパワーを何に設定しますか？\n\t現在のステータス；【ダメージ：4、クールダウン：9",
+      "machine": "",
+      "done": false
+    },
+    "Set the weapon to 2 power. [damage: 2, cooldown: 6]": {
+      "deepl": "武器のパワーを2にする。[ダメージ: 2, クールダウン: 6].",
+      "machine": "",
+      "done": false
+    },
+    "What power do you want to set the weapon to?\n\tCurrent stats; [damage: 6, cooldown: 12]": {
+      "deepl": "武器のパワーを何に設定しますか？\n\t現在のステータス；【ダメージ：6、クールダウン：12",
+      "machine": "",
+      "done": false
+    },
+    "Collector": {
+      "deepl": "コレクター",
+      "machine": "",
+      "done": false
+    },
+    "Sylvan": {
+      "deepl": "シルヴァン",
+      "machine": "",
+      "done": false
+    },
+    "CONTROL": {
+      "deepl": "コントロール",
+      "machine": "",
+      "done": false
+    },
+    "[COOLDOWN:10s  DURATION:6s]\n\t\t\t\tAssume control of the spider.": {
+      "deepl": "[クールダウン:10秒 デュレーション:6秒］\n\t\t\t\tクモをコントロールする。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Kestrel Cruiser.": {
+      "deepl": "どのバージョンのケストレル巡洋艦でもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Engineer Cruiser.": {
+      "deepl": "エンジニア巡洋艦のどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Angelic Deathbringer.": {
+      "deepl": "どのバージョンのエンジェリック・デスブリンガーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Engi Cruiser.": {
+      "deepl": "エンジ・クルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Outcast Cruiser.": {
+      "deepl": "アウトキャスト巡洋艦のどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Gathering Cruiser.": {
+      "deepl": "どのバージョンのギャザリング・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Stealth Cruiser.": {
+      "deepl": "ステルス巡洋艦のどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Federation Cruiser.": {
+      "deepl": "連邦巡洋艦のどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Hive Cruiser.": {
+      "deepl": "どのバージョンのハイヴ・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Monk Cruiser.": {
+      "deepl": "モンク・クルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Peacekeeping Cruiser.": {
+      "deepl": "どのバージョンの平和維持巡洋艦でもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Kleptocracy Cruiser.": {
+      "deepl": "どのバージョンのクラプトクラシー・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Lost Sun Cruiser.": {
+      "deepl": "ロスト・サン・クルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Theocracy Cruiser.": {
+      "deepl": "神政巡洋艦のどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Eargen Cruiser.": {
+      "deepl": "どのバージョンのアージェン・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Scientist Cruiser.": {
+      "deepl": "どのバージョンの科学者クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Auto-Cruiser.": {
+      "deepl": "どのバージョンのオートクルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Dynasty Cruiser.": {
+      "deepl": "どのバージョンのダイナスティ・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Brood Cruiser.": {
+      "deepl": "ブルード・クルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Separatist Cruiser.": {
+      "deepl": "分離主義クルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of Tuco's Cruiser.": {
+      "deepl": "トゥコのクルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Lanius Cruiser.": {
+      "deepl": "ラニウス巡洋艦のどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the MV Rebel Cruiser.": {
+      "deepl": "MV Rebel Cruiserのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Suzerain Cruiser.": {
+      "deepl": "どのバージョンのスゼレイン・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Pleasure Barge.": {
+      "deepl": "どのバージョンのプレジャーバージでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Augmented Cruiser.": {
+      "deepl": "どのバージョンのオーグメント・クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Hacker Cruiser.": {
+      "deepl": "ハッカー・クルーザーのどのバージョンでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Win the game with any version of the Rebel Cruiser.": {
+      "deepl": "どのバージョンの反乱軍クルーザーでもゲームに勝つ。",
+      "machine": "",
+      "done": false
+    },
+    "Complete all of the Collector's Bounties to unlock this vessel.": {
+      "deepl": "Collector's Bountiesをすべてクリアして、この船をアンロックする。",
+      "machine": "",
+      "done": false
+    },
+    "Achieve any victory with all other Collector ships.": {
+      "deepl": "他のすべてのコレクター船で勝利を達成する。",
+      "machine": "",
+      "done": false
+    },
+    "\"Exccccellent, exccccellent! Guesss that tip wasss good after all. Knew it was worth cassshing in that favor... Alright, ssstranger. I'll send you'sss the coordinatesss. I'm keepin' them trapped in a kind of wibbly wobbly ssspace magic ssssphere, so you gotta be quick. Bessst a' luck to ya, sssstranger! And 'caussse you're ssssuch a good sssport, maybe I can sssell you ssssomethin' to make the job easssier?\"": {
+      "deepl": "「素晴らしい、素晴らしい！あのチップはやっぱりよかった。その好意を現金化する価値があると思った...よし、よそ者よ。座標を送るよ。俺はその座標を空間魔法の球体に閉じ込めてるんだ、だから急いでくれ。幸運を祈るよ、よそ者！君は優秀なスポーツマンだから、もっと簡単に仕事ができるようなことを教えてあげようか？\"",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Spawned crew do not count towards your crew cap, but only last temporarily. They cannot be cloned either.": {
+      "deepl": "ヒント：スポーンしたクルーはクルーキャップにカウントされないが、一時的にしか使えない。また、クローンを作成することもできない。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Fabricated drones will temporarily provide benefits before expiring.": {
+      "deepl": "ヒント捏造されたドローンは、期限切れになる前に一時的に特典を提供する。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Enemies struck by this weapon will fall under the effects of mind control if applicable. The effect will not inherit the bonuses from any upgraded Mind Control system you may own.": {
+      "deepl": "補足：この武器で殴られた敵は、該当する場合マインド・コントロールの効果を受ける。この効果は、君が所有しているアップグレードされたマインド・コントロール・システムのボーナスを引き継がない。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Decoys will do no physical damage to the enemy ship but will distract Defense drones and blind enemy crew.": {
+      "deepl": "ヒントデコイは敵艦に物理的なダメージを与えないが、防衛ドローンの注意をそらし、敵クルーの目をくらませることができる。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Magnifiers gain increased bonuses to their stats for each additional charge instead of more projectiles.": {
+      "deepl": "補足：拡大鏡は射程が増える代わりに、チャージが増えるごとにステータスのボーナスが増える。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Cascading weapons will deal certain kinds of damage to all adjacent rooms. They do not affect diagonally connected rooms.": {
+      "deepl": "ヒントカスケードウェポンは隣接するすべての部屋に特定のダメージを与える。斜めにつながった部屋には影響しない。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Fissure Beams deal system damage by tile rather than by room. This means larger rooms are more vulnerable to their effects!": {
+      "deepl": "ヒント亀裂ビームは部屋単位ではなくタイル単位でシステムダメージを与える。つまり、広い部屋ほどその影響を受けやすい！",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Suppressors do no physical damage but are excellent at taking down shields. They can also damage Energy Shields.": {
+      "deepl": "ヒント：サプレッサーは物理的なダメージは与えないが、シールドをダウンさせるのに優れている。エネルギーシールドにもダメージを与えることができる。",
+      "machine": "",
+      "done": false
+    },
+    "Tip: Missile drones require a heavy sum of missiles to deploy, but do not consume missiles when they fire.\n\nTip: Combat Drones require 1 drone part to deploy for each new enemy. They will attack the enemy as long as they are powered.": {
+      "deepl": "ヒント：ミサイル・ドローンは展開に大量のミサイルを必要とするが、発射時にミサイルを消費することはない。\n\nヒントコンバットドローンは、新しい敵が出現するごとにドローンパーツを1つ必要とする。ドローンはパワーがある限り敵を攻撃する。",
+      "machine": "",
+      "done": false
+    },
+    "THE RENEGADE COLLECTION\nCurrently Enabled.\nClick to see more info.": {
+      "deepl": "レネゲード・コレクション\n現在有効です。\nクリックして詳細を見る",
+      "machine": "",
+      "done": false
+    },
+    "???": {
+      "deepl": "???",
+      "machine": "",
+      "done": false
+    },
+    "BOUNTY [!]": {
+      "deepl": "BOUNTY [!］",
+      "machine": "",
+      "done": false
+    },
+    "FTL: MULTIVERSE - THE RENEGADE COLLECTION": {
+      "deepl": "FTL: マルチバース - レネゲイド・コレクション",
+      "machine": "",
+      "done": false
+    },
+    "PATCH AFTER MULTIVERSE\n\nAn equipment expansion pack meant to be used alongside Multiverse. Includes many various weapon and drone concepts considered, for one reason or another, unfitting for the base mod.\nWhile attempting to be balanced, due to the nature of the equipment in this pack as well as the fact it is not part of base Multiverse means there may be a higher variation of balance than usual. The new weapons include those that are niche, too conceptually similar to existing weapons, involve \"hard-to-balance\" gimmicks, or are just conceptually bizare.\nEnemies can also spawn with some of these weapons, blue options are updated to include relevant equipment, and stores + Sylvan will sometimes sell them. Some items also have differing rarities in specific sectors.\n\nLua Code from Chrono Vortex\nProofreading and refining from Jersee\nSpecial Boss sprite from Laythe\nInfo icon assistance from LocalResources\nCrew drones and Mutant sprite by MoreOrLesser\nFederation encounter text from R4V3-0N\n\n//////////////////New Weapons//////////////////\n---Heavy Chargegun---\nA 3-shot charge weapon that fires 2-damage heavy lasers\n---Amp Laser---\nA Laser weapon that can be toggled to different power modes to increase its damage, power consumption and cooldown\n---Compact Laser---\nA fast firing but inaccurate Laser that requires no power to use\n---Light Burst Laser---\nThough slower charging than the usual Light Laser, this weapon fires its 3 projectiles in rapid succession\n---Particle Collider---\nA modified Particle Accelerator that trades its fire chance for hefty crew damage\n---Magnifier Laser/ion---\nA Charge weapon that accumulates damage and status effect chances instead of projectiles\n---'Fangtian' Fissure Beam---\nA Beam that deals system damage on each tile instead of each room\n---'Faucon' Mk 2---\nAn upgraded RAD beam that can kill crew even more efficiently\n---'Bardiche' Beam---\nA special Chain Beam that also inherits the properties of an anti-hull Beam\n---'Kagiyari' Beam---\nA special conservative yari Beam that charges slower but requires no power to run alongside the rest of your build\n---Apshyxiator Ion---\nA partially piercing ion that creates a guaranteed breach, perfect for accelerating asphyxiation kills\n---'Infinity' Ion---\nA special adaptive ion that can chain a potentially infinite number of times\n---Energy Phaser---\nA single shot Energy weapon that pierces shields similar to a Phase Ion\n---Energy Flamer---\nAn Energy weapon with guaranteed fire chances\n---'Scorch' Pinpoint---\nA fast charging Pinpoint with partial shield piercing that does no damage but starts fires\n---'Poniard' Pinpoint---\nA decent damage but slow charging conservative Pinpoint\n---Shrapnel Bomb---\nA special Bomb that spreads system damage to adjacent rooms\n---Particle Bomb---\nA high system damage bomb with a large fire chance\n---Gasoline Bomb---\nA bomb that significantly increases fire damage taken on crew hit by it\n---Deployment Bomb---\nA support Bomb that deploys a temporary repair drone at the cost of a dronepart rather than missile\n---Arachno Bomb---\nA bizare utility bomb that spawns 2 temporary hatchling allies but does no direct physical damage\n--Mutagen Bomb--\nA strange bomb that causes crew to mutate, changing them into terrifying mutants\n---'Apollo' Missiles---\nA missile that does no crew damage but heals allied crew in the room it hits\n---'Boreas' Missiles---\nA modified Frost missile that trades hullbusting for locking down rooms\n---Shrapnel Missiles---\nA missile that spreads system damamge to adjacent rooms\n---'Epimetheus' Missiles---\nA high damage Pre-Emptive missile\n---Hazard Sentry---\nA new deployment cannon that weakens enemy crew, making them take significantly more damage from hazards\n---Virulent Dish---\nAn anti-bio weapon that affects adjacent rooms as well\n---'Baal' Mine Launcher---\nA special Mine Launcher which deals phasing ion damage rather than hull damage nad has a unique delay option\n---Trifecta---\nA unique yet bizare weapon that fires both flak and a heavy laser at once\n---Frost Flak---\nSimilarly to the Frost Lasers, the Frost Flak does both physical damage and locks down rooms\n---Assembly Cannon---\nA special weapon that produces temporary Combat drones in exchange for a dronepart\n---'Ultraburn'---\nA short but extremely hot fire Beam, which damages the hull and makes crew take more damage from fires. It even removes fire resistance from crew like Rockmen!\n---'Systemshock'---\nA peculiar ion weapon that on direct hits spreads ion damage to adjacent rooms\n---Flare Launcher---\nA quick charging, conservative, and cheap utility weapon that blinds enemy crew and distracts Defense Drones\n\nAnd more secret weapons to discover...\n\n///////////////////New Drones///////////////////\n---Supressor Combat Drone---\nA swift Drone that evades anti-drone measures and supress shield layers without damage capabilities\n---Thundershock Combat Drone---\nA bomb-equipped Toggle Drone that can switch between breach bombs and ion bombs\n---'Theseus' Combat Drone---\nA Missile drone that requires 3 missiles to deploy\n---Scattershot Defense Drone---\nA flak based Defense Drone with a quick cooldown but slow projectiles which can target anything\n---Extinguisher Crew Drone---\nA utility repair drone that extinguishes fires very fast and drains oxygen but is far less efficient at regular repairs\n---Voltage Crew Drone---\nA utility drone that provides a hefty power boost but decays due to instability\n---Overshield Crew Drone---\nA shipboard drone that drains power from systems to power shields that it provides to allied crew": {
+      "deepl": "マルチバース後のパッチ\n\nMultiverseと一緒に使うための装備拡張パック。様々な武器やドローンのコンセプトが含まれているが、何らかの理由でベースMODにはそぐわないとされている。\nバランスを取ろうとしていますが、このパックに含まれる装備の性質上、またベースとなるMultiverseの一部ではないという事実上、通常よりもバランスにばらつきがあるかもしれません。新しい武器には、ニッチなもの、既存の武器とコンセプトが似すぎているもの、「バランスが取りにくい」ギミックを含むもの、コンセプト的に奇抜なものなどが含まれる。\n敵はこれらの武器の一部を持ってスポーンすることもでき、ブルーのオプションは関連する装備を含むように更新され、店＋シルヴァンで販売されることもある。また、特定のセクターでレアリティが異なるアイテムもある。\n\nLuaコードはChrono Vortexから。\nJerseeから校正とリファイン。\n特別なボスのスプライト\n情報アイコンはLocalResourcesから。\nMoreOrLesserによるクルー・ドローンとミュータントのスプライト\nR4V3-0Nによる連邦の遭遇テキスト\n\n//////////////////新しい武器\n---ヘビーチャージガン\n2ダメージのヘビーレーザーを発射する3発チャージ武器\n---アンプレーザー\n異なるパワーモードに切り替えることで、ダメージ、消費電力、クールダウンを増加させることができるレーザー武器。\n---コンパクト・レーザー\n発射速度は速いが精度の低いレーザー。\n---ライト・バースト・レーザー\n通常のライト・レーザーよりチャージが遅いが、3つの弾丸を連続して発射する。\n---パーティクルコライダー\n粒子加速器を改良したもので、発射チャンスを乗組員へのダメージに変える。\n---マグニファイアー・レーザー/イオン\n弾丸の代わりにダメージとステータス効果のチャンスを蓄積するチャージ兵器。\n---Fangtian' Fissure Beam---「方天裂ビーム」。\n各部屋の代わりに各タイルにシステムダメージを与えるビーム。\n---フォーコン」Mk2---。\nRADビームをアップグレードしたビーム。\n---バルディッシュ・ビーム\nアンチハルビームの特性を受け継いだ特殊なチェーンビーム。\n---カギヤリ・ビーム\nチャージ速度は遅いがパワーは不要で、他のビルドと並行して運用できる特別なコンサバティブヤリ・ビーム。\n---Apshyxiator Ion--- 部分的に貫通するイオン。\n部分的に貫通するイオンで、確実に裂け目を作る。\n---'Infinity' イオン\n無限に連鎖する特殊な適応型イオン。\n---エナジー・フェイザー\nフェイズ・イオンと同様にシールドを貫通する単発のエネルギー兵器。\n---エナジー・フレイマー\n発射チャンスが保証されたエネルギー兵器。\n---'Scorch' Pinpoint--- スコーチ・ピンポイント。\n部分的にシールドを貫通し、ダメージは与えないが発火はする。\n---Poniard'ピンポイント\nダメージはそこそこだがチャージが遅い保守的なピンポイント。\n---シュラプネル・ボム\n隣接する部屋にシステムダメージを拡散させる特殊なボム。\n---パーティクルボム\n大きな火災確率を持つ、高いシステムダメージを与えるボム。\n---ガソリンボム\n被弾したクルーが受ける火災ダメージを大幅に増加させるボム。\n---展開ボム\nミサイルではなくドローンパーツを犠牲にして一時的な修理ドローンを展開する支援ボム。\n---アラクノボム\n一時的に孵化した味方を2体生み出すが、直接的な物理ダメージは与えない。\n--ミューターゲン爆弾\n乗員を変異させ、恐ろしいミュータントへと変化させる奇妙な爆弾。\n---アポロミサイル\n乗組員にダメージを与えないが、命中した部屋の味方の乗組員を回復させるミサイル。\n---ボレアス」ミサイル\nフロストミサイルを改良したもので、船体破壊と引き換えに部屋を封鎖する。\n---シュラプネル・ミサイル\n隣接する部屋にシステムダメージを与えるミサイル。\n---エピメテウス・ミサイル\n高ダメージのプリ・エンプティブ・ミサイル。\n---ハザード・セントリー\n敵クルーを弱体化させ、ハザードから受けるダメージを大幅に増加させる新配備キャノン。\n---Virulent Dish---\n隣接する部屋にも影響を与える対バイオ兵器。\n---'Baal' Mine Launcher ---マインランチャー。\n船体ダメージではなくフェイジングイオンダメージを与え、ユニークなディレイオプションを持つ特別なマインランチャー。\n---トライフェクタ\n対空砲火とヘビーレーザーを同時に発射する、ユニークだが奇妙な武器。\n---フロスト・フラック\nフロストレーザーと同様に、フロストフラックは物理的なダメージを与え、部屋をロックダウンさせる。\n---アセンブリーキャノン\nドローンパーツと引き換えに一時的にコンバット・ドローンを生成する特殊な武器。\n---ウルトラバーン\n短時間だが非常に高温のファイヤービームで、船体にダメージを与え、クルーが火災から受けるダメージを大きくする。ロックマンのような乗組員の耐火性さえも失わせる！\n---システムショック\n直撃すると隣接する部屋にもイオンダメージを与える特殊なイオン兵器。\n---フレア・ランチャー\n敵クルーの目をくらませ、防衛ドローンの注意をそらす。\n\nそして、さらに発見すべき秘密兵器が...。\n\n///////////////////新型ドローン\n---スープレッサー・コンバット・ドローン---。\n対ドローン対策やサプレス・シールド・レイヤーをダメージ能力なしで回避する迅速なドローン。\n---Thundershock Combat Drone--- サンダーショック・コンバット・ドローン\nブリーチ爆弾とイオン爆弾を切り替え可能な爆弾搭載型トグル・ドローン。\n---テーセウス・コンバット・ドローン\n展開に3発のミサイルを必要とするミサイル・ドローン。\n---「スキャッターショット」防衛ドローン\n対空砲火ベースの防衛ドローンで、クールダウンは早いが発射速度は遅く、あらゆるものをターゲットにできる。\n---Extinguisher Crew Drone--- 消火屋ドローン。\n非常に速く消火し、酸素を排出するが、通常の修理でははるかに効率が悪いユーティリティ修理ドローン。\n---ボルテージ・クルー・ドローン\n大量のパワーブーストを提供するが、不安定なため減衰するユーティリティドローン。\n---オーバーシールド・クルー・ドローン\n味方クルーに提供するシールドに電力を供給するため、システムから電力を消耗する船上ドローン。",
+      "machine": "",
+      "done": false
+    }
+  }
+}

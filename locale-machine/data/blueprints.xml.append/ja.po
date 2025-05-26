@@ -101,53 +101,68 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST\"]/desc"
 msgstr "標準的なライト・レーザーよりチャージは遅いが、シールドを素早く破壊するため、バースト・レーザーを連射する。"
 
+#: src-en/data/blueprints.xml.append:252
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST_ENEMY\"]/title"
+msgstr "ライトバーストレーザー"
+
+#: src-en/data/blueprints.xml.append:253
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST_ENEMY\"]/short"
+msgstr "ライトバースト"
+
 #: src-en/data/blueprints.xml.append:255
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_LIGHT_BURST_ENEMY\"]/desc"
+msgstr "絶対に見てはいけない"
+
+#: src-en/data/blueprints.xml.append:297
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/title"
 msgstr "素粒子衝突型加速器 MK I"
 
-#: src-en/data/blueprints.xml.append:256
+#: src-en/data/blueprints.xml.append:298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/short"
 msgstr "コライダー I"
 
-#: src-en/data/blueprints.xml.append:258
+#: src-en/data/blueprints.xml.append:300
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO\"]/desc"
 msgstr "通常の火属性と引き換えに、乗組員にダメージを与え、デバフをかける。"
 
-#: src-en/data/blueprints.xml.append:303
+#: src-en/data/blueprints.xml.append:345
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/title"
 msgstr "粒子衝突型加速器 MK II"
 
-#: src-en/data/blueprints.xml.append:304
+#: src-en/data/blueprints.xml.append:346
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/short"
 msgstr "コライダーII"
 
-#: src-en/data/blueprints.xml.append:306
+#: src-en/data/blueprints.xml.append:348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_PARTICLE_BIO_2\"]/desc"
 msgstr ""
 "通常の火属性と引き換えに乗組員にダメージを与え、デバフを適用する修正粒子技術。このバージョンではクールダウンと半径が増加したが、より多くのボルトを発射する。"
 
-#: src-en/data/blueprints.xml.append:358
+#: src-en/data/blueprints.xml.append:400
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/title"
 msgstr "拡大鏡 MK I"
 
-#: src-en/data/blueprints.xml.append:359
+#: src-en/data/blueprints.xml.append:401
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/short"
 msgstr "拡大鏡 I"
 
-#: src-en/data/blueprints.xml.append:361
+#: src-en/data/blueprints.xml.append:403
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:362
+#: src-en/data/blueprints.xml.append:404
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/descriptionOverride"
 msgstr ""
@@ -170,22 +185,27 @@ msgstr ""
 "\n"
 "\t\tデフォルト価格: 55~ - 販売価格: 27"
 
-#: src-en/data/blueprints.xml.append:432
+#: src-en/data/blueprints.xml.append:423
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_1\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/title"
 msgstr "マグニファイヤー MK II"
 
-#: src-en/data/blueprints.xml.append:433
+#: src-en/data/blueprints.xml.append:475
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/short"
 msgstr "拡大鏡II"
 
-#: src-en/data/blueprints.xml.append:435
+#: src-en/data/blueprints.xml.append:477
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:436
+#: src-en/data/blueprints.xml.append:478
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/descriptionOverride"
 msgstr ""
@@ -208,22 +228,27 @@ msgstr ""
 "\n"
 "\t\tデフォルト価格: 70~ - 販売価格: 35"
 
-#: src-en/data/blueprints.xml.append:506
+#: src-en/data/blueprints.xml.append:497
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_2\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/title"
 msgstr "ピアス拡大鏡"
 
-#: src-en/data/blueprints.xml.append:507
+#: src-en/data/blueprints.xml.append:549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/short"
 msgstr "ピアスマグ"
 
-#: src-en/data/blueprints.xml.append:509
+#: src-en/data/blueprints.xml.append:551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:510
+#: src-en/data/blueprints.xml.append:552
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/descriptionOverride"
 msgstr ""
@@ -246,22 +271,27 @@ msgstr ""
 "\n"
 "\t\tデフォルト価格: 60~ - 販売価格: 30"
 
-#: src-en/data/blueprints.xml.append:580
+#: src-en/data/blueprints.xml.append:571
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_PIERCE\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/title"
 msgstr "イオン拡大鏡"
 
-#: src-en/data/blueprints.xml.append:581
+#: src-en/data/blueprints.xml.append:623
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/short"
 msgstr "イオン・マグ"
 
-#: src-en/data/blueprints.xml.append:583
+#: src-en/data/blueprints.xml.append:625
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:584
+#: src-en/data/blueprints.xml.append:626
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/descriptionOverride"
 msgstr ""
@@ -281,281 +311,286 @@ msgstr ""
 "\n"
 "\t\tデフォルト価格: 50~ - 販売価格: 25"
 
-#: src-en/data/blueprints.xml.append:658
+#: src-en/data/blueprints.xml.append:642
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MAGNIFIER_ION\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/title"
 msgstr "方天」亀裂ビーム"
 
-#: src-en/data/blueprints.xml.append:659
+#: src-en/data/blueprints.xml.append:701
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/short"
 msgstr "方天」。"
 
-#: src-en/data/blueprints.xml.append:660
+#: src-en/data/blueprints.xml.append:702
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_TILE\"]/desc"
 msgstr ""
 "亀裂ビームは部屋単位ではなくタイル単位でダメージを与える。このビームはシステムの破壊に特化しており、システムが大きいほど大きなダメージを与えることができる。"
 
-#: src-en/data/blueprints.xml.append:687
+#: src-en/data/blueprints.xml.append:729
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/title"
 msgstr "フォコン」ラド・ビームII"
 
-#: src-en/data/blueprints.xml.append:688
+#: src-en/data/blueprints.xml.append:730
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/short"
 msgstr "フォコン」II"
 
-#: src-en/data/blueprints.xml.append:689
+#: src-en/data/blueprints.xml.append:731
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2\"]/desc"
 msgstr "この恐ろしい放射線ビームはクルーに大ダメージを与え、敵クルーを弱体化させる。MK 1より長くてダメージが大きいが、シールドを貫通しない。"
 
-#: src-en/data/blueprints.xml.append:723
+#: src-en/data/blueprints.xml.append:765
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/title"
 msgstr "ファウコン」Rad-Beam II† 。"
 
-#: src-en/data/blueprints.xml.append:724
+#: src-en/data/blueprints.xml.append:766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/short"
 msgstr "フォウコン"
 
-#: src-en/data/blueprints.xml.append:725
+#: src-en/data/blueprints.xml.append:767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_BIO_2_PLAYER\"]/desc"
 msgstr "この恐ろしい放射線ビームはクルーに大ダメージを与え、敵クルーを弱体化させる。MK 1より長くてダメージが大きいが、シールドを貫通しない。"
 
-#: src-en/data/blueprints.xml.append:760
+#: src-en/data/blueprints.xml.append:802
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/title"
 msgstr "バルディッシュ」ビーム"
 
-#: src-en/data/blueprints.xml.append:761
+#: src-en/data/blueprints.xml.append:803
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/short"
 msgstr "バルディッシュ"
 
-#: src-en/data/blueprints.xml.append:763
+#: src-en/data/blueprints.xml.append:805
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_HULL_CHAIN\"]/desc"
 msgstr "このビームは撃つたびにチャージが早まるが、誰もいない部屋を狙えば船体に大ダメージを与えることもできる。"
 
-#: src-en/data/blueprints.xml.append:793
+#: src-en/data/blueprints.xml.append:835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/title"
 msgstr "カギヤリ」ビーム"
 
-#: src-en/data/blueprints.xml.append:794
+#: src-en/data/blueprints.xml.append:836
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/short"
 msgstr "カギヤリ"
 
-#: src-en/data/blueprints.xml.append:795
+#: src-en/data/blueprints.xml.append:837
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ADAPT_CONSERVATIVE\"]/desc"
 msgstr ""
 "スピードは遅いが自立した適応型ビームで、パワーを蓄積するのに十分な時間があれば無限に拡張できるが、システムを効果的に扱うには時間がかかる。保守的な武器はパワーを消費しないが、パワーを供給するために別の武器を必要とする。"
 
-#: src-en/data/blueprints.xml.append:834
+#: src-en/data/blueprints.xml.append:876
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/title"
 msgstr "窒息イオン"
 
-#: src-en/data/blueprints.xml.append:835
+#: src-en/data/blueprints.xml.append:877
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/short"
 msgstr "アスフィクシオン"
 
-#: src-en/data/blueprints.xml.append:838
+#: src-en/data/blueprints.xml.append:880
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH\"]/desc"
 msgstr "他の目的にも応用できるが、特に敵を窒息させることに秀でた特殊なイオン。"
 
-#: src-en/data/blueprints.xml.append:880
+#: src-en/data/blueprints.xml.append:922
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/title"
 msgstr "アスフィクシアター・イオン"
 
-#: src-en/data/blueprints.xml.append:881
+#: src-en/data/blueprints.xml.append:923
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/short"
 msgstr "アスフィクシオン"
 
-#: src-en/data/blueprints.xml.append:884
+#: src-en/data/blueprints.xml.append:926
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_BREACH_PLAYER\"]/desc"
 msgstr "他の目的にも応用できるが、特に敵を窒息させることに秀でた特殊なイオン。"
 
-#: src-en/data/blueprints.xml.append:927
+#: src-en/data/blueprints.xml.append:969
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/title"
 msgstr "インフィニティ」イオン"
 
-#: src-en/data/blueprints.xml.append:928
+#: src-en/data/blueprints.xml.append:970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/short"
 msgstr "インフィニティ"
 
-#: src-en/data/blueprints.xml.append:931
+#: src-en/data/blueprints.xml.append:973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ION_CHAINGUN_2\"]/desc"
 msgstr "標準的なアダプティブイオンとは異なり、この武器は事実上無限にチェーンできる。"
 
-#: src-en/data/blueprints.xml.append:988
+#: src-en/data/blueprints.xml.append:1030
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/title"
 msgstr "エナジー・フェイザー"
 
-#: src-en/data/blueprints.xml.append:989
+#: src-en/data/blueprints.xml.append:1031
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/short"
 msgstr "フェーズE。"
 
-#: src-en/data/blueprints.xml.append:992
+#: src-en/data/blueprints.xml.append:1034
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1\"]/desc"
 msgstr ""
 "エネルギー兵器は船体にダメージを与えながら、システムを無効化することができる。この特別バージョンはシールドを貫通し、貫通する際にシールドの第一層にイオンダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:1033
+#: src-en/data/blueprints.xml.append:1075
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/title"
 msgstr "エナジー・フェイザー†」。"
 
-#: src-en/data/blueprints.xml.append:1034
+#: src-en/data/blueprints.xml.append:1076
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/short"
 msgstr "フェーズE"
 
-#: src-en/data/blueprints.xml.append:1037
+#: src-en/data/blueprints.xml.append:1079
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_PIERCE_1_PLAYER\"]/desc"
 msgstr ""
 "エネルギー兵器は船体にダメージを与えながら、システムを無効化することができる。この特別バージョンはシールドを貫通し、貫通する際にシールドの第一層にイオンダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:1080
+#: src-en/data/blueprints.xml.append:1122
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/title"
 msgstr "エナジーフレイマー"
 
-#: src-en/data/blueprints.xml.append:1081
+#: src-en/data/blueprints.xml.append:1123
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/short"
 msgstr "火災エネルギー"
 
-#: src-en/data/blueprints.xml.append:1083
+#: src-en/data/blueprints.xml.append:1125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ENERGY_FIRE\"]/desc"
 msgstr "エネルギー兵器はシステムを無効化し、船体にダメージを与えることができる。また、平均的なエネルギー・キャノンよりも多くの火災を引き起こす。"
 
-#: src-en/data/blueprints.xml.append:1134
+#: src-en/data/blueprints.xml.append:1176
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/title"
 msgstr "スコーチ」ピンポイント"
 
-#: src-en/data/blueprints.xml.append:1135
+#: src-en/data/blueprints.xml.append:1177
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/short"
 msgstr "スコーチ"
 
-#: src-en/data/blueprints.xml.append:1136
+#: src-en/data/blueprints.xml.append:1178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_FIRE\"]/desc"
 msgstr "物理的なダメージは与えないが、火を点けることができる。"
 
-#: src-en/data/blueprints.xml.append:1161
+#: src-en/data/blueprints.xml.append:1203
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/title"
 msgstr "ポニアード」ピンポイント"
 
-#: src-en/data/blueprints.xml.append:1162
+#: src-en/data/blueprints.xml.append:1204
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/short"
 msgstr "ポニエール"
 
-#: src-en/data/blueprints.xml.append:1163
+#: src-en/data/blueprints.xml.append:1205
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FOCUS_CONSERVATIVE\"]/desc"
 msgstr "充電は遅いが信頼性の高いピンポイント。保守的な武器は電力を使わないが、電力を供給するために別の武器を必要とする。"
 
-#: src-en/data/blueprints.xml.append:1197
+#: src-en/data/blueprints.xml.append:1239
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/title"
 msgstr "シュラプネル・ボム"
 
-#: src-en/data/blueprints.xml.append:1198
+#: src-en/data/blueprints.xml.append:1240
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/short"
 msgstr "シュラプネルB"
 
-#: src-en/data/blueprints.xml.append:1200
+#: src-en/data/blueprints.xml.append:1242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
 msgstr "自走式の爆発物で、対象の部屋だけでなく隣接する部屋全てにシステムダメージを与える。自分の船を標的にできる。"
 
-#: src-en/data/blueprints.xml.append:1234
+#: src-en/data/blueprints.xml.append:1276
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/title"
 msgstr "粒子爆弾"
 
-#: src-en/data/blueprints.xml.append:1235
+#: src-en/data/blueprints.xml.append:1277
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/short"
 msgstr "パートB"
 
-#: src-en/data/blueprints.xml.append:1237
+#: src-en/data/blueprints.xml.append:1279
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART\"]/desc"
 msgstr "粒子加速器を内蔵し、システムに大ダメージを与え、火災を引き起こす。自分の船を標的にできる。"
 
-#: src-en/data/blueprints.xml.append:1266
+#: src-en/data/blueprints.xml.append:1308
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/title"
 msgstr "粒子爆弾"
 
-#: src-en/data/blueprints.xml.append:1267
+#: src-en/data/blueprints.xml.append:1309
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/short"
 msgstr "パートB"
 
-#: src-en/data/blueprints.xml.append:1269
+#: src-en/data/blueprints.xml.append:1311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_PART_PLAYER\"]/desc"
 msgstr "粒子加速器を内蔵し、システムに大ダメージを与え、火災を引き起こす。自分の船を標的にできる。"
 
-#: src-en/data/blueprints.xml.append:1299
+#: src-en/data/blueprints.xml.append:1341
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/title"
 msgstr "ガソリン爆弾"
 
-#: src-en/data/blueprints.xml.append:1300
+#: src-en/data/blueprints.xml.append:1342
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/short"
 msgstr "ガソリンB"
 
-#: src-en/data/blueprints.xml.append:1302
+#: src-en/data/blueprints.xml.append:1344
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_GASOLINE\"]/desc"
 msgstr ""
 "乗組員やドローンにガソリンを浴びせ、20秒間火によるダメージを4倍にし、動きを30%遅くする。対象が効果中に死亡した場合、火災が発生する。\n"
 "自己複製能力を持ち、ミサイルを必要としない。"
 
-#: src-en/data/blueprints.xml.append:1368
+#: src-en/data/blueprints.xml.append:1410
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/title"
 msgstr "配備爆弾"
 
-#: src-en/data/blueprints.xml.append:1369
+#: src-en/data/blueprints.xml.append:1411
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/short"
 msgstr "Bを展開する。"
 
-#: src-en/data/blueprints.xml.append:1370
+#: src-en/data/blueprints.xml.append:1412
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:1371
+#: src-en/data/blueprints.xml.append:1413
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
@@ -575,114 +610,119 @@ msgstr ""
 "\t\t\n"
 "\t\tデフォルト価格：45~ - 販売価格：22"
 
-#: src-en/data/blueprints.xml.append:1464
+#: src-en/data/blueprints.xml.append:1429
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:1506
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/desc"
 msgstr "幼児のクモ。"
 
-#: src-en/data/blueprints.xml.append:1465
+#: src-en/data/blueprints.xml.append:1507
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/title"
 msgstr "ハッチリング"
 
-#: src-en/data/blueprints.xml.append:1466
+#: src-en/data/blueprints.xml.append:1508
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/short"
 msgstr "ハッチリング"
 
-#: src-en/data/blueprints.xml.append:1470
+#: src-en/data/blueprints.xml.append:1512
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[1]"
 msgstr "体力50、被火災1.2倍、修理0.10倍"
 
-#: src-en/data/blueprints.xml.append:1471
+#: src-en/data/blueprints.xml.append:1513
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[2]"
 msgstr "戦闘ダメージ1.8倍、移動速度2.2倍"
 
-#: src-en/data/blueprints.xml.append:1472
+#: src-en/data/blueprints.xml.append:1514
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[3]"
 msgstr "3倍速で回復"
 
-#: src-en/data/blueprints.xml.append:1473
+#: src-en/data/blueprints.xml.append:1515
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"spider_hatch_temp\"]/powerList/power[4]"
 msgstr "一時的にしか制御できず、システムを管理できない"
 
-#: src-en/data/blueprints.xml.append:1497
+#: src-en/data/blueprints.xml.append:1539
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/title"
 msgstr "アラクノ・ボム"
 
-#: src-en/data/blueprints.xml.append:1498
+#: src-en/data/blueprints.xml.append:1540
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/short"
 msgstr "アラック・B"
 
-#: src-en/data/blueprints.xml.append:1500
+#: src-en/data/blueprints.xml.append:1542
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER\"]/desc"
 msgstr "自分のために戦ってくれる、寿命の限られた2匹の子ガメを展開する自己テレポート装置。自分の船を標的にすることもできる。"
 
-#: src-en/data/blueprints.xml.append:1546
+#: src-en/data/blueprints.xml.append:1588
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/title"
 msgstr "アラクノ・ボム"
 
-#: src-en/data/blueprints.xml.append:1547
+#: src-en/data/blueprints.xml.append:1589
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/short"
 msgstr "アラック・B"
 
-#: src-en/data/blueprints.xml.append:1549
+#: src-en/data/blueprints.xml.append:1591
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SPIDER_ENEMY\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:1593
+#: src-en/data/blueprints.xml.append:1635
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/desc"
 msgstr "あなたによって作られたグロテスクなミュータント・クリーチャー。なぜこんなことを？"
 
-#: src-en/data/blueprints.xml.append:1595
+#: src-en/data/blueprints.xml.append:1637
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/title"
 msgstr "ミュータント"
 
-#: src-en/data/blueprints.xml.append:1596
+#: src-en/data/blueprints.xml.append:1638
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/short"
 msgstr "ミュータント"
 
-#: src-en/data/blueprints.xml.append:1599
+#: src-en/data/blueprints.xml.append:1641
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[1]"
 msgstr "乗員との戦闘で2.3倍のダメージを与える"
 
-#: src-en/data/blueprints.xml.append:1600
+#: src-en/data/blueprints.xml.append:1642
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[2]"
 msgstr "修理や回復ができず、移動速度が半分になる。"
 
-#: src-en/data/blueprints.xml.append:1601
+#: src-en/data/blueprints.xml.append:1643
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[3]"
 msgstr "死亡時に爆発し、乗員15人とシステム1人にダメージを与える"
 
-#: src-en/data/blueprints.xml.append:1602
+#: src-en/data/blueprints.xml.append:1644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"mutant\"]/powerList/power[4]"
 msgstr "15秒後に元の形に戻る"
 
-#: src-en/data/blueprints.xml.append:1608
+#: src-en/data/blueprints.xml.append:1650
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/title"
 msgstr "変異原爆"
 
-#: src-en/data/blueprints.xml.append:1609
+#: src-en/data/blueprints.xml.append:1651
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/short"
 msgstr "ミュータントB"
 
-#: src-en/data/blueprints.xml.append:1611
+#: src-en/data/blueprints.xml.append:1653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_MUTANT\"]/desc"
 msgstr ""
@@ -690,37 +730,37 @@ msgstr ""
 "\n"
 "\tミュータントはクルーとの戦闘で2.3倍のダメージを与え、修理や回復ができず、移動速度は半分になり、死亡時に爆発して15クルーと1システムにダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:1668
+#: src-en/data/blueprints.xml.append:1715
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/title"
 msgstr "アポロ」ミサイル"
 
-#: src-en/data/blueprints.xml.append:1669
+#: src-en/data/blueprints.xml.append:1716
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/short"
 msgstr "アポロ"
 
-#: src-en/data/blueprints.xml.append:1670
+#: src-en/data/blueprints.xml.append:1717
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_HEAL\"]/desc"
 msgstr "ニッチだが効果的なミサイル武器で、クルーにダメージを与えないが、命中した味方のクルーに4HP/sの回復を15秒間スタックする。"
 
-#: src-en/data/blueprints.xml.append:1720
+#: src-en/data/blueprints.xml.append:1767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/title"
 msgstr "ボレアス」ミサイル"
 
-#: src-en/data/blueprints.xml.append:1721
+#: src-en/data/blueprints.xml.append:1768
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/short"
 msgstr "ボレアス"
 
-#: src-en/data/blueprints.xml.append:1722
+#: src-en/data/blueprints.xml.append:1769
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:1723
+#: src-en/data/blueprints.xml.append:1770
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST\"]/descriptionOverride"
 msgstr ""
@@ -744,107 +784,107 @@ msgstr ""
 "\t\t\n"
 "\t\tデフォルト価格: 65~ - 販売価格: 32"
 
-#: src-en/data/blueprints.xml.append:1794
+#: src-en/data/blueprints.xml.append:1841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/title"
 msgstr "ボレアス」ミサイル"
 
-#: src-en/data/blueprints.xml.append:1795
+#: src-en/data/blueprints.xml.append:1842
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/short"
 msgstr "ボレアス"
 
-#: src-en/data/blueprints.xml.append:1796
+#: src-en/data/blueprints.xml.append:1843
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_FROST_ENEMY\"]/desc"
 msgstr "接触すると部屋を封鎖する命中率の高いミサイル兵器。"
 
-#: src-en/data/blueprints.xml.append:1847
+#: src-en/data/blueprints.xml.append:1894
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/title"
 msgstr "テミス」榴弾ミサイル"
 
-#: src-en/data/blueprints.xml.append:1848
+#: src-en/data/blueprints.xml.append:1895
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/short"
 msgstr "テミス"
 
-#: src-en/data/blueprints.xml.append:1849
+#: src-en/data/blueprints.xml.append:1896
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
 msgstr "着弾時に榴散弾を発生させる破壊的なミサイル。榴散弾は隣接する全ての部屋に1追加システムダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:1892
+#: src-en/data/blueprints.xml.append:1939
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/title"
 msgstr "ペルセス」榴弾ミサイル"
 
-#: src-en/data/blueprints.xml.append:1893
+#: src-en/data/blueprints.xml.append:1940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/short"
 msgstr "ペルセス"
 
-#: src-en/data/blueprints.xml.append:1894
+#: src-en/data/blueprints.xml.append:1941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
 msgstr ""
 "着弾時に榴散弾を発生させる破壊的なミサイル。榴散弾は隣接する全ての部屋に追加のシステムダメージを与える。このアップグレード版はより大きなダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:1937
+#: src-en/data/blueprints.xml.append:1984
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/title"
 msgstr "エピメテウス」対空ミサイル"
 
-#: src-en/data/blueprints.xml.append:1938
+#: src-en/data/blueprints.xml.append:1985
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/short"
 msgstr "エピメテウス"
 
-#: src-en/data/blueprints.xml.append:1939
+#: src-en/data/blueprints.xml.append:1986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
 msgstr "試合開始時に非常に正確で破壊力のあるミサイルを1発発射する。1回の戦闘につき1回のみ使用可能。"
 
-#: src-en/data/blueprints.xml.append:1995
+#: src-en/data/blueprints.xml.append:2038
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/title"
 msgstr "ハザード・セントリー・デプロイヤー"
 
-#: src-en/data/blueprints.xml.append:1996
+#: src-en/data/blueprints.xml.append:2039
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/short"
 msgstr "ハズセント"
 
-#: src-en/data/blueprints.xml.append:1997
+#: src-en/data/blueprints.xml.append:2040
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SENTRY_HAZARD\"]/desc"
 msgstr "着弾した部屋に一時的に見張りを配置し、その部屋にいる敵クルーへのハザードダメージとスタン持続時間を20秒間2倍にする。"
 
-#: src-en/data/blueprints.xml.append:2069
+#: src-en/data/blueprints.xml.append:2116
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/title"
 msgstr "凶暴な料理"
 
-#: src-en/data/blueprints.xml.append:2070
+#: src-en/data/blueprints.xml.append:2117
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/short"
 msgstr "ウイルス性"
 
-#: src-en/data/blueprints.xml.append:2072
+#: src-en/data/blueprints.xml.append:2119
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
 msgstr ""
 "いくつかの宇宙では非合法とされているVirulent "
 "Dishesは、猛毒の放射線を撒き散らし、対象の部屋だけでなく隣接する部屋すべてに乗組員にダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:2124
+#: src-en/data/blueprints.xml.append:2171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/title"
 msgstr "バアル」地雷発射機"
 
-#: src-en/data/blueprints.xml.append:2125
+#: src-en/data/blueprints.xml.append:2172
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/short"
 msgstr "バアル"
 
-#: src-en/data/blueprints.xml.append:2126
+#: src-en/data/blueprints.xml.append:2173
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MINELAUNCHER_ION\"]/desc"
 msgstr ""
@@ -852,248 +892,248 @@ msgstr ""
 "\t\n"
 "\t空のビーコンに15発のミサイルを撃ち込むと2艦隊分のディレイが発生する。"
 
-#: src-en/data/blueprints.xml.append:2183
+#: src-en/data/blueprints.xml.append:2230
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/title"
 msgstr "トリフェクタ"
 
-#: src-en/data/blueprints.xml.append:2184
+#: src-en/data/blueprints.xml.append:2231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/short"
 msgstr "トリフェクタ"
 
-#: src-en/data/blueprints.xml.append:2186
+#: src-en/data/blueprints.xml.append:2233
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_TRIFECTA\"]/desc"
 msgstr "2発の対空射撃と低速のヘビーレーザーを発射する奇妙なジェリー仕掛けの武器。"
 
-#: src-en/data/blueprints.xml.append:2228
+#: src-en/data/blueprints.xml.append:2275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/title"
 msgstr "トリフェクタレーザー"
 
-#: src-en/data/blueprints.xml.append:2229
+#: src-en/data/blueprints.xml.append:2276
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/short"
 msgstr "トリフェクタレーザー"
 
-#: src-en/data/blueprints.xml.append:2230
+#: src-en/data/blueprints.xml.append:2277
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRIFECTA_LASER\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2264
+#: src-en/data/blueprints.xml.append:2311
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/title"
 msgstr "フロスト・フラーク"
 
-#: src-en/data/blueprints.xml.append:2265
+#: src-en/data/blueprints.xml.append:2312
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/short"
 msgstr "フロスト・フラーク"
 
-#: src-en/data/blueprints.xml.append:2267
+#: src-en/data/blueprints.xml.append:2314
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SHOTGUN_FROST\"]/desc"
 msgstr "4発の過冷却弾を発射し、部屋に氷の膜を作り、12秒間閉じ込める。"
 
-#: src-en/data/blueprints.xml.append:2323
+#: src-en/data/blueprints.xml.append:2370
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/title"
 msgstr "組み立てられたドローン"
 
-#: src-en/data/blueprints.xml.append:2324
+#: src-en/data/blueprints.xml.append:2371
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/short"
 msgstr "組み立てられたドローン"
 
-#: src-en/data/blueprints.xml.append:2325
+#: src-en/data/blueprints.xml.append:2372
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
 msgstr "これは絶対に見てはいけない。"
 
-#: src-en/data/blueprints.xml.append:2335
+#: src-en/data/blueprints.xml.append:2382
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/title"
 msgstr "組立キャノン"
 
-#: src-en/data/blueprints.xml.append:2336
+#: src-en/data/blueprints.xml.append:2383
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/short"
 msgstr "組み立て"
 
-#: src-en/data/blueprints.xml.append:2337
+#: src-en/data/blueprints.xml.append:2384
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
 msgstr "ファブリケーターを内蔵した特殊兵器。ドローンパーツ1個分のコストで、敵艦を攻撃する戦闘用ドローンを一時的に展開できる。"
 
-#: src-en/data/blueprints.xml.append:2379
+#: src-en/data/blueprints.xml.append:2426
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/title"
 msgstr "ウルトラバーン"
 
-#: src-en/data/blueprints.xml.append:2380
+#: src-en/data/blueprints.xml.append:2427
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/short"
 msgstr "ウルトラバーン"
 
-#: src-en/data/blueprints.xml.append:2381
+#: src-en/data/blueprints.xml.append:2428
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_ULTRABURN\"]/desc"
 msgstr ""
 "強烈な熱線を集中的に発射し、船体を損傷させるとともに、乗組員の火災免疫力を一時的に奪い、15秒間、火災ダメージが1.5倍になる。自分のクルーに当たらないように注意！"
 
-#: src-en/data/blueprints.xml.append:2426
+#: src-en/data/blueprints.xml.append:2473
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/title"
 msgstr "システムショック"
 
-#: src-en/data/blueprints.xml.append:2427
+#: src-en/data/blueprints.xml.append:2474
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/short"
 msgstr "シスショック"
 
-#: src-en/data/blueprints.xml.append:2429
+#: src-en/data/blueprints.xml.append:2476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
 msgstr "オーバーチャージされたイオン兵器で、部屋に直接命中するとカスケード効果を引き起こし、隣接するすべてのシステムに1イオンダメージを与える。"
 
-#: src-en/data/blueprints.xml.append:2471
+#: src-en/data/blueprints.xml.append:2518
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/title"
 msgstr "フレアランチャー"
 
-#: src-en/data/blueprints.xml.append:2472
+#: src-en/data/blueprints.xml.append:2519
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/short"
 msgstr "フレア"
 
-#: src-en/data/blueprints.xml.append:2473
+#: src-en/data/blueprints.xml.append:2520
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_FLARE_LAUNCHER\"]/desc"
 msgstr "防衛ドローンの注意をそらすデコイを発射し、接触すると一時的に乗組員の目をくらませ、驚かせる。"
 
-#: src-en/data/blueprints.xml.append:2520
+#: src-en/data/blueprints.xml.append:2567
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/title"
 msgstr "狂気の手紙"
 
-#: src-en/data/blueprints.xml.append:2521
+#: src-en/data/blueprints.xml.append:2568
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/short"
 msgstr "手紙"
 
-#: src-en/data/blueprints.xml.append:2522
+#: src-en/data/blueprints.xml.append:2569
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
 msgstr "古代の邪悪な兵器で、犠牲者の精神に侵入し、互いに敵対させる。命中した敵にマインド・コントロールを与えるが、命令を受けることはできない。"
 
-#: src-en/data/blueprints.xml.append:2608
+#: src-en/data/blueprints.xml.append:2655
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
 msgstr "テスラエミッター"
 
-#: src-en/data/blueprints.xml.append:2609
+#: src-en/data/blueprints.xml.append:2656
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/short"
 msgstr "テスラ"
 
-#: src-en/data/blueprints.xml.append:2610
+#: src-en/data/blueprints.xml.append:2657
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/desc"
 msgstr ""
 "見たこともないような高度なイオン技術を使った奇妙な武器。ビームのように複数の部屋にイオンダメージを与えるのに十分なイオン化エネルギーを発生させることができるようだ。"
 
-#: src-en/data/blueprints.xml.append:2639
+#: src-en/data/blueprints.xml.append:2686
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/title"
 msgstr "マグマ・ガン"
 
-#: src-en/data/blueprints.xml.append:2640
+#: src-en/data/blueprints.xml.append:2687
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/short"
 msgstr "マグマ"
 
-#: src-en/data/blueprints.xml.append:2641
+#: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
 msgstr "狂人の頭の中でしか思いつかない奇妙な銃。単なるピンポイント・ビームだが、超高温の溶岩を集中的に噴射するため、触れた部屋は完全に炎上する。"
 
-#: src-en/data/blueprints.xml.append:2668
+#: src-en/data/blueprints.xml.append:2715
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2669
+#: src-en/data/blueprints.xml.append:2716
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/short"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2670
+#: src-en/data/blueprints.xml.append:2717
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2678
+#: src-en/data/blueprints.xml.append:2725
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/title"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2679
+#: src-en/data/blueprints.xml.append:2726
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/short"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2680
+#: src-en/data/blueprints.xml.append:2727
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_BLUE\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2686
+#: src-en/data/blueprints.xml.append:2733
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/title"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2687
+#: src-en/data/blueprints.xml.append:2734
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/short"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2688
+#: src-en/data/blueprints.xml.append:2735
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_GREEN\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2696
+#: src-en/data/blueprints.xml.append:2743
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/title"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2697
+#: src-en/data/blueprints.xml.append:2744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/short"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2698
+#: src-en/data/blueprints.xml.append:2745
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_CYAN\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2706
+#: src-en/data/blueprints.xml.append:2753
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/title"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2707
+#: src-en/data/blueprints.xml.append:2754
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/short"
 msgstr "ジェム"
 
-#: src-en/data/blueprints.xml.append:2708
+#: src-en/data/blueprints.xml.append:2755
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_PURPLE\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2725
+#: src-en/data/blueprints.xml.append:2772
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/title"
 msgstr "ベダズラー"
 
-#: src-en/data/blueprints.xml.append:2726
+#: src-en/data/blueprints.xml.append:2773
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/short"
 msgstr "ベダズラー"
 
-#: src-en/data/blueprints.xml.append:2728
+#: src-en/data/blueprints.xml.append:2775
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:2729
+#: src-en/data/blueprints.xml.append:2776
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/descriptionOverride"
 msgstr ""
@@ -1116,52 +1156,57 @@ msgstr ""
 "\t\t\n"
 "\t\tデフォルト価格: 80~ - 販売価格: 40"
 
-#: src-en/data/blueprints.xml.append:2813
+#: src-en/data/blueprints.xml.append:2795
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/tooltipOverride"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:2860
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/title"
 msgstr "コロナイザー爆弾"
 
-#: src-en/data/blueprints.xml.append:2814
+#: src-en/data/blueprints.xml.append:2861
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/short"
 msgstr "コロナイザーB"
 
-#: src-en/data/blueprints.xml.append:2816
+#: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
 msgstr "敵クルーがいない場合、そのクルーをマインドコントロールする自己テレポート装置。自分の船を標的にすることもできる。"
 
-#: src-en/data/blueprints.xml.append:2850
+#: src-en/data/blueprints.xml.append:2897
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
 msgstr ""
 "エリート・ヒューマノイド・クルー。ブリーチングポッドに搭載されたクローン研究所で生産された、非常に優秀なクローン兵士。遺伝子材料が安価なため、これらの兵士は産卵後急速に腐敗する。\n"
 "\t\n"
 "\t継承される人間のステータス：軽度の窒息耐性"
 
-#: src-en/data/blueprints.xml.append:2854
+#: src-en/data/blueprints.xml.append:2901
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/title"
 msgstr "クローン・ソルジャー"
 
-#: src-en/data/blueprints.xml.append:2855
+#: src-en/data/blueprints.xml.append:2902
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/short"
 msgstr "ソルジャー"
 
-#: src-en/data/blueprints.xml.append:2858
+#: src-en/data/blueprints.xml.append:2905
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[1]"
 msgstr "乗員との戦闘で1.2倍のダメージを与える"
 
-#: src-en/data/blueprints.xml.append:2859
+#: src-en/data/blueprints.xml.append:2906
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[2]"
 msgstr "クルーとの戦闘で0.7倍、火災で0.6倍のダメージを受ける"
 
-#: src-en/data/blueprints.xml.append:2860
+#: src-en/data/blueprints.xml.append:2907
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/powerList/power[3]"
 msgstr "驚異的なスピードで戦闘スキルを習得する神経チップ"
 
-#: src-en/data/blueprints.xml.append:2864
+#: src-en/data/blueprints.xml.append:2911
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/desc"
 msgstr ""
@@ -1169,223 +1214,223 @@ msgstr ""
 "\t\n"
 "\t継承される人間のステータス：軽度の窒息耐性"
 
-#: src-en/data/blueprints.xml.append:2868
+#: src-en/data/blueprints.xml.append:2915
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/title"
 msgstr "クローン・ソルジャー"
 
-#: src-en/data/blueprints.xml.append:2869
+#: src-en/data/blueprints.xml.append:2916
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/short"
 msgstr "ソルジャー"
 
-#: src-en/data/blueprints.xml.append:2872
+#: src-en/data/blueprints.xml.append:2919
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[1]"
 msgstr "乗員との戦闘で1.2倍のダメージを与える"
 
-#: src-en/data/blueprints.xml.append:2873
+#: src-en/data/blueprints.xml.append:2920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[2]"
 msgstr "クルーとの戦闘で0.7倍、火災で0.6倍のダメージを受ける"
 
-#: src-en/data/blueprints.xml.append:2874
+#: src-en/data/blueprints.xml.append:2921
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier_slot\"]/powerList/power[3]"
 msgstr "驚異的なスピードで戦闘スキルを習得する神経チップ"
 
-#: src-en/data/blueprints.xml.append:2880
+#: src-en/data/blueprints.xml.append:2927
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/title"
 msgstr "連邦軍用クローン・ブリーチング・ポッド・ランチャー"
 
-#: src-en/data/blueprints.xml.append:2881
+#: src-en/data/blueprints.xml.append:2928
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/short"
 msgstr "F.M.G.C.B.P.L.。"
 
-#: src-en/data/blueprints.xml.append:2882
+#: src-en/data/blueprints.xml.append:2929
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BREACHING_POD\"]/desc"
 msgstr ""
 "連邦軍標準のクローン製造可能なブリーチングポッドランチャー。敵の外壁を破り、60秒間自分のために戦ってくれるクローン兵士を生み出すクローンポッドを展開する。"
 
-#: src-en/data/blueprints.xml.append:2944
+#: src-en/data/blueprints.xml.append:2991
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP\"]/title"
 msgstr "ドローン・ポッパー"
 
-#: src-en/data/blueprints.xml.append:2975
+#: src-en/data/blueprints.xml.append:3022
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_POP_2\"]/title"
 msgstr "ドローン・ポッパー"
 
-#: src-en/data/blueprints.xml.append:3011
+#: src-en/data/blueprints.xml.append:3058
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/title"
 msgstr "サプレッサードローンMk."
 
-#: src-en/data/blueprints.xml.append:3012
+#: src-en/data/blueprints.xml.append:3059
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/short"
 msgstr "サプレッサー I"
 
-#: src-en/data/blueprints.xml.append:3013
+#: src-en/data/blueprints.xml.append:3060
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP\"]/desc"
 msgstr ""
 "パワーが供給されている間は、シールド層を永遠に効果的に抑制することができる特殊なドローン。また、ステルスシステムを内蔵しており、対ドローンを無限に回避できる。"
 
-#: src-en/data/blueprints.xml.append:3026
+#: src-en/data/blueprints.xml.append:3073
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/title"
 msgstr "サプレッサードローンMk."
 
-#: src-en/data/blueprints.xml.append:3027
+#: src-en/data/blueprints.xml.append:3074
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/short"
 msgstr "サプレッサーII"
 
-#: src-en/data/blueprints.xml.append:3028
+#: src-en/data/blueprints.xml.append:3075
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_DRONE_POP_2\"]/desc"
 msgstr ""
 "パワーが供給されている間は、シールド層を永遠に効果的に抑制することができる特殊なドローン。また、ステルスシステムを内蔵しており、対ドローンを無限に回避できる。マーク2バージョンはより低速だが、一度に3つのシールドをダウンさせることができる。"
 
-#: src-en/data/blueprints.xml.append:3041
+#: src-en/data/blueprints.xml.append:3088
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_BREACH\"]/title"
 msgstr "ドローン爆弾"
 
-#: src-en/data/blueprints.xml.append:3062
+#: src-en/data/blueprints.xml.append:3109
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_BOMB_ION\"]/title"
 msgstr "ドローン爆弾"
 
-#: src-en/data/blueprints.xml.append:3086
+#: src-en/data/blueprints.xml.append:3133
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/title"
 msgstr "サンダースショック・ドローン【ブリーチ"
 
-#: src-en/data/blueprints.xml.append:3087
+#: src-en/data/blueprints.xml.append:3134
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/short"
 msgstr "サンダー【B"
 
-#: src-en/data/blueprints.xml.append:3088
+#: src-en/data/blueprints.xml.append:3135
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_BREACH\"]/desc"
 msgstr "[CURRENT MODE: Breach] ミサイルのコストをかけずにブリーチとイオンボムを切り替えて展開できる特殊なドローン。"
 
-#: src-en/data/blueprints.xml.append:3103
+#: src-en/data/blueprints.xml.append:3150
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/title"
 msgstr "サンダースショック・ドローン【イオン"
 
-#: src-en/data/blueprints.xml.append:3104
+#: src-en/data/blueprints.xml.append:3151
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/short"
 msgstr "サンダー【I"
 
-#: src-en/data/blueprints.xml.append:3105
+#: src-en/data/blueprints.xml.append:3152
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_THUNDER_1_ION\"]/desc"
 msgstr "[CURRENT MODE: Ion] ミサイルのコストをかけずにブリーチ弾とイオン弾を切り替えて発射できる特殊なドローン。"
 
-#: src-en/data/blueprints.xml.append:3121
+#: src-en/data/blueprints.xml.append:3168
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/title"
 msgstr "ドローンミサイル"
 
-#: src-en/data/blueprints.xml.append:3122
+#: src-en/data/blueprints.xml.append:3169
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/short"
 msgstr "ドローンミサイル"
 
-#: src-en/data/blueprints.xml.append:3123
+#: src-en/data/blueprints.xml.append:3170
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_MISSILE\"]/desc"
 msgstr "絶対に見てはいけない"
 
-#: src-en/data/blueprints.xml.append:3154
+#: src-en/data/blueprints.xml.append:3201
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/title"
 msgstr "テセウス」ミサイルドローン"
 
-#: src-en/data/blueprints.xml.append:3155
+#: src-en/data/blueprints.xml.append:3202
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/short"
 msgstr "テーセウス"
 
-#: src-en/data/blueprints.xml.append:3156
+#: src-en/data/blueprints.xml.append:3203
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_MISSILE\"]/desc"
 msgstr "この戦闘用ドローンにはミサイルが内蔵されている。配備には合計3発のミサイルが必要だが、発射にミサイルを消費することはない。"
 
-#: src-en/data/blueprints.xml.append:3172
+#: src-en/data/blueprints.xml.append:3219
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DEFENSE\"]/title"
 msgstr "ドローン・フラック"
 
-#: src-en/data/blueprints.xml.append:3208
+#: src-en/data/blueprints.xml.append:3255
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/title"
 msgstr "散弾防衛ドローン"
 
-#: src-en/data/blueprints.xml.append:3209
+#: src-en/data/blueprints.xml.append:3256
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/short"
 msgstr "散弾銃"
 
-#: src-en/data/blueprints.xml.append:3210
+#: src-en/data/blueprints.xml.append:3257
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT\"]/desc"
 msgstr ""
 "低速で移動する対空砲火を発射する防衛ドローン。固体弾、レーザー、ドローンなど、あらゆるものをターゲットにできる！\n"
 "\tリロード1400 MS"
 
-#: src-en/data/blueprints.xml.append:3227
+#: src-en/data/blueprints.xml.append:3274
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/title"
 msgstr "散弾防衛ドローン"
 
-#: src-en/data/blueprints.xml.append:3228
+#: src-en/data/blueprints.xml.append:3275
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/short"
 msgstr "散弾銃"
 
-#: src-en/data/blueprints.xml.append:3229
+#: src-en/data/blueprints.xml.append:3276
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_SCATTERSHOT_ENEMY\"]/desc"
 msgstr ""
 "決して見てはいけない\n"
 "\tリロード1700 MS"
 
-#: src-en/data/blueprints.xml.append:3253
+#: src-en/data/blueprints.xml.append:3300
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/title"
 msgstr "消火器ドローン"
 
-#: src-en/data/blueprints.xml.append:3254
+#: src-en/data/blueprints.xml.append:3301
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/short"
 msgstr "消火器ドローン"
 
-#: src-en/data/blueprints.xml.append:3255
+#: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
 msgstr "これは絶対に見てはいけない。"
 
-#: src-en/data/blueprints.xml.append:3259
+#: src-en/data/blueprints.xml.append:3306
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/powerList/power"
 msgstr "ドローン"
 
-#: src-en/data/blueprints.xml.append:3266
+#: src-en/data/blueprints.xml.append:3313
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/title"
 msgstr "消火器ドローン"
 
-#: src-en/data/blueprints.xml.append:3267
+#: src-en/data/blueprints.xml.append:3314
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/short"
 msgstr "消火器"
 
-#: src-en/data/blueprints.xml.append:3268
+#: src-en/data/blueprints.xml.append:3315
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_EXTINGUISHER\"]/desc"
 msgstr ""
@@ -1395,32 +1440,32 @@ msgstr ""
 "-消火速度4倍、修理速度0.5倍\n"
 "-酸素を排出し、火災によるダメージを受けない。"
 
-#: src-en/data/blueprints.xml.append:3281
+#: src-en/data/blueprints.xml.append:3328
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/title"
 msgstr "ボルテージ・ドローン"
 
-#: src-en/data/blueprints.xml.append:3282
+#: src-en/data/blueprints.xml.append:3329
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/short"
 msgstr "ボルテージ・ドローン"
 
-#: src-en/data/blueprints.xml.append:3283
+#: src-en/data/blueprints.xml.append:3330
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
 msgstr "これは絶対に見てはいけない。"
 
-#: src-en/data/blueprints.xml.append:3287
+#: src-en/data/blueprints.xml.append:3334
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/powerList/power"
 msgstr "ドローン"
 
-#: src-en/data/blueprints.xml.append:3294
+#: src-en/data/blueprints.xml.append:3341
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/title"
 msgstr "ボルテージ・ドローン"
 
-#: src-en/data/blueprints.xml.append:3295
+#: src-en/data/blueprints.xml.append:3342
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/short"
 msgstr "電圧"
 
-#: src-en/data/blueprints.xml.append:3296
+#: src-en/data/blueprints.xml.append:3343
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_VOLTAGE\"]/desc"
 msgstr ""
 "制御可能なユーティリティドローンで、カップリングしたシステムに大量の電力を供給する。しかし、このドローンは時間とともに爆発するまで着実に体力を失っていく。その爆発は他のドローンよりも揮発性が高いため、注意して使用すること！\n"
@@ -1430,37 +1475,37 @@ msgstr ""
 "-毎秒1HPを失う。爆発は4システムダメージを与え、10%の確率で火災を起こす。\n"
 "-スタンに完全に耐性があり、回復できない。"
 
-#: src-en/data/blueprints.xml.append:3309
+#: src-en/data/blueprints.xml.append:3356
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/title"
 msgstr "オーバーシールド・ドローン"
 
-#: src-en/data/blueprints.xml.append:3310
+#: src-en/data/blueprints.xml.append:3357
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/short"
 msgstr "オーバーシールド・ドローン"
 
-#: src-en/data/blueprints.xml.append:3311
+#: src-en/data/blueprints.xml.append:3358
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
 msgstr "これは絶対に見てはいけない。"
 
-#: src-en/data/blueprints.xml.append:3315
+#: src-en/data/blueprints.xml.append:3362
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/powerList/power"
 msgstr "ドローン"
 
-#: src-en/data/blueprints.xml.append:3322
+#: src-en/data/blueprints.xml.append:3369
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/title"
 msgstr "オーバーシールド・ドローン"
 
-#: src-en/data/blueprints.xml.append:3323
+#: src-en/data/blueprints.xml.append:3370
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/short"
 msgstr "オーバーシールド"
 
-#: src-en/data/blueprints.xml.append:3324
+#: src-en/data/blueprints.xml.append:3371
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
 "システムから電力を消費し、味方クルーにシールドとダメージバフを提供する制御可能なユーティリティ船上ドローン。\n"
@@ -1469,108 +1514,108 @@ msgstr ""
 "-部屋にいる味方クルー全員にシールドを与え、全てのソースからのダメージを75%軽減し、戦闘ダメージを30%増加させる。\n"
 "-占領しているシステムからパワーを1消耗する。シールドを張るにはパワーを消耗している必要がある。"
 
-#: src-en/data/blueprints.xml.append:3345
+#: src-en/data/blueprints.xml.append:3392
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/class"
 msgstr "コレクターズ・ケストレル・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3346
+#: src-en/data/blueprints.xml.append:3393
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/name"
 msgstr "オリオール"
 
-#: src-en/data/blueprints.xml.append:3348
+#: src-en/data/blueprints.xml.append:3395
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL\"]/desc"
 msgstr "最新兵器に取り憑かれた海賊が操縦するケストレル巡洋艦。"
 
-#: src-en/data/blueprints.xml.append:3421
+#: src-en/data/blueprints.xml.append:3468
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/class"
 msgstr "コレクターズ・エンジニア・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3422
+#: src-en/data/blueprints.xml.append:3469
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/name"
 msgstr "スプリンター"
 
-#: src-en/data/blueprints.xml.append:3424
+#: src-en/data/blueprints.xml.append:3471
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_2\"]/desc"
 msgstr "この船を操縦するのは、自分と敵の乗組員をミュータントに変えようとするマッドサイエンティストだ。"
 
-#: src-en/data/blueprints.xml.append:3496
+#: src-en/data/blueprints.xml.append:3543
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/class"
 msgstr "コレクターズ・デスブリンガー"
 
-#: src-en/data/blueprints.xml.append:3497
+#: src-en/data/blueprints.xml.append:3544
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/name"
 msgstr "クション"
 
-#: src-en/data/blueprints.xml.append:3499
+#: src-en/data/blueprints.xml.append:3546
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_KESTREL_3\"]/desc"
 msgstr "この船の武装は強力なパンチがある。正直なところ、それがすべてだ。"
 
-#: src-en/data/blueprints.xml.append:3575
+#: src-en/data/blueprints.xml.append:3622
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/class"
 msgstr "コレクターズ・エンジ・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3576
+#: src-en/data/blueprints.xml.append:3623
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/name"
 msgstr "オブセッション-C"
 
-#: src-en/data/blueprints.xml.append:3578
+#: src-en/data/blueprints.xml.append:3625
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI\"]/desc"
 msgstr "ガラクタを緩くつなぎ合わせたようにしか見えない一般的なエンジ巡洋艦とは異なり、この船はガラクタを緩くつなぎ合わせて作られている。"
 
-#: src-en/data/blueprints.xml.append:3656
+#: src-en/data/blueprints.xml.append:3703
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/class"
 msgstr "コレクターズ・アウトキャスト・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3657
+#: src-en/data/blueprints.xml.append:3704
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/name"
 msgstr "企業利益"
 
-#: src-en/data/blueprints.xml.append:3659
+#: src-en/data/blueprints.xml.append:3706
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_2\"]/desc"
 msgstr ""
 "この船は、テレビの人気キャラクター「レミーのレクマ」に着想を得たウェントワース・イノベーションズのアウトリーチプログラムの失敗作の一部である。"
 
-#: src-en/data/blueprints.xml.append:3734
+#: src-en/data/blueprints.xml.append:3781
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/class"
 msgstr "コレクターズ・ギャザリング・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3735
+#: src-en/data/blueprints.xml.append:3782
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/name"
 msgstr "コンポスター"
 
-#: src-en/data/blueprints.xml.append:3737
+#: src-en/data/blueprints.xml.append:3784
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_ENGI_3\"]/desc"
 msgstr "「自分の中胚葉の弱さを理解した瞬間から、それが嫌になった。私は鋼鉄の強さと確実性を切望している。できればミサイルの形がいい」。"
 
-#: src-en/data/blueprints.xml.append:3814
+#: src-en/data/blueprints.xml.append:3861
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/class"
 msgstr "コレクターズ・ステルス・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3815
+#: src-en/data/blueprints.xml.append:3862
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/name"
 msgstr "ワンショット"
 
-#: src-en/data/blueprints.xml.append:3817
+#: src-en/data/blueprints.xml.append:3864
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH\"]/desc"
 msgstr ""
@@ -1578,277 +1623,277 @@ msgstr ""
 "\t\n"
 "\t素早く殺すか、激しく死ぬかだ。"
 
-#: src-en/data/blueprints.xml.append:3894
+#: src-en/data/blueprints.xml.append:3941
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/class"
 msgstr "コレクターズ連邦巡洋艦"
 
-#: src-en/data/blueprints.xml.append:3895
+#: src-en/data/blueprints.xml.append:3942
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/name"
 msgstr "ライオン"
 
-#: src-en/data/blueprints.xml.append:3897
+#: src-en/data/blueprints.xml.append:3944
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_2\"]/desc"
 msgstr ""
 "この船の船長にとって、この連邦の法律は異質なものだ。彼らはクローン規制のメモを見落としたかもしれないが、本国からのテレポート禁止ルールには厳しい。"
 
-#: src-en/data/blueprints.xml.append:3970
+#: src-en/data/blueprints.xml.append:4016
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/class"
 msgstr "コレクターズ・ハイヴ・クルーザー"
 
-#: src-en/data/blueprints.xml.append:3971
+#: src-en/data/blueprints.xml.append:4017
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/name"
 msgstr "ヒメノプスII"
 
-#: src-en/data/blueprints.xml.append:3973
+#: src-en/data/blueprints.xml.append:4019
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_STEALTH_3\"]/desc"
 msgstr "この船の船長は、ヒメノプスの元クルーだった。労働条件に不満だった彼は、さらなる爆弾で自分の優位性を証明することに専念している。"
 
-#: src-en/data/blueprints.xml.append:4051
+#: src-en/data/blueprints.xml.append:4097
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/class"
 msgstr "コレクターズ・アイレス・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4052
+#: src-en/data/blueprints.xml.append:4098
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/name"
 msgstr "忍耐"
 
-#: src-en/data/blueprints.xml.append:4054
+#: src-en/data/blueprints.xml.append:4100
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK\"]/desc"
 msgstr "この船の責任者である僧侶は、何よりも忍耐の美徳を重んじた。ただ残念なのは、彼女が平和的であるというメモを見落としたことだ。"
 
-#: src-en/data/blueprints.xml.append:4127
+#: src-en/data/blueprints.xml.append:4173
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/class"
 msgstr "コレクターズ・ピースキーピング・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4128
+#: src-en/data/blueprints.xml.append:4174
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/name"
 msgstr "フラックス・キャパシタ"
 
-#: src-en/data/blueprints.xml.append:4130
+#: src-en/data/blueprints.xml.append:4176
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_2\"]/desc"
 msgstr "忍耐は美徳とされることが多い。これは事実かもしれないが、物事を少し早めることができないと誰が言うだろうか？"
 
-#: src-en/data/blueprints.xml.append:4205
+#: src-en/data/blueprints.xml.append:4251
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/class"
 msgstr "コレクターズ・クレプトクラシー・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4206
+#: src-en/data/blueprints.xml.append:4252
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/name"
 msgstr "スペンサー-45"
 
-#: src-en/data/blueprints.xml.append:4208
+#: src-en/data/blueprints.xml.append:4254
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_MONK_3\"]/desc"
 msgstr ""
 "残念なことに、スラッグのクルーはこの船が発進したまさにその時間に昼食に出かけてしまった。新しいクルーがいても、敵クルーを追跡するのは難しいかもしれない......。"
 
-#: src-en/data/blueprints.xml.append:4283
+#: src-en/data/blueprints.xml.append:4329
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/class"
 msgstr "コレクターの失われたサン・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4284
+#: src-en/data/blueprints.xml.append:4330
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/name"
 msgstr "滅亡"
 
-#: src-en/data/blueprints.xml.append:4286
+#: src-en/data/blueprints.xml.append:4332
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN\"]/desc"
 msgstr "勇敢な戦士を必要とする連盟の呼びかけを聞き、この勇敢なロスト・サンは、できるだけ多くの人々に火をつける機会に飛びついた。"
 
-#: src-en/data/blueprints.xml.append:4362
+#: src-en/data/blueprints.xml.append:4408
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/class"
 msgstr "コレクターズ・セオクラシー・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4363
+#: src-en/data/blueprints.xml.append:4409
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/name"
 msgstr "火成岩"
 
-#: src-en/data/blueprints.xml.append:4365
+#: src-en/data/blueprints.xml.append:4411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_2\"]/desc"
 msgstr ""
 "この船のユニークな武器がマグマを発射するのか溶岩を発射するのかについて、船内では多くの議論が交わされてきた。おそらく、敵も死んでいなければ参加していただろう。"
 
-#: src-en/data/blueprints.xml.append:4440
+#: src-en/data/blueprints.xml.append:4486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/class"
 msgstr "コレクターズ・リパブリック・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4441
+#: src-en/data/blueprints.xml.append:4487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/name"
 msgstr "ザ・アンプレ"
 
-#: src-en/data/blueprints.xml.append:4443
+#: src-en/data/blueprints.xml.append:4489
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
 msgstr "AMPという武器を持っているからAMPereと呼ばれているんだ！わかるか？"
 
-#: src-en/data/blueprints.xml.append:4517
+#: src-en/data/blueprints.xml.append:4563
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/class"
 msgstr "コレクターズ・ジェニオクラシー・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4518
+#: src-en/data/blueprints.xml.append:4564
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/name"
 msgstr "ハドロン"
 
-#: src-en/data/blueprints.xml.append:4520
+#: src-en/data/blueprints.xml.append:4566
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST\"]/desc"
 msgstr ""
 "このシェルはすぐに、誤ってアクセラレーターではなくパーティクルコライダーを購入してしまったことに気づいた。でもいいんだ。どうせならオレンジより紫の方がいい。"
 
-#: src-en/data/blueprints.xml.append:4594
+#: src-en/data/blueprints.xml.append:4640
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/class"
 msgstr "コレクターズ・オートクルーザー"
 
-#: src-en/data/blueprints.xml.append:4595
+#: src-en/data/blueprints.xml.append:4641
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/name"
 msgstr "ビクトリア"
 
-#: src-en/data/blueprints.xml.append:4597
+#: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_2\"]/desc"
 msgstr "ファインダーズ・キーパーズは黄金律であり、それは盗む物以外にも当てはまる。人間にも当てはまる！"
 
-#: src-en/data/blueprints.xml.append:4674
+#: src-en/data/blueprints.xml.append:4720
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/class"
 msgstr "コレクターズ・スペクトラル・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4675
+#: src-en/data/blueprints.xml.append:4721
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/name"
 msgstr "アバドン"
 
-#: src-en/data/blueprints.xml.append:4677
+#: src-en/data/blueprints.xml.append:4723
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_SCIENTIST_3\"]/desc"
 msgstr ""
 "数え切れないほどの千年もの間、内紛を促進するためにより優れた武器を開発してきた王朝は、ついに自分たちの銃が他派閥の船も引き裂くことができることに気づいた。"
 
-#: src-en/data/blueprints.xml.append:4751
+#: src-en/data/blueprints.xml.append:4797
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/class"
 msgstr "コレクターズ・ブルード・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4752
+#: src-en/data/blueprints.xml.append:4798
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/name"
 msgstr "ブルードマザー"
 
-#: src-en/data/blueprints.xml.append:4754
+#: src-en/data/blueprints.xml.append:4800
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD\"]/desc"
 msgstr "この船の船長について他に何が言える？彼らはクモが好きだ。クモが大好きなんだ。たぶん好きすぎる。"
 
-#: src-en/data/blueprints.xml.append:4827
+#: src-en/data/blueprints.xml.append:4873
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/class"
 msgstr "コレクターズ・ティイカカ・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4828
+#: src-en/data/blueprints.xml.append:4874
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/name"
 msgstr "フンパーディンク"
 
-#: src-en/data/blueprints.xml.append:4830
+#: src-en/data/blueprints.xml.append:4876
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_2\"]/desc"
 msgstr "これはティイカカの船であり、有名な海賊・アウトキャストとは何の関係もない。くれぐれも混同しないように。また、レーザーがたくさんついている。"
 
-#: src-en/data/blueprints.xml.append:4904
+#: src-en/data/blueprints.xml.append:4950
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/class"
 msgstr "コレクターズ分離主義クルーザー"
 
-#: src-en/data/blueprints.xml.append:4905
+#: src-en/data/blueprints.xml.append:4951
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/name"
 msgstr "リミットブレイク"
 
-#: src-en/data/blueprints.xml.append:4907
+#: src-en/data/blueprints.xml.append:4953
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_BROOD_3\"]/desc"
 msgstr "未来において、誰が有機的な友人を必要とするだろうか？必要なのはドローンだけだ。"
 
-#: src-en/data/blueprints.xml.append:4985
+#: src-en/data/blueprints.xml.append:5031
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/class"
 msgstr "コレクターズ・ラニウス・クルーザー"
 
-#: src-en/data/blueprints.xml.append:4986
+#: src-en/data/blueprints.xml.append:5032
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/name"
 msgstr "キティウェイク"
 
-#: src-en/data/blueprints.xml.append:4988
+#: src-en/data/blueprints.xml.append:5034
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS\"]/desc"
 msgstr "人々はこのクルーザーの船体に旗を見続けている。「布じゃないのか？模様がない？彼はただ色がきれいだと思っているだけだ。"
 
-#: src-en/data/blueprints.xml.append:5062
+#: src-en/data/blueprints.xml.append:5108
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/class"
 msgstr "コレクターズMVレベル・クルーザー"
 
-#: src-en/data/blueprints.xml.append:5063
+#: src-en/data/blueprints.xml.append:5109
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/name"
 msgstr "圧制者"
 
-#: src-en/data/blueprints.xml.append:5065
+#: src-en/data/blueprints.xml.append:5111
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_2\"]/desc"
 msgstr "ドローンシステムのパワーを最大化するために、多くのコストが削減された。しかし、過ぎたことは水に流そう。"
 
-#: src-en/data/blueprints.xml.append:5141
+#: src-en/data/blueprints.xml.append:5187
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/class"
 msgstr "コレクターズ・スズレイン・クルーザー"
 
-#: src-en/data/blueprints.xml.append:5142
+#: src-en/data/blueprints.xml.append:5188
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/name"
 msgstr "メカノマンティス"
 
-#: src-en/data/blueprints.xml.append:5144
+#: src-en/data/blueprints.xml.append:5190
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LANIUS_3\"]/desc"
 msgstr "未来を受け入れる！テクノクラティック・ハイヴは未来型ロボットの仲間たちと同化を始める！"
 
-#: src-en/data/blueprints.xml.append:5222
+#: src-en/data/blueprints.xml.append:5268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/class"
 msgstr "コレクターズ・スラッグ・プレジャー・バージ"
 
-#: src-en/data/blueprints.xml.append:5223
+#: src-en/data/blueprints.xml.append:5269
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/name"
 msgstr "エリシア"
 
-#: src-en/data/blueprints.xml.append:5225
+#: src-en/data/blueprints.xml.append:5271
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE\"]/desc"
 msgstr ""
@@ -1856,79 +1901,79 @@ msgstr ""
 "\t「キャプテンの友人が言う。\n"
 "\t「船長は言った。"
 
-#: src-en/data/blueprints.xml.append:5301
+#: src-en/data/blueprints.xml.append:5347
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/class"
 msgstr "コレクターズ・オーグメンテッド・クルーザー"
 
-#: src-en/data/blueprints.xml.append:5302
+#: src-en/data/blueprints.xml.append:5348
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/name"
 msgstr "ヨットクラブ"
 
-#: src-en/data/blueprints.xml.append:5304
+#: src-en/data/blueprints.xml.append:5350
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_2\"]/desc"
 msgstr ""
 "小惑星採掘で余剰資源が生まれ、ポスト欠乏社会になると、この船長の故郷の現実の人々は、余剰の富を浪費する新しい方法を見つけなければならなかった。それを武器に変えてはどうだろう？"
 
-#: src-en/data/blueprints.xml.append:5379
+#: src-en/data/blueprints.xml.append:5425
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/class"
 msgstr "コレクターズ・ハッカー・クルーザー"
 
-#: src-en/data/blueprints.xml.append:5380
+#: src-en/data/blueprints.xml.append:5426
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/name"
 msgstr "5Y5-5H0CK"
 
-#: src-en/data/blueprints.xml.append:5382
+#: src-en/data/blueprints.xml.append:5428
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
 msgstr ""
 "メインフレームのキャリブレーション。バイパスろ過コアを作動。プロセッサー・オーバークロック・メガチップ、最大効率でオーバードライブ中。戦闘準備完了。"
 
-#: src-en/data/blueprints.xml.append:5457
+#: src-en/data/blueprints.xml.append:5503
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/class"
 msgstr "コレクターズ・レベル・クルーザー"
 
-#: src-en/data/blueprints.xml.append:5458
+#: src-en/data/blueprints.xml.append:5504
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/name"
 msgstr "断罪"
 
-#: src-en/data/blueprints.xml.append:5460
+#: src-en/data/blueprints.xml.append:5506
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL\"]/desc"
-msgstr "この海賊船の乗組員は、皮肉にも自分たちの船の反乱軍の遺産にしがみついている。それは多元宇宙を救うために必要なエッジを加えている。"
+msgstr "この海賊船の乗組員は、皮肉にも自分たちの船の反乱軍の遺産にしがみついている。それはマルチバースを救うために必要なエッジを加えている。"
 
-#: src-en/data/blueprints.xml.append:5534
+#: src-en/data/blueprints.xml.append:5580
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/class"
 msgstr "コレクターズ・クルーザー"
 
-#: src-en/data/blueprints.xml.append:5535
+#: src-en/data/blueprints.xml.append:5581
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/name"
 msgstr "テオフィラス"
 
-#: src-en/data/blueprints.xml.append:5537
+#: src-en/data/blueprints.xml.append:5583
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_2\"]/desc"
 msgstr "古代のエルドリッチの超兵器で武装...それは...古代のエルドリッチの超兵器で武装している。それだけだ、本当に。"
 
-#: src-en/data/blueprints.xml.append:5609
+#: src-en/data/blueprints.xml.append:5655
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/class"
 msgstr "コレクターズ・レックテッド・ボマー"
 
-#: src-en/data/blueprints.xml.append:5610
+#: src-en/data/blueprints.xml.append:5656
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/name"
 msgstr "ゴミの山"
 
-#: src-en/data/blueprints.xml.append:5612
+#: src-en/data/blueprints.xml.append:5658
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_REBEL_3\"]/desc"
 msgstr ""
