@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: shadowcrowX <13549855@qq.com>\n"
+"PO-Revision-Date: 2025-05-26 15:49+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/datatext_miscxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "提示：制造出的无人机会在失效前临时发挥作用。"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"tip_mind_weapon\"]"
-msgstr ""
+msgstr "提示：若该武器击中敌人，且适用的情况下，被击中的敌人将受到心灵控制效果的影响。但该效果不会继承你所拥有的任何升级后的心灵控制系统的加成效果。"
 
 #: src-en/data/text_misc.xml.append:8
 msgid "data/text_misc.xml.append$//text[@name=\"tip_decoy\"]"
@@ -33,7 +33,7 @@ msgstr "提示：聚能激光的每次额外充能，都会使其威力获得更
 
 #: src-en/data/text_misc.xml.append:12
 msgid "data/text_misc.xml.append$//text[@name=\"tip_cascade\"]"
-msgstr ""
+msgstr "提示：级联武器会对所有相邻舱室造成特定类型的伤害。但它们不会影响斜对角相连的房间。"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"tip_tile_beam\"]"
