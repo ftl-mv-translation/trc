@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-05-26 10:46+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Korean <https://weblate.hyperq.be/projects/"
+"the-renegade-collection/datatext_blueprintsxmlappend/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_blueprints.xml.append:2
 msgid ""
@@ -18,7 +25,8 @@ msgstr "이 함선을 해금하려면 아무 버전의 공병 순양함으로 �
 #: src-en/data/text_blueprints.xml.append:4
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_ANGEL_unlock\"]"
-msgstr "이 함선을 해금하려면 아무 버전의 죽음의 천사 순양함으로 게임을 클리어 하십시오."
+msgstr "이 함선을 해금하려면 아무 버전의 죽음의 천사 순양함으로 게임을 클리어 "
+"하십시오."
 
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
@@ -58,7 +66,8 @@ msgstr "이 함선을 해금하려면 아무 버전의 몽크 순양함으로 �
 #: src-en/data/text_blueprints.xml.append:12
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_PEACE_unlock\"]"
-msgstr "이 함선을 해금하려면 아무 버전의 평화유지군 순양함으로 게임을 클리어 하십시오."
+msgstr "이 함선을 해금하려면 아무 버전의 평화유지군 순양함으로 게임을 클리어 "
+"하십시오."
 
 #: src-en/data/text_blueprints.xml.append:13
 msgid ""
@@ -103,7 +112,8 @@ msgstr "이 함선을 해금하려면 아무 버전의 브루드 순양함으로
 #: src-en/data/text_blueprints.xml.append:21
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_TRC_PLAYER_SHIP_SEPARATIST_unlock\"]"
-msgstr "이 함선을 해금하려면 아무 버전의 분리주의자 순양함으로 게임을 클리어 하십시오."
+msgstr "이 함선을 해금하려면 아무 버전의 분리주의자 순양함으로 게임을 클리어 "
+"하십시오."
 
 #: src-en/data/text_blueprints.xml.append:22
 msgid ""
