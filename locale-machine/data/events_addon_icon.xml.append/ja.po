@@ -5,6 +5,17 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: src-en/data/events_addon_icon.xml.append:10
+msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/hover-text"
+msgstr ""
+"レネゲイド・コレクション\n"
+"\tクリックして詳細を見る"
+
 #: src-en/data/events_addon_icon.xml.append:14
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/text"
 msgstr ""
+"レネゲイド・コレクション\n"
+"\t開発者Kix\n"
+"\t現在有効。\n"
+"\t\n"
+"\tMultiverseと一緒に使うための装備拡張パック。ベースMODにそぐわないとされる様々な武器やドローンのコンセプトが含まれている。Multiverseのベースには含まれないため、バランスは考慮されていますが、装備の性質上、通常よりもバランスにばらつきが出る可能性があります。新しい武器には、ニッチなもの、既存の武器とコンセプトが似すぎているもの、「バランスが取りにくい」ギミックを含むもの、コンセプト的に奇妙なものなどが含まれます。"

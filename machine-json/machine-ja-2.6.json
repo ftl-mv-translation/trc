@@ -169,7 +169,7 @@
       "done": false
     },
     "Required Power: 1\n\t\tCharge Time: 11 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 3\n\t\tBonus Charging Speed: x1.3 per charge\n\t\t\n\t\tBase Hull Damage: 2/3/4\n\t\tTotal System Damage: 2/3/4\n\t\tTotal Crew Damage: 30/45/60\n\t\t\n\t\tFire Chance 10/20/30%\n\t\tBreach Chance: 10/20/30% (Adjusted: 9/16/21%)": {
-      "deepl": "",
+      "deepl": "必要電力：1\n\t\tチャージ時間：11秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ数3\n\t\tボーナスチャージ速度: x1.3/チャージ\n\t\t\n\t\t基本船体ダメージ2/3/4\n\t\tシステム総ダメージ2/3/4\n\t\t乗員総ダメージ30/45/60\n\t\t\n\t\t火災確率: 10/20/30\n\t\tブリーチチャンス: 10/20/30% (調整: 9/16/21%)",
       "machine": "",
       "done": false
     },
@@ -189,7 +189,7 @@
       "done": false
     },
     "Required Power: 2\n\t\tCharge Time: 13 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tBonus Charging Speed: x1.5 per charge\n\t\t\n\t\tBase Hull Damage: 3/4/5/6\n\t\tTotal System Damage: 3/4/5/6\n\t\tTotal Crew Damage: 45/60/75/90\n\t\t\n\t\tFire Chance 10/20/30/40%\n\t\tBreach Chance: 10/20/30/40% (Adjusted: 9/16/21/24%)": {
-      "deepl": "",
+      "deepl": "必要電力：2\n\t\tチャージ時間：13秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ4\n\t\tチャージ速度ボーナス: x1.5/チャージ\n\t\t\n\t\t基本船体ダメージ3/4/5/6\n\t\tシステム総ダメージ3/4/5/6\n\t\t乗組員の総ダメージ45/60/75/90\n\t\t\n\t\t火災確率: 10/20/30/40\n\t\tブリーチチャンス: 10/20/30/40% (調整: 9/16/21/24%)",
       "machine": "",
       "done": false
     },
@@ -209,7 +209,7 @@
       "done": false
     },
     "Required Power: 2\n\t\tCharge Time: 9 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tShield Piercing: 1/2/3/4\n\t\tBonus Charging Speed: x1.5 per charge\n\t\t\n\t\tBase Hull Damage: 2\n\t\tTotal System Damage: 2\n\t\tTotal Crew Damage: 30\n\t\t\n\t\tBreach Chance: 60/70/80/90%": {
-      "deepl": "",
+      "deepl": "必要パワー: 2\n\t\tチャージ時間：9秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ4\n\t\tシールド貫通1/2/3/4\n\t\tボーナスチャージ速度: x1.5 per charge\n\t\t\n\t\t基本船体ダメージ2\n\t\tシステム総ダメージ2\n\t\t総乗組員ダメージ30\n\t\t\n\t\tブリーチチャンス: 60/70/80/90",
       "machine": "",
       "done": false
     },
@@ -229,7 +229,7 @@
       "done": false
     },
     "Required Power: 1\n\t\tCharge Time: 8 seconds\n\t\tAccuracy Bonus: +10%\n\n\t\tMax Charges: 4\n\t\tBonus Charging Speed: x1.2 per charge\n\t\t\n\t\tIon Damage: 1/2/3/4\n\t\t\n\t\tStun Chance: 30/40/50/60% (3 seconds long)": {
-      "deepl": "",
+      "deepl": "必要電力：1\n\t\tチャージ時間：8秒\n\t\t精度ボーナス: +10\n\n\t\t最大チャージ4\n\t\tボーナスチャージ速度: x1.2/チャージ\n\t\t\n\t\tイオンダメージ1/2/3/4\n\t\t\n\t\tスタンチャンス30/40/50/60% (3秒間)",
       "machine": "",
       "done": false
     },
@@ -484,7 +484,7 @@
       "done": false
     },
     "Requires no power\n\t\tCharge Time: 12 seconds\n\t\tAccuracy Bonus: +30%\n\n\t\tShots Per Charge: 1\n\n\t\tDrone Part Consumption: 1\n\t\t\n\t\tRepair Drone Lifetime: 60 seconds": {
-      "deepl": "",
+      "deepl": "電源不要\n\t\tチャージ時間：12秒\n\t\t精度ボーナス: +30\n\n\t\t1チャージあたりのショット数1\n\n\t\tドローン部品消費量：1\n\t\t\n\t\t修理ドローンの寿命：60秒",
       "machine": "",
       "done": false
     },
@@ -859,7 +859,7 @@
       "done": false
     },
     "Required Power: 2\n\t\tCharge Time: 14 seconds\n\n\t\tShot Radius: 50\n\t\tFires 5 Random Gems Per Shot\n\t\t\n\t\tRed Gem: 1 Hull Damage, 0 System Damage, 80% Fire Chance\n\t\tBlue Gem: 1 Ion Damage\n\t\tGreen Gem: 1 Damage, 45 Crew Damage, 10 Seconds Stun\n\t\tCyan Gem: 1 Damage, 0 System Damage, locks down room\n\t\tPurple Gem: 1 Damage, 2 System Damage, 80% Breach Chance\n\n\t\tScrap Consumption: 3": {
-      "deepl": "",
+      "deepl": "必要電力：2\n\t\t充電時間：14秒\n\n\t\tショット半径: 50\n\t\t1ショットにつきランダムジェム5個発射\n\t\t\n\t\t赤いジェム：船体ダメージ1、システムダメージ0、発射確率80\n\t\t青いジェム: 1イオンダメージ\n\t\t緑のジェム：1ダメージ、45クルーダメージ、10秒スタン\n\t\tシアンのジェム: 1ダメージ、0システムダメージ、部屋をロックダウン\n\t\t紫色のジェム: 1ダメージ、2システムダメージ、80%ブリーチチャンス\n\n\t\tスクラップ消費3",
       "machine": "",
       "done": false
     },
@@ -1814,7 +1814,7 @@
       "done": false
     },
     "\"Oh dear, such savagery was to be expected. Brothers, sisters, and hallowed siblings, it appears it is time we remember what we used to know of war.\"": {
-      "deepl": "",
+      "deepl": "\"やれやれ、このような野蛮さは予想されていたことだ。兄弟、姉妹、そして神聖なる兄弟たちよ、そろそろ私たちがかつて知っていた戦争のことを思い出す時が来たようだ」。",
       "machine": "",
       "done": false
     },
@@ -2073,8 +2073,13 @@
       "machine": "",
       "done": false
     },
+    "THE RENEGADE COLLECTION \n\tClick to see more info.": {
+      "deepl": "レネゲード・コレクション\n\tクリックして詳細を見る",
+      "machine": "",
+      "done": false
+    },
     "THE RENEGADE COLLECTION \n\tDeveloped by: Kix\n\tCurrently Enabled.\n\t\n\tAn equipment expansion pack meant to be used alongside Multiverse. Includes many various weapon and drone concepts considered, for one reason or another, unfitting for the base mod. While attempting to be balanced, due to the nature of the equipment in this pack as well as the fact it is not part of base Multiverse means there may be a higher variation of balance than usual. The new weapons include those that are niche, too conceptually similar to existing weapons, involve \"hard-to-balance\" gimmicks, or are just conceptually bizarre.": {
-      "deepl": "",
+      "deepl": "レネゲード・コレクション\n\t開発者Kix\n\t現在有効。\n\t\n\tMultiverseと一緒に使うための装備拡張パック。ベースMODにそぐわないとされる様々な武器やドローンのコンセプトが含まれている。Multiverseのベースには含まれないため、バランスは考慮されていますが、装備の性質上、通常よりもバランスにばらつきが出る可能性があります。新しい武器には、ニッチなもの、既存の武器とコンセプトが似すぎているもの、「バランスが取りにくい」ギミックを含むもの、コンセプト的に奇妙なものなどが含まれます。",
       "machine": "",
       "done": false
     },
