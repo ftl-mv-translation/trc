@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-31 08:50+0000\n"
+"Last-Translator: H2O <dedor11111@gmail.com>\n"
 "Language-Team: Korean <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_addon_iconxmlappend/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +16,6 @@ msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/hover-text
 msgstr ""
 
 #: src-en/data/events_addon_icon.xml.append:14
-#, fuzzy
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/text"
 msgstr ""
 "배회자의 수집품\n"
