@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-06-08 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Вы заряжаете боеприпасы и устраиваете �
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr "(Дрон \"Громобой\") Настроить режим дрона. [Текущий режим: Пробоина]"
+msgstr "(Дрон \"Громобой\") Настроить режим дрона. [Текущий режим: Пробоины]"
 
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
