@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-24 13:32+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -571,7 +571,7 @@ msgstr "破片炸弹"
 #: src-en/data/blueprints.xml.append:1242
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_SHRAPNEL\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "自传送炸弹，对目标舱室以及相邻舱室造成系统伤害。可瞄准己方星舰。"
 
 #: src-en/data/blueprints.xml.append:1276
 msgid ""
@@ -639,18 +639,20 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_DRONE\"]/descriptionOverride"
 msgstr ""
 "自传送炸弹，可在己方舰船上部署一架有限寿命的维护无人机，辅助船员进行修复作业。可瞄准己方星舰。\n"
+"\t\t这些无人机将以每秒3倍的速度进行维修，但不会受到无人机增压的加成。\n"
 "\n"
 "\t属性：\n"
 "\t无需供能\n"
-"\t充能时间：15 秒\n"
-"\t无人机消耗：1 架\n"
+"\t充能时间：12 秒\n"
 "\t命中率加成：+30%\n"
 "\n"
 "\t弹体数：1 发\n"
 "\n"
-"\t维护无人机寿命：90 秒\n"
+"\t无人机消耗：1 架\n"
 "\n"
-"\t基础价格：45~"
+"\t维护无人机寿命：60 秒\n"
+"\n"
+"\t价格：45~   -   售价：22~"
 
 #: src-en/data/blueprints.xml.append:1429
 msgid ""
@@ -863,7 +865,7 @@ msgstr "律神导弹"
 #: src-en/data/blueprints.xml.append:1896
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "一种威力巨大的导弹，爆炸时会引发弹片飞溅，对所有相邻舱室造成系统伤害。"
 
 #: src-en/data/blueprints.xml.append:1939
 msgid ""
@@ -878,7 +880,7 @@ msgstr "湮神导弹"
 #: src-en/data/blueprints.xml.append:1941
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_SHRAPNEL_2\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "一种威力巨大的导弹，爆炸时会引发弹片飞溅，对所有相邻舱室造成系统伤害。升级版本会造成更大破坏。"
 
 #: src-en/data/blueprints.xml.append:1984
 msgid ""
@@ -893,7 +895,7 @@ msgstr "悔神导弹"
 #: src-en/data/blueprints.xml.append:1986
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_MISSILES_INSTANT\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "发射一枚极其精准且威力巨大的导弹。每场战斗只能使用一次。"
 
 #: src-en/data/blueprints.xml.append:2038
 msgid ""
@@ -920,7 +922,7 @@ msgstr "瘟疫射电"
 
 #: src-en/data/blueprints.xml.append:2119
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_VIRULENT\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "被多个星域禁用，瘟疫射电会散发巨量辐射，对目标舱室和相邻舱室内的船员造成伤害。"
 
 #: src-en/data/blueprints.xml.append:2171
 msgid ""
@@ -998,7 +1000,7 @@ msgstr "工厂无人机"
 #: src-en/data/blueprints.xml.append:2372
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_COMBAT_ASSEMBLED\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "你 不 应 该 看 到 这 个。"
 
 #: src-en/data/blueprints.xml.append:2382
 msgid ""
@@ -1012,7 +1014,7 @@ msgstr "战斗工厂"
 
 #: src-en/data/blueprints.xml.append:2384
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_DRONE_GUN\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "一种内置制造器的特殊武器。以一个无人机部件为代价，制造出一架临时攻击无人机来攻击敌方飞船。"
 
 #: src-en/data/blueprints.xml.append:2426
 msgid ""
@@ -1041,7 +1043,7 @@ msgstr "'网络奇兵'"
 #: src-en/data/blueprints.xml.append:2476
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_SYSTEMSHOCK\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "一种过冲离子武器，直接击中一个舱室时会产生级联反应，对相邻系统造成1点离子伤害。"
 
 #: src-en/data/blueprints.xml.append:2518
 msgid ""
@@ -1068,7 +1070,7 @@ msgstr "'信札'"
 
 #: src-en/data/blueprints.xml.append:2569
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_EPISTLE\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "一种古老的邪恶武器，它会侵入受害者的头脑，使他们彼此反目。能对所攻击的任何敌人施加心灵控制，但不能操控他们。"
 
 #: src-en/data/blueprints.xml.append:2655
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BEAM_ION\"]/title"
@@ -1095,7 +1097,7 @@ msgstr "熔岩炮"
 #: src-en/data/blueprints.xml.append:2688
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LAVA_THROWER\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "一种奇异的武器，只存在于一个疯子的想象之中。虽然只是一个光点武器，但其汇聚的炽热岩浆流能够将接触到的任何舱室瞬间变成一片火海。"
 
 #: src-en/data/blueprints.xml.append:2715
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CASH_GEM_RED\"]/title"
@@ -1206,20 +1208,19 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_CASH_GUN\"]/tooltipOverride"
 msgstr ""
-"属性：\n"
-"\t需要能量：2\n"
+"能耗：2 格\n"
 "\t充能时间：14 秒\n"
 "\n"
 "\t射击半径:50\n"
 "\t每次射击发射5颗随机宝石\n"
 "\n"
-"\t红宝石:1点船体伤害,0点系统伤害,80%几率着火\n"
+"\t红宝石:1点船体伤害,0点系统伤害,80%几率起火\n"
 "\t蓝宝石:1点离子伤害\n"
 "\t绿宝石:1点伤害,45点人员伤害,眩晕10秒\n"
 "\t青宝石:1点伤害,0点系统伤害,封锁房间\n"
 "\t紫宝石:1点伤害,2点系统伤害,80%几率破舱\n"
 "\n"
-"\t废料消耗:3"
+"\t废料消耗:3~"
 
 #: src-en/data/blueprints.xml.append:2860
 msgid ""
@@ -1234,7 +1235,7 @@ msgstr "殖民炸弹"
 #: src-en/data/blueprints.xml.append:2863
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_BOMB_COLONIZER\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "自传送装置，若舱室内没有被心灵控制的船员，则会心灵控制舱室内的敌方船员。可瞄准己方星舰。"
 
 #: src-en/data/blueprints.xml.append:2897
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"clone_soldier\"]/desc"
@@ -1470,7 +1471,7 @@ msgstr "灭火无人机"
 #: src-en/data/blueprints.xml.append:3302
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_extinguisher\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "你 不 应 该 看 到 这 个。"
 
 #: src-en/data/blueprints.xml.append:3306
 msgid ""
@@ -1507,7 +1508,7 @@ msgstr "高压无人机"
 
 #: src-en/data/blueprints.xml.append:3330
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_battery\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "你 不 应 该 看 到 这 个。"
 
 #: src-en/data/blueprints.xml.append:3334
 msgid ""
@@ -1545,7 +1546,7 @@ msgstr "汲护无人机"
 #: src-en/data/blueprints.xml.append:3358
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"drone_overcharger\"]/desc"
-msgstr "你 不 应 该 看 到 这 个"
+msgstr "你 不 应 该 看 到 这 个。"
 
 #: src-en/data/blueprints.xml.append:3362
 msgid ""
@@ -1566,10 +1567,10 @@ msgstr "汲护无人机"
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TRC_OVERSHIELD\"]/desc"
 msgstr ""
 "可操控的辅助无人机，其能够从所处舱室的系统汲取能量来为同舱室的友方船员提供伤害减免。\n"
-"    \n"
+"        \n"
 "-50点最大生命值，0.75倍移动速度\n"
 "-为同舱室的友方船员提供防护，使其获得75%的伤害抗性\n"
-"-从同舱室的系统中持续汲取3格能量，有可供汲取的能量才会生效"
+"-从同舱室的系统中持续汲取3格能量，有可供汲取的能量才会生效。"
 
 #: src-en/data/blueprints.xml.append:3392
 msgid ""
@@ -1797,7 +1798,7 @@ msgstr "多极号"
 #: src-en/data/blueprints.xml.append:4489
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_LOSTSUN_3\"]/desc"
-msgstr "它叫多极号是因为它附有一件多级武器，合理吧？"
+msgstr "它叫多极号是因为它附有一件多级武器！合理...吧？"
 
 #: src-en/data/blueprints.xml.append:4563
 msgid ""
