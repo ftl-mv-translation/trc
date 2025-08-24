@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: shadowcrowX <13549855@qq.com>\n"
+"PO-Revision-Date: 2025-08-24 13:32+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/dataeventsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -61,27 +61,27 @@ msgstr "接受悬赏任务：\"克隆者\"。"
 #: src-en/data/events.xml.append:48
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_fed\"]/text"
-msgstr "接受悬赏任务：\"\"。"
+msgstr "接受悬赏任务：\"开明者\"。"
 
 #: src-en/data/events.xml.append:56
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_zoltan\"]/text"
-msgstr "接受悬赏任务：\"\"。"
+msgstr "接受悬赏任务：\"殖民者\"。"
 
 #: src-en/data/events.xml.append:64
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_auto\"]/text"
-msgstr "接受悬赏任务：\"\"。"
+msgstr "接受悬赏任务：\"工匠\"。"
 
 #: src-en/data/events.xml.append:72
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_rock\"]/text"
-msgstr "接受悬赏任务：\"\"。"
+msgstr "接受悬赏任务：\"富裕者\"。"
 
 #: src-en/data/events.xml.append:80
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/text"
-msgstr ""
+msgstr "看来都完成了......除了最后一个？"
 
 #: src-en/data/events.xml.append:82
 msgid ""
