@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-24 13:32+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_special_storagexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -15,58 +15,58 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "使用离子空雷发射器。[-15}，拖延2次叛军追击，不影响恶名]"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
-msgstr ""
+msgstr "你操纵弹药，为叛军设置一个陷阱。幸运的是，由于模糊的法律漏洞，使用这种武器并不违法，尽管它在道德上非常可疑。"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(电震无人机)切换模式。[当前模式：破舱]"
 
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(电震无人机)切换模式。[当前模式：离子]"
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(多级激光)切换武器供能。[当前能耗：2格]"
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(多级激光)切换武器供能。[当前能耗：3格]"
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(多级激光)切换武器供能。[当前能耗：4格]"
 
 #: src-en/data/events_special_storage.xml.append:49
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/text"
-msgstr ""
+msgstr "确定切换无人机模式吗？"
 
 #: src-en/data/events_special_storage.xml.append:51
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/text"
-msgstr ""
+msgstr "切换无人机为离子炸弹模式。"
 
 #: src-en/data/events_special_storage.xml.append:53
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始校正无人机..."
 
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
@@ -76,7 +76,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:58
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "无人机校正完毕。"
 
 #: src-en/data/events_special_storage.xml.append:61
 msgid ""
@@ -91,17 +91,17 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/text"
-msgstr ""
+msgstr "确定切换无人机模式吗？"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/text"
-msgstr ""
+msgstr "切换无人机为破舱炸弹模式。"
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始校准无人机..."
 
 #: src-en/data/events_special_storage.xml.append:81
 msgid ""
@@ -111,7 +111,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:83
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "无人机校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:86
 msgid ""
@@ -127,16 +127,18 @@ msgstr "继续。"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/text"
 msgstr ""
+"你确定要切换武器能耗？\n"
+"\t当前属性：[伤害: 2点, 充能时间：6秒]"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/text"
-msgstr ""
+msgstr "切换武器到3能耗。[伤害：4点，充能时间：9秒]"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:115
 msgid ""
@@ -146,7 +148,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "武器校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:120
 msgid ""
@@ -156,12 +158,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/text"
-msgstr ""
+msgstr "切换武器到4能耗。[伤害：6点，充能时间：12秒]"
 
 #: src-en/data/events_special_storage.xml.append:130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
@@ -171,7 +173,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "武器校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:138
 msgid ""
@@ -181,22 +183,24 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[3]/text"
-msgstr ""
+msgstr "返回切换菜单。"
 
 #: src-en/data/events_special_storage.xml.append:151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/text"
 msgstr ""
+"你确定要切换武器能耗？\n"
+"\t当前属性：[伤害: 4点, 充能时间：9秒]"
 
 #: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/text"
-msgstr ""
+msgstr "切换武器到2能耗。[伤害：2点，充能时间：6秒]"
 
 #: src-en/data/events_special_storage.xml.append:156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
@@ -206,7 +210,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "武器校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
@@ -216,12 +220,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/text"
-msgstr ""
+msgstr "切换武器到4能耗。[伤害：6点，充能时间：12秒]"
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:177
 msgid ""
@@ -231,7 +235,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "武器校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
@@ -241,22 +245,24 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[3]/text"
-msgstr ""
+msgstr "返回切换菜单。"
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/text"
 msgstr ""
+"你确定要切换武器能耗？\n"
+"\t当前属性：[伤害: 6点, 充能时间：12秒]"
 
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/text"
-msgstr ""
+msgstr "切换武器到2能耗。[伤害：2点，充能时间：6秒]"
 
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:203
 msgid ""
@@ -266,7 +272,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "武器校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:208
 msgid ""
@@ -276,12 +282,12 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/text"
-msgstr ""
+msgstr "切换武器到3能耗。[伤害：4点，充能时间：9秒]"
 
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你开始校准武器..."
 
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
@@ -291,7 +297,7 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "武器校准完毕。"
 
 #: src-en/data/events_special_storage.xml.append:226
 msgid ""
@@ -301,4 +307,4 @@ msgstr "继续。"
 #: src-en/data/events_special_storage.xml.append:234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[3]/text"
-msgstr ""
+msgstr "返回切换菜单。"
