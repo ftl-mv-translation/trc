@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-24 13:32+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_sector_unionxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -15,13 +15,13 @@ msgstr ""
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "升级'鹰钩'辐射光束II。"
 
 #: src-en/data/events_sector_union.xml.append:8
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他来改造。"
 
 #: src-en/data/events_sector_union.xml.append:14
 msgid ""
@@ -33,19 +33,19 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "片刻后，经过改良的武器回到了你的手中。"
 
 #: src-en/data/events_sector_union.xml.append:23
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "升级窒息离子炮。"
 
 #: src-en/data/events_sector_union.xml.append:25
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他来改造。"
 
 #: src-en/data/events_sector_union.xml.append:31
 msgid ""
@@ -57,19 +57,19 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "片刻后，经过改良的武器回到了你的手中。"
 
 #: src-en/data/events_sector_union.xml.append:40
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "升级相位能量炮。"
 
 #: src-en/data/events_sector_union.xml.append:42
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他来改造。"
 
 #: src-en/data/events_sector_union.xml.append:48
 msgid ""
@@ -81,19 +81,19 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "片刻后，经过改良的武器回到了你的手中。"
 
 #: src-en/data/events_sector_union.xml.append:57
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "升级粒子炸弹。"
 
 #: src-en/data/events_sector_union.xml.append:59
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "你把武器交给工程师，让他来改造。"
 
 #: src-en/data/events_sector_union.xml.append:65
 msgid ""
@@ -105,4 +105,4 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_union.xml.append$//mod:findName[@name=\"UNION_EFFICIENCY_ENGINEER\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "片刻后，经过改良的武器回到了你的手中。"
