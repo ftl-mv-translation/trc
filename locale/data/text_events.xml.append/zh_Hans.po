@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-08-24 13:32+0000\n"
+"Last-Translator: Ssstranger <1913944184@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/datatext_eventsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
@@ -13,4 +13,4 @@ msgstr ""
 
 #: src-en/data/text_events.xml.append:2
 msgid "data/text_events.xml.append$//text[@name=\"text_collector_accept\"]"
-msgstr ""
+msgstr "\"棒～～极了，棒～极了！看来～～那条情报终究是～～有用～～的。我就知道这个人情花得～～值...好吧，陌生～～人。我会把坐标～～发给你～的～。我正用一种摇摇晃晃的空间凝～～滞球～～把他们困着，所以你动作得快点。祝你好～～运，陌生～～人！而且因为～～你这么～～上～～道，或许我能卖～～点什么～～东西给你，让这趟活儿变得更轻松～～点？\""
