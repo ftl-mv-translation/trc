@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 13:05+0000\n"
+"PO-Revision-Date: 2025-09-22 18:19+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/dataautoblueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -19,7 +19,7 @@ msgstr "Le Collectionneur"
 #: src-en/data/autoBlueprints.xml.append:1080
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CONTINUITY_BOSS\"]/class"
-msgstr "L'applicateur de Quarantaine"
+msgstr "L'exécuteur de Quarantaine"
 
 #: src-en/data/autoBlueprints.xml.append:1153
 msgid ""
