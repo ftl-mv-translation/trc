@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-24 17:19+0000\n"
+"PO-Revision-Date: 2025-10-08 11:20+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -1981,7 +1981,7 @@ msgstr "5Y5-5H0C"
 #: src-en/data/blueprints.xml.append:5428
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"TRC_PLAYER_SHIP_PLEASURE_3\"]/desc"
-msgstr "Calibrage du cadre principal. Engagement du noyau de filtration en dérivation. La méga-puce de surcadençage du processeur fonctionne à pleine puissance en mode suractivation. Ce vaisseau est prêt pour le combat."
+msgstr "Calibrage du cadre principal. Engagement du noyau de filtration en dérivation. La méga-puce de surcadençage du processeur fonctionne à pleine puissance en mode Surmultiplicateur. Ce vaisseau est prêt pour le combat."
 
 #: src-en/data/blueprints.xml.append:5503
 msgid ""
