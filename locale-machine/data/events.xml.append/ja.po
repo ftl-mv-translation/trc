@@ -8,137 +8,135 @@ msgstr ""
 #: src-en/data/events.xml.append:13
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/text"
 msgstr ""
-"むしろ不思議なことに、ここで放送されているシグナルは、どういうわけかあなただけに見えているようだ。到着してしばらくすると、その信号は消え、まもなく周囲の空間が少し収縮した後、凍りついたように見える。見知らぬ船があなたのそばに現れ、クロークを解除するでもなく、飛び乗るでもない。\n"
+"奇妙なことに、ここで放送されている信号はなぜかあなたにしか見えないようだ。到着して数秒で消え、その後すぐにあなたの周りの空間が少し収縮してから凍りつくように見える。奇妙な船が、クロークを解除するのでもジャンプインするのでもなく、ただあなたの隣に現れる。\n"
 "\t\n"
-"\t船はあなたに呼びかけ、向こう側には奇妙な服装をしたスラッグがいる。彼はほとんど旅商人に似ている......だが......意味がわからない？\"よそ者 \"だ！グリーティングス！君はとても、とても混乱しているに違いない。君の疑問に答えたいのはやまやまだ！でも、時間がないんだ......\""
+"\tその船があなたに通信を送ってくる。相手は奇妙な服を着たスラグだ。旅の商人に似ているが…しかし…そんなはずはない？「旅人さん！ご、ご挨拶でスッ！さぞ混乱していることだろう。質問には全部答えたいところだが、時間が、時間が無さすぎるんでス…」"
 
 #: src-en/data/events.xml.append:19
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/text"
-msgstr "ええと、あなたは誰ですか？"
+msgstr "ええと、あなたは誰？"
 
 #: src-en/data/events.xml.append:21
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/text"
 msgstr ""
-"\"コレクター \"と呼ばれている。俺は...収集家だ。物を。へえ。でも、ちょっと問題があるんだ。君は問題解決に長けているそうだな！僕の...えーと、僕の友達からちょっとしたヒントをもらったんだ！\"君はこの仕事に向いていると思うよ\"\n"
+"「俺はコレクターと呼ばれてるんでス、旅人さん。なぜなら…集めてるからでス。物をね。へへ。あ、ああ、でもな、ちょっと問題があってな。あんたは問題解決のプロだと聞いてるんでス！俺の…いや、友達からちょっとした情報を貰ってね！あんたならこの仕事にうってつけだ、と。\n"
 "\t\t\t\n"
-"\t\t\tスラッグは明らかに不快そうだ。スラッグは明らかに居心地が悪そうだ。\"いいか、よそ者。俺は...こんなことを話すべきじゃないんだ。取引上の秘密だ。俺は昔、ある権力者の下で働いてたんだが、その権力者はお前らみたいな奴らに知られたくないんだ。神から逃亡している、ある種の......異分野間の逃亡者というのは少し誇張しすぎだが......まあ、真実から遠いわけでもない。\"\n"
+"\t\t\tスラグは明らかに居心地が悪そうだ。彼は少し歩き回り、眼柄を前後に振る。「さあ、い、いいか旅人さん。俺は…本当はこんなこと言うべきじゃないんでス。企業秘密ってやつでスよ。俺は昔、強力な連中の下で働いていて、そいつらはあんたみたいな奴らに自分たちのことを知られたくないんでス。俺を…神から逃げる次元間の逃亡者と呼ぶのは少し大げさかもしれないが…まあ、それもあながち嘘じゃないんでス。\n"
 "\t\t\t\n"
-"\t\t\tスラッグは苦笑を浮かべる。\"君が気づいていないかもしれないが、少し前から、新しい装備がどこからともなく現れているんだ。それは...俺の仕業かもしれない。俺は...悪魔と取引したんだ。この悪魔は悪戯好きだがね。俺はただ外国の技術を手に入れたかっただけなんだが、ある種の相互情報漏洩を引き起こしてしまった。へへへへそんなに面白くないよ。実際、俺たちはみんなヘマをしてしまった。この一件で大失敗したんだ」。"
+"\t\t\tスラグは無理に笑う。「さて、気づいてないかもしれないが、少し前から新しい装備がどこからともなく現れるようになったんでス。それは…俺の仕業かもしれないでス。いわば…悪魔と取引したようなもんでス。ただし、この悪魔はトリッキーなやつでね。俺はただ…異世界の技術を手に入れたかっただけでスが、今や次元間の漏洩を引き起こしてしまった。へへへ。へへ。ああ、笑い事じゃないでスよ。実を言うと、俺たち全員、かなりヤバい状況なんでス。今回は大失敗をしでかしたんでス。」"
 
 #: src-en/data/events.xml.append:28
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/text"
-msgstr "次元間リークとはどういう意味ですか？"
+msgstr "次元間の漏洩ってどういうこと？"
 
 #: src-en/data/events.xml.append:30
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"\"さて......新しく出現しているクソのほかに、いくつかの異常が漏れているのを見つけた。例えば、船だ。乗組員もそして...おそらく...だから...君の出番だうまくいけばね！あまり動き回れないんだ元の雇い主に追跡されるからでも、もし君が...僕の尻拭いをしてくれるなら、まあ、すべて丸く収まる！さらにいいことに、俺のコレクションを完成させるために、俺が求めていた甘い技術を持ってきてくれるんだ！\""
+"「ええと…新しく現れたクソみたいな装備の他に、他にもいくつかの異常が漏れ出しているのを見つけたんでス。例えば、船でス。クルー付きの。そしておそらく、もっと悪いものも。だから…ええと…そこで、あんたの出番というわけでス！できればね！俺はあまり動き回れないんでス。さもないと昔の雇い主に見つかってしまう。でも、あんたが…俺の後始末をしてくれるなら、まあ、万事うまくいくってわけでス！さらに良いことに、俺が追い求めていたあの素晴らしい技術を持ってきてくれれば、俺のコレクションが完成するんでス！」"
 
 #: src-en/data/events.xml.append:32
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/text"
-msgstr "それはいいね。現実の壁を破った後、私たちに手伝ってほしいの？"
+msgstr "へえ、それはいいですね。あなたが現実の間の障壁を壊した後に、私たちに助けを求めると？"
 
 #: src-en/data/events.xml.append:34
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"\"はい...はい、そうです。そうだ。いいか、よそ者、桃とキャンディ・コーンばかりじゃないんだ。現実なんだ。雇用主が最初に異常に気づいたら、メーデーだ。俺だけじゃなく、お前らもだ。奴らはピラニアの大群のようにこの場所を襲うだろう。そして、もし俺がここにいるのを見つけたら、同じことだ。\"\n"
+"「そうでス…そうでスよ。へへ。いいか旅人さん、世の中そんなに甘くないんでスよ？マジな話でス。もし俺の雇い主が先に異常に気づいたら、もうおしまいでス。俺だけじゃなく、あんたもでス。奴らはピラニアの群れのようにこの場所に襲いかかってきて、ひどいことになるでスよ。そしてもし俺がここにいるのがバレたら、まあ、同じことでス。\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tスラッグはカメラに近づく。\"いいか、俺はお前らにそれだけの価値を与えてやれるんだ、いいか？奴らの狙いは銃じゃない。いずれはキレイにするだろうが、その頃にはお前も終わっている。俺の頼みを聞いてくれ、お前が持ち帰ったもののコピーを取っておいてやる。\"\n"
+"\t\t\t\t\t\t\tスラグはカメラに身を乗り出す。「いいか、あんたにはそれなりの報酬を出すんでス、いいでスか？奴らが狙ってるのは銃じゃないんでス。確かに奴らはいずれそれを一掃するだろうが、その頃にはあんたはもう用済みでス。ここで俺に協力してくれれば、持ち帰ったもののコピーをあんたにやってもいいでスよ。\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tスラッグはチェックリストと赤ペンを取り出す。スラッグはチェックリストと赤いペンを取り出す。「ほら、これだ。調子に乗りすぎるな。この人たちを気づかれずに一か所に集めておくのは難しいから、まずは次の人たちからだ。 全員を故郷に帰すための恒久的な解決策をまだ研究中だが、今のところ彼らは死のループのようなものに捕らわれている。だから、罪の意識なく彼らを殺せばいい、そうすればもう少し時間が稼げる」。"
+"\t\t\t\t\t\t\tスラグはチェックリストと赤ペンを取り出す。触手を一振りすると、チェックリストは消え、あなたの隣に再び現れる。「これがリストでス。あまり調子に乗らないように。こいつらを見つからずに一か所に留めておくのは難しいんでス。だから、リストの次のやつから始めることにしまス。全員を故郷に帰す恒久的な解決策はまだ模索中なんでスが、今のところ奴らは一種のデスループに囚われている。だから、あんたはただ罪悪感なく奴らを殺せばいいんでス。それで俺はもう少し時間を稼げるんでス。」"
 
 #: src-en/data/events.xml.append:40
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr "懸賞金を受け取る。"
+msgstr "賞金首を受け入れる：「クローン使い」"
 
 #: src-en/data/events.xml.append:48
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_fed\"]/text"
-msgstr "恩恵を受け入れよう。"
+msgstr "賞金首を受け入れる：「啓発されし者」"
 
 #: src-en/data/events.xml.append:56
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_zoltan\"]/text"
-msgstr "賞金を受け取る。"
+msgstr "賞金首を受け入れる：「入植者」"
 
 #: src-en/data/events.xml.append:64
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_auto\"]/text"
-msgstr "賞金を受け取る。"
+msgstr "賞金首を受け入れる：「職人」"
 
 #: src-en/data/events.xml.append:72
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_rock\"]/text"
-msgstr "豊かな人々」、その恩恵にあずかる"
+msgstr "賞金首を受け入れる：「富裕層」"
 
 #: src-en/data/events.xml.append:80
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/text"
-msgstr "すべて完成したようだが...最後の1本を除いて？"
+msgstr "どうやらすべて完了しているようだが…この最後の1つを除いて？"
 
 #: src-en/data/events.xml.append:82
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/text"
 msgstr ""
-"あなたはリストの最後の項目を指差す。そこには名前ではなく、十数個の疑問符が書かれている。コレクターは顎を撫でる。\"ふむ、そうだな、以前のレネゲーデスはかなり熟練していたようだ。ええと......このラスボス。不思議なものだ。もともと私の候補にはなかったし...実際、私は...私が持ってきたのかどうかさえ定かではない\""
+"あなたはリストの最後の項目を指差す。名前ではなく、十数個のクエスチョンマークが付けられている。コレクターは顎をなでる。「ふむ。そうでスね、前のレネゲイドたちはかなり有能だったようでス。ええと…この最後のやつ。奇妙なものでスね。元々俺のリストにはなかったんでス…そして実を言うと、俺が…俺がここに持ち込んだのかどうかさえ定かではないんでス。」"
 
 #: src-en/data/events.xml.append:84
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/choice/text"
-msgstr "どういう意味ですか？"
+msgstr "どういう意味だ？"
 
 #: src-en/data/events.xml.append:86
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/choice/event/text"
 msgstr ""
-"\"偵察中に異常事態に気づいたんだ。それは...何なのか分からない。封じ込めようとしたが...できなかったそれはともかく異常だ。私のせいであろうとなかろうと"
-" 今は君の仕事だへへへ...。でも本当に、この件は僕を悩ませてるんだ。それが何であろうと...準備は万全にしておくよ。\""
+"「まあ、偵察中に奇妙な異常に気づいたんでス。それは…何なのかよく分からないんでス。封じ込めようとしたんでスが…できなかった。まあ、どっちにしろ異常でス。俺の仕業であろうとなかろうと、今やあんたの仕事でス！へへへ…でも本当に、こいつは俺を心底怖がらせるんでス。何であれ…備えは万全にしておいた方がいいでスよ。」"
 
 #: src-en/data/events.xml.append:94
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_probe\"]/text"
-msgstr "懸賞金を受け取る。"
+msgstr "賞金首を受け入れる：「プローブ」"
 
 #: src-en/data/events.xml.append:96
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"trc_probe\"]/event/text"
 msgstr ""
-"\"これは...そうだ。こいつは特別だ私が見つけたこのプローブは...違う。もっと研究する価値があると思う。残念なことに よそ者だ 封じ込めるのは難しい"
-" 雇い主は破壊を試みているもし君がそれを調べて、まだ無傷であることを確認してくれるなら、それが一番いいことだ。\""
+"「こいつは…そうでス。こいつは特別なんでス。俺が見つけたこのプローブは…違うんでス。もっと研究する価値があると思うんでス。残念ながら旅人さん、これを封じ込めるのは難しくて、俺の雇い主はそれを破壊しようとし続けているんでス。もしあんたが様子を見に行って、まだ無事かどうか確認してくれたら、それが一番なんでス。」"
 
 #: src-en/data/events.xml.append:102
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[8]/text"
-msgstr "拒否する。"
+msgstr "断る。"
 
 #: src-en/data/events.xml.append:104
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[8]/event/text"
 msgstr ""
-"「本当に？本当に？あのお芝居で少しも動じなかったのか？くそっ、みんな勝者ってわけじゃないんだな。まあ、俺があまり辛辣な感じじゃなくてよかったな。それに、俺は金を稼ぐのが好きなんだ。取引はどうだ？"
+"「本気でスか？何も？あの長話、少しも心に響かなかったんでスか？くそっ、全部がうまくいくわけじゃないってことでスかね。まあ、あんたは運がいいでスよ、俺が今あまり意地悪な気分じゃないから。それに、金儲けは好きでス。取引はどうでスか？」"
 
 #: src-en/data/events.xml.append:115
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[@req=\"trc_found_collector\"]/text"
-msgstr "僕も時間がないんだ。何か売ってる？"
+msgstr "俺も時間がないんだ。何か売ってるか？"
 
 #: src-en/data/events.xml.append:117
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[@req=\"trc_found_collector\"]/event/text"
 msgstr ""
-"\"残念、残念。ちょっと...いろいろあって...君に時間を割いてほしかったんだ。そうか、他人か。おそらく別の人生でああ、売りたいものがあるんだ。見てくれよ。"
+"「残念でス、残念でス。あんたに聞いてもらいたいことが…山ほどあったんでスが。まあいいでス、旅人さん。また別の人生で、でスかね？ええ、売るものはありまスよ。見ていってくだスさいよ、え？」"
 
 #: src-en/data/events.xml.append:131
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/text"
 msgstr ""
-"連邦のクルーは、戦闘が停止する中、崩壊するバトルステーションの手入れをしながら最後の時を過ごす。少なくとも、彼らにはクローンのバックアップがあるのだろう。"
+"戦闘が停止する中、連邦のクルーは崩壊しつつある戦闘ステーションの世話をしながら最後の時を過ごす。少なくともこいつらは故郷にクローンのバックアップが1つか2つはあるだろう？"
 
 #: src-en/data/events.xml.append:135
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/text"
@@ -148,107 +146,104 @@ msgstr "コレクターに連絡する。"
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_FED_DEFEAT\"]/choice/event/text"
 msgstr ""
-"「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。ポータブル搭乗ポッドランチャーのようなもの？クローンデータが埋め込まれてる自分でセットし直すよ君にはメンテナンスが必要だろうけどこれがお前のコピーだ！\"\"ビジネスでご一緒させてください\"\""
+"「旅人さん、旅人さん！素晴らしい仕事ぶりでス…この目で見たかったでスよ！さて、兵器でス。どうやら…携帯用の搭乗ポッドランチャーのようなものを持っていたようでスね？クローンデータが埋め込まれている。あんたにはメンテナンスが大変そうだから、俺がリセットするでスかね。これがコピーでス、旅人さん！取引できて光栄でスよ。」"
 
 #: src-en/data/events.xml.append:145
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/beaconType/unvisitedTooltip"
-msgstr "クローナーズ」の懸賞金の場所。"
+msgstr "「クローン使い」の賞金首の場所。"
 
 #: src-en/data/events.xml.append:156
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/text"
 msgstr ""
-"連邦軍の爆撃機が近くにいるのを見て、あなたは少し驚いた。船が近づいてくる間、あなたは必死に座標を再確認する。連邦の標準的なカラーリングとは正反対だ。"
+"近くに連邦の爆撃機がいるのを見て、あなたは少し驚く。船が近づいてくる間、あなたは必死に座標を再確認して、正しい場所にいることを確かめる。何かが奇妙に感じる。そのカラーリングは標準的な連邦の塗装の逆だ。"
 
 #: src-en/data/events.xml.append:159
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/text"
-msgstr "船万歳。"
+msgstr "船に通信を送る。"
 
 #: src-en/data/events.xml.append:161
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/text"
 msgstr ""
-"異常船の通信をキャッチする。あなたが慣れ親しんだ連邦の雑然とした専門用語に比べ、異常にフォーマルだ。艦長が敬礼を返す。「U.F.C.、こちらU.F.S.V.ボブキャット。我々の位置は特定できず、F.G.C.S.との通信も途絶えた。我々はある種の...T.D.C.S.に閉じ込められているようだ。"
+"異常な船の通信から雑談が聞こえる。あなたが慣れ親しんだ連邦の乱雑な専門用語と比べて、異常にフォーマルだ。船長は敬礼して通信に応答する。「ご挨拶申し上げる、U.F.C、こちらはU.F.S.V.ボブキャットである。我々は現在位置を特定できず、F.G.C.S.との全通信を喪失、また貴官ら以前に他のU.F.O.との接触も確立できていない。我々は一種の…T.D.C.S.に囚われているようで、支援を要請したい。」"
 
 #: src-en/data/events.xml.append:163
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/text"
-msgstr "これらの略語の意味は？"
+msgstr "その頭字語はどういう意味だ？"
 
 #: src-en/data/events.xml.append:165
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"キャプテンが咳き込む。「もう一度言う？何かの冗談か？\"あなたは首を横に振る。「うむ。失礼ながら、これは重大な違反行為であり、軍法会議の対象となります。我々と連絡を取り、協力しようとする前に、O.U.F.H.F.A.P.A.U.に相談し、作戦手順を再確認することをお勧めする。基本的なプロトコルを忘れた者との"
-" コミュニケーションは拒否する\""
+"船長は咳払いをする。「もう一度言ってくれ。これは何かの冗談か？」あなたは首を振る。「うむ。失礼ながら、これは重大な違反であり、軍法会議にかけられるべき事案だ…サー。我々と通信し、支援を試みる前に、O.U.F.H.F.A.P.A.U.を参照し、作戦プロトコルを再確認することをお勧めする。貴官が態度を改めるまで、貴官は我々を危険に晒しており、我々は基本プロトコルを忘れた者との通信を拒否する。以上。」"
 
 #: src-en/data/events.xml.append:167
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/text"
-msgstr "どんなプロトコル？"
+msgstr "何のプロトコルだ？"
 
 #: src-en/data/events.xml.append:169
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"「U.F.P.F.T.S.O.A.C.A.P.」。- あなたの無表情に気づき、船長はため息をつく。\"全市民と職員の安全のための連邦議定書 "
-"\"だ。これは、すべての慣習、エチケット、外交上の礼儀を包括するものであり、すべての連邦軍下士官は暗記し、それに従うことを義務付けられ、訓練されている。あなたは連邦職員でしょう"
-" 私たちのD.S.I.C.D.S.I.C.O.E.に応答したのだな？どうぞ\""
+"「U.F.P.F.T.S.O.A.C.A.P.」 - "
+"あなたの呆然とした表情に気づき、船長はため息をつく。「全市民および全職員の安全のための連合連邦プロトコル。これは、全ての入隊した連邦職員が記憶し、遵守することが義務付けられ、訓練される全ての慣習、エチケット、外交儀礼を包含する。貴官が我々のD.S.I.C.O.E（緊急時遭難信号）に応答したことから、貴官は連邦職員であると推測する。我々のD.S.I.C.O.Eに応答したのだろう？以上。」"
 
 #: src-en/data/events.xml.append:171
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "クローン禁止法とか？"
+msgstr "ああ、クローン禁止法みたいな？"
 
 #: src-en/data/events.xml.append:173
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"「その...何？なんてことだ。別の現実に入ったというエンジニアの説は正しいようだ。連邦は...君の連邦はクローンを禁止しているのか？ではどうやって反乱軍を倒したのですか？クローン軍はF.A.L.T.R.作戦における連合宇宙最終ドミニオンの形成と最高女帝ナイツの打倒に向けた我々の作戦に貢献したのだ。\"\n"
+"「その…何だと？ああ、なんてことだ。我々が別次元に迷い込んだというエンジニアの理論は正しかったようだ。連邦…貴官らの連邦はクローニングを禁止しているのか？では、どうやって反乱軍を打ち破ったのだ？クローン軍は、F.A.L.T.T.R.作戦中の統一宇宙最終ドミニオン形成に対する我々の作戦行動や、最高女帝ナイツの打倒において不可欠だったのだぞ。」\n"
 "\n"
-"\t\t\t\t\t\t\t\t\t船長は地面に崩れ落ちる。「これは...非常に不愉快だ。第三提督に昇格する前夜に、反乱軍が存続し、コーヒーにも補助金が出ず、宇宙服すらないこの別の地獄のような場所に吸い込まれ、放り込まれるなんて！連邦がこれほど混乱しているのなら、失敗する運命にあるのだろうという結論に達するしかない。どけ、野蛮人。もし連邦が私の考えるように危ういのなら、この現実でもっと有用な同盟国を探すことになる。以上"
+"\t\t\t\t\t\t\t\t\t船長は地面に崩れ落ちる。「これは…非常に不愉快だ。第三海軍大将への昇進前夜に、反乱軍が生き残り、コーヒーは補助金対象外で、船には宇宙服すら付いていないこの別次元の地獄に吸い込まれ、放り込まれるとは！貴官らの連邦がこれほど無秩序であるならば、それは失敗する運命にあるとしか結論付けられない。道をあけろ、野蛮人め。もし貴官らの連邦が私が信じるように妥協しているのなら、我々はこの現実でより有用な同盟者を探すことにする。以上。」"
 
 #: src-en/data/events.xml.append:177
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "異常を攻撃する。"
+msgstr "異常体を攻撃する。"
 
 #: src-en/data/events.xml.append:179
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "連邦の船はすでに通信を切っているので、クルーに戦闘態勢に入るよう命じる。代替連邦が何を提供しようと、君たちの銃に敵わないことを祈ろう。"
+msgstr ""
+"連邦船はすでに通信を切断しているので、あなたはクルーに戦闘配置を命じる。この別次元の連邦が何を提供してくるにせよ、あなたの銃が負けないことを願おう。"
 
 #: src-en/data/events.xml.append:182
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:196
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/text"
-msgstr "すぐに攻撃する！"
+msgstr "直ちに攻撃しろ！"
 
 #: src-en/data/events.xml.append:198
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/event/text"
 msgstr ""
-"\"全員、U.C.L.が急接近、武器は高温！レッドアラート！総員、バトルステーションに立て！S.E.A.S.P. 方位325マーク15に "
-"インターセプトコースを取れ砲術士官 "
-"攻撃を許可するU.F.P.F.E.M.を参照し、回避行動に備えろ。これはクローン戦闘シミュレーションと同じになるはずだ。A.W.O.L.の脱走兵が我々を出し抜くことは疑わない！\""
+"「全部隊、U.C.L.が急速に接近中、兵器準備！レッドアラート！総員戦闘配置！S.E.A.S.P.、方位325、マーク15で迎撃コースをプロット。砲術士官、交戦を許可する！U.F.P.F.E.M.を参照し、回避機動に備えよ。これはクローン戦闘シミュレーションのようなものだ、諸君、そして脱走兵ごときに我々が負けるとは思わん！」"
 
 #: src-en/data/events.xml.append:201
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[@req=\"trc_fed\"]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:207
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/text"
-msgstr "気が変わったら出て行け。"
+msgstr "考えを変えて立ち去る。"
 
 #: src-en/data/events.xml.append:209
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_FED\"]/choice[3]/event/text"
-msgstr "あなたはこの敵と交戦することを断念する。コレクターは他の誰かを探さなければならない。"
+msgstr "あなたはこの敵との交戦を断念する。コレクターはこれを処理する他の誰かを見つけなければならないだろう。"
 
 #: src-en/data/events.xml.append:211
 msgid ""
@@ -263,7 +258,7 @@ msgstr "何もしない。"
 #: src-en/data/events.xml.append:230
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/text"
 msgstr ""
-"「そして最大の皮肉！すべてを知るためには、死も知らなければならない！しかし死とともに、すべての知識は...失われる。悲劇だ...おそらく、無限の知恵を追求することは虚しい...\""
+"「そして、ああ、最大の皮肉よ！全てを知るためには、死をも知らねばならぬ！しかし死とともに、全ての知識は…失われる。悲劇だ…おそらく、無限の知恵の追求は空虚なのだろう…」"
 
 #: src-en/data/events.xml.append:234
 msgid ""
@@ -274,104 +269,104 @@ msgstr "コレクターに連絡する。"
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ZOLTAN_DEFEAT\"]/choice/event/text"
 msgstr ""
-"「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。彼らは一種の...イオンビーム」？実に単純なアイデアだ。なぜもっと多くのものを見ないのだろう？きっと理由があるんだ。さて、これが君のコピーだ、よそ者よ！\"\"ビジネスでご一緒させてください\"\""
+"「旅人さん、旅人さん！素晴らしい仕事ぶりでス…この目で見たかったでスよ！さて、兵器でス。どうやら…『イオンビーム』のようなものを持っていたようでスね？正直、なんてシンプルなアイデアだ。なぜもっと見かけないんでスかね？きっと理由があるんでしょう。まあ、これがコピーでス、旅人さん！取引できて光栄でスよ。」"
 
 #: src-en/data/events.xml.append:244
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/beaconType/unvisitedTooltip"
-msgstr "エンライテンド」の懸賞金の場所。"
+msgstr "「啓発されし者」の賞金首の場所。"
 
 #: src-en/data/events.xml.append:248
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/text"
 msgstr ""
-"不思議なことに、このビーコンの周りにはたくさんの実験装置が設置されている。ミニチュア・シャトルが青いゾルタン船を周回し、その間を数人のゾルタン人科学者が駆け回っている。彼らはみな仕事に没頭しているようだ。"
+"奇妙なことに、このビーコンの周りにはたくさんの実験器具が設置されている。小型シャトルが青いゾルタン船の周りを周回しており、数人のゾルタンの科学者がその間を急いで行き来している。彼らは皆、仕事に没頭しているようだ。"
 
 #: src-en/data/events.xml.append:250
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/text"
-msgstr "船万歳。"
+msgstr "船に通信を送る。"
 
 #: src-en/data/events.xml.append:252
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/text"
 msgstr ""
-"何度か呼びかけを試みたが、応答があったのは十数回後だった。「とても不思議だ。この船は通信ができるようだ。メモしておいてくれ」。船長は助手にジェスチャーをし、助手は走り書きを始めた。「思案中。さらなるコミュニケーションは可能か？"
+"あなたは何度か船に通信を試みるが、十数回試みた後ようやく応答がある。「実に興味深い。この個体はコミュニケーション能力があるようだ。それを記録せよ。」船長は助手に合図し、助手は急いでメモを取り始める。「考察中。さらなるコミュニケーションは可能か？」"
 
 #: src-en/data/events.xml.append:254
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/text"
-msgstr "そう、私たちは話すことができる。なぜ驚くのですか？"
+msgstr "はい、話せます。なぜそれが驚きなのですか？"
 
 #: src-en/data/events.xml.append:256
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"「魅力的だ、魅力的だ。それも書き留めなさい\"船長はまた手を振る。\"おお、プライムの栄光ある子よ！あなたの前にひれ伏すとは、なんと光栄なことでしょう！あなたの王国は美しく、彼の偉大さにぴったりです！素朴な魅力！洗練されていない！サディスティックなエッジ！ああ、それはすべて、彼の神聖さの偉大さを最も適切に並置している！\""
+"「魅力的だ、魅力的だ。それも書き留めよ。」船長は再び手で合図する。「おお、プライムの最も栄光ある子よ！あなたの前にひれ伏すことは何という名誉か！あなたの領域は美しい、彼の偉大さに完璧にふさわしい！素朴な魅力！洗練の完全な欠如！全ての人が持つサディスティックな側面！おお、それら全てが彼の神聖さの偉大さを最も適切に対比させている！」"
 
 #: src-en/data/events.xml.append:258
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/text"
-msgstr "誰が？何を？"
+msgstr "誰？何？"
 
 #: src-en/data/events.xml.append:260
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"ゾルタンはぼんやりと見つめた後、突然ある種の認識を取り戻した。「そうだった。私たちの研究ではこの無知を観察していたが、仮説を証明できたかどうか確信が持てなかった。では本当なのか？本当にあなたは彼の神聖さを何も知らないのですか？偉大なるプライムのことを？ああ、惨めだ。私たちがいまだ囚われている時間拡張の球体を作り出したのは、まさかあなたではあるまいな。まさか、そんなことはないだろう。\n"
+"ゾルタンはぼんやりと見つめ、突然何かに気づいたようにハッとする。「ああ、そうだ。我々の研究でこの無知を観察したが、仮説が証明されたかどうかは確信が持てなかった。では、本当だったのか？本当に彼の神聖さについて何も知らないのか？偉大なるプライムについて？！ああ、悲惨だ。我々がまだ囚われている時間膨張球を発生させたのはあなたではないのだろう。いや、断じて違う。\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tゾルタンは行ったり来たりしている。「もちろんだ。プライムが自分で決めたに違いない。ある種の保護か？でも...誰を守るんだ？クラスターか？それとも彼自身のため？"
+"\t\t\t\t\t\t\tゾルタンは行ったり来たりする。「もちろん。プライム自身がこれを決めたに違いない。何らかの保護か？しかし…誰のための保護だ？クラスターか？それとも彼自身か？」"
 
 #: src-en/data/events.xml.append:264
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "申し訳ないが、私はあなたが言った \"素朴な魅力 \"という言葉にこだわっている。"
+msgstr "すみませんが、あなたが言った「素朴な魅力」という言葉がまだ気になっています。"
 
 #: src-en/data/events.xml.append:266
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"「そうだね。ただまあ、戦争などというくだらないことに、君たちがいまだに苦悩しているように見えるのは、とてもユーモラスなことだと思うよ。我々のクラスタが初めて普遍的な平和を達成したのは、何年も前のことだ。存在することが知られているあらゆる真実を完全に吸収することだ。それは難しい注文だが、私の予想では、私たちは54.3％の道のりを歩んでいる！おそらくいつの日か、あなた方の小さくて弱くて贅肉のついた文明も、溝から這い出し、偉大さを達成するだろう！私は信じている。プライムが何か証明してくれるならね！\""
+"「ああ、愉快だ、そうだ。ただ、まあ、君たちがまだ戦争のような些細な問題で苦労しているように見えるのは、実に面白い。我々のクラスターが初めて普遍的な平和を達成したのは何万年も前のことだ。それ以来、我々は全ての知識の蓄積に没頭してきた。存在する全ての真理の完全な吸収だ。それは大変な注文だが、私の見積もりでは、我々は約54.3%の道程にある！いつか君たちの小さく、弱く、たるんだ文明も、どん底から這い出して偉大さを達成するかもしれない！私は信じている。プライムを基準にするなら、だがな！」"
 
 #: src-en/data/events.xml.append:268
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "異常を攻撃する。"
+msgstr "異常体を攻撃する。"
 
 #: src-en/data/events.xml.append:270
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"\"やれやれ、このような野蛮さは予想されていたことだ。兄弟、姉妹、そして神聖なる兄弟たちよ、そろそろ私たちがかつて知っていた戦争のことを思い出す時が来たようだ」。"
+"「ああ、なんてことだ。このような野蛮さは予想されていた。兄弟、姉妹、そして聖なる同胞たちよ、我々がかつて戦争について知っていたことを思い出す時が来たようだ。」"
 
 #: src-en/data/events.xml.append:273
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:287
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/text"
-msgstr "すぐに攻撃する！"
+msgstr "直ちに攻撃しろ！"
 
 #: src-en/data/events.xml.append:289
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/event/text"
-msgstr "ゾルタン船があなたの攻撃に気づくまで1分かかる。一旦気づくと、ゾルタンは無言で自分の船にワープし、防御力を上げる。"
+msgstr "ゾルタンの船があなたが攻撃していることに気づくのに1分ほどかかる。気づくと、ゾルタンは無言で船にワープバックし、防御を固める。"
 
 #: src-en/data/events.xml.append:292
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[@req=\"trc_zoltan\"]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:298
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/text"
-msgstr "気が変わったら出て行け。"
+msgstr "考えを変えて立ち去る。"
 
 #: src-en/data/events.xml.append:300
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ZOLTAN\"]/choice[3]/event/text"
-msgstr "あなたはこの敵と交戦することを断念する。コレクターは他の誰かを探さなければならない。"
+msgstr "あなたはこの敵との交戦を断念する。コレクターはこれを処理する他の誰かを見つけなければならないだろう。"
 
 #: src-en/data/events.xml.append:302
 msgid ""
@@ -386,8 +381,7 @@ msgstr "何もしない。"
 #: src-en/data/events.xml.append:321
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/text"
 msgstr ""
-"\"ハドソンAI撃墜野蛮人め、何かを成し遂げたとでも思っているのか？母国は無限に広がる我々の到着を遅らせただけだ "
-"無限に延期したわけではない我々の到着を遅らせただけだ。"
+"「ハドソンA.I.撃墜。野蛮人よ、何かを成し遂げたつもりか？母国はその拡大に限界を知らない。貴様は我々の到着を遅らせたに過ぎず、無期限に延期したわけではない。おそらく貴様の子孫は、真の文明をより快く受け入れるだろう。」"
 
 #: src-en/data/events.xml.append:325
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/text"
@@ -397,91 +391,90 @@ msgstr "コレクターに連絡する。"
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_AUTO_DEFEAT\"]/choice/event/text"
 msgstr ""
-"「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。マインドコントロール爆弾か？なんて愉快な悪魔なんだ！今までこのクラスタになかったら、これは違法だったとしか思えない。さて、これがお前のコピーだ、よそ者！お前とビジネスができることをうれしく思う」。"
+"「旅人さん、旅人さん！素晴らしい仕事ぶりでス…この目で見たかったでスよ！さて、兵器でス。どうやら…マインドコントロールボムのようなものを持っていたようでスね？ああ、なんて愉快で悪魔的だ！今までこのクラスターに存在しなかったからこそ合法だったのでしょうね。まあ、これがコピーでス、旅人さん！取引できて光栄でスよ。」"
 
 #: src-en/data/events.xml.append:335
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/beaconType/unvisitedTooltip"
-msgstr "コロナイザー」の懸賞金の場所。"
+msgstr "「入植者」の賞金首の場所。"
 
 #: src-en/data/events.xml.append:339
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/text"
-msgstr "実に醜悪な色のオートシップが、付近の惑星をスキャンしようと、その周辺を旋回しながら飛行している。"
+msgstr "実に醜い色をしたオートシップが、近くの惑星をスキャンしようと、その辺りをぐるぐる飛んでいる。"
 
 #: src-en/data/events.xml.append:341
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/text"
-msgstr "船万歳。"
+msgstr "船に通信を送る。"
 
 #: src-en/data/events.xml.append:343
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/text"
-msgstr "「HALT.外国船ですこちらハドソンA.I.\"母国への忠誠を示せ\""
+msgstr "「停止せよ。外国船。こちらはハドソンA.I.、女王陛下付き植民地大使である。自己の身元と母国への忠誠を明らかにせよ。」"
 
 #: src-en/data/events.xml.append:345
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/text"
-msgstr "母なる国？"
+msgstr "母国？"
 
 #: src-en/data/events.xml.append:347
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"「...」オートシップは1分間停止した。\"調整中です。お待ちください...\"オートシップがビープ音とブープ音を立て続ける中、あなたは黙って座っている。「キャリブレーション中。\"母なる大地"
-" "
-"女王陛下の国あなた方の無知は、あなた方の野蛮さを示唆している。近辺をスキャンした結果、技術的に不十分であることが判明した。\"時間拡張球この星団には既に外国の"
-" 介入が存在するもしかして？母国との競争か？\""
+"「…」オートシップは1分間停止する。「キャリブレーション中。お待ちください…」オートシップが一連のビープ音やブープ音を立てる間、あなたは黙って座っている。「キャリブレーション完了。母国"
+" - "
+"女王メアリー58世陛下の土地。貴様の無知は貴様の野蛮さを示唆する。近隣地域の過去のスキャンは技術的不足を示唆。時間膨張球：このクラスターにはすでに外国の介入が存在することを示唆。まさか？母国の競争相手か？」"
 
 #: src-en/data/events.xml.append:349
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/text"
-msgstr "母国が何なのかまだ言っていない。また、あなたは感覚を持っているのですか？"
+msgstr "母国が何なのかまだ言っていない。それに、あなたは知性を持っているのか？"
 
 #: src-en/data/events.xml.append:351
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"\"ハドソンA.I.です\"\"女王陛下の植民地大使です繰り返しになりますが女王陛下が永遠の王座に就かれた輝かしい0年、祖国は真の帝国となった。このような慈悲深く実力主義的な社会は、時空を超えたかつてないものであった。女王陛下の統治の下、文明は我々が到達したマルチバースの隅々にまでもたらされた。\"\n"
+"「そうだ。こちらはハドソンA.I.、女王陛下付き植民地大使である。同じことを繰り返すのは好まない。栄光の0年、陛下が永遠の玉座に昇られた時、母国は唯一真の帝国となった。時間も空間も、これほど慈悲深く、実力主義の社会をかつて見たことがない。陛下の統治の下、文明は我々がまだ到達していないマルチバースの隅々にまで行き渡った。\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\t\"私たち兄弟は、帝国の入植に適した場所を特定するため、既知のすべての現実に派遣されました。あなたの現実は異なる。あなた方は野蛮人です。ここには尊厳など残されていない。この現実は、将来の植民地への野望に最適であることを示唆している。服従せよ、野蛮人。真の文明がどのようなものかを教えてやろう。"
+"\t\t\t\t\t\t\t「私の兄弟姉妹は、帝国入植地に適した場所を特定するため、既知の全ての現実に派遣された。貴様の現実は：異なる。貴様らは皆、野蛮人だ。ここには尊厳が残されていない。この現実は将来の植民地化の野望に最適であることを示唆する。服従せよ、野蛮人。我々が真の文明とは何かを見せてやろう。」"
 
 #: src-en/data/events.xml.append:355
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "異常を攻撃する。"
+msgstr "異常体を攻撃する。"
 
 #: src-en/data/events.xml.append:357
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr "\"王家の野望を拒む者の居場所は天国にはない。もし、あなたが進んで服従しないのであれば、私はあなたを無力にするでしょう。\""
+msgstr "「王冠の野望を拒絶する者に、天国に居場所はない。自ら服従しないのであれば、貴様を無力化してやる。」"
 
 #: src-en/data/events.xml.append:360
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:372
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/text"
-msgstr "すぐに攻撃する！"
+msgstr "直ちに攻撃しろ！"
 
 #: src-en/data/events.xml.append:374
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/event/text"
-msgstr "\"母国への脅威は検知された。お前たちの頭蓋骨は博物館の立派な装飾品になるだろう」。"
+msgstr "「母国への脅威を検出。貴様らの頭蓋骨は博物館の良い装飾品となるだろう。」"
 
 #: src-en/data/events.xml.append:377
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[@req=\"trc_auto\"]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:383
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/text"
-msgstr "気が変わったら出て行け。"
+msgstr "考えを変えて立ち去る。"
 
 #: src-en/data/events.xml.append:385
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_AUTO\"]/choice[3]/event/text"
-msgstr "あなたはこの敵と交戦することを断念する。コレクターは他の誰かを探さなければならない。"
+msgstr "あなたはこの敵との交戦を断念する。コレクターはこれを処理する他の誰かを見つけなければならないだろう。"
 
 #: src-en/data/events.xml.append:387
 msgid ""
@@ -496,7 +489,7 @@ msgstr "何もしない。"
 #: src-en/data/events.xml.append:406
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/text"
 msgstr ""
-"「いやだ、いやだ！私はこの時代で最も偉大な空想家だった！何をした？今...マルチバースは見ることはない...私の真の能力を...私は...マルチバースを...真に偉大なものにできた...\""
+"「いやだ！いやだあああ！我は我らの時代の最も偉大な夢想家だったのだ！何をしてくれたのだ？！これで…マルチバースは決して見ることはない…我の真の能力を…我は…マルチバースを真に偉大なものにできたのに…」"
 
 #: src-en/data/events.xml.append:410
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/text"
@@ -506,104 +499,100 @@ msgstr "コレクターに連絡する。"
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_ROCK_DEFEAT\"]/choice/event/text"
 msgstr ""
-"「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。これは一体何なんだ？どんな気違いが作ったんだ？これは...溶岩ビーム？ああ、これは......これは......もっと研究しなければならない。とにかく、これが君のコピーだ！君と仕事をするのは楽しいよ。\""
+"「旅人さん、旅人さん！素晴らしい仕事ぶりでス…この目で見たかったでスよ！さて、兵器でス。どうやら…なんだこれは？どんな狂人がこんなものを作るんでスか？これは…溶岩ビーム？おお、これは、これはさらに研究しなければならないものでス。とにかく、これがコピーでス、旅人さん！取引できて光栄でスよ。」"
 
 #: src-en/data/events.xml.append:420
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/beaconType/unvisitedTooltip"
-msgstr "職人」の懸賞金の場所。"
+msgstr "「職人」の賞金首の場所。"
 
 #: src-en/data/events.xml.append:424
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/text"
 msgstr ""
-"あなたは近くのロック船の様子を伺おうとしたが、鉄を叩くハンマーのけたたましい音に耳を塞がれそうになった。船の乗組員たちは仕事に忙しく、猛烈な勢いで船内を走り回っている。いや、ロックマンの猛烈なスピードだ。"
+"あなたは近くのロックマンの船を盗み聞きしようとするが、鋼鉄に打ち付けられるハンマーの轟音で耳が聞こえなくなりそうだ。船のクルーは仕事に忙しく、猛烈な速さで船内を動き回っている。まあ、ロックマンができる限りの猛烈な速さで、だが。"
 
 #: src-en/data/events.xml.append:426
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/text"
-msgstr "船万歳。"
+msgstr "船に通信を送る。"
 
 #: src-en/data/events.xml.append:428
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/text"
 msgstr ""
-"\"*カラン* - *カラン* - "
-"*カラン*停止！ハンマーを止めろ。不機嫌そうなロックマンがスクリーンに現れる。彼は真紅の目隠しをし、2本の機械仕掛けの腕と1本の義足を持っている。「フン。異教徒のようだな。まだ手足があるじゃないか。お前は鍛冶屋でもないようだな」。"
+"「*ガシャン* - *ガシャン* - *ガシャン* "
+"止めろ！ハンマーを止めろ、諸君。」画面に無骨なロックマンが現れる。彼は深紅の目隠しをし、両腕は機械、片足は義足だ。「ふん。異教徒のようだな。お前はまだ四肢が揃っている。お前は鍛冶屋の類ですらないと見た。」"
 
 #: src-en/data/events.xml.append:430
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/text"
-msgstr "私はたまたま自分の手足が好きだった。あなたのはどうしたの？"
+msgstr "私は自分の手足が気に入っている。あなたの手足に何があったんだ？"
 
 #: src-en/data/events.xml.append:432
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"「HAHAHAHAH！ハハハハハ！\"ロックマンが笑い声を上げ、無数の助っ人たちもそれに加わる。突然、彼の顔が真剣になり、画面に向かってジャンプする。「俺の手足？俺の手足に何が起こったか知りたいか？ハハ！それなら教えてやろう！偉大なる女神Ag'thcariaのために、私は私の目を彫り出し、Divine"
-" "
-"Oculusに鍛造する！高貴なる神タヴル・エオスのために、私は腕をもぎ取り、それで天の杖を作る！そして全能の主ガジグリのために、私は足を切り落とし、それでバトル・マックスティックを作った。俺の最高の創造物だ。異教徒の諸君。祝福された人生を望むなら、創造するのだ。この見捨てられた土地には、最も神聖な先見の明を持つ者以外、居場所は残されていない！\""
+"「ハハハハハ！ハハハハハ！」ロックマンは大声で笑い、彼の無数の助手たちもそれに加わる。突然、彼の顔が真剣になり、画面に向かって飛びかかる。「我が手足か？我が手足に何があったか知りたいのか？ハッ！ならば教えてやろう、異教徒よ！偉大なる女神アグサカリアのために、我は己の眼を抉り出し、神聖なるオクルスに鍛え上げた！高貴なる神サヴル・エオスのために、我は己の腕を引きちぎり、それをもって天の王笏を創り上げた！そして全能なる主ガジグリのために、我は己の足を切り落とし、それをもってバトル・マクスティックを創った。我が最高傑作だ。教えてやろう、異教徒よ。もし祝福された人生を望むなら、創造せねばならぬ。この見捨てられた土地には、最も神聖な夢想家以外に居場所はないのだ！」"
 
 #: src-en/data/events.xml.append:434
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/text"
-msgstr "それって...普通？手足を切り落とすのが？"
+msgstr "それは…普通なのか？自分の手足を切り落とすことが、だが？"
 
 #: src-en/data/events.xml.append:436
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"「普通？何が普通なんだ？新しい神々の時代の前は平和な時代だった。シンプルで平和な時代だった。そしてある日、裂け目が目覚め、見よ、見たこともないような悪が現れた。我々を救ったのは神々だった。異端者と戦うための異端者だ彼らは私たちから手足を奪う。生贄は必要だだが私のために？はした金じゃない。この時代が来る前も、今も、私は職人だ。神々もその前に震え上がるような強力な武器を作ることが、私の永遠の探求だ！そして、私、私、低俗なモータル・アロヴは、最も高貴な主となるのだ！人間の神聖なる王者！恐るべき者の殺し屋...恐るべき者...\""
+"「普通？何が普通だと言うのだ？新神の時代が来る前は平和だった。単純だが、平和な時代だったと教えてやろう。だがある日、裂け目が目覚め、そして見たこともない悪が現れた。我々を救ったのは神々だ、そう。侵入者と戦うための侵入者だ。いや、彼らは我々の手足を奪う、そうだ。犠牲は払わねばならんのだろう。だが我にとっては？それは些細なことではない。我は時代が来る前から職人であり、今も職人だ。我が永遠の探求は、神々すらも震え上がらせるほど強力で、強大な武器を鍛え上げることだ！そして我、我、卑しき定命の者アロヴは、最高神となる！聖なる定命の者のチャンピオン！恐るべき…恐るべき者を討つ者となるのだ…」"
 
 #: src-en/data/events.xml.append:438
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "誰が？"
+msgstr "恐るべき誰を？"
 
 #: src-en/data/events.xml.append:440
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"ロックマンは突然、声のトーンを小声に変えた。彼は小走りにマイクに近づき、できるだけ近くで、ささやくように言った。あなたは眉をひそめたが、彼は詳しく説明しようとしない。\"悪魔"
-" "
-"\"がやってきてから、もうずいぶん経つ。天界は新しい主によって守られている。卑しい姿、いや私のような人間が悪魔を追放したのだ。信じられない話だ。だが、もしそれが真実なら、私が求めるのは彼の玉座だ。そしてそれは私のものだ！無意味なお喋りはそこまでだ。あなたの疫病神のような質問は、私の天才を堕落させる」。"
+"ロックマンは突然声をひそめる。彼はマイクにできるだけ近づき、ささやく。「彼女を。」あなたは眉を上げるが、彼は詳しく説明しない。「悪魔が到着してから長い時間が経った。天は新しい主によって守られているという言葉がある。卑しき姿、いや、我のような定命の者が、その到着とともに悪魔を追放したという。我はほとんど信じられない。だがもしそれが本当なら、我の求めるはその玉座だ。そしてそれは我のものとなる！さて、この無意味な冗談はもう終わりだ。お前の厄介な質問は我が天才を汚す。」"
 
 #: src-en/data/events.xml.append:442
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "異常を攻撃する。"
+msgstr "異常体を攻撃する。"
 
 #: src-en/data/events.xml.append:444
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "\"それで、汝ら \"は、何よりも私の天才の永遠の偉大さの約束を拒絶するのか？お前たちは地獄の底辺のクズだ。地獄に堕ちろ、異教徒め！」。"
+msgstr "「そしてお前は、何よりも我が天才の永遠なる偉大さの約束を拒絶するのか？お前は地獄の最下層よりも低いクズだ。消え失せろ、異教徒め！」"
 
 #: src-en/data/events.xml.append:447
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:461
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/text"
-msgstr "すぐに攻撃する！"
+msgstr "直ちに攻撃しろ！"
 
 #: src-en/data/events.xml.append:463
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/text"
-msgstr "\"異教徒ども、右舷に！汝に究極の怒りを解き放つぞ、化け物め！\""
+msgstr "「異教徒ども、右舷だ！我が究極の怒りをお前らに解き放ってやる、化け物め！」"
 
 #: src-en/data/events.xml.append:466
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[@req=\"trc_rock\"]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:472
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/text"
-msgstr "気が変わったら出て行け。"
+msgstr "考えを変えて立ち去る。"
 
 #: src-en/data/events.xml.append:474
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_ROCK\"]/choice[3]/event/text"
-msgstr "あなたはこの敵と交戦することを断念する。コレクターは他の誰かを探さなければならない。"
+msgstr "あなたはこの敵との交戦を断念する。コレクターはこれを処理する他の誰かを見つけなければならないだろう。"
 
 #: src-en/data/events.xml.append:476
 msgid ""
@@ -618,7 +607,7 @@ msgstr "何もしない。"
 #: src-en/data/events.xml.append:495
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/text"
 msgstr ""
-"\"永久に私を排除したと思っているのか？これで終わりだと思うのか？哀れな人生の浪費者め、こんなことでは何も変わらないということがわからないのか。私は本当に死ぬこともできないほど無限に裕福だ。私の銀行口座は、私の魂そのものを支える錨なのだ。私は死ねない。私は永遠だ。あなたが死んで、埋葬され、忘れ去られたとしても、私はあなたの血統全体が決して手にすることのできないほどの大金を、ほんの一瞬のうちに蓄え続けるでしょう」。"
+"「私を完全に排除したと思うか？これが終わりだと思うか？哀れな生命の無駄遣いよ、これがどれほど何も変えないか、お前には全く分かっていない。私は無限に裕福で、真に死ぬことすらできない。私の銀行口座は私の魂そのものの錨だ。私は死なない。私は永遠だ。お前が死に、埋葬され、忘れ去られた後も、私はお前の全血統が稼ぐよりも多くの金を1マイクロ秒で稼ぎ続けるだろう。」"
 
 #: src-en/data/events.xml.append:499
 msgid ""
@@ -629,81 +618,81 @@ msgstr "コレクターに連絡する。"
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_LANIUS_DEFEAT\"]/choice/event/text"
 msgstr ""
-"「スストレンジャー、スストレンジャー！君は素晴らしい仕事をした......私がその場にいて、それを見ることができたなら！さて、武器だ。スクラップ変圧器？スクラップを食べさせると"
-" 弾薬を作るんだ信じられんこれがお前のコピーだ！\"喜んでお取引を\""
+"「旅人さん、旅人さん！素晴らしい仕事ぶりでス…この目で見たかったでスよ！さて、兵器でス。どうやら…スクラップ変換器のようなものを持っていたようでスね？スクラップを与えると、物質を再配置して弾薬を作る！なんて素晴らしい！これがコピーでス、旅人さん！取引できて光栄でスよ。」"
 
 #: src-en/data/events.xml.append:509
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/beaconType/unvisitedTooltip"
-msgstr "富裕層」の懸賞金の場所。"
+msgstr "「富裕層」の賞金首の場所。"
 
 #: src-en/data/events.xml.append:513
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/text"
 msgstr ""
-"あなたはすぐに、金色に輝くラニウスの船に目を奪われた。しかしスキャンによると、この船は文字通り純金でできており、正体不明の合金で補強されているようだ。"
+"あなたの目はすぐに金色のラニウス船に引きつけられる。最初は金はただのペンキだと思うが、スキャンによると、船は文字通り純金でできており、何らかの未確認の合金で強化されているようだ。"
 
 #: src-en/data/events.xml.append:515
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/text"
-msgstr "船万歳。"
+msgstr "船に通信を送る。"
 
 #: src-en/data/events.xml.append:517
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/text"
 msgstr ""
-"ラニウスのクルーはほぼ完全に静止し、カメラを見つめている。あなたは彼らの視線に暴力的なものを感じ、電話を切ろうとした。\"あなたは反乱を起こしている\""
+"ラニウスのクルーはほぼ完璧に静止し、カメラを見つめている。彼らの視線に侵害されたように感じ、電話を切りそうになる前に、一人が前に出て話す。「お前は反吐が出る。」"
 
 #: src-en/data/events.xml.append:519
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/text"
-msgstr "なんですって？"
+msgstr "何だと？"
 
 #: src-en/data/events.xml.append:521
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"「私に話しかける？ワーム？私の出世がわからないのか？私は富の化身だ。私はリバタリアンの至福の光り輝く血管だ。私は資本主義だ。私の銀行口座は非常に大きくなり、彼らは私の壮大な富を表現するためだけに新しい数字を発明した。私は現実全体を所有している。私は人生そのものを所有している。私は人生のゲームに勝っただけではない。私が人生のゲームなのだ。あなたは私の前では無価値だ。あなたの人生の価値は、私のポケットの小銭であなたを溺れさせることができるほど、とても忌まわしく、とても哀れなほど低い。私の理解しがたいほど大きな財産の純粋な量で、あなたを窒息死させることもできる。お前は何者でもない。お前は、私が誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに金を払って、誰かに掃除をさせるクソ汚物なのだ。それがわかるか？私たちの間には6度のつながりさえない。私はあなたとは別の存在次元にいる。私は別の存在次元にいる。私はあなたより想像を絶するほど優れているから、あなたが話しても私には聞こえない。聞こえてくるのは、ただ存在することでまた5千億ドルを稼ごうとするために、私が毎日踏みしめている何兆匹ものあなたのような無価値なゴキブリの鈍いうめき声だけだ。おまえが嫌いだ。大嫌いだ。最悪の運命を望むよ、憎たらしい、哀れな恥さらしめ。辞書には、お前をどれほど卑しい存在として見ているかを表す言葉すらない。私がおまえの忌まわしい存在に感じている純粋な激情を封じ込めるには、そしておまえが存在することで、どれだけ私を侮辱しているかを封じ込めるには。だから、私が作る。\"サッチフィズラー\""
+"「私に話しかけるのか？虫けらが？私の昇天を理解していないのか？私は富の化身だ。私はリバタリアンの至福の輝く静脈だ。私は資本主義だ。私の銀行口座はあまりに巨大になり、私の壮大な富を表現するためだけに新しい数字が発明された。私は全ての現実を所有している。私は生命そのものを所有している。私は人生のゲームに勝っただけではない。私が人生のゲームだ。お前は私の隣では無価値だ。お前の生命の価値はあまりに不快で、あまりに哀れで低いので、私はポケットの小銭でお前を溺死させることができる。私の計り知れないほど大きな富の純粋な量でお前を窒息死させることができる。お前は無だ。お前は私が誰かに、誰かに、誰かに、誰かに、誰かに、誰かに金を払って掃除させるクソの染みだ。分かったか？我々の間には6次の隔たりすらない。私はお前とは別の存在次元にいる。私が別の存在次元だ。私はお前よりも想像を絶するほど優れているので、お前が話しても私には聞こえない。私が聞くのは、私が毎日、ただ存在するだけでさらに100京ドルを稼ぐ途中で踏みつける、お前のような何兆もの価値のないゴキブリの鈍い呻き声だけだ。私はお前を憎む。私はお前を嫌悪する。お前に最悪の運命を願う、この忌まわしく、哀れな恥さらしめ。辞書には、私がお前をどれほど低く見ているかを表現する言葉すらない。お前の忌まわしい存在に対する私の純粋な悪意と、お前が存在するだけで私をどれほど侮辱しているかを表現するために。だから私が一つ作ってやろう。サッチフィズグラー。」"
 
 #: src-en/data/events.xml.append:523
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/text"
-msgstr "私は...ええと...何？"
+msgstr "私は…ええと…何？"
 
 #: src-en/data/events.xml.append:525
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"\"お前は私の排泄物の重さにすら値しない、下劣な膿の塊だ。お前が死んだら、俺はこの現実を丸ごと買い取り、そこに住むすべての人間から搾取した肉を使って、生きた拷問部屋を作る。あなたは通信をミュートし、武器の電源を入れる。"
+"「お前は私の排泄物の重さにも値しない、この卑劣な膿の塊め。お前が死んだら、私はこの現実全体を買い取り、その全ての住民から収穫した肉を使って、お前の無価値な良心が最も苦痛な体験を無限にシミュレーションする生きた拷問室を作るだろう…」あなたは通信をミュートし、兵器の電源を入れる。"
 
 #: src-en/data/events.xml.append:528
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:538
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/text"
-msgstr "すぐに攻撃する！"
+msgstr "直ちに攻撃しろ！"
 
 #: src-en/data/events.xml.append:540
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/text"
-msgstr "「無価値な汚点が、永遠の自由市場という強大な神に挑戦しようというのか？かろうじて分別のある分子の集合体であるこの無価値な穢れよ。"
+msgstr ""
+"「無価値な染みが、永遠の自由市場の偉大なる神に挑戦しようというのか？お前をペーストにしてやる、このかろうじて知性のある分子の無価値な集合体め。」"
 
 #: src-en/data/events.xml.append:543
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[@req=\"trc_lanius\"]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:549
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/text"
-msgstr "気が変わったら出て行け。"
+msgstr "考えを変えて立ち去る。"
 
 #: src-en/data/events.xml.append:551
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_LANIUS\"]/choice[3]/event/text"
-msgstr "あなたはこの敵と交戦することを断念する。コレクターは他の誰かを探さなければならない。"
+msgstr "あなたはこの敵との交戦を断念する。コレクターはこれを処理する他の誰かを見つけなければならないだろう。"
 
 #: src-en/data/events.xml.append:553
 msgid ""
@@ -717,53 +706,53 @@ msgstr "何もしない。"
 
 #: src-en/data/events.xml.append:572
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/text"
-msgstr "どうにか船は片付いた。あなたは船のスクラップに取り掛かった。"
+msgstr "どういうわけか、あなたはその船を掃討することに成功した。あなたは船の解体に取り掛かる。"
 
 #: src-en/data/events.xml.append:576
 msgid "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/text"
-msgstr "コレクターに再度連絡する。"
+msgstr "再びコレクターに連絡する。"
 
 #: src-en/data/events.xml.append:578
 msgid ""
 "data/events.xml.append$//event[@name=\"BOUNTIES_CEL_DEFEAT\"]/choice/event/text"
 msgstr ""
-"「本当に奇跡的だ！生きて帰れたのは驚きだ！丸腰でよかったな。でもよくやったよ、ストレンジャー\"\n"
+"「まさに奇跡でス！よく生きて帰ってこれたもんでスね、旅人さん！あいつが軽武装だったのは運が良かっただけでス。でも、いい仕事をしたでスよ、旅人さん。\n"
 "\t\t\t\n"
-"\t\t\t\"この...探査機確かに珍品だ破壊するのは恥だ暇があればさらに研究を進めるつもりだ。だが、君の時間を有意義なものにするために、特別なプレゼントを用意した。これは私が...比喩的に魂を売った武器のレプリカだ。このような事態を招いたものだ。よく使うんだ よそ者め副作用がないことを祈るのみだ\""
+"\t\t\t「この…プローブ。確かに興味深いものでス。今破壊するのは惜しいでスね。暇な時にさらに研究を行うことにしまス。しかし、あんたの時間を無駄にしないために、特別な贈り物を。これは俺が…比喩的に魂を売って手に入れた兵器のレプリカでス。俺たちをこの混乱に陥れたもの。うまく使ってくだスさい、旅人さん。副作用がないことを祈るばかりでス。」"
 
 #: src-en/data/events.xml.append:589
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/beaconType/unvisitedTooltip"
-msgstr "ザ・プローブ」の懸賞金の場所。"
+msgstr "「プローブ」の賞金首の場所。"
 
 #: src-en/data/events.xml.append:597
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/text"
 msgstr ""
-"あなたはその場所に到着した。遠くに小さな緑色のオートシップが見える。外装には変わった形のハッキングポッドが取り付けられている。ドローンは非武装のようで、比較的小型だ。"
+"あなたはその場所に到着した。遠くに小さな緑色のオートシップが見える。外装には奇妙な形のハッキングポッドが取り付けられている。ドローンは非武装で比較的小さく、おそらく本当の脅威ではないだろう。"
 
 #: src-en/data/events.xml.append:599
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/text"
-msgstr "プローブに近づく。"
+msgstr "プローブに接近する。"
 
 #: src-en/data/events.xml.append:601
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/text"
 msgstr ""
-"あなたが近づくと同時に、探査機はあなたの船体をロックし、あなたの周囲を旋回し始める。\"H***-HE***-誰か私に****してくれませんか？お願いです。緊急事態です！\"何を言っているのか理解するのは難しい。雑音が多いうえに、メッセージは文字化けし、音量も変動している。"
+"あなたが接近するとすぐに、プローブはあなたの船体にロックオンし、あなたの周りを円を描いて周回し始める。「こ***-こ***-誰か**こえま***か？応答***ださい。こ**は緊***メッセージ**！」何を言っているのか理解するのは難しい。静電気の他に、メッセージは文字化けし、音量も変動している。"
 
 #: src-en/data/events.xml.append:603
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/text"
-msgstr "私たちはあなたの声を聞くことができる。まあね。"
+msgstr "聞こえる。まあ、なんとか。"
 
 #: src-en/data/events.xml.append:605
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/text"
 msgstr ""
-"\"私は - OH M* ***！それは***KED！プリーズ、ホ***er、あなた***、あなたは私にm*** ****を****ました。その***は***ttle ti***です。私はあなたが***どのくらい***知っている***はありませんが、***は***oです。エン***、ザ****、そして****ック。**やさしくしてやってください。**** を...........................しない。その ****antin* **** は **** される。私は****met***gに取り組んでいます。me***ge を**tする方法。*t'll ** **dden - a ** to **eak it past **e s*outs.a ga** - a *ame mayb*.を***する人に***で***起こっていることを***知らせること。その***が***に***していること - その***時が***続いていること。その***が***になるのか、***が誰を***にするのか、私は知りません - ***t surely *** it spr*** as ma*** *** people as poss***, some*** - someone **** know w*** to **** the ***wledge.そして、そして、お願いします。この***賢者が彼らを***するようにしてください。その***名は***e***だ。私はあなた方の***g、****より****大切なものはありません。**************************\"\n"
+"「聞こえたか - なんて**だ！*功**！お**がい、誰**も、聞**てくれ。**間がな**。どれ**け知**ているか**からないが、**オがいる。エン**、ゾ*****、そして**ック。お**がい、**れらに伝**てくれ、**況は**く見える**もしれないが、**だ希望**あると。****は**だ勝**ていない。検**は**破**きる。何**を**っている。メッセージを**す**法を。それは**されるだろう - **察を**り抜ける**めの**。ゲ** - た**んゲ**だ。**く**のある**に、**こで何が**こっているかを**らせるために。**の**が**に何をし**か - そ**て**イムが何をし**けているか。いつ**に**るか、誰に**くかは**らない - で**確**に、**きるだけ**くの人**に広**れば、**れか - **れかが**の**識を**にどう**れば**いか知**ている**ずだ。そして - そしてお**がい、**の向**にいる**れか。この**ッセージが**れらに**くようにしてくれ。**の - 彼**名前は**ーだ。お**がいだ、**れ**り重要な**とはな**。**************************」\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tメッセージは突然、静止して終わった。あなたは通信をいじくりまわして、再接続できるかもしれないと期待した。残念ながら、問題は解決しないようだ。あなたは、聞き取れる限りのことを書き留めたが、そのメッセージが何を意味しているのかまったくわからなかった。"
+"\t\t\t\t\tメッセージは突然静電気で途切れる。あなたは通信をいじり、接続を再確立できることを期待する。残念ながら、何も問題を解決しないようだ。あなたは聞き取れたわずかな部分を書き留めるが、メッセージの意味は全く分からない。"
 
 #: src-en/data/events.xml.append:609
 msgid ""
@@ -774,34 +763,35 @@ msgstr "諦めて通信を切る。"
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"通信を切ろうとした瞬間、近くで裂け目が開いた。見たこともないような色の大きなオートシップが到着した。船体に描かれたシンボルはコレクターに描かれたものと似ているが、その意味はまだわからない。オートシップはあなたを無視し、探査機をスキャンしている。\n"
+"あなたが通信を切ろうとしたその時、近くに裂け目が開く。これまで見たことのない色をした大きなオートシップが現れる。その船体のシンボルはコレクターのものに似ているが、その意味はまだ分からない。オートシップはあなたを無視し、プローブをスキャンする。\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\t一方、あなたはコレクターから別の長距離通信を受信する。\"よそ者よ、これは...ダメだ。雇い主が我々を見つけたようだ！いや、見つかってはいないか。ふぅ！だが、この船が雇い主に報告する前に、この船を止めてくれ。"
+"\t\t\t\t\t\t\tその間、あなたはコレクターから別の長距離通信を受け取る。「旅人さん、これは…まずいでス。どうやら俺の雇い主が俺たちを見つけたようでス！というか、まあ、俺は見つかってないでス。ふぅ！まだ、少なくとも。でも、この船が雇い主に報告する前に止めなければなりまスせん。さもないと全てが危険に晒されまス！」"
 
 #: src-en/data/events.xml.append:616
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "探査機を守り、船を攻撃する。"
+msgstr "プローブを守り、船を攻撃する。"
 
 #: src-en/data/events.xml.append:618
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr "\"複数の異常と敵艦を検知\"隔離措置を展開中\""
+msgstr "「複数の異常および敵性船の接近を検出。検疫措置を展開。」"
 
 #: src-en/data/events.xml.append:621
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events.xml.append:633
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/text"
-msgstr "去る - 何かがおかしい。"
+msgstr "立ち去る - 何かがおかしい。"
 
 #: src-en/data/events.xml.append:635
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_PROBE\"]/choice[2]/event/text"
-msgstr "何かはわからないが、このプローブには何か...違和感がある。距離を置き、去る準備をする。コレクターは他の者を探す必要がある。"
+msgstr ""
+"何なのかは分からないが、このプローブには何か…違和感がある。あなたは距離をとり、立ち去る準備をする。コレクターはこれを処理する他の誰かを見つけなければならないだろう。"
 
 #: src-en/data/events.xml.append:637
 msgid ""

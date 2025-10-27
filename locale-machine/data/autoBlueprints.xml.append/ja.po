@@ -13,27 +13,27 @@ msgstr "コレクター"
 #: src-en/data/autoBlueprints.xml.append:1080
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_CONTINUITY_BOSS\"]/class"
-msgstr "検疫官"
+msgstr "検疫執行官"
 
 #: src-en/data/autoBlueprints.xml.append:1153
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_1\"]/class"
-msgstr "連邦ボブキャット級長距離哨戒爆撃機"
+msgstr "連合連邦ボブキャット級長距離哨戒爆撃機"
 
 #: src-en/data/autoBlueprints.xml.append:1206
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_2\"]/class"
-msgstr "不変のウォッチャー"
+msgstr "不変の監視者"
 
 #: src-en/data/autoBlueprints.xml.append:1264
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_3\"]/class"
-msgstr "コロニー・スカウト"
+msgstr "コロニー偵察機"
 
 #: src-en/data/autoBlueprints.xml.append:1303
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MT_ANOMALY_4\"]/class"
-msgstr "錯乱した空想家"
+msgstr "狂気の夢想家"
 
 #: src-en/data/autoBlueprints.xml.append:1351
 msgid ""

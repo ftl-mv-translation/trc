@@ -9,49 +9,49 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/text"
-msgstr "イオン地雷ランチャーを使用する。[15}，遅延を2与える，悪評には影響しない]。"
+msgstr "イオンマインランチャーを使用する。[-15}、2遅延を与え、悪名に影響しない]"
 
 #: src-en/data/events_special_storage.xml.append:6
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB_FLEET\"]/mod-"
 "append:choice/event/text"
 msgstr ""
-"あなたは弾薬を装備し、反乱軍に罠を仕掛ける。幸いなことに、不明瞭な法の抜け穴があるため、この武器の使用は違法ではないが、道徳的には非常に疑わしい。"
+"あなたは弾薬を仕掛け、反乱軍のために罠を設置する。幸いなことに、不明瞭な法の抜け穴のおかげで、この武器の使用は違法ではないが、道徳的には非常に疑わしい。"
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr "(サンダーショック・ドローン) ドローンの状態を設定する。[現在のモード：ブリーチ］"
+msgstr "（サンダーショック・ドローン）ドローンの状態を設定する。[現在のモード：船体破壊]"
 
 #: src-en/data/events_special_storage.xml.append:24
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr "(サンダーショック・ドローン) ドローンの状態を設定する。[現在のモード：イオン］"
+msgstr "（サンダーショック・ドローン）ドローンの状態を設定する。[現在のモード：イオン]"
 
 #: src-en/data/events_special_storage.xml.append:28
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr "(アンプレーザー）武器の状態を設定する。[現在のパワー：2］"
+msgstr "（アンプ・レーザー）兵器の状態を設定する。[現在のパワー：2]"
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr "(アンプレーザー）武器の状態を設定する。[現在のパワー：3］"
+msgstr "（アンプ・レーザー）兵器の状態を設定する。[現在のパワー：3]"
 
 #: src-en/data/events_special_storage.xml.append:36
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
-msgstr "(アンプレーザー) 武器の状態を設定する。[現在のパワー：4］"
+msgstr "（アンプ・レーザー）兵器の状態を設定する。[現在のパワー：4]"
 
 #: src-en/data/events_special_storage.xml.append:49
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/text"
-msgstr "本当にドローンの設定を変更したいのですか？"
+msgstr "ドローンの設定を変更しますか？"
 
 #: src-en/data/events_special_storage.xml.append:51
 msgid ""
@@ -61,245 +61,245 @@ msgstr "ドローンをイオンボムモードに設定する。"
 #: src-en/data/events_special_storage.xml.append:53
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/text"
-msgstr "ドローンのキャリブレーションを開始..."
+msgstr "ドローンのキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:58
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/event/text"
-msgstr "ドローンのキャリブレーションが完了しました。"
+msgstr "ドローンのキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:61
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[1]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:69
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_BREACH\"]/choice[2]/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/text"
-msgstr "本当にドローンの設定を変更したいのですか？"
+msgstr "ドローンの設定を変更しますか？"
 
 #: src-en/data/events_special_storage.xml.append:76
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/text"
-msgstr "ドローンをブリーチボムモードに設定する。"
+msgstr "ドローンを船体破壊ボムモードに設定する。"
 
 #: src-en/data/events_special_storage.xml.append:78
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/text"
-msgstr "ドローンのキャリブレーションを開始..."
+msgstr "ドローンのキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:81
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:83
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/event/text"
-msgstr "ドローンのキャリブレーションが完了しました。"
+msgstr "ドローンのキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:86
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[1]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:94
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_THUNDER_ION\"]/choice[2]/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/text"
 msgstr ""
-"武器のパワーを何に設定しますか？\n"
-"\t現在のステータス；【ダメージ：2、クールダウン：6"
+"兵器をどのパワーに設定しますか？\n"
+"\t現在のステータス：[ダメージ：2、クールダウン：6]"
 
 #: src-en/data/events_special_storage.xml.append:110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/text"
-msgstr "武器のパワーを3にする。[ダメージ: 4, クールダウン: 9]."
+msgstr "兵器を3パワーに設定する。[ダメージ：4、クールダウン：9]"
 
 #: src-en/data/events_special_storage.xml.append:112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/text"
-msgstr "武器の調整を始める..."
+msgstr "兵器のキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:115
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/event/text"
-msgstr "武器のキャリブレーションは成功裏に終了した。"
+msgstr "兵器のキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:120
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[1]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:128
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/text"
-msgstr "武器のパワーを4にする。[ダメージ: 6, クールダウン: 12]."
+msgstr "兵器を4パワーに設定する。[ダメージ：6、クールダウン：12]"
 
 #: src-en/data/events_special_storage.xml.append:130
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/text"
-msgstr "武器の調整を始める..."
+msgstr "兵器のキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:133
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/event/text"
-msgstr "武器のキャリブレーションは成功裏に終了した。"
+msgstr "兵器のキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:138
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[2]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP2\"]/choice[3]/text"
-msgstr "トグル・メニューに戻る。"
+msgstr "切り替えメニューに戻る。"
 
 #: src-en/data/events_special_storage.xml.append:151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/text"
 msgstr ""
-"武器のパワーを何に設定しますか？\n"
-"\t現在のステータス；【ダメージ：4、クールダウン：9"
+"兵器をどのパワーに設定しますか？\n"
+"\t現在のステータス：[ダメージ：4、クールダウン：9]"
 
 #: src-en/data/events_special_storage.xml.append:154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/text"
-msgstr "武器のパワーを2にする。[ダメージ: 2, クールダウン: 6]."
+msgstr "兵器を2パワーに設定する。[ダメージ：2、クールダウン：6]"
 
 #: src-en/data/events_special_storage.xml.append:156
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/text"
-msgstr "武器の調整を始める..."
+msgstr "兵器のキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:161
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/event/text"
-msgstr "武器のキャリブレーションは成功裏に終了した。"
+msgstr "兵器のキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:164
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[1]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:172
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/text"
-msgstr "武器のパワーを4にする。[ダメージ: 6, クールダウン: 12]."
+msgstr "兵器を4パワーに設定する。[ダメージ：6、クールダウン：12]"
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/text"
-msgstr "武器の調整を始める..."
+msgstr "兵器のキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:177
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/event/text"
-msgstr "武器のキャリブレーションは成功裏に終了した。"
+msgstr "兵器のキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:182
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[2]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP3\"]/choice[3]/text"
-msgstr "トグル・メニューに戻る。"
+msgstr "切り替えメニューに戻る。"
 
 #: src-en/data/events_special_storage.xml.append:195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/text"
 msgstr ""
-"武器のパワーを何に設定しますか？\n"
-"\t現在のステータス；【ダメージ：6、クールダウン：12"
+"兵器をどのパワーに設定しますか？\n"
+"\t現在のステータス：[ダメージ：6、クールダウン：12]"
 
 #: src-en/data/events_special_storage.xml.append:198
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/text"
-msgstr "武器のパワーを2にする。[ダメージ: 2, クールダウン: 6]."
+msgstr "兵器を2パワーに設定する。[ダメージ：2、クールダウン：6]"
 
 #: src-en/data/events_special_storage.xml.append:200
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/text"
-msgstr "武器の調整を始める..."
+msgstr "兵器のキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/event/text"
-msgstr "武器のキャリブレーションは成功裏に終了した。"
+msgstr "兵器のキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:208
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[1]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/text"
-msgstr "武器のパワーを3にする。[ダメージ: 4, クールダウン: 9]."
+msgstr "兵器を3パワーに設定する。[ダメージ：4、クールダウン：9]"
 
 #: src-en/data/events_special_storage.xml.append:218
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/text"
-msgstr "武器の調整を始める..."
+msgstr "兵器のキャリブレーションを開始します..."
 
 #: src-en/data/events_special_storage.xml.append:221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/event/text"
-msgstr "武器のキャリブレーションは成功裏に終了した。"
+msgstr "兵器のキャリブレーションに成功しました。"
 
 #: src-en/data/events_special_storage.xml.append:226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[2]/event/choice/event/choice/text"
-msgstr "続ける..."
+msgstr "続ける…"
 
 #: src-en/data/events_special_storage.xml.append:234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LASER_AMP4\"]/choice[3]/text"
-msgstr "トグル・メニューに戻る。"
+msgstr "切り替えメニューに戻る。"

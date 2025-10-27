@@ -22,12 +22,12 @@ msgstr "コントロール"
 msgid ""
 "data/hyperspace.xml.append$//race[@name=\"spider_hatch_temp\"]/powerEffect/tooltip"
 msgstr ""
-"[クールダウン:10秒 デュレーション:6秒］\n"
+"[クールダウン:10秒  持続時間:6秒]\n"
 "\t\t\t\tクモをコントロールする。"
 
 #: src-en/data/hyperspace.xml.append:1141
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_EXTINGUISHER\"]/tooltipName"
-msgstr "消火器ドローン"
+msgstr "消火ドローン"
 
 #: src-en/data/hyperspace.xml.append:1145
 msgid "data/hyperspace.xml.append$//drone[@name=\"TRC_VOLTAGE\"]/tooltipName"
