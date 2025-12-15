@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-24 13:32+0000\n"
-"Last-Translator: Ssstranger <1913944184@qq.com>\n"
+"PO-Revision-Date: 2025-12-15 02:16+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/projects/the-renegade-collection/dataeventsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:13
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/text"
@@ -49,9 +49,15 @@ msgid ""
 msgstr "哦，真不错啊。你打破了现实之间的屏障后，现在想要我们帮你？"
 
 #: src-en/data/events.xml.append:34
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"“是——啊…没错，我是知道。嘿。听着，陌生人，这——里可不是什么童话乐园，懂吗？情况——很棘手。要是我的雇主先注意到那些异常现象，那可就全——完了。不只是我，连你也得遭殃。他们会像食人鱼群一样扑——过来，那场面绝不好看。要是他们在这儿发现——了我，呵，结果也一样。”\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t蛞蝓把脸凑近摄像头。“听着，我不会让你白——忙活的，行吧？他们追查的不是那些武器。虽然迟早会被清理干净，但等他们动手时你早就脱身了。帮我这个忙，你带回来的任何东西我都让你留一份备份。”\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t蛞蝓掏出一份清单和一支红笔。触须一甩，清单消失后又出现在你身旁。“这——是清单。别太得意。要把这些家伙聚在一处又不被发现可不容易，所以我们——就按清单顺序一个个解决。我还在研究能把他——们全部送回家的永久方案，但现在他们被困在一种死亡循环里。所以你——只管动手，不必有负罪感，这样就能为我争取更多时间。”"
 
 #: src-en/data/events.xml.append:40
 msgid ""
@@ -84,14 +90,15 @@ msgid ""
 msgstr "看来都完成了......除了最后一个？"
 
 #: src-en/data/events.xml.append:82
+#, fuzzy
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/text"
-msgstr ""
+msgstr "你指向清单上最后一项那上面没有名字，只有一连串问号。收藏家摸着下巴沉吟道：“嗯。是——啊，看来之前的叛逆者们效率相当高。呃……这最后一项嘛。有意思，真有意思。它原本不在我的清单上……说实话，我……我甚至不确定是不是我把它带到这儿来的。”"
 
 #: src-en/data/events.xml.append:84
 msgid ""
 "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"PROBE_FIRST_TIME\"]/event/choice/text"
-msgstr ""
+msgstr "你这话什么意思?"
 
 #: src-en/data/events.xml.append:86
 msgid ""
