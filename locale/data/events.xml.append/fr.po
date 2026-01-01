@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 15:49+0000\n"
+"PO-Revision-Date: 2026-01-01 13:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/dataeventsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,12 +9,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:13
 msgid "data/events.xml.append$//event[@name=\"TRC_BOUNTIES_START\"]/text"
 msgstr ""
-"Curieusement, il semble que le signal diffusé ici ne soit visible que pour vous. Il disparaît quelques instants après votre arrivée, et peu après, l'espace autour de vous semble se contracter un peu puis se figer. Un étrange vaisseau apparaît simplement à côté de vous, sans s'être occulté ni fait de saut.\n"
+"Curieusement, il semble que le signal diffusé ici ne soit visible que pour vous. Il disparaît quelques instants après votre arrivée, et peu après, l'espace autour de vous semble se contracter un peu avant de se figer. Un étrange vaisseau apparaît alors simplement à côté de vous, sans s'être désocculté ni avoir fait de saut.\n"
 "\t\n"
 "\tLe vaisseau vous contacte, et à l'autre bout de l'écran se trouve une limace étrangement habillée. Elle ressemble presque au marchand ambulant... mais... ça n'a aucun sens ? \"Étranger ! Sssalutatttion ! Je sssais que vous devez zêtre très, très confus, et j'aimerais vraiment répondre à toutes vos quessstions ! Mais j'ai sssi, sssi peu de temps...\""
 
@@ -29,9 +29,9 @@ msgid ""
 msgstr ""
 "\"On m'appelle le collectttionneur, étranger. Car je... collectttionne. Des chozzes. Heh. O-oh mais euh, regardez, j'ai un petit problème. Et j'ai entendu dire que vous zzêtes une persssonne qui rézzout les problèmes !J'ai un petit conssseil de mon... euh... mon ami !On dit que vous zêtes le genre de perssssone qu'il faut pour ce travail\".\n"
 "\t\t\t\n"
-"\t\t\tLa limace est visiblement mal à l'aise. Elle fait les cent pas, balançant sa baguette d'un côté et de l'autre. \"Maintenant, regardez-moi bien, étranger. Je ne sssuis pas... Je ne suis pas vraiment sssupozzé vous dire ça. C'est un sssecret de fabricatttion et tout ççça. J'ai travaillé pour des gens puissssants, et ils ne veulent pas que vous découvriez ce qu'ils sssont. Maintenant, je dirais que m'appeler une sssorte de... fugitif interdimenssssionnel en fuite de Dieu est un peu exagéré, mais... ccce n'est pas loin de la vérité non plus.\"\n"
+"\t\t\tLa limace est visiblement mal à l'aise. Elle fait les cent pas, balançant sa baguette d'un côté et de l'autre. \"Maintenant, regardez-moi bien, étranger. Je ne sssuis pas... Je ne sssuis pas vraiment sssupozzé vous dire ççça. C'est un sssecret de fabricatttion et tout ççça. J'ai travaillé pour des gens puissssants, et ils ne veulent pas que vous découvriez ce qu'ils sssont. Maintenant, je vous dirais que m'appeler une sssorte de... fugitif interdimenssssionnel en fuite de Dieu est un peu exxxagéré, mais... ccce n'est pas loin de la vérité non plus.\"\n"
 "\t\t\t\n"
-"\t\t\tLa limace se force à rire. \"Sssi vous ne l'avez pas remarqué, il n'y a pas sssi longtemps, un tas de nouveaux zzéquipements sssont apparus de nulle part. Ccc'est peut-être de mon fait. J'ai vo... fait un pacte avec le diable, pour ainsssi dire. Sssauf que ccce diable-là est du genre à jouer des tours. Je voulais jussste mettre la main sur des technologies zzétrangères, mais j'ai créé une sssorte de fuite interdimenssssionnelle. Heheh. Heh. Oui, ccce n'est pas sssi drôle. En fait, on est tousss un peu foutu. J'ai un peu foiré sssur ccce coup-là.\""
+"\t\t\tLa limace se force à rire. \"Sssi vous ne l'avez pas remarqué, il n'y a pas sssi longtemps, un tas de nouveaux zzéquipements sssont apparus de nulle part. Ccc'est peut-être de mon fait. J'ai vol... fait un pacte avec le diable, pour ainsssi dire. Sssauf que ccce diable-là est du genre à jouer des tours. Je voulais jussste mettre la main sur des technologies zzétrangères, mais j'ai créé une sssorte de fuite interdimenssssionnelle. Heheh. Heh. Oui, ccce n'est pas sssi drôle. En fait, on est tousss un peu foutu. J'ai un peu foiré sssur ccce coup-là.\""
 
 #: src-en/data/events.xml.append:28
 msgid ""
