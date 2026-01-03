@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-26 15:49+0000\n"
+"PO-Revision-Date: 2026-01-03 18:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/dataevents_addon_iconxmlappend/fr/>\n"
 "Language: fr\n"
@@ -9,13 +9,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_addon_icon.xml.append:10
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/hover-text"
 msgstr ""
 "THE RENEGADE COLLECTION \n"
-"\tCliquer pour en savoir plus."
+"\tCliquez pour plus d'informations."
 
 #: src-en/data/events_addon_icon.xml.append:14
 msgid "data/events_addon_icon.xml.append$//event[@name=\"ADDON_TRC\"]/text"
