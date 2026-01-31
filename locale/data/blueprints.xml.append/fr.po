@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-14 12:44+0000\n"
+"PO-Revision-Date: 2026-01-31 11:44+0000\n"
 "Last-Translator: kronen68 <obrice@hotmail.fr>\n"
 "Language-Team: French <https://weblate.hyperq.be/projects/the-renegade-collection/datablueprintsxmlappend/fr/>\n"
 "Language: fr\n"
@@ -29,12 +29,12 @@ msgstr "Cette arme laser peut charger plusieurs projectiles ou tirer sa volée p
 #: src-en/data/blueprints.xml.append:52
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/title"
-msgstr "Laser amplificateur"
+msgstr "Laser amp"
 
 #: src-en/data/blueprints.xml.append:53
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP2\"]/short"
-msgstr "Laser amplificateur [2]"
+msgstr "Laser amp [2]"
 
 #: src-en/data/blueprints.xml.append:55
 msgid ""
@@ -44,12 +44,12 @@ msgstr "[PUISSANCE ACTUELLE : 2] Un laser potentiellement surpuissant dont la pu
 #: src-en/data/blueprints.xml.append:90
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/title"
-msgstr "Laser amplificateur"
+msgstr "Laser amp"
 
 #: src-en/data/blueprints.xml.append:91
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP3\"]/short"
-msgstr "Laser amplificateur [3]"
+msgstr "Laser amp [3]"
 
 #: src-en/data/blueprints.xml.append:93
 msgid ""
@@ -59,12 +59,12 @@ msgstr "[PUISSANCE ACTUELLE : 3] Un laser potentiellement surpuissant dont la pu
 #: src-en/data/blueprints.xml.append:128
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/title"
-msgstr "Laser amplificateur"
+msgstr "Laser amp"
 
 #: src-en/data/blueprints.xml.append:129
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TRC_LASER_AMP4\"]/short"
-msgstr "Laser amplificateur [4]"
+msgstr "Laser amp [4]"
 
 #: src-en/data/blueprints.xml.append:131
 msgid ""
